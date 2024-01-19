@@ -1,0 +1,58 @@
+{
+    "domain": "146vod-adaptive.akamaized.net",
+    "owner": {
+        "name": "Akamai Technologies",
+        "displayName": "Akamai",
+        "privacyPolicy": "https://www.akamai.com/us/en/privacy-policies/",
+        "url": "http://akamai.com"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.000403,
+    "sites": 4,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "146vod-adaptive\\.akamaized\\.net\\/exp=1704238564~acl=%2F7bd2cd20-4332-424c-937f-9e0ef064c161%2F%2A~hmac=24003c856d3d76cfbf8e6422e3a20bfef2c4fdbe48bead97bc403e11eecb824b\\/7bd2cd20-4332-424c-937f-9e0ef064c161\\/parcel\\/video\\/00945f3d\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "9f96d2b3832e334b8d76122dd8d2131ec6bf7974ce643123656bfc2d447448ee"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "amag.ch",
+                "www.amag.ch"
+            ]
+        }
+    ],
+    "categories": [
+        "CDN"
+    ],
+    "performance": {},
+    "cookies": 0.000201,
+    "topInitiators": [
+        {
+            "domain": "vimeocdn.com",
+            "prevalence": 0.8333333333333334
+        },
+        {
+            "domain": "jsdelivr.net",
+            "prevalence": 0.16666666666666666
+        }
+    ],
+    "types": {
+        "XHR": 2
+    },
+    "nameservers": []
+}

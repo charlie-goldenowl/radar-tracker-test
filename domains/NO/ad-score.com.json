@@ -1,0 +1,193 @@
+{
+    "domain": "ad-score.com",
+    "owner": {
+        "name": "Adscore Technologies DMCC",
+        "displayName": "Adscore",
+        "privacyPolicy": "https://www.adscore.com/privacy-policy",
+        "url": "http://adscore.com"
+    },
+    "source": [
+        "DuckDuckGo-NO"
+    ],
+    "prevalence": 0.000705,
+    "sites": 7,
+    "subdomains": [
+        "js",
+        "data"
+    ],
+    "cnames": [],
+    "fingerprinting": 3,
+    "resources": [
+        {
+            "rule": "ad-score\\.com\\/score\\.min\\.js",
+            "cookies": 0.000101,
+            "fingerprinting": 3,
+            "subdomains": [
+                "js"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 6,
+                "Date.prototype.getTimezoneOffset": 6,
+                "Navigator.prototype.vendor": 6,
+                "Screen.prototype.orientation": 6,
+                "window.name": 6,
+                "NavigatorUAData.prototype.getHighEntropyValues": 6,
+                "Navigator.prototype.onLine": 6,
+                "Navigator.prototype.permissions": 6,
+                "CanvasRenderingContext2D.prototype.getImageData": 6,
+                "Navigator.prototype.plugins": 6,
+                "Performance.prototype.memory": 6,
+                "console.memory": 6,
+                "Date.prototype.getTime": 6,
+                "Navigator.prototype.mimeTypes": 6,
+                "Navigator.prototype.vendorSub": 6,
+                "Navigator.prototype.productSub": 6,
+                "Navigator.prototype.maxTouchPoints": 6,
+                "Navigator.prototype.doNotTrack": 6,
+                "Navigator.prototype.connection": 6,
+                "Navigator.prototype.webkitTemporaryStorage": 6,
+                "Navigator.prototype.webkitPersistentStorage": 6,
+                "Navigator.prototype.hardwareConcurrency": 6,
+                "Navigator.prototype.cookieEnabled": 6,
+                "Navigator.prototype.appCodeName": 6,
+                "Navigator.prototype.appName": 6,
+                "Navigator.prototype.appVersion": 6,
+                "Navigator.prototype.platform": 6,
+                "Navigator.prototype.product": 6,
+                "Navigator.prototype.language": 6,
+                "Navigator.prototype.languages": 6,
+                "Navigator.prototype.webdriver": 6,
+                "Navigator.prototype.keyboard": 6,
+                "Navigator.prototype.mediaDevices": 6,
+                "Navigator.prototype.storage": 6,
+                "Navigator.prototype.deviceMemory": 6,
+                "Navigator.prototype.mediaCapabilities": 6,
+                "Navigator.prototype.presentation": 6,
+                "Navigator.prototype.javaEnabled": 6,
+                "NavigatorUAData.prototype.brands": 6,
+                "NavigatorUAData.prototype.platform": 6,
+                "Screen.prototype.width": 6,
+                "Screen.prototype.height": 6,
+                "Screen.prototype.colorDepth": 6,
+                "Screen.prototype.availWidth": 6,
+                "Screen.prototype.availHeight": 6,
+                "Screen.prototype.availLeft": 6,
+                "Screen.prototype.availTop": 6,
+                "Screen.prototype.pixelDepth": 6,
+                "window.devicePixelRatio": 6,
+                "window.screenX": 6,
+                "window.screenY": 6,
+                "window.screenLeft": 6,
+                "window.screenTop": 6,
+                "window.innerWidth": 6,
+                "window.innerHeight": 6,
+                "window.outerWidth": 6,
+                "window.outerHeight": 6,
+                "window.matchMedia(\"prefers-color-scheme\")": 6,
+                "speechSynthesis.__proto__.getVoices": 5,
+                "OfflineAudioContext.prototype.constructor": 5,
+                "Document.cookie getter": 6,
+                "URL.createObjectURL": 6,
+                "RTCPeerConnectionIceEvent.prototype.candidate": 6,
+                "Notification.permission": 6,
+                "Intl.DateTimeFormat.prototype.resolvedOptions": 6,
+                "window.localStorage": 6,
+                "BroadcastChannel.prototype.constructor": 6,
+                "AudioBuffer.prototype.getChannelData": 5,
+                "Navigator.prototype.getBattery": 4,
+                "HTMLMediaElement.prototype.canPlayType": 4,
+                "BarProp.prototype.visible": 5,
+                "Document.cookie setter": 1,
+                "Navigator.prototype.requestMediaKeySystemAccess": 1
+            },
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "d53d705cb7b1b5db7cb28124d04e73c21f1000c615f32659a0b9cde9fe3734b0",
+                "f5773456b3c00f367fda54d98ab4482eade493abfb7e16376371eb6df554195c",
+                "2355c173c8a8b0383830353b2b402f73a44326992784ac1ff4bd8a16e576a5b9",
+                "925f83492ca164bf5cbef5a0e5cc04cfe097cd325a86731215d147d6bae52d99"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "pmtimesig": {
+                    "ttl": 86406,
+                    "length": 19,
+                    "prevalence": 0.00010067451927917044,
+                    "uniqueness": 1
+                }
+            },
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.00010067451927917044
+            },
+            "exampleSites": [
+                "redketchup.io",
+                "stillnessinthestorm.com",
+                "www.convertworld.com",
+                "www.fantasyfootballscout.co.uk",
+                "www.pengenytt.no",
+                "www.vintagesynth.com"
+            ]
+        },
+        {
+            "rule": "ad-score\\.com\\/data\\/cors",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "data"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "c78cd761fe28d7645dd90f8984d9e6c6e51156b7ff817ed973d185fa0315cffb",
+                "509a1033584ee7125358a352a0e8b220e30629317bdc45f6ee7146cff0796ccb",
+                "efa7fd15eeca87b175aa326b376f51d3d79fc60cec2776be3a028bcea7a39c25",
+                "0aee438703f422115de5af2f641afde29674771d274c2f36b5e646bba9f91391",
+                "9aee6e2793fba8469eb638200317668fae04c5faf500806a29331188497393b9"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "redketchup.io",
+                "stillnessinthestorm.com",
+                "www.convertworld.com",
+                "www.fantasyfootballscout.co.uk",
+                "www.pengenytt.no",
+                "www.vintagesynth.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000101,
+    "topInitiators": [
+        {
+            "domain": "ftstatic.com",
+            "prevalence": 0.5714285714285714
+        },
+        {
+            "domain": "revcontent.com",
+            "prevalence": 0.14285714285714285
+        },
+        {
+            "domain": "flashtalking.com",
+            "prevalence": 0.14285714285714285
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.14285714285714285
+        }
+    ],
+    "types": {
+        "Script": 6,
+        "Fetch": 6
+    },
+    "nameservers": [
+        "ns54.domaincontrol.com",
+        "ns53.domaincontrol.com"
+    ]
+}

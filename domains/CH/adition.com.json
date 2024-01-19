@@ -1,0 +1,553 @@
+{
+    "domain": "adition.com",
+    "owner": {
+        "name": "Virtual Minds AG",
+        "displayName": "Virtual Minds",
+        "privacyPolicy": "https://www.virtualminds.de/en/",
+        "url": "http://virtualminds.de"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.0431,
+    "sites": 428,
+    "subdomains": [
+        "dsp.adfarm1",
+        "imagesrv",
+        "ad1.adfarm1",
+        "ad13.adfarm1",
+        "ad3.adfarm1",
+        "ad2.adfarm1",
+        "adfarm1",
+        "ad11.adfarm1",
+        "vt"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "adition\\.com\\/cookie\\/",
+            "cookies": 0.0352,
+            "fingerprinting": 0,
+            "subdomains": [
+                "dsp.adfarm1"
+            ],
+            "apis": {},
+            "sites": 353,
+            "prevalence": 0.0356,
+            "cnames": [],
+            "responseHashes": [
+                "1866961a029c65376fefb7f2ba1e6187e09ff50ea58d97dedfd72c197947d002"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "9gag.com",
+                "community.spiceworks.com",
+                "cplusplus.com",
+                "forum.wordreference.com",
+                "forums.macrumors.com",
+                "heavy.com",
+                "itsfoss.com",
+                "lifehacker.com",
+                "mashable.com",
+                "pastebin.com",
+                "de2.websudoku.com",
+                "edition.cnn.com",
+                "howlongtobeat.com",
+                "www.thephoblographer.com",
+                "www.eliteprospects.com",
+                "konjugator.reverso.net",
+                "www.betaseries.com",
+                "fr.motor1.com",
+                "onemileatatime.com",
+                "forebears.io"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/js\\/aut\\.js",
+            "cookies": 0.000403,
+            "fingerprinting": 1,
+            "subdomains": [
+                "imagesrv"
+            ],
+            "apis": {
+                "Document.cookie getter": 8,
+                "Document.cookie setter": 4
+            },
+            "sites": 8,
+            "prevalence": 0.000806,
+            "cnames": [],
+            "responseHashes": [
+                "5460f284235beb9bd11216c9714daea3b6ab3dbe6f97bb68d12ab334719471e1"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "_autuserid2": {
+                    "ttl": 7776006,
+                    "length": 19,
+                    "prevalence": 0.00040290088638195,
+                    "uniqueness": 1
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autorevue.at",
+                "news.orf.at",
+                "oe1.orf.at",
+                "orf.at",
+                "sport.orf.at",
+                "tvthek.orf.at",
+                "www.falstaff.com",
+                "www.nachrichten.at"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/js\\/srp\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "imagesrv"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 12,
+                "Navigator.prototype.appVersion": 12,
+                "Navigator.prototype.plugins": 12,
+                "Screen.prototype.width": 12,
+                "Screen.prototype.height": 12,
+                "Date.prototype.getTime": 10
+            },
+            "sites": 12,
+            "prevalence": 0.00121,
+            "cnames": [],
+            "responseHashes": [
+                "bcdb7ed015adada31da78f1f844543d2a64b67efaea370086080af43ab05941d"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autorevue.at",
+                "news.orf.at",
+                "oe1.orf.at",
+                "orf.at",
+                "sport.orf.at",
+                "tv.orf.at",
+                "tvthek.orf.at",
+                "www.falstaff.com",
+                "www.hochparterre.ch",
+                "www.meinbezirk.at",
+                "www.meinmed.at",
+                "www.nachrichten.at"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/i",
+            "cookies": 0.000403,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad1.adfarm1",
+                "ad13.adfarm1"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "ae0fa3445ae5b2dbe86ad2d6103875d44f040b6f10f820885c1e758ba6267722",
+                "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+                "95d98de9dadff6542fa1048e548d5524156e197b04bd55b1eb2d2f0a252b1db0",
+                "f0f3e5a4f42a34fbc299b8f85d34629e1a6d04d4eba2cd87dec70095c67e814a",
+                "ad17339f4f77645e5cbcdd8fe03f9db5f034fd0389eb29ada30e7723b455a7aa"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autorevue.at",
+                "news.orf.at",
+                "oe1.orf.at",
+                "orf.at",
+                "sport.orf.at",
+                "www.falstaff.com"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/s",
+            "cookies": 0.000504,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad1.adfarm1",
+                "ad13.adfarm1",
+                "ad3.adfarm1"
+            ],
+            "apis": {},
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [
+                "7bece95c4a62092fffed03b14dc298c022b5ba0955317e844ce3b683c986cdb4",
+                "2c4e4c176689a7055da8d512bb82ce8a8acd3933f023579d265d09cbcb1af2d6",
+                "33ed5726abd75530f5412414554e2d0be10bb1bc7d571afe489ac50175f440a9",
+                "e5f2e0e8104a06bffaa2ccf40d3b6aee880599d71f384f0c71e5eba80d696124",
+                "fc90921931a0799469e802ded2721a735a81f3036fe9ee22ac22504c57020afc",
+                "8da99c49b22bfb2a723c63404611e9ecb97f193f86c0f3290919270328f62149",
+                "90e1ab6f9fa01e5577a874a2a51ce6d1ee570a0f8ab7cbe1715043328de093dd",
+                "634777158a32bb598effae4e4c4610c3c0ba78f455112d6588f7ffb9b467980e",
+                "803d88e8cd9b19c99c71282ceae31bf3e110f13805dab0bc36097b47551a27a0"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_autuserid2": 0.00040290088638195
+            },
+            "exampleSites": [
+                "autorevue.at",
+                "news.orf.at",
+                "oe1.orf.at",
+                "orf.at",
+                "sport.orf.at",
+                "tv.orf.at",
+                "www.falstaff.com",
+                "www.hochparterre.ch",
+                "www.meinbezirk.at",
+                "www.meinmed.at"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/js\\/adition\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "imagesrv"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 12,
+                "Navigator.prototype.appVersion": 12,
+                "Screen.prototype.width": 10,
+                "Screen.prototype.height": 10,
+                "Navigator.prototype.plugins": 9
+            },
+            "sites": 13,
+            "prevalence": 0.00131,
+            "cnames": [],
+            "responseHashes": [
+                "6356dca74d480f9fe67e7a08ad460f342880cfb3004f3ef6d8df6db39edae277"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "teufel.de",
+                "www.areadvd.de",
+                "www.fritzundfraenzi.ch",
+                "www.hev-schweiz.ch",
+                "www.hochparterre.ch",
+                "www.kleinreport.ch",
+                "www.netzwoche.ch",
+                "www.planet-liebe.com",
+                "www.schweizer-wanderwege.ch",
+                "www.servustv.com",
+                "www.thieme-connect.com",
+                "www.werbewoche.ch",
+                "zeitlupe.ch"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/js",
+            "cookies": 0.00111,
+            "fingerprinting": 1,
+            "subdomains": [
+                "ad2.adfarm1",
+                "ad13.adfarm1",
+                "ad1.adfarm1",
+                "ad3.adfarm1",
+                "adfarm1"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 12,
+            "prevalence": 0.00121,
+            "cnames": [],
+            "responseHashes": [
+                "9c0a13f410d985de7128a99b950918a351bdb88c32aaac54f8b00e7c42f27f5d",
+                "e3d87245c4d84e9f67676ac59f04dd08dde3344befe089fb612851fc30ec9109",
+                "8ad24b0bfd50214690deede8487498eb45defbac830810a691f1d76cf456cd31",
+                "4e4c6876223acc444081deaef4cfb27e2ffc69ef42adb7c5258f460c87862b1d",
+                "c3904e3397f3debe56d557a138ee98bb7f0b95234305ef0b012260071b948b7f",
+                "6bcea128a767bd42326a17bd4f157ef790e15dce8269920e86098042be0c7682",
+                "6c5baaada100e8d49f98d4a30383f8a3815697c0be9474561c6efa458ca39fb1",
+                "de17fa396ab15597b352110d11502461c6bec74f3b7c3c6364d84ee510b5cc67",
+                "b5ecd8884a59de8c1860b131cd72fbf5a8dcecd18cd9f10f09eef729a7c67bd0",
+                "a1dbfb45426ef51ab2ccc9618f25eff3d08385eed9544e20f4f30a855f46d7dd",
+                "b0e24dc7ef23ef960f7019cc827470cdf4bf22776cd2cb23cf74e59db79d3dad"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "teufel.de",
+                "www.areadvd.de",
+                "www.fritzundfraenzi.ch",
+                "www.hev-schweiz.ch",
+                "www.hochparterre.ch",
+                "www.kleinreport.ch",
+                "www.netzwoche.ch",
+                "www.schweizer-wanderwege.ch",
+                "www.servustv.com",
+                "www.thieme-connect.com",
+                "www.werbewoche.ch",
+                "zeitlupe.ch"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/banner",
+            "cookies": 0.00101,
+            "fingerprinting": 1,
+            "subdomains": [
+                "ad2.adfarm1",
+                "ad13.adfarm1",
+                "ad1.adfarm1",
+                "ad3.adfarm1"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 5
+            },
+            "sites": 11,
+            "prevalence": 0.00111,
+            "cnames": [],
+            "responseHashes": [
+                "c1d00500275302002e24d8975b76c380d0e8133292825e6057ba7a0eef00c31e",
+                "93cd2ac9f968766b47f3f193f320b205e9780760598e45a865c2d2ea01cb7ac7",
+                "d2081cea57c7fffc3ed217a22b6cef9e8d61fc80b692d0df0d22dac41563715f",
+                "149df98a093f7a4f247c09275e5c7f04ac666ab81bed332b5c7290a30f28d5ca",
+                "f455eb75dbcc00fae3f3100857ce38be3c2d231247ec73e9f39c541759f3ed03",
+                "c79831d809c25cd6e16f0484f07797112717213d2b7335a1edfcf386d2aa7397",
+                "f3b3bdfc27159f870afb06674062ec4cd7aef97ee2e991ea52d5a2820cbda45e",
+                "f5d71251ed35746cca47c90c59736602a8c90cf7404af20159cec340b0b282ce",
+                "29ca175bb01dd163d2cf12bc0bb1c9f8378e901621cfafdee225f5265f4f162d"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "teufel.de",
+                "www.areadvd.de",
+                "www.fritzundfraenzi.ch",
+                "www.hev-schweiz.ch",
+                "www.hochparterre.ch",
+                "www.kleinreport.ch",
+                "www.netzwoche.ch",
+                "www.schweizer-wanderwege.ch",
+                "www.servustv.com",
+                "www.werbewoche.ch",
+                "zeitlupe.ch"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/cookie\\/",
+            "cookies": 0.00685,
+            "fingerprinting": 0,
+            "subdomains": [
+                "dsp.adfarm1"
+            ],
+            "apis": {},
+            "sites": 68,
+            "prevalence": 0.00685,
+            "cnames": [],
+            "responseHashes": [
+                "6583c0d8ccaea18b748b492651255d898666a256659c465465ba188386226e57",
+                "071d0a5d172af491aedca9041f20e830d25fd4d339a1006bca3bed949069aa30"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "axd": 0.00040290088638195,
+                "__cmpconsentx36934": 0.0001007252215954875
+            },
+            "exampleSites": [
+                "mashable.com",
+                "www.makeuseof.com",
+                "expressantworten.com",
+                "www.cbr.com",
+                "www.heimhelden.de",
+                "konjugator.reverso.net",
+                "www.e-chords.com",
+                "www.bainsyverdon.ch",
+                "vitux.com",
+                "thailandtip.info",
+                "pokemondb.net",
+                "www.sonntagsverkaeufe.ch",
+                "www.apotheke-adhoc.de",
+                "www.expertreviews.co.uk",
+                "www.spieleaffe.org",
+                "www.numbeo.com",
+                "www.aerotelegraph.com",
+                "www.laleggepertutti.it",
+                "www.autolina.ch",
+                "www.angurten.de"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/tagging",
+            "cookies": 0.000604,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad11.adfarm1"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gonser.ch",
+                "www.alle-noten.de",
+                "www.bruno-wickart.ch",
+                "www.buchhaltungsbutler.ch",
+                "www.gonser.ch",
+                "www.orionversand.ch"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/1x1\\.gif",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "imagesrv"
+            ],
+            "apis": {},
+            "sites": 8,
+            "prevalence": 0.000806,
+            "cnames": [],
+            "responseHashes": [
+                "293c77c6050e6d5b873a388ca5533ee4aedfb9c7a44d25fd89e22bb38cb44f86"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gonser.ch",
+                "inyova.ch",
+                "www.alle-noten.de",
+                "www.buchhaltungsbutler.ch",
+                "www.bruno-wickart.ch",
+                "www.gonser.ch",
+                "www.hochparterre.ch",
+                "www.orionversand.ch"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/js\\/AditionH5_ClickTags\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "imagesrv"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "5a0cecf509251de7b796c7c34ca1374bbb3fabe582e9e9394f1a1ebd9d421997"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fritzundfraenzi.ch",
+                "www.hochparterre.ch"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/d",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "vt"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "293c77c6050e6d5b873a388ca5533ee4aedfb9c7a44d25fd89e22bb38cb44f86"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hev-schweiz.ch",
+                "www.hev-schweiz.ch",
+                "www.schweizer-wanderwege.ch",
+                "www.werbewoche.ch",
+                "zeitlupe.ch"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising"
+    ],
+    "performance": {},
+    "cookies": 0.0418,
+    "topInitiators": [
+        {
+            "domain": "pubmatic.com",
+            "prevalence": 0.6654991243432574
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.1190893169877408
+        },
+        {
+            "domain": "googlesyndication.com",
+            "prevalence": 0.0542907180385289
+        },
+        {
+            "domain": "smartadserver.com",
+            "prevalence": 0.03152364273204904
+        },
+        {
+            "domain": "ad4m.at",
+            "prevalence": 0.028021015761821366
+        },
+        {
+            "domain": "adform.net",
+            "prevalence": 0.021015761821366025
+        },
+        {
+            "domain": "rubiconproject.com",
+            "prevalence": 0.01926444833625219
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.014010507880910683
+        },
+        {
+            "domain": "adscale.de",
+            "prevalence": 0.012259194395796848
+        },
+        {
+            "domain": "cloudflare.com",
+            "prevalence": 0.010507880910683012
+        }
+    ],
+    "types": {
+        "Document": 353,
+        "Script": 68,
+        "XHR": 6,
+        "Image": 87
+    },
+    "nameservers": [
+        "ns3.dnsimple.com",
+        "ns2.dnsimple.com",
+        "ns4.dnsimple.com",
+        "ns1.dnsimple.com"
+    ]
+}

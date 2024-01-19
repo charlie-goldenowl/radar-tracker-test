@@ -1,0 +1,45 @@
+{
+    "domain": "1.1.1.1",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-US"
+    ],
+    "prevalence": 0.0000476,
+    "sites": 7,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "1\\.1\\.1\\.1\\/cdn-cgi\\/trace",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.0000272,
+            "cnames": [],
+            "responseHashes": [
+                "b20b5a5c9140c3b8799a1ce854d9f6fcfd9600575ca25b55c4942708d62d3cbb",
+                "1b07ddcacda876fdb618c2f21d5aec4a0559234acab0de933455ad407f58d8d8",
+                "3e18606df58c42b23982837f941f16547f812ab0728874e8ed8fcf2985a77e8f"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gl-inet.com",
+                "www.gl-inet.com",
+                "www.prensalibre.com",
+                "www.retailmenot.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "types": {
+        "Fetch": 4
+    },
+    "nameservers": []
+}

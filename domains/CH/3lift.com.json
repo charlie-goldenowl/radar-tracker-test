@@ -1,0 +1,481 @@
+{
+    "domain": "3lift.com",
+    "owner": {
+        "name": "TripleLift",
+        "displayName": "TripleLift",
+        "privacyPolicy": "https://triplelift.com/privacy/",
+        "url": "http://triplelift.com"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.0597,
+    "sites": 593,
+    "subdomains": [
+        "eb2",
+        "tlx"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "3lift\\.com\\/sync",
+            "cookies": 0.00665,
+            "fingerprinting": 0,
+            "subdomains": [
+                "eb2"
+            ],
+            "apis": {},
+            "sites": 290,
+            "prevalence": 0.0292,
+            "cnames": [],
+            "responseHashes": [
+                "05e6e6dab50a2ed29baa52bb9cd3d88afa3c5392fb53c2ac026c8d316da72a32",
+                "1af7619d0d950d831be16fc1c2d525ce09270cf29088e1b8d303b9da6e247f32",
+                "fb4e63792c8ee9996204bfdcf3023bfecfab0dc21479ca29df1d79e84749c09b",
+                "38adebeb2c03cf441a2d2dc58d50bbf6b48b484900144a3dc717e0676c81e651",
+                "dd15c030343df53b7e3b3ea45403928e3ba0478eaefbfc43f66b3da9cd10cc51",
+                "5322946dffc080a24d7e570eef97bfb0a0245c22e6180935af0b68cdbe25ffaf",
+                "3419050c475de157be0be5b4fe305c9487314761f75066535c01261eb77fbf63",
+                "893cdb78c9866d5b5eb9c2b9c31cd231d9747f382a22bd36f7e2be28d1466138",
+                "2129660ad10a9f445d016937d28f6a7d7da4a56cdb190e2afbbb7ecd22abfa59",
+                "181c2c048174f246d87dae950a274553944461c99318ed14d481c2affe1782b7",
+                "5b59948b4c9ff191a9d861872f6abcf19fa10a40accd97d8e7a2f7777f262132",
+                "50c1c1665f91c8498f30cd96832eb4e2a2a26f635b66425a7992c4b2b5da1fd6",
+                "c7bc04cdc103061c40ddb26ee5c403ccf3399a78850fe05f1bc986c69f701e0c"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "arstechnica.com",
+                "dictionary.reverso.net",
+                "gizmodo.com",
+                "itsfoss.com",
+                "nypost.com",
+                "pastebin.com",
+                "screenrant.com",
+                "slate.com",
+                "time.com",
+                "twinfinite.net",
+                "www.tutorialspoint.com",
+                "rateyourmusic.com",
+                "www.macworld.com",
+                "www.mtggoldfish.com",
+                "www.trueachievements.com",
+                "www.bubbleshooter.net",
+                "seatmaps.com",
+                "www.allure.com",
+                "dictionary.goo.ne.jp",
+                "www.wunderground.com"
+            ]
+        },
+        {
+            "rule": "3lift\\.com\\/ebda",
+            "cookies": 0.00755,
+            "fingerprinting": 0,
+            "subdomains": [
+                "eb2"
+            ],
+            "apis": {},
+            "sites": 79,
+            "prevalence": 0.00796,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "pastebin.com",
+                "twinfinite.net",
+                "www.businessinsider.com",
+                "www.drugs.com",
+                "www.makeuseof.com",
+                "www.phoronix.com",
+                "www.webcamgalore.de",
+                "www.myabandonware.com",
+                "www.numerama.com",
+                "de.moyens.net",
+                "imslp.org",
+                "www.larevueautomobile.com",
+                "www.gameskinny.com",
+                "attackofthefanboy.com",
+                "www.tag24.de",
+                "www.exchange-rates.org",
+                "www.dexerto.fr",
+                "www.mobafire.com",
+                "www.clubic.com",
+                "www.zockify.de"
+            ]
+        },
+        {
+            "rule": "3lift\\.com\\/sync\\/google\\/demand",
+            "cookies": 0.00735,
+            "fingerprinting": 0,
+            "subdomains": [
+                "eb2"
+            ],
+            "apis": {},
+            "sites": 77,
+            "prevalence": 0.00776,
+            "cnames": [],
+            "responseHashes": [
+                "071d0a5d172af491aedca9041f20e830d25fd4d339a1006bca3bed949069aa30"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "pastebin.com",
+                "twinfinite.net",
+                "www.businessinsider.com",
+                "www.drugs.com",
+                "www.makeuseof.com",
+                "www.petitfute.com",
+                "www.metatft.com",
+                "www.dexerto.fr",
+                "mtgdecks.net",
+                "www.larevueautomobile.com",
+                "fr.motor1.com",
+                "de.moyens.net",
+                "doctonat.com",
+                "www.01net.com",
+                "www.clubic.com",
+                "www.insider.com",
+                "dictionary.goo.ne.jp",
+                "www.pointdevue.fr",
+                "forums.civfanatics.com",
+                "www.consoglobe.com"
+            ]
+        },
+        {
+            "rule": "3lift\\.com\\/xuid",
+            "cookies": 0.00564,
+            "fingerprinting": 0,
+            "subdomains": [
+                "eb2"
+            ],
+            "apis": {},
+            "sites": 153,
+            "prevalence": 0.0154,
+            "cnames": [],
+            "responseHashes": [
+                "05e6e6dab50a2ed29baa52bb9cd3d88afa3c5392fb53c2ac026c8d316da72a32"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "draxe.com",
+                "pastebin.com",
+                "twinfinite.net",
+                "www.alibaba.com",
+                "www.businessinsider.com",
+                "www.cargurus.com",
+                "www.drugs.com",
+                "www.tutorialspoint.com",
+                "www.comment-economiser.fr",
+                "www.aliexpress.com",
+                "www.netgear.com",
+                "www.whatfontis.com",
+                "www.geschenkidee.ch",
+                "www.jobs.ch",
+                "walbusch.ch",
+                "www.ledger.com",
+                "www.autolina.ch",
+                "www.jobup.ch",
+                "www.drinks.ch",
+                "www.lumimart.ch"
+            ]
+        },
+        {
+            "rule": "3lift\\.com\\/header\\/auction",
+            "cookies": 0.00332,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tlx"
+            ],
+            "apis": {},
+            "sites": 114,
+            "prevalence": 0.0115,
+            "cnames": [],
+            "responseHashes": [
+                "0535c3bb3a17e4ac0fb7d29214d2181275662129dc2bdd2a89c35934e9fc5ba5"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.005036261079774376,
+                "_li_dcdm_c": 0.0006043513295729251
+            },
+            "exampleSites": [
+                "9gag.com",
+                "dictionary.reverso.net",
+                "myanimelist.net",
+                "slate.com",
+                "tvtropes.org",
+                "www.accuweather.com",
+                "www.cbc.ca",
+                "www.dictionary.com",
+                "www.digitaltrends.com",
+                "www.dict.cc",
+                "radiopaedia.org",
+                "www.thesun.co.uk",
+                "www.mobafire.com",
+                "onemileatatime.com",
+                "www.findagrave.com",
+                "conjugator.reverso.net",
+                "liveuamap.com",
+                "www.investing.com",
+                "brickset.com",
+                "www.thetimes.co.uk"
+            ]
+        },
+        {
+            "rule": "3lift\\.com\\/getuid",
+            "cookies": 0.0111,
+            "fingerprinting": 0,
+            "subdomains": [
+                "eb2"
+            ],
+            "apis": {},
+            "sites": 322,
+            "prevalence": 0.0324,
+            "cnames": [],
+            "responseHashes": [
+                "05e6e6dab50a2ed29baa52bb9cd3d88afa3c5392fb53c2ac026c8d316da72a32",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "9to5mac.com",
+                "9gag.com",
+                "arstechnica.com",
+                "community.spiceworks.com",
+                "dictionary.reverso.net",
+                "download.cnet.com",
+                "forums.macrumors.com",
+                "gizmodo.com",
+                "health.usnews.com",
+                "heavy.com",
+                "www.celebitchy.com",
+                "slate.com",
+                "www.binaryhexconverter.com",
+                "www.mtbr.com",
+                "foreignpolicy.com",
+                "thegimptutorials.com",
+                "wamiz.com",
+                "www.koreaboo.com",
+                "indojunkie.com",
+                "www.eatingwell.com"
+            ]
+        },
+        {
+            "rule": "3lift\\.com\\/getuid",
+            "cookies": 0.0113,
+            "fingerprinting": 0,
+            "subdomains": [
+                "eb2"
+            ],
+            "apis": {},
+            "sites": 126,
+            "prevalence": 0.0127,
+            "cnames": [],
+            "responseHashes": [
+                "05e6e6dab50a2ed29baa52bb9cd3d88afa3c5392fb53c2ac026c8d316da72a32",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "community.spiceworks.com",
+                "cplusplus.com",
+                "finance.yahoo.com",
+                "gizmodo.com",
+                "health.usnews.com",
+                "lifehacker.com",
+                "login.yahoo.com",
+                "mashable.com",
+                "people.com",
+                "tabs.ultimate-guitar.com",
+                "ukutabs.com",
+                "www.morewords.com",
+                "seatemperature.info",
+                "ew.com",
+                "twittervideodownloader.com",
+                "xdaforums.com",
+                "www.instyle.com",
+                "www.roadbikereview.com",
+                "forebears.io",
+                "www.futbin.com"
+            ]
+        },
+        {
+            "rule": "3lift\\.com\\/header\\/auction",
+            "cookies": 0.00624,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tlx"
+            ],
+            "apis": {},
+            "sites": 210,
+            "prevalence": 0.0212,
+            "cnames": [],
+            "responseHashes": [
+                "0535c3bb3a17e4ac0fb7d29214d2181275662129dc2bdd2a89c35934e9fc5ba5"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.007453666398066076,
+                "_li_dcdm_c": 0.0006043513295729251
+            },
+            "exampleSites": [
+                "arstechnica.com",
+                "community.spiceworks.com",
+                "gizmodo.com",
+                "health.usnews.com",
+                "itsfoss.com",
+                "mashable.com",
+                "nypost.com",
+                "screenrant.com",
+                "time.com",
+                "whatismyipaddress.com",
+                "www.vulture.com",
+                "www.pcgamer.com",
+                "www.hockeydb.com",
+                "www.pcworld.com",
+                "www.techadvisor.com",
+                "rateyourmusic.com",
+                "www.cpu-monkey.com",
+                "www.bedienungsanleitu.ng",
+                "www.enotes.com",
+                "wallpaperaccess.com"
+            ]
+        },
+        {
+            "rule": "3lift\\.com\\/sync",
+            "cookies": 0.000705,
+            "fingerprinting": 0,
+            "subdomains": [
+                "eb2"
+            ],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.00191,
+            "cnames": [],
+            "responseHashes": [
+                "05e6e6dab50a2ed29baa52bb9cd3d88afa3c5392fb53c2ac026c8d316da72a32"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "spiceworks.com",
+                "de.mail.yahoo.com",
+                "finance.yahoo.com",
+                "login.yahoo.com",
+                "mashable.com",
+                "mydramalist.com",
+                "myanimelist.net",
+                "news.yahoo.com",
+                "techcrunch.com",
+                "www.bustle.com",
+                "www.ebaumsworld.com",
+                "www.engadget.com",
+                "www.hockeydb.com",
+                "www.inverse.com",
+                "www.ledevoir.com",
+                "www.mentalfloss.com",
+                "www.mindbodygreen.com",
+                "www.urbandictionary.com",
+                "www.yahoo.com"
+            ]
+        },
+        {
+            "rule": "3lift\\.com\\/sync\\/google\\/supply",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "eb2"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "071d0a5d172af491aedca9041f20e830d25fd4d339a1006bca3bed949069aa30"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "letras.com",
+                "www.webcamgalore.de"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising"
+    ],
+    "performance": {},
+    "cookies": 0.0305,
+    "topInitiators": [
+        {
+            "domain": "amazon-adsystem.com",
+            "prevalence": 0.2044522554188635
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.10661980082015231
+        },
+        {
+            "domain": "pub.network",
+            "prevalence": 0.10310486233157587
+        },
+        {
+            "domain": "minutemedia-prebid.com",
+            "prevalence": 0.07791446983011131
+        },
+        {
+            "domain": "opti-digital.com",
+            "prevalence": 0.06444053895723492
+        },
+        {
+            "domain": "script.ac",
+            "prevalence": 0.042765084944346804
+        },
+        {
+            "domain": "criteo.com",
+            "prevalence": 0.03983596953719976
+        },
+        {
+            "domain": "lngtdv.com",
+            "prevalence": 0.029876977152899824
+        },
+        {
+            "domain": "snigelweb.com",
+            "prevalence": 0.02401874633860574
+        },
+        {
+            "domain": "spotim.market",
+            "prevalence": 0.022847100175746926
+        }
+    ],
+    "types": {
+        "Document": 612,
+        "Image": 456,
+        "XHR": 114,
+        "Fetch": 210
+    },
+    "nameservers": [
+        "ns-131.awsdns-16.com",
+        "ns-814.awsdns-37.net",
+        "ns-1640.awsdns-13.co.uk",
+        "ns-1435.awsdns-51.org"
+    ]
+}

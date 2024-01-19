@@ -1,0 +1,113 @@
+{
+    "domain": "a3ion.com",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.000403,
+    "sites": 4,
+    "subdomains": [
+        "a",
+        "s"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "a3ion\\.com\\/ad-provider\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "a"
+            ],
+            "apis": {
+                "Document.cookie getter": 3,
+                "Navigator.prototype.userAgent": 4,
+                "Navigator.prototype.language": 3,
+                "NavigatorUAData.prototype.getHighEntropyValues": 3,
+                "Date.prototype.getTime": 3
+            },
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "2026783dd3146539605e1e0bb0c4f6575a209ffdcc7cb6a8e32c8944301bc24b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bestcam.tv",
+                "hotleak.vip",
+                "scrolller.com",
+                "thotporn.tv"
+            ]
+        },
+        {
+            "rule": "a3ion\\.com\\/v1\\/api\\.php",
+            "cookies": 0.000302,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "0137052830ffa7078d493102437f311fcd332eebfd487d7a868e16bb8953c410",
+                "ce9a180640e182bc522e661b1b35a5dc5d600c821d2762481635b07a9859954e"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bestcam.tv",
+                "hotleak.vip",
+                "thotporn.tv"
+            ]
+        },
+        {
+            "rule": "a3ion\\.com\\/cimp\\.php",
+            "cookies": 0.000302,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bestcam.tv",
+                "hotleak.vip",
+                "thotporn.tv"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000302,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Script": 4,
+        "XHR": 6
+    },
+    "nameservers": [
+        "dns2.cloudns.net",
+        "dns1.cloudns.net",
+        "sec2.rcode0.net",
+        "sec1.rcode0.net"
+    ]
+}

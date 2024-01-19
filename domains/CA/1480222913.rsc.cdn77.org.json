@@ -1,0 +1,310 @@
+{
+    "domain": "1480222913.rsc.cdn77.org",
+    "owner": {
+        "name": "DataCamp Limited",
+        "displayName": "DataCamp"
+    },
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.000302,
+    "sites": 3,
+    "subdomains": [],
+    "cnames": [
+        {
+            "original": "cdn77-pic.xvideos-cdn.com",
+            "resolved": "1480222913.rsc.cdn77.org"
+        }
+    ],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "1480222913\\.rsc\\.cdn77\\.org\\/videos\\/thumbs169ll\\/8b\\/47\\/15\\/8b47157ecdf4d48afe9164deda2067b9\\/8b47157ecdf4d48afe9164deda2067b9\\.27\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "cdn77-pic.xvideos-cdn.com",
+                    "resolved": "1480222913.rsc.cdn77.org"
+                }
+            ],
+            "responseHashes": [
+                "0a55c8c6ff60d5cb285507f705b8ca4f3086d4edff908a6159656abb0cb9046a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "xvideos.com",
+                "www.xvideos.com"
+            ]
+        },
+        {
+            "rule": "1480222913\\.rsc\\.cdn77\\.org\\/videos\\/thumbs169ll\\/d9\\/98\\/16\\/d9981689885834133d97f3af14b50e3a\\/d9981689885834133d97f3af14b50e3a\\.1\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "cdn77-pic.xvideos-cdn.com",
+                    "resolved": "1480222913.rsc.cdn77.org"
+                }
+            ],
+            "responseHashes": [
+                "971cc16672e1f3c6b1194dd3215dfa6cff4b866370e76ffdf048f9a0cda8f210"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "xvideos.com",
+                "www.xvideos.com"
+            ]
+        },
+        {
+            "rule": "1480222913\\.rsc\\.cdn77\\.org\\/videos\\/thumbs169ll\\/be\\/69\\/02\\/be6902dfff0d62da89d16fff4d6c08d7-1\\/be6902dfff0d62da89d16fff4d6c08d7\\.5\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "cdn77-pic.xvideos-cdn.com",
+                    "resolved": "1480222913.rsc.cdn77.org"
+                }
+            ],
+            "responseHashes": [
+                "b4e5338b8e2d6985c700d46d5ad6a02d488019832da32196f0438a3b04d434cb"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "xvideos.com",
+                "www.xvideos.com"
+            ]
+        },
+        {
+            "rule": "1480222913\\.rsc\\.cdn77\\.org\\/videos\\/thumbs169ll\\/71\\/b2\\/42\\/71b2428552aac208460039573b0aeca5\\/71b2428552aac208460039573b0aeca5\\.22\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "cdn77-pic.xvideos-cdn.com",
+                    "resolved": "1480222913.rsc.cdn77.org"
+                }
+            ],
+            "responseHashes": [
+                "52213747b8fe19cf22f0613d4cf25cef5fe9c83a7cbf4b56808eb212a798eaad"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "xvideos.com",
+                "www.xvideos.com"
+            ]
+        },
+        {
+            "rule": "1480222913\\.rsc\\.cdn77\\.org\\/videos\\/thumbs169ll\\/ac\\/79\\/66\\/ac79667cab09f1ade71725ce62afbd15-2\\/ac79667cab09f1ade71725ce62afbd15\\.24\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "cdn77-pic.xvideos-cdn.com",
+                    "resolved": "1480222913.rsc.cdn77.org"
+                }
+            ],
+            "responseHashes": [
+                "6e4e0ed7760af4195b7395beea386ea5ef2ef567c9a97994a60e9d2ed7347352"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "xvideos.com",
+                "www.xvideos.com"
+            ]
+        },
+        {
+            "rule": "1480222913\\.rsc\\.cdn77\\.org\\/videos\\/thumbs169ll\\/ec\\/c8\\/69\\/ecc869bb32e6638c6fbbdd0256d359e6-1\\/ecc869bb32e6638c6fbbdd0256d359e6\\.29\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "cdn77-pic.xvideos-cdn.com",
+                    "resolved": "1480222913.rsc.cdn77.org"
+                }
+            ],
+            "responseHashes": [
+                "3a1fffac63e6fa86722efe6c4d377bd504e82a7528467cc4d734e11617aa6da1"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "xvideos.com",
+                "www.xvideos.com"
+            ]
+        },
+        {
+            "rule": "1480222913\\.rsc\\.cdn77\\.org\\/videos\\/thumbs169ll\\/c1\\/b7\\/42\\/c1b74232e8777b7b0142a695ea3f48e5\\/c1b74232e8777b7b0142a695ea3f48e5\\.30\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "cdn77-pic.xvideos-cdn.com",
+                    "resolved": "1480222913.rsc.cdn77.org"
+                }
+            ],
+            "responseHashes": [
+                "5b9386060a222c165df3832cea451a0b7087362a37f361f7f361f925f8ee7d3d"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "xvideos.com",
+                "www.xvideos.com"
+            ]
+        },
+        {
+            "rule": "1480222913\\.rsc\\.cdn77\\.org\\/videos\\/thumbs169ll\\/fd\\/cc\\/49\\/fdcc4957f4cc1f026efe7348574fa522\\/fdcc4957f4cc1f026efe7348574fa522\\.7\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "cdn77-pic.xvideos-cdn.com",
+                    "resolved": "1480222913.rsc.cdn77.org"
+                }
+            ],
+            "responseHashes": [
+                "bb7ce063927e6c87c68b9c8d9de1b6f8586ec4f269f8848d33ba14444eda500c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "xvideos.com",
+                "www.xvideos.com"
+            ]
+        },
+        {
+            "rule": "1480222913\\.rsc\\.cdn77\\.org\\/videos\\/thumbs169ll\\/15\\/fc\\/f8\\/15fcf86512e62636f19c1ad0b08ff1fd\\/15fcf86512e62636f19c1ad0b08ff1fd\\.10\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "cdn77-pic.xvideos-cdn.com",
+                    "resolved": "1480222913.rsc.cdn77.org"
+                }
+            ],
+            "responseHashes": [
+                "1096702381f525d08df4f9e47081a449acaf3f9561c520a9bf51c8d12172e20f"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "xvideos.com",
+                "www.xvideos.com"
+            ]
+        },
+        {
+            "rule": "1480222913\\.rsc\\.cdn77\\.org\\/videos\\/thumbs169ll\\/4d\\/ad\\/8c\\/4dad8c97026a565acbda23e3215001d7\\/4dad8c97026a565acbda23e3215001d7\\.5\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "cdn77-pic.xvideos-cdn.com",
+                    "resolved": "1480222913.rsc.cdn77.org"
+                }
+            ],
+            "responseHashes": [
+                "76c32fbe687f38d30c95bc447783eb6b650e986c6cb61e32d1dde1ae302da0fd"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "xvideos.com",
+                "www.xvideos.com"
+            ]
+        },
+        {
+            "rule": "1480222913\\.rsc\\.cdn77\\.org\\/videos\\/thumbs169ll\\/f8\\/07\\/3f\\/f8073f72b3ccfcaa200eb7c8de1fa847\\/f8073f72b3ccfcaa200eb7c8de1fa847\\.24\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "cdn77-pic.xvideos-cdn.com",
+                    "resolved": "1480222913.rsc.cdn77.org"
+                }
+            ],
+            "responseHashes": [
+                "e3ebf4d4ff63344823fb130c89542f38dacd43028b08d97f6576ae8f44dc1812"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "xvideos.com",
+                "www.xvideos.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Image": 22
+    },
+    "nameservers": []
+}

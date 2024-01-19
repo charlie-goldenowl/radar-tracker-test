@@ -1,0 +1,2898 @@
+{
+    "domain": "2mdn.net",
+    "owner": {
+        "name": "Google LLC",
+        "displayName": "Google",
+        "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+        "url": "http://google.com"
+    },
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.0359,
+    "sites": 357,
+    "subdomains": [
+        "s0"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "2mdn\\.net\\/instream\\/video\\/client\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 73
+            },
+            "sites": 123,
+            "prevalence": 0.0124,
+            "cnames": [],
+            "responseHashes": [
+                "d0bffc7261df1454c5e05475cda7d9e6647318dc6c3936767e1252bfe8849c54"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bleacherreport.com",
+                "finance.yahoo.com",
+                "gizmodo.com",
+                "metro.co.uk",
+                "screenrant.com",
+                "www.bbc.com",
+                "www.buzzfeed.com",
+                "www.dailymotion.com",
+                "www.healthline.com",
+                "www.howtogeek.com",
+                "www.tatler.com",
+                "jezebel.com",
+                "www.glamour.com",
+                "collider.com",
+                "food52.com",
+                "ausopen.com",
+                "www.androidpolice.com",
+                "www.afl.com.au",
+                "howchoo.com",
+                "www.topspeed.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/express_html_inpage_rendering_lib_200_278\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 73,
+                "HTMLMediaElement.prototype.canPlayType": 73,
+                "Date.prototype.getTime": 31
+            },
+            "sites": 81,
+            "prevalence": 0.00814,
+            "cnames": [],
+            "responseHashes": [
+                "1642dd5dc126df4feff2255cba0988528507973d842d0a73331a5873f6b9d4e5"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillruns.com",
+                "osxdaily.com",
+                "www.diyaudio.com",
+                "www.auto-data.net",
+                "www.liveatc.net",
+                "www.tractordata.com",
+                "www.autodaily.com.au",
+                "www.tennis.com",
+                "www.uniquecarsandparts.com.au",
+                "forums.iboats.com",
+                "mouthsofmums.com.au",
+                "www.aupropertyreport.com",
+                "all-guidesbox.com",
+                "auhoursguide.com",
+                "www.apkmirror.com",
+                "www.webbikeworld.com",
+                "www.historynet.com",
+                "www.subaruforester.org",
+                "www.chosic.com",
+                "www.cricket.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/838822242889976401\\/MAR-422-Bumper-VIN-728x90-V1\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000603,
+            "cnames": [],
+            "responseHashes": [
+                "8566f06b56771095f15b3bac0c1e3e4b6e27884e6a6e98063942301668e36baa"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "all-guidesbox.com",
+                "assettomods.com",
+                "pureinfotech.com",
+                "usermanual.wiki",
+                "www.hyundai-forums.com",
+                "www.tractordata.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/838822242889976401\\/MAR-422-Bumper-VIN-728x90-V1\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "46b1d904f6541b630e43fca47e1a5ab5500c575298f5891290c1d19be8b07b94"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "all-guidesbox.com",
+                "assettomods.com",
+                "pureinfotech.com",
+                "usermanual.wiki",
+                "www.tractordata.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/838822242889976401\\/MAR-422-Bumper-VIN-728x90-V1\\/scripts\\/base64\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "d47b15f9ceed997958d2926eb66869594d088cbd2e0a9cb1903d8517ed32b86e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "all-guidesbox.com",
+                "assettomods.com",
+                "pureinfotech.com",
+                "usermanual.wiki",
+                "www.tractordata.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/838822242889976401\\/MAR-422-Bumper-VIN-728x90-V1\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "4a68cf90e016ba57dcbcc7a2a011387b8b5bc5155e05c5c8387d3e209a2b8d43"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "all-guidesbox.com",
+                "assettomods.com",
+                "pureinfotech.com",
+                "usermanual.wiki",
+                "www.tractordata.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/838822242889976401\\/MAR-422-Bumper-VIN-728x90-V1\\/images\\/bg\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "f2568661647ad268093032e52de6197c1745ed306d2e48d90660fe3334bd12ca"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "all-guidesbox.com",
+                "pureinfotech.com",
+                "usermanual.wiki",
+                "www.tractordata.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/dfa7banner_html_inpage_rendering_lib_200_268\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 44,
+                "Navigator.prototype.plugins": 44,
+                "Navigator.prototype.mimeTypes": 44,
+                "HTMLMediaElement.prototype.canPlayType": 44
+            },
+            "sites": 61,
+            "prevalence": 0.00613,
+            "cnames": [],
+            "responseHashes": [
+                "6d28830ef0fdeba41bc402b8b12341e929c6c66db8fe512deb2b1baa9611745b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.bbc.com",
+                "www.mindfood.com",
+                "thenewdaily.com.au",
+                "www.geelongadvertiser.com.au",
+                "www.tradetrucks.com.au",
+                "www.gardeningaustraliamag.com.au",
+                "expertphotography.com",
+                "www.racenet.com.au",
+                "www.farmmachinerysales.com.au",
+                "atotaxrates.info",
+                "news.bbc.co.uk",
+                "expatra.com",
+                "www.liverpoolfc.com",
+                "www.thrillist.com.au",
+                "www.myswitzerland.com",
+                "www.nzherald.co.nz",
+                "www.vitalmtb.com",
+                "www.9news.com.au",
+                "prudentreviews.com",
+                "www.autotrader.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4703576427377555356\\/MARC-1439-Bumper-VIN-NoBg-728x90\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 18,
+            "prevalence": 0.00181,
+            "cnames": [],
+            "responseHashes": [
+                "3da72f860cf212575a523996879d14e0b8ea6f13c91d1e27ca86645888b8d62d"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auloca.com",
+                "forums.iboats.com",
+                "mouthsofmums.com.au",
+                "nascompares.com",
+                "osxdaily.com",
+                "petrolspy.com.au",
+                "teslamotorsclub.com",
+                "tvguidetonight.com.au",
+                "www.auscompanies.com",
+                "www.automobile-catalog.com",
+                "www.diyaudio.com",
+                "www.eldersweather.com.au",
+                "www.landyzone.co.uk",
+                "www.manuals.co.uk",
+                "www.onlymanuals.com",
+                "www.sydney-airport.net",
+                "www.tennis.com",
+                "www.tideschart.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4703576427377555356\\/MARC-1439-Bumper-VIN-NoBg-728x90\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 15,
+            "prevalence": 0.00151,
+            "cnames": [],
+            "responseHashes": [
+                "c1c10a3a49228c1f2ceb16230b4b1b1c257333dfd7cbce4bc5020dee149edc5e"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auloca.com",
+                "forums.iboats.com",
+                "mouthsofmums.com.au",
+                "nascompares.com",
+                "petrolspy.com.au",
+                "teslamotorsclub.com",
+                "tvguidetonight.com.au",
+                "www.auscompanies.com",
+                "www.diyaudio.com",
+                "www.eldersweather.com.au",
+                "www.landyzone.co.uk",
+                "www.onlymanuals.com",
+                "www.sydney-airport.net",
+                "www.tennis.com",
+                "www.tideschart.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4703576427377555356\\/MARC-1439-Bumper-VIN-NoBg-728x90\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 15,
+            "prevalence": 0.00151,
+            "cnames": [],
+            "responseHashes": [
+                "6bafe161086624965512347c012932df8b031462e6af7c849a07344d3fc1a2bc"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auloca.com",
+                "forums.iboats.com",
+                "mouthsofmums.com.au",
+                "nascompares.com",
+                "petrolspy.com.au",
+                "teslamotorsclub.com",
+                "tvguidetonight.com.au",
+                "www.auscompanies.com",
+                "www.diyaudio.com",
+                "www.eldersweather.com.au",
+                "www.landyzone.co.uk",
+                "www.onlymanuals.com",
+                "www.sydney-airport.net",
+                "www.tennis.com",
+                "www.tideschart.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4703576427377555356\\/MARC-1439-Bumper-VIN-NoBg-728x90\\/images\\/bumper-logo\\.svg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 13,
+            "prevalence": 0.00131,
+            "cnames": [],
+            "responseHashes": [
+                "c5dd4ef3b0218cf6468076aa06ac6d62ab02f8b473cc3dc14326be028d3f93e8"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auloca.com",
+                "forums.iboats.com",
+                "mouthsofmums.com.au",
+                "petrolspy.com.au",
+                "teslamotorsclub.com",
+                "tvguidetonight.com.au",
+                "www.auscompanies.com",
+                "www.diyaudio.com",
+                "www.eldersweather.com.au",
+                "www.onlymanuals.com",
+                "www.sydney-airport.net",
+                "www.tennis.com",
+                "www.tideschart.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dot\\.gif",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 83,
+            "prevalence": 0.00834,
+            "cnames": [],
+            "responseHashes": [
+                "77b1d2c0857d4e95d4c2ae7aa0abc5aaafa6bd4581b31203d1592759c26f5c44"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.timeanddate.com",
+                "artincontext.org",
+                "www.pantrymama.com",
+                "www.vitalmtb.com",
+                "www.247mahjong.com",
+                "tickzoo.tv",
+                "www.ruralsprout.com",
+                "skinnymixers.com.au",
+                "www.musicgrotto.com",
+                "readytodiy.com",
+                "www.travelsafe-abroad.com",
+                "www.howtouselinux.com",
+                "www.700r4transmissionhq.com",
+                "ostrali.com",
+                "kingdom-come-deliverance.fandom.com",
+                "vulkk.com",
+                "bobbyhadz.com",
+                "showbizcorner.com",
+                "meanings.crystalsandjewelry.com",
+                "gamerpillar.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4780073880934130211\\/MARC-1439-Bumper-VIN-NoBg-728x90\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.00191,
+            "cnames": [],
+            "responseHashes": [
+                "3da72f860cf212575a523996879d14e0b8ea6f13c91d1e27ca86645888b8d62d"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cleantechnica.com",
+                "forums.justcommodores.com.au",
+                "reiwa.com.au",
+                "songbpm.com",
+                "tides4fishing.com",
+                "weather-and-climate.com",
+                "www.apkmirror.com",
+                "www.aupropertyreport.com",
+                "www.aussiestockforums.com",
+                "www.calendardate.com",
+                "www.chosic.com",
+                "www.cycleworld.com",
+                "www.historynet.com",
+                "www.itnews.com.au",
+                "www.liveatc.net",
+                "www.nbnnews.com.au",
+                "www.onlymanuals.com",
+                "www.tractorbynet.com",
+                "www.vintagesynth.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4780073880934130211\\/MARC-1439-Bumper-VIN-NoBg-728x90\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.00191,
+            "cnames": [],
+            "responseHashes": [
+                "c1c10a3a49228c1f2ceb16230b4b1b1c257333dfd7cbce4bc5020dee149edc5e"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cleantechnica.com",
+                "forums.justcommodores.com.au",
+                "reiwa.com.au",
+                "songbpm.com",
+                "tides4fishing.com",
+                "weather-and-climate.com",
+                "www.apkmirror.com",
+                "www.aupropertyreport.com",
+                "www.aussiestockforums.com",
+                "www.calendardate.com",
+                "www.chosic.com",
+                "www.cycleworld.com",
+                "www.historynet.com",
+                "www.itnews.com.au",
+                "www.liveatc.net",
+                "www.nbnnews.com.au",
+                "www.onlymanuals.com",
+                "www.tractorbynet.com",
+                "www.vintagesynth.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4780073880934130211\\/MARC-1439-Bumper-VIN-NoBg-728x90\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.00191,
+            "cnames": [],
+            "responseHashes": [
+                "6bafe161086624965512347c012932df8b031462e6af7c849a07344d3fc1a2bc"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cleantechnica.com",
+                "forums.justcommodores.com.au",
+                "reiwa.com.au",
+                "songbpm.com",
+                "tides4fishing.com",
+                "weather-and-climate.com",
+                "www.apkmirror.com",
+                "www.aupropertyreport.com",
+                "www.aussiestockforums.com",
+                "www.calendardate.com",
+                "www.chosic.com",
+                "www.cycleworld.com",
+                "www.historynet.com",
+                "www.itnews.com.au",
+                "www.liveatc.net",
+                "www.nbnnews.com.au",
+                "www.onlymanuals.com",
+                "www.tractorbynet.com",
+                "www.vintagesynth.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4780073880934130211\\/MARC-1439-Bumper-VIN-NoBg-728x90\\/images\\/bumper-logo\\.svg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 16,
+            "prevalence": 0.00161,
+            "cnames": [],
+            "responseHashes": [
+                "c5dd4ef3b0218cf6468076aa06ac6d62ab02f8b473cc3dc14326be028d3f93e8"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "justcommodores.com.au",
+                "reiwa.com.au",
+                "tides4fishing.com",
+                "weather-and-climate.com",
+                "www.aupropertyreport.com",
+                "www.aussiestockforums.com",
+                "www.calendardate.com",
+                "www.chosic.com",
+                "www.cycleworld.com",
+                "www.historynet.com",
+                "www.itnews.com.au",
+                "www.liveatc.net",
+                "www.nbnnews.com.au",
+                "www.onlymanuals.com",
+                "www.tractorbynet.com",
+                "www.vintagesynth.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/1542323570825577117",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b512a04d9ad22355c67b485bd576683f4d1d1b55b6e6e6d4a8d70d45a4b4cabf"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nine.com.au",
+                "kitchen.nine.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/html_inpage_rendering_lib_200_278\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 5,
+                "HTMLMediaElement.prototype.canPlayType": 5,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 4,
+                "window.innerHeight": 4
+            },
+            "sites": 7,
+            "prevalence": 0.000703,
+            "cnames": [],
+            "responseHashes": [
+                "a6d36aa3d742ccd6f1ca3c76dcf885af72f7bebe2fcc001ea011a7aea2f55678"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hotcopper.com.au",
+                "news.bbc.co.uk",
+                "www.drive.com.au",
+                "www.justhorseracing.com.au",
+                "www.mathway.com",
+                "www.travelmath.com",
+                "www.whichcar.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/343788857926653808\\/MAR-422-Bumper-VIN-728x90-V1\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "8566f06b56771095f15b3bac0c1e3e4b6e27884e6a6e98063942301668e36baa"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillruns.com",
+                "www.nationaltribune.com.au",
+                "www.onlymanuals.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/10643211954064636898\\/MAR-422-Bumper-VIN-728x90-V1\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "8566f06b56771095f15b3bac0c1e3e4b6e27884e6a6e98063942301668e36baa"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillruns.com",
+                "www.onlymanuals.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/343788857926653808\\/MAR-422-Bumper-VIN-728x90-V1\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "46b1d904f6541b630e43fca47e1a5ab5500c575298f5891290c1d19be8b07b94"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillruns.com",
+                "www.nationaltribune.com.au",
+                "www.onlymanuals.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/343788857926653808\\/MAR-422-Bumper-VIN-728x90-V1\\/scripts\\/base64\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "d47b15f9ceed997958d2926eb66869594d088cbd2e0a9cb1903d8517ed32b86e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillruns.com",
+                "www.nationaltribune.com.au",
+                "www.onlymanuals.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/343788857926653808\\/MAR-422-Bumper-VIN-728x90-V1\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "4a68cf90e016ba57dcbcc7a2a011387b8b5bc5155e05c5c8387d3e209a2b8d43"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillruns.com",
+                "www.nationaltribune.com.au",
+                "www.onlymanuals.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/10643211954064636898\\/MAR-422-Bumper-VIN-728x90-V1\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "46b1d904f6541b630e43fca47e1a5ab5500c575298f5891290c1d19be8b07b94"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillruns.com",
+                "www.onlymanuals.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/10643211954064636898\\/MAR-422-Bumper-VIN-728x90-V1\\/scripts\\/base64\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d47b15f9ceed997958d2926eb66869594d088cbd2e0a9cb1903d8517ed32b86e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillruns.com",
+                "www.onlymanuals.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/10643211954064636898\\/MAR-422-Bumper-VIN-728x90-V1\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4a68cf90e016ba57dcbcc7a2a011387b8b5bc5155e05c5c8387d3e209a2b8d43"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillruns.com",
+                "www.onlymanuals.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/343788857926653808\\/MAR-422-Bumper-VIN-728x90-V1\\/images\\/bg\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "f2568661647ad268093032e52de6197c1745ed306d2e48d90660fe3334bd12ca"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillruns.com",
+                "www.nationaltribune.com.au",
+                "www.onlymanuals.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/10643211954064636898\\/MAR-422-Bumper-VIN-728x90-V1\\/images\\/bg\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f2568661647ad268093032e52de6197c1745ed306d2e48d90660fe3334bd12ca"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillruns.com",
+                "www.onlymanuals.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3631427148327032740\\/MARC-857-bumper-outofstate-vin-970x250\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "750b910e62c6e66bad4e916815a8ec9653bb89b598ceb02a4a036cb469444729"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "latitude.to",
+                "www.espn.com.au",
+                "www.techadvisor.com",
+                "www.theglobeandmail.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3631427148327032740\\/MARC-857-bumper-outofstate-vin-970x250\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "2c06aa586251fb8d048aa37f25af5bab8fee5077ee7d4749fa8bfb8b1a3ad190"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "latitude.to",
+                "www.espn.com.au",
+                "www.techadvisor.com",
+                "www.theglobeandmail.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3631427148327032740\\/MARC-857-bumper-outofstate-vin-970x250\\/images\\/check-umbrella-lg\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "065c363dd51d2cc18cec56858fb7dbd1df61dc68f6cab8c6cc3679f9eb8fcd56"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "latitude.to",
+                "www.espn.com.au",
+                "www.techadvisor.com",
+                "www.theglobeandmail.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3631427148327032740\\/MARC-857-bumper-outofstate-vin-970x250\\/images\\/norton\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "122f8362150d8d83065abe67c667acd981feb0fdceb6e9dfc4c39caf35f05e94"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "latitude.to",
+                "www.espn.com.au",
+                "www.techadvisor.com",
+                "www.theglobeandmail.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3631427148327032740\\/MARC-857-bumper-outofstate-vin-970x250\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "de2cda3dc792937ca1eed4e54eeabdc82fe5a2063c0b660a360a807b98b38e43"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "latitude.to",
+                "www.espn.com.au",
+                "www.techadvisor.com",
+                "www.theglobeandmail.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3631427148327032740\\/MARC-857-bumper-outofstate-vin-970x250\\/images\\/bumper-logo-color\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "d743ed2a3356d48b9d46c78100fabedf791bd4cb1755d553166f62596706db5c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "latitude.to",
+                "www.espn.com.au",
+                "www.theglobeandmail.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/Enabler_01_250\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 4,
+                "window.innerWidth": 4,
+                "window.innerHeight": 4
+            },
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "31d02f43dd0c7fc5c0d95db087a23f1c2d729c93f10450884c8da6b415f7839b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bbc.co.uk",
+                "www.drive.com.au",
+                "www.justhorseracing.com.au",
+                "www.whichcar.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/5972072998042720042\\/MARC-1439-Bumper-VIN-NoBg-468x60\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "e82f028281471ee357066a9e5268d9064b390b410d46e993daff736432394f1d"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "postcodes-australia.com",
+                "www.airport-brisbane.com",
+                "www.sydney-airport.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/5972072998042720042\\/MARC-1439-Bumper-VIN-NoBg-468x60\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "7f40d2a5382344e9f895d692c49d2215f418120362d77cec7236f31f4b51c3d5"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "postcodes-australia.com",
+                "www.airport-brisbane.com",
+                "www.sydney-airport.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/5972072998042720042\\/MARC-1439-Bumper-VIN-NoBg-468x60\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "6bafe161086624965512347c012932df8b031462e6af7c849a07344d3fc1a2bc"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "postcodes-australia.com",
+                "www.airport-brisbane.com",
+                "www.sydney-airport.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/5972072998042720042\\/MARC-1439-Bumper-VIN-NoBg-468x60\\/images\\/bumper-logo\\.svg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "c5dd4ef3b0218cf6468076aa06ac6d62ab02f8b473cc3dc14326be028d3f93e8"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "postcodes-australia.com",
+                "www.airport-brisbane.com",
+                "www.sydney-airport.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/instream\\/html5\\/ima3\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 6,
+                "Navigator.prototype.deviceMemory": 6,
+                "Date.prototype.getTime": 6,
+                "Screen.prototype.availHeight": 1,
+                "Screen.prototype.availWidth": 1,
+                "window.localStorage": 1,
+                "Document.cookie getter": 1
+            },
+            "sites": 6,
+            "prevalence": 0.000603,
+            "cnames": [],
+            "responseHashes": [
+                "395149d128d5d361aaf2cd3df1cfd23dee746145bdef0105d99aba97fbcf712f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "therighthairstyles.com",
+                "www.boatsales.com.au",
+                "www.caravancampingsales.com.au",
+                "www.constructionsales.com.au",
+                "www.farmmachinerysales.com.au",
+                "www.trucksales.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/1978514\\/5247520548\\/1703105730391\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thenewdaily.com.au",
+                "www.thenewdaily.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4969823261993738531\\/MARC-1439-Bumper-VIN-NoBg-160x600\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "2b3f3a3b47d3de39c6d1536f1cdd931f823f77937880f07c020368c513332557"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "allcarmanuals.com",
+                "www.hifiengine.com",
+                "www.vinylengine.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4969823261993738531\\/MARC-1439-Bumper-VIN-NoBg-160x600\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "2bfae553192e7efb5be6b2337a5aae99fce3df30417b9c272be2a4e92322bc63"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "allcarmanuals.com",
+                "www.hifiengine.com",
+                "www.vinylengine.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4969823261993738531\\/MARC-1439-Bumper-VIN-NoBg-160x600\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "6bafe161086624965512347c012932df8b031462e6af7c849a07344d3fc1a2bc"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "allcarmanuals.com",
+                "www.hifiengine.com",
+                "www.vinylengine.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4969823261993738531\\/MARC-1439-Bumper-VIN-NoBg-160x600\\/images\\/bumper-logo\\.svg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "c5dd4ef3b0218cf6468076aa06ac6d62ab02f8b473cc3dc14326be028d3f93e8"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "allcarmanuals.com",
+                "www.hifiengine.com",
+                "www.vinylengine.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3555590720890690809\\/MARC-1439-Bumper-VIN-NoBg-336x280\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "dd2fdd80bf3e46665bdc59e728edb7740bac9e5ebf26c93158e6b3ee2eb85fd8"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auto-data.net",
+                "www.sydney-airport.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3257183278412107581\\/MARC-1439-Bumper-VIN-NoBg-336x280\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "dd2fdd80bf3e46665bdc59e728edb7740bac9e5ebf26c93158e6b3ee2eb85fd8"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auto-data.net",
+                "www.uniquecarsandparts.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3555590720890690809\\/MARC-1439-Bumper-VIN-NoBg-336x280\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "51ca623e7f6f17c8fc9b43f8f5678397ae8006c6a4e02561196832faad67e596"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auto-data.net",
+                "www.sydney-airport.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3555590720890690809\\/MARC-1439-Bumper-VIN-NoBg-336x280\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6bafe161086624965512347c012932df8b031462e6af7c849a07344d3fc1a2bc"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auto-data.net",
+                "www.sydney-airport.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3257183278412107581\\/MARC-1439-Bumper-VIN-NoBg-336x280\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "51ca623e7f6f17c8fc9b43f8f5678397ae8006c6a4e02561196832faad67e596"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auto-data.net",
+                "www.uniquecarsandparts.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3257183278412107581\\/MARC-1439-Bumper-VIN-NoBg-336x280\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6bafe161086624965512347c012932df8b031462e6af7c849a07344d3fc1a2bc"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auto-data.net",
+                "www.uniquecarsandparts.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3555590720890690809\\/MARC-1439-Bumper-VIN-NoBg-336x280\\/images\\/bumper-logo\\.svg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c5dd4ef3b0218cf6468076aa06ac6d62ab02f8b473cc3dc14326be028d3f93e8"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auto-data.net",
+                "www.sydney-airport.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3257183278412107581\\/MARC-1439-Bumper-VIN-NoBg-336x280\\/images\\/bumper-logo\\.svg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c5dd4ef3b0218cf6468076aa06ac6d62ab02f8b473cc3dc14326be028d3f93e8"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auto-data.net",
+                "www.uniquecarsandparts.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/createjs_2019\\.11\\.15_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 5,
+                "Date.prototype.getTime": 5,
+                "CanvasRenderingContext2D.prototype.getImageData": 1
+            },
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "bc12347103da4da2ac30f8b4defd567679284e0bad691a54fad78ad804fc9c27"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autodaily.com.au",
+                "www.gq.com.au",
+                "www.gumtree.com.au",
+                "www.punters.com.au",
+                "www.racenet.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1739072575764538993\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "window.innerHeight": 2,
+                "window.innerWidth": 2,
+                "PerformanceTiming.prototype.navigationStart": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "839711767ced3734f6212d7f03d720da46b1ff1dc7deb44cff703027f5f6272b"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autodaily.com.au",
+                "www.autodaily.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/DcmEnabler_01_250\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "fc9fe8ec0612072dc6d3b4acd268e09d28c253807f47846a5f70dd8360d1a0d1"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autodaily.com.au",
+                "www.autodaily.com.au",
+                "www.onthehouse.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f113434b7cfbbdd74176a6d3f75525a6de07c4b20f84f202cbeacee461c5ce7a"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "759a92ea38a49a1f845a75d1153c0f4feb4791384bea54c2d71a1a299a09ceb0"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/css\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "72f0a4f1ea53550b91b743903581f24b98a84a1c4ac8c5405838b9776121250f"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/gsap_3\\.5\\.1_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000603,
+            "cnames": [],
+            "responseHashes": [
+                "341e0d761251ee538d0cad6322c66abdbf78dc7d6f3ca62f3459fab822a2103f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.dakar.com",
+                "www.gumtree.com.au",
+                "www.liverpoolfc.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/img\\/copy2\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "e67ba132787a56a0652741b3278f8065edee2b988550fd57f056c950963c95f1"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/img\\/copy1\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "eb13ff42712be3a10d0c4c96163020704ea79c859d21e48dfe27308746e04534"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/img\\/cta\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "8196c7f43d05b941e2bdf2448fbe179a79ea1ce363a72c88708cdc635762b8a9"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/img\\/shadow\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "e6d37316d939083ab5a27f1e602458f6e04662204fc91048867c3784383483f4"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/img\\/smoke\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "3da61243015e7e21097efd435ac612262e77b9e35dae4087f0018553be4599eb"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/img\\/smoke2\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "fa5c925955eb65d00190f2bd17580566d4f3f459b185295cef4ef7fb51a2db17"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/img\\/smoke3\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "1b583064bc4803302e3afab2814b4e7ec8e4893fbef7f8788db75c2662a6e9e7"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/img\\/going1\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "e0a343ce8b788949d30855d8d38db08faafcd4f4caf3706f4e3f986673ae3209"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/img\\/going2\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "21826021c129f891b6d8c7cb3cbccdf75cb81becb5a2a65e4bfa1cb907494433"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/img\\/frame1\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "8673aa58144d73dfb98012548bca486e34b28ac70961f2fd670f31d85a5fd635"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/img\\/footer\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "c1ed8a15e2c781f65b39390672b3dab7d11468dde3f89dbdc6439690ee10e609"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/js\\/lib\\/display\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "ddeb6a17481825b6f752746a03a61d06687a2c527f008a69d524767818c6b84a"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1699493755523\\/720x90\\/js\\/animation\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "683dd4d2b45d889112eb3649662001f23be50e0747bbac4985ab1ed382f81e72"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au",
+                "www.gumtree.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/css\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "02f4e7a457e16edd607be9fa75f2f6c4952b54c66585363a29af94b055134b96"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/copy2\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/copy1\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/cta\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/shadow\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/smoke\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/smoke2\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/smoke3\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/going1\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/going2\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/frame1\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/footerlogo-1\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/img\\/footerlogo-2\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/js\\/lib\\/display\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/421840\\/33029920\\/1698892317165\\/970x250\\/js\\/animation\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "autotrader.com.au",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1347572943695881332\\/MARC-1439-Bumper-VIN-NoBg-970x250\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "b158648cff33e9efbd24fbebc70b21caa167ef526959f9ea76da73ba6b07a992"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cycleworld.com",
+                "www.macrobusiness.com.au",
+                "www.manua.ls",
+                "www.webbikeworld.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1347572943695881332\\/MARC-1439-Bumper-VIN-NoBg-970x250\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "43aeaf8e1e64ff58834b833e4e0d4ef51328e9bc315dd6006b33c6f48dd2e0a5"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cycleworld.com",
+                "www.macrobusiness.com.au",
+                "www.manua.ls",
+                "www.webbikeworld.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1347572943695881332\\/MARC-1439-Bumper-VIN-NoBg-970x250\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "6bafe161086624965512347c012932df8b031462e6af7c849a07344d3fc1a2bc"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cycleworld.com",
+                "www.macrobusiness.com.au",
+                "www.manua.ls",
+                "www.webbikeworld.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1347572943695881332\\/MARC-1439-Bumper-VIN-NoBg-970x250\\/images\\/bumper-logo\\.svg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "c5dd4ef3b0218cf6468076aa06ac6d62ab02f8b473cc3dc14326be028d3f93e8"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cycleworld.com",
+                "www.macrobusiness.com.au",
+                "www.manua.ls",
+                "www.webbikeworld.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/gsap_3\\.11\\.1_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "fbae080321632ad4ce06e9207ef9a534abd1d6488a96a0a4334fa768d1f93717"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "drive.com.au",
+                "www.whichcar.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/6831915559370736583\\/MAR-422-Bumper-VIN-970x250-V1\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "5b0c990b2c2707be8ada295d79073424b3b2db03f8bd7578ce5b9174e6827ce7"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ephotozine.com",
+                "www.manua.ls",
+                "www.motorcyclespecs.co.za",
+                "www.navaraforum.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/6831915559370736583\\/MAR-422-Bumper-VIN-970x250-V1\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "f7b01d0a2c0ffea8ab515e8ab2dfaba20d4fded6398e5dd2d5c9a04ab94186e5"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ephotozine.com",
+                "www.manua.ls",
+                "www.motorcyclespecs.co.za"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/6831915559370736583\\/MAR-422-Bumper-VIN-970x250-V1\\/scripts\\/base64\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "d47b15f9ceed997958d2926eb66869594d088cbd2e0a9cb1903d8517ed32b86e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ephotozine.com",
+                "www.manua.ls",
+                "www.motorcyclespecs.co.za"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/6831915559370736583\\/MAR-422-Bumper-VIN-970x250-V1\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "4a68cf90e016ba57dcbcc7a2a011387b8b5bc5155e05c5c8387d3e209a2b8d43"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ephotozine.com",
+                "www.manua.ls",
+                "www.motorcyclespecs.co.za"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/6831915559370736583\\/MAR-422-Bumper-VIN-970x250-V1\\/images\\/bg\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "69185acd947918e90cc22d11b9c9ea2b03a36add7173a2b7db0849c1ba2f19ea"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ephotozine.com",
+                "www.manua.ls"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/Enabler\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3,
+                "window.innerWidth": 3,
+                "window.innerHeight": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "c3ec5fd82b2b5642bcd2bb6f6db113306135239c684e8b41ee971aaeeb436d84"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "freebmd.org.uk",
+                "www.freebmd.org.uk",
+                "www.hindustantimes.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/12054279950584895078\\/MAR-422-Bumper-VIN-970x250-V1\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "5b0c990b2c2707be8ada295d79073424b3b2db03f8bd7578ce5b9174e6827ce7"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "manuals.co.uk",
+                "www.reverseau.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3719949724735657331\\/MARC-1439-Bumper-VIN-NoBg-970x250\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b158648cff33e9efbd24fbebc70b21caa167ef526959f9ea76da73ba6b07a992"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "manuals.co.uk",
+                "www.rootschat.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/10853031809524487622\\/MARC-1439-Bumper-VIN-NoBg-160x600\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "manuals.co.uk",
+                "www.manuals.co.uk"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/tweenmax_2\\.1\\.2_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "marieclaire.com.au",
+                "www.marieclaire.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/13662811839530955978",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a2e71c4600f32cbce4a59fa504c5139fcf075c6cc6a4806f22550c028be46841"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "pedestrian.tv",
+                "www.pedestrian.tv"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/16205969148766853704",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "7b250b1861f9c216b8077863c011190fe70fa352d7db713d8f839c050a894639"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "pedestrian.tv",
+                "www.pedestrian.tv"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/11115298827556529367",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rollingstone.com",
+                "www.rollingstone.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/1969336\\/5273249501\\/1702201571660\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f05510bf0afae12e738a7e9b6a6c1c0212f3d9a924fd4ce8b3d7bcec7d995049"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thrillist.com.au",
+                "www.thrillist.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/1969336\\/5273249501\\/1702201571660\\/headline\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d90b58bf568e8359f15801d4b9d82416d82ae3a3a911cb26c81b9553cdbcf564"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thrillist.com.au",
+                "www.thrillist.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/1969336\\/5273249501\\/1702201571660\\/gold\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "aac95bdf60d0b6fd9bc2bcd0302a34cfa3f2ee1ba615eaef080f83b2954b93fb"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thrillist.com.au",
+                "www.thrillist.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/1969336\\/5273249501\\/1702201571660\\/date\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "608168d7ff48ef5c1beb0bb23cbb69d199efd7bd4ddf903170433de2dc47ef1a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thrillist.com.au",
+                "www.thrillist.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/1969336\\/5273249501\\/1702201571660\\/cta\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f0b8ffadfb553c37a72e5e4518b2bf020c71f0560885c61705b8932cd11107b2"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thrillist.com.au",
+                "www.thrillist.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/1969336\\/5273249501\\/1702201571660\\/main\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d05af351ed106da06a27320cd9f4253b3ebd1e544450ba20043c8209eb7ac687"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thrillist.com.au",
+                "www.thrillist.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/1969336\\/5273249501\\/1702201571660\\/bg\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "75f4acf8db4dee06d523c33831dfce407791a5bf887e6a8f710a6c61153cc731"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thrillist.com.au",
+                "www.thrillist.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/DcmEnabler_01_243\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "77a6e7584722f285dd6b3039728b6f1aab3948e60b4c26298600f1a5ee155bbb"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "trademe.co.nz",
+                "www.vitalmtb.com"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Ad Fraud"
+    ],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "imasdk.googleapis.com",
+            "prevalence": 0.240234375
+        },
+        {
+            "domain": "googlesyndication.com",
+            "prevalence": 0.21875
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.21484375
+        },
+        {
+            "domain": "lijit.com",
+            "prevalence": 0.162109375
+        },
+        {
+            "domain": "createjs.com",
+            "prevalence": 0.095703125
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.021484375
+        },
+        {
+            "domain": "bluebillywig.com",
+            "prevalence": 0.013671875
+        },
+        {
+            "domain": "cpmstar.com",
+            "prevalence": 0.005859375
+        },
+        {
+            "domain": "webcontentassessor.com",
+            "prevalence": 0.00390625
+        },
+        {
+            "domain": "confiant-integrations.net",
+            "prevalence": 0.00390625
+        }
+    ],
+    "types": {
+        "Script": 395,
+        "Document": 87,
+        "Stylesheet": 70,
+        "Image": 223
+    },
+    "nameservers": [
+        "ns2.google.com",
+        "ns1.google.com",
+        "ns3.google.com",
+        "ns4.google.com"
+    ]
+}

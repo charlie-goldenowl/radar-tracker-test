@@ -1,0 +1,305 @@
+{
+    "domain": "6sc.co",
+    "owner": {
+        "name": "6 Sense Insights Inc.",
+        "displayName": "6 Sense Insights"
+    },
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.00353,
+    "sites": 35,
+    "subdomains": [
+        "j",
+        "c",
+        "b",
+        "t"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "6sc\\.co\\/6si\\.min\\.js",
+            "cookies": 0.00302,
+            "fingerprinting": 1,
+            "subdomains": [
+                "j"
+            ],
+            "apis": {
+                "Document.cookie getter": 31,
+                "window.localStorage": 21,
+                "Date.prototype.getTime": 32,
+                "Document.cookie setter": 30
+            },
+            "sites": 33,
+            "prevalence": 0.00332,
+            "cnames": [],
+            "responseHashes": [
+                "2d699428fb1a87452cb15775f3e9a531b9c8a98bfa41be2a24be4814ff0a5baf",
+                "7f43c039df87253c09c05c7820cb76bcc6ef4da2c410bde4f10448fd115a2bc2"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "_gd_visitor": {
+                    "ttl": 63158404,
+                    "length": 36,
+                    "prevalence": 0.0030220610456331218,
+                    "uniqueness": 1
+                },
+                "_gd_session": {
+                    "ttl": 14404,
+                    "length": 36,
+                    "prevalence": 0.0030220610456331218,
+                    "uniqueness": 1
+                },
+                "_an_uid": {
+                    "ttl": 604804,
+                    "length": 1,
+                    "prevalence": 0.001108089050065478,
+                    "uniqueness": 0.09090909090909091
+                },
+                "_gd_svisitor": {
+                    "ttl": 63158405,
+                    "length": 40,
+                    "prevalence": 0.00020147073637554144,
+                    "uniqueness": 1
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.instructables.com",
+                "www.newsweek.com",
+                "www.smartsheet.com",
+                "www.cbinsights.com",
+                "calendly.com",
+                "www.barchart.com",
+                "www.se.com",
+                "www.techrepublic.com",
+                "www.apc.com",
+                "pitchbook.com",
+                "www.cisco.com",
+                "dzone.com",
+                "www.nvidia.com",
+                "www.viewsonic.com",
+                "www.payscale.com",
+                "www.gartner.com",
+                "ios.gadgethacks.com",
+                "www.oreilly.com",
+                "help.sketchup.com",
+                "www.morningstar.com"
+            ]
+        },
+        {
+            "rule": "6sc\\.co\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "c"
+            ],
+            "apis": {},
+            "sites": 33,
+            "prevalence": 0.00332,
+            "cnames": [],
+            "responseHashes": [
+                "fe04a9dc88d3f3be8d4f6bc63a9a80f45a4c6d8460e7551dab849457c091920a",
+                "34eeeed8b82fa4064a07de757ed62ddcff9612968197e4543b051e96d39b3b56"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.instructables.com",
+                "www.newsweek.com",
+                "dzone.com",
+                "www.oreilly.com",
+                "www.se.com",
+                "docs.gitlab.com",
+                "www.cbinsights.com",
+                "www.techrepublic.com",
+                "www.elastic.co",
+                "www.nvidia.com",
+                "www.barchart.com",
+                "www.ceicdata.com",
+                "www.redhat.com",
+                "ios.gadgethacks.com",
+                "www.payscale.com",
+                "pitchbook.com",
+                "www.dashlane.com",
+                "www.cisco.com",
+                "gitlab.com",
+                "www.twilio.com"
+            ]
+        },
+        {
+            "rule": "6sc\\.co\\/v1\\/beacon\\/img\\.gif",
+            "cookies": 0.00322,
+            "fingerprinting": 0,
+            "subdomains": [
+                "b"
+            ],
+            "apis": {},
+            "sites": 33,
+            "prevalence": 0.00332,
+            "cnames": [],
+            "responseHashes": [
+                "07383c96980710a04144e5a39ae59e7f9f74bcfd6462a6932ded48efe6d73bce"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_gd_visitor": 0.0031227964138208926,
+                "_gd_session": 0.0031227964138208926,
+                "SESSlsd": 0.00010073536818777072,
+                "gpv_v9": 0.00010073536818777072,
+                "_li_dcdm_c": 0.00020147073637554144,
+                "gpv_pn": 0.00010073536818777072,
+                "IR_gbd": 0.0003022061045633122
+            },
+            "exampleSites": [
+                "www.instructables.com",
+                "www.newsweek.com",
+                "www.techrepublic.com",
+                "dzone.com",
+                "www.oreilly.com",
+                "www.wordstream.com",
+                "pitchbook.com",
+                "help.sketchup.com",
+                "www.se.com",
+                "www.cisco.com",
+                "www.redhat.com",
+                "ios.gadgethacks.com",
+                "www.nvidia.com",
+                "www.dashlane.com",
+                "www.viewsonic.com",
+                "developer.nvidia.com",
+                "www.cloudflare.com",
+                "www.cbinsights.com",
+                "www.twilio.com",
+                "www.apc.com"
+            ]
+        },
+        {
+            "rule": "6sc\\.co\\/j\\/01192dc3-157f-4d5a-bea4-02f62692239e\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "j"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "1f5d726220c5548a8299ad33abaca06c411b6c3aab5ef04f6198be2e5af5d6c2"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dzone.com",
+                "ios.gadgethacks.com",
+                "www.techrepublic.com"
+            ]
+        },
+        {
+            "rule": "6sc\\.co\\/j\\/284187e0-8b15-4d1c-9cc4-03e14888f7c0\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "j"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "9ad9c65668032d4616de4cc4d581a99b60983ea356802403952a08614bf5bab4"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "apc.com",
+                "www.se.com"
+            ]
+        },
+        {
+            "rule": "6sc\\.co\\/img\\.gif",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "t"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "07383c96980710a04144e5a39ae59e7f9f74bcfd6462a6932ded48efe6d73bce"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "theweathernetwork.com",
+                "www.theweathernetwork.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00332,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.3951612903225806
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.1774193548387097
+        },
+        {
+            "domain": "appdynamics.com",
+            "prevalence": 0.12096774193548387
+        },
+        {
+            "domain": "dirms4qsy6412.cloudfront.net",
+            "prevalence": 0.06451612903225806
+        },
+        {
+            "domain": "bizible.com",
+            "prevalence": 0.06451612903225806
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.06451612903225806
+        },
+        {
+            "domain": "adobedtm.com",
+            "prevalence": 0.024193548387096774
+        },
+        {
+            "domain": "webeyez.com",
+            "prevalence": 0.024193548387096774
+        },
+        {
+            "domain": "script.ac",
+            "prevalence": 0.016129032258064516
+        },
+        {
+            "domain": "datadoghq-browser-agent.com",
+            "prevalence": 0.016129032258064516
+        }
+    ],
+    "types": {
+        "Script": 38,
+        "XHR": 33,
+        "Image": 35
+    },
+    "nameservers": [
+        "ns-739.awsdns-28.net",
+        "ns-435.awsdns-54.com",
+        "ns-1328.awsdns-38.org",
+        "ns-1589.awsdns-06.co.uk"
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "domain": "1pdata.app",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-US"
+    ],
+    "prevalence": 0.00017,
+    "sites": 25,
+    "subdomains": [
+        "build"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "1pdata\\.app\\/hhtransmute\\.js",
+            "cookies": 0.000109,
+            "fingerprinting": 1,
+            "subdomains": [
+                "build"
+            ],
+            "apis": {
+                "Document.cookie getter": 16,
+                "Date.prototype.getTime": 16,
+                "Document.cookie setter": 16,
+                "Navigator.prototype.userAgent": 16,
+                "Navigator.prototype.language": 16,
+                "Date.prototype.getTimezoneOffset": 16
+            },
+            "sites": 16,
+            "prevalence": 0.000109,
+            "cnames": [],
+            "responseHashes": [
+                "e5f0205cafd154fcc3250e79957ba2365dfaf641f01b9be225916e8077500516",
+                "9156aaeacfe6da22f67269d1d5aa5b4e10a1207ac7edaf74ed3f3ec53864bbd1",
+                "2439e9f5bc774aeadc5aa9754f97ba81da1b3046a94711fea4a65d82c97c817a",
+                "e5689e9f10e2b56b4d68ef07961feb8fffb49d2b50e52b7c49dd8160e8dcecb6",
+                "330b9971ba7d8a3202a8b5b6b1b581d5da8b20ce7ed275e1c4c91518251699aa",
+                "4c443efb5156473afd5e0d02d8f3eb1f9d93ee2da4c36544c51d3d0c8293064f",
+                "31537fa794081112c543cd2614c59867a4223ac36d410754b06fb0f505ae5ac1",
+                "abda77553f6b889a4466d51fdca87b4f0b5e24792d8bfe64ad00481042f66e43",
+                "e5567971480fb6da46bd738d64e6ce2b4066c8f3de144d528ea35c16a3166f39",
+                "ede164ca3982a1888c299c84759050f9c896893715eefe58698455329da01742",
+                "7c608751daf6c5ae470a77a8f17f009952f59161b1c96bfeec05df25142bf935",
+                "fb15eede3c8ad9c226ca478e665e6778ffdda9eeb2f477dfc7e47f5847549275",
+                "5f4d265b7c57ac6f2399528973d722c898eb98bf1983573d396e00c0ac2b3f22",
+                "080e5b06540684a899de329ffdaa009b120810370bd512bad128623473d90c84",
+                "393fdc513fee6be820c2f7f44425796c109fd0c08220b19651ac76c3fc223c5d"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "fullthrottlelims_t2": {
+                    "ttl": 630720005,
+                    "length": 10,
+                    "prevalence": 0.00010884427785223028,
+                    "uniqueness": 1
+                },
+                "r": {
+                    "ttl": 7205,
+                    "length": 1,
+                    "prevalence": 0.00010884427785223028,
+                    "uniqueness": 0.0625
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mattresswarehouse.com",
+                "pjtrailers.com",
+                "www.5starford.com",
+                "www.asbestos.com",
+                "www.bigtextrailers.com",
+                "www.bigtextrailerworld.com",
+                "www.boucher.com",
+                "www.coronacigar.com",
+                "www.grandappliance.com",
+                "www.group1auto.com",
+                "www.johnsonrv.com",
+                "www.kaaltv.com",
+                "www.kimblecompanies.com",
+                "www.suntoyota.com",
+                "www.tompkinsbank.com",
+                "www.visitpensacola.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00017,
+    "topInitiators": [
+        {
+            "domain": "ftlaunchpad.ai",
+            "prevalence": 0.72
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.16
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.12
+        }
+    ],
+    "types": {
+        "Script": 16
+    },
+    "nameservers": [
+        "ns-818.awsdns-38.net",
+        "ns-1744.awsdns-26.co.uk",
+        "ns-1277.awsdns-31.org",
+        "ns-204.awsdns-25.com"
+    ]
+}

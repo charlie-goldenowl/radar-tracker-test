@@ -1,0 +1,278 @@
+{
+    "domain": "6sc.co",
+    "owner": {
+        "name": "6 Sense Insights Inc.",
+        "displayName": "6 Sense Insights"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.00272,
+    "sites": 27,
+    "subdomains": [
+        "j",
+        "c",
+        "ipv6",
+        "b"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "6sc\\.co\\/j\\/e9e55340-3e99-4dcb-8496-fe1e95de35e5\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "j"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e69f29943aa90f84e7c7a6f7c28803fa99bf7b622ebc64660f486f83ddad9937"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gitlab.com",
+                "docs.gitlab.com"
+            ]
+        },
+        {
+            "rule": "6sc\\.co\\/6si\\.min\\.js",
+            "cookies": 0.00232,
+            "fingerprinting": 1,
+            "subdomains": [
+                "j"
+            ],
+            "apis": {
+                "window.localStorage": 14,
+                "Document.cookie getter": 24,
+                "Date.prototype.getTime": 23,
+                "Document.cookie setter": 23
+            },
+            "sites": 25,
+            "prevalence": 0.00252,
+            "cnames": [],
+            "responseHashes": [
+                "2d699428fb1a87452cb15775f3e9a531b9c8a98bfa41be2a24be4814ff0a5baf",
+                "e9b83c77a1a3fc2237cfc82f2718737332436a155b8f1443b85bdd2773094813"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "_gd_visitor": {
+                    "ttl": 63158407,
+                    "length": 36,
+                    "prevalence": 0.002316680096696213,
+                    "uniqueness": 1
+                },
+                "_gd_session": {
+                    "ttl": 14407,
+                    "length": 36,
+                    "prevalence": 0.002316680096696213,
+                    "uniqueness": 1
+                },
+                "_an_uid": {
+                    "ttl": 604806,
+                    "length": 1,
+                    "prevalence": 0.0009065269943593876,
+                    "uniqueness": 0.1111111111111111
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.instructables.com",
+                "www.newsweek.com",
+                "www.oreilly.com",
+                "www.nvidia.com",
+                "www.morningstar.com",
+                "www.gartner.com",
+                "www.barchart.com",
+                "www.fortinet.com",
+                "snyk.io",
+                "www.smartsheet.com",
+                "docs.gitlab.com",
+                "www.cloudflare.com",
+                "developer.nvidia.com",
+                "assets.adac.de",
+                "circleci.com",
+                "www.maplesoft.com",
+                "dzone.com",
+                "gitlab.com",
+                "scaledagileframework.com",
+                "www.twilio.com"
+            ]
+        },
+        {
+            "rule": "6sc\\.co\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "c",
+                "ipv6"
+            ],
+            "apis": {},
+            "sites": 26,
+            "prevalence": 0.00262,
+            "cnames": [],
+            "responseHashes": [
+                "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+                "fe04a9dc88d3f3be8d4f6bc63a9a80f45a4c6d8460e7551dab849457c091920a"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.instructables.com",
+                "www.newsweek.com",
+                "gitlab.com",
+                "www.maplesoft.com",
+                "www.ssga.com",
+                "snyk.io",
+                "www.oreilly.com",
+                "scaledagileframework.com",
+                "dzone.com",
+                "www.nvidia.com",
+                "www.barchart.com",
+                "assets.adac.de",
+                "circleci.com",
+                "developer.nvidia.com",
+                "www.mongodb.com",
+                "docs.gitlab.com",
+                "www.fortinet.com",
+                "www.smartsheet.com",
+                "www.gartner.com",
+                "www.dashlane.com"
+            ]
+        },
+        {
+            "rule": "6sc\\.co\\/v1\\/beacon\\/img\\.gif",
+            "cookies": 0.00252,
+            "fingerprinting": 0,
+            "subdomains": [
+                "b"
+            ],
+            "apis": {},
+            "sites": 26,
+            "prevalence": 0.00262,
+            "cnames": [],
+            "responseHashes": [
+                "07383c96980710a04144e5a39ae59e7f9f74bcfd6462a6932ded48efe6d73bce"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_gd_visitor": 0.0024174053182917004,
+                "_gd_session": 0.0024174053182917004,
+                "_biz_pendingA": 0.0001007252215954875,
+                "SESSlsd": 0.0001007252215954875,
+                "gpv_v9": 0.0001007252215954875,
+                "_li_dcdm_c": 0.000201450443190975,
+                "gpv_pn": 0.0001007252215954875,
+                "IR_gbd": 0.000201450443190975
+            },
+            "exampleSites": [
+                "www.instructables.com",
+                "www.newsweek.com",
+                "about.gitlab.com",
+                "www.cloudflare.com",
+                "circleci.com",
+                "www.nvidia.com",
+                "docs.gitlab.com",
+                "assets.adac.de",
+                "www.cisco.com",
+                "dzone.com",
+                "www.barchart.com",
+                "gitlab.com",
+                "www.techrepublic.com",
+                "www.mongodb.com",
+                "www.lastpass.com",
+                "www.fortinet.com",
+                "snyk.io",
+                "www.oreilly.com",
+                "www.twilio.com",
+                "www.ssga.com"
+            ]
+        },
+        {
+            "rule": "6sc\\.co\\/j\\/01192dc3-157f-4d5a-bea4-02f62692239e\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "j"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "1f5d726220c5548a8299ad33abaca06c411b6c3aab5ef04f6198be2e5af5d6c2"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dzone.com",
+                "www.techrepublic.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00252,
+    "topInitiators": [
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.1951219512195122
+        },
+        {
+            "domain": "appdynamics.com",
+            "prevalence": 0.18292682926829268
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.18292682926829268
+        },
+        {
+            "domain": "dirms4qsy6412.cloudfront.net",
+            "prevalence": 0.13414634146341464
+        },
+        {
+            "domain": "bizible.com",
+            "prevalence": 0.12195121951219512
+        },
+        {
+            "domain": "adobedtm.com",
+            "prevalence": 0.06097560975609756
+        },
+        {
+            "domain": "cloudflare.com",
+            "prevalence": 0.024390243902439025
+        },
+        {
+            "domain": "script.ac",
+            "prevalence": 0.024390243902439025
+        },
+        {
+            "domain": "datadoghq-browser-agent.com",
+            "prevalence": 0.024390243902439025
+        },
+        {
+            "domain": "investingchannel.com",
+            "prevalence": 0.012195121951219513
+        }
+    ],
+    "types": {
+        "Script": 29,
+        "XHR": 26,
+        "Image": 26
+    },
+    "nameservers": [
+        "ns-739.awsdns-28.net",
+        "ns-435.awsdns-54.com",
+        "ns-1328.awsdns-38.org",
+        "ns-1589.awsdns-06.co.uk"
+    ]
+}

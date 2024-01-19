@@ -1,0 +1,45 @@
+{
+    "domain": "52.71.121.170",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.000403,
+    "sites": 4,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "52\\.71\\.121\\.170\\/is",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "d0d0e8c5293db7351fb936439da718669f932e0b6d1606eb8266059802238b01",
+                "8c0d0831663e828e7d5531c2928f1cbde4daf1787fb1476f2cc0056e41ac9ff6",
+                "c2d26e1050c5c7d9caa29ac64d0f0c76e18c9f752a16350c8f5eb66c1187456f"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "realtruck.com",
+                "www.beefitswhatsfordinner.com",
+                "www.moosejaw.com",
+                "www.teepublic.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "types": {
+        "Fetch": 4
+    },
+    "nameservers": []
+}

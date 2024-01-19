@@ -1,0 +1,914 @@
+{
+    "domain": "adlightning.com",
+    "owner": {
+        "name": "Ad Lightning, Inc.",
+        "displayName": "Ad Lightning",
+        "privacyPolicy": "https://www.adlightning.com/privacy",
+        "url": "http://adlightning.com"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.00453,
+    "sites": 45,
+    "subdomains": [
+        "tagan"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "adlightning\\.com\\/valnet\\/op\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 10
+            },
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [
+                "b45a30dd3084bcc1d2b2c4d879083ff37dca6e502b5e359bd83dfb4c7a7b5c3e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "collider.com",
+                "screenrant.com",
+                "simpleflying.com",
+                "www.androidpolice.com",
+                "www.cbr.com",
+                "www.hotcars.com",
+                "www.howtogeek.com",
+                "www.makeuseof.com",
+                "www.pocket-lint.com",
+                "www.xda-developers.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/valnet\\/b-ef0aa10-fee97d21\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 10
+            },
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [
+                "cc12eeec9b4b9f5f4995bbe3e7cceaea92642cab9257621d57e4a2fe4bf46124"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "collider.com",
+                "screenrant.com",
+                "simpleflying.com",
+                "www.androidpolice.com",
+                "www.cbr.com",
+                "www.hotcars.com",
+                "www.howtogeek.com",
+                "www.makeuseof.com",
+                "www.pocket-lint.com",
+                "www.xda-developers.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/valnet\\/bl-ed6e5a5-c5aef6b5\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 10
+            },
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [
+                "8afc702cfc27b5464271deb38fa47db85a8f7615f282b612750e553722843526"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "collider.com",
+                "screenrant.com",
+                "simpleflying.com",
+                "www.androidpolice.com",
+                "www.cbr.com",
+                "www.hotcars.com",
+                "www.howtogeek.com",
+                "www.makeuseof.com",
+                "www.pocket-lint.com",
+                "www.xda-developers.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/nc-nypost\\/op\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "3935e85e9f9e05afc3efc90308ab5ad8c952fb3c5dac748a313ba856face11ce"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "decider.com",
+                "nypost.com",
+                "pagesix.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/nc-nypost\\/b-935e2f1-75e674dc\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "221f799c87d939995ba5a8d91335d3158523c7cc706180f05172a490f4aeffeb"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "decider.com",
+                "nypost.com",
+                "pagesix.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/nc-nypost\\/bl-ed6e5a5-e98fc69f\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "e27acda109a6425986a4048cadead4e4cac202d54b360c990e622091538a85ee"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "decider.com",
+                "nypost.com",
+                "pagesix.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/setupad\\/op\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 5
+            },
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "83100d7dd8f2231115e6a77bf21d82496651e4cfe2b5da4b48057f78c96424a9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ezgif.com",
+                "twittervideodownloader.com",
+                "www.ascii-code.com",
+                "www.picuki.com",
+                "www.whatfontis.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/setupad\\/b-935e2f1-22fd8186\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 5
+            },
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "2231903638371ed6f332ab6c4482f1b0716e4aabf55b98b3efef17e07e0fa22e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ezgif.com",
+                "twittervideodownloader.com",
+                "www.ascii-code.com",
+                "www.picuki.com",
+                "www.whatfontis.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/setupad\\/bl-ed6e5a5-2e318137\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 5
+            },
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "7835cc0628611aff94704c78ea723ea396c8ef664576f4af906616a604252fbf"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ezgif.com",
+                "twittervideodownloader.com",
+                "www.ascii-code.com",
+                "www.picuki.com",
+                "www.whatfontis.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/gomedia\\/op\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 4,
+                "Date.prototype.getTime": 4
+            },
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "c63b1bc2d73b4d5bf1674063be7b49f77a5a31c5e09c3c3a1a6abe19e1ebd0a9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gizmodo.com",
+                "jezebel.com",
+                "kotaku.com",
+                "www.avclub.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/gomedia\\/b-cf1706d-4a4114ab\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 4
+            },
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "08fa7ff07736c62eb09f473459e4123d902f388debf370e10103f03ba3c61ec2"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gizmodo.com",
+                "jezebel.com",
+                "kotaku.com",
+                "www.avclub.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/gomedia\\/bl-ed6e5a5-11d969db\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 4
+            },
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "7b24f38f0cb9f59cd5379275053dbc91d8a5ecbad54dba8b1545f730e098d3ef"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gizmodo.com",
+                "jezebel.com",
+                "kotaku.com",
+                "www.avclub.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/sk-ebaumsworld\\/op\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "Navigator.prototype.language": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2a15962d2e3834cbde4e554891762e8f282828c198d22160a4692827058ceacb"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "knowyourmeme.com",
+                "www.ebaumsworld.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/sk-ebaumsworld\\/b-93b366a-2408ce2a\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "919939a2641fc2b8953f574b3bfcad533e3dba287fc8c1c373f3bf8e71011c24"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "knowyourmeme.com",
+                "www.ebaumsworld.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/sk-ebaumsworld\\/bl-ed6e5a5-a84f507e\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "390541b6844800320d273913087b57a506d860500e8da6a848797f174eacbec9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "knowyourmeme.com",
+                "www.ebaumsworld.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/babycenter\\/b-e09f10f-b72a917f\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "0456caf9d30ae1c9298b02b94b0cbacffc0a15023ac0073dc20d542a75701ddd"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "babycenter.com",
+                "www.babycenter.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/buzzfeed\\/op\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "window.localStorage": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a7a9afde270a101a87fdbe1117b665ff9b7262ea75b22aac2f82b6374908f594"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "buzzfeed.com",
+                "www.huffpost.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/buzzfeed\\/b-ed6e5a5-97af9409\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "73bafc5121126dbe9bb105353b2f4425ccd35c90eceee8fe29ac37dc00847ba0"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "buzzfeed.com",
+                "www.huffpost.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/buzzfeed\\/bl-ed6e5a5-8850543a\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "0c5639182b9e482af7bc578b48ad6aba12a9d2369f1f2b53b359d5797ac590c5"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "buzzfeed.com",
+                "www.huffpost.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/cbc\\/b-e09f10f-adaccf14\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2c59d56de2dee7b4e2c85eda813d8b8fdc0c7906110a77abefbe2991a1d17f76"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cbc.ca",
+                "www.cbc.ca"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/cbc\\/bl-ed6e5a5-5abf6abe\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f6624d12825dee1aa2752be8185bb6419e2d5ab805b54b088ca2eea1d084893e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cbc.ca",
+                "www.cbc.ca"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/iponweb\\/blacklist_script\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b2ead8cacfa53b6dc1bcec8f7cf89b71e4d93a6e38cef131dd839a453a246330"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dslr-forum.de",
+                "www.goingelectric.de"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/iponweb\\/blocking_script\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4e605cb14d1186749fb40b1904926ed58ca469c5667aabae7dd685c6754a497a"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dslr-forum.de",
+                "www.goingelectric.de"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/grvmedia-owned\\/b-cf1706d-32396126\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "Date.prototype.getTime": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "74611eeacb4da8f66d1b53312b6394e306331b6292f393ce66bafe47f04c4737"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hitc.com",
+                "www.hitc.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/verticalscope-test-d\\/op\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "41478909eda2d5bc4646c103f28fc711aebd874bb24abc1da5363b8329979a7f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mtbr.com",
+                "www.rcgroups.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/verticalscope-test-d\\/b-2805e46-20bb7c10\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "428edab091862712f1148b97089b3bdeb65a9e1b9d37280ad5f3fb5cc5c332a6"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mtbr.com",
+                "www.rcgroups.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/verticalscope-test-d\\/bl-ed6e5a5-bb294483\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "ffb5406ee9b4e0e1415a382c9d1e669ad09999a809778cda6ad7ad25e6fa4273"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mtbr.com",
+                "www.rcgroups.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/realtor\\/b-e09f10f-77a17890\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "realtor.com",
+                "www.realtor.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/realtor\\/bl-ed6e5a5-8a378dd0\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "realtor.com",
+                "www.realtor.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/verticalscope-standard\\/b-935e2f1-e1966341\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4c7a33e10ac22056505589dc8c52e99edb6a03470f63af4779080f2c30120884"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "roadbikereview.com",
+                "www.roadbikereview.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/verticalscope-standard\\/bl-ed6e5a5-3979ff61\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b56204bd159295e328df5dc6646d6f3bf567954a167117e7355a06f31ef872df"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "roadbikereview.com",
+                "www.roadbikereview.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/advally-rogerebert\\/b-e09f10f-48bd4aab\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "42b1c87ceefe8ad79c3f92d814a9d57c6965bcac8215e488fb3ac5af1e1ff110"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rogerebert.com",
+                "www.rogerebert.com"
+            ]
+        },
+        {
+            "rule": "adlightning\\.com\\/zam\\/b-ed6e5a5-25cabf19\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tagan"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "67d745343747e79e7cf8fad6ae849a5fc592aa29efd6b77b62d4b34859c55d25"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "wowhead.com",
+                "www.wowhead.com"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising"
+    ],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.40350877192982454
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.23684210526315788
+        },
+        {
+            "domain": "googlesyndication.com",
+            "prevalence": 0.14035087719298245
+        },
+        {
+            "domain": "htplayground.com",
+            "prevalence": 0.043859649122807015
+        },
+        {
+            "domain": "stpd.cloud",
+            "prevalence": 0.03508771929824561
+        },
+        {
+            "domain": "confiant-integrations.net",
+            "prevalence": 0.03508771929824561
+        },
+        {
+            "domain": "cookielaw.org",
+            "prevalence": 0.02631578947368421
+        },
+        {
+            "domain": "adligature.com",
+            "prevalence": 0.017543859649122806
+        },
+        {
+            "domain": "blogherads.com",
+            "prevalence": 0.017543859649122806
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.017543859649122806
+        }
+    ],
+    "types": {
+        "Script": 108
+    },
+    "nameservers": [
+        "ns-580.awsdns-08.net",
+        "ns-1166.awsdns-17.org",
+        "ns-1856.awsdns-40.co.uk",
+        "ns-187.awsdns-23.com"
+    ]
+}

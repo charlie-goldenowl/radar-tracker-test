@@ -1,0 +1,1454 @@
+{
+    "domain": "2mdn.net",
+    "owner": {
+        "name": "Google LLC",
+        "displayName": "Google",
+        "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+        "url": "http://google.com"
+    },
+    "source": [
+        "DuckDuckGo-NO"
+    ],
+    "prevalence": 0.0188,
+    "sites": 187,
+    "subdomains": [
+        "s0"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "2mdn\\.net\\/instream\\/video\\/client\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 120
+            },
+            "sites": 125,
+            "prevalence": 0.0126,
+            "cnames": [],
+            "responseHashes": [
+                "d0bffc7261df1454c5e05475cda7d9e6647318dc6c3936767e1252bfe8849c54"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gizmodo.com",
+                "screenrant.com",
+                "time.com",
+                "twinfinite.net",
+                "www.azlyrics.com",
+                "www.dailymotion.com",
+                "www.howtogeek.com",
+                "www.makeuseof.com",
+                "www.mapquest.com",
+                "www.politico.com",
+                "www.macheforum.com",
+                "www.flightradar24.com",
+                "rense.com",
+                "www.ukulele-tabs.com",
+                "www.huffpost.com",
+                "www.xda-developers.com",
+                "www.thesportster.com",
+                "vejr.tv2.dk",
+                "www.bundesliga.com",
+                "thelordsofthefallen.wiki.fextralife.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/express_html_inpage_rendering_lib_200_278\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 14,
+                "HTMLMediaElement.prototype.canPlayType": 14,
+                "Date.prototype.getTime": 8
+            },
+            "sites": 17,
+            "prevalence": 0.00171,
+            "cnames": [],
+            "responseHashes": [
+                "1642dd5dc126df4feff2255cba0988528507973d842d0a73331a5873f6b9d4e5"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "apningstider.info",
+                "dinside.dagbladet.no",
+                "julesanger.no",
+                "kabal.info",
+                "movie.douban.com",
+                "silverprice.org",
+                "slashdot.org",
+                "vartoslo.no",
+                "www.americanrifleman.org",
+                "www.calendar-12.com",
+                "www.cpu-monkey.com",
+                "www.dn.no",
+                "www.glomdalen.no",
+                "www.kapital.no",
+                "www.motorbiscuit.com",
+                "www.startsiden.no",
+                "www.valuta-kurser.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/html_inpage_rendering_lib_200_278\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 7,
+                "HTMLMediaElement.prototype.canPlayType": 7,
+                "Date.prototype.getTime": 7,
+                "window.innerWidth": 5,
+                "window.innerHeight": 5
+            },
+            "sites": 8,
+            "prevalence": 0.000805,
+            "cnames": [],
+            "responseHashes": [
+                "a6d36aa3d742ccd6f1ca3c76dcf885af72f7bebe2fcc001ea011a7aea2f55678"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "baatplassen.no",
+                "forebears.io",
+                "people.com",
+                "wegotthiscovered.com",
+                "www.kongregate.com",
+                "www.nationen.no",
+                "www.rpgsite.net",
+                "www.tmz.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/Enabler_01_250\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 5,
+                "window.innerWidth": 5,
+                "window.innerHeight": 5
+            },
+            "sites": 5,
+            "prevalence": 0.000503,
+            "cnames": [],
+            "responseHashes": [
+                "31d02f43dd0c7fc5c0d95db087a23f1c2d729c93f10450884c8da6b415f7839b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "baatplassen.no",
+                "forebears.io",
+                "people.com",
+                "www.kongregate.com",
+                "www.nationen.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dot\\.gif",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000503,
+            "cnames": [],
+            "responseHashes": [
+                "77b1d2c0857d4e95d4c2ae7aa0abc5aaafa6bd4581b31203d1592759c26f5c44"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "delicious-audio.com",
+                "mydramalist.com",
+                "www.avsim.com",
+                "www.nigella.com",
+                "www.seat61.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/9308900916323924641\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "dda022b33e291a5130b0eebc62b3e5f9ccb1f0290037997f8e0dacb218f781f6"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dagbladet.no",
+                "dinside.dagbladet.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/9308900916323924641\\/img\\/lettermark\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a776c6a10617e724cd6b57bca9b6708c435ad87dc9e6b83f305ea4f654c55b25"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dagbladet.no",
+                "dinside.dagbladet.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/9308900916323924641\\/img\\/copy-1\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "cb5cbde52237a6250373cee94c5320b6a33e4f65bfa56a1aca080a62cb9050fd"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dagbladet.no",
+                "dinside.dagbladet.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/9308900916323924641\\/img\\/copy-2\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e03e3e2595dbe21afda78e1024cb413f059b782e5ed9c2ca5d5403e4641041f3"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dagbladet.no",
+                "dinside.dagbladet.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/9308900916323924641\\/img\\/cta\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "299b2fe15f4e2158bfff9ea9049a0fb2eec583dd32d501f595a454b1196510ac"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dagbladet.no",
+                "dinside.dagbladet.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/9308900916323924641\\/img\\/bg\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4e41e92d9003ec6e85be9d6f5546fd6196d7bc8a1b7b3bb2de9a0b180c5d812f"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dagbladet.no",
+                "dinside.dagbladet.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/1146940042974169543",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6ed6689496fbd0296eca54426386f9d43fdb2a9f8fc5cd144e065080c497951f"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "finanseksperten.no",
+                "www.fanpop.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/7258938670749783794",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "183c88e91253acd8c82b923e203c5012237057c786c4a498e369c403797d766b"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "klikk.no",
+                "screenrant.com",
+                "www.abcnyheter.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/9719091685747105227",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000503,
+            "cnames": [],
+            "responseHashes": [
+                "18c2ef7ef6030c93e8718072e2626cf313a25cdc7d351458aafb073ac0bcf207"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "klikk.no",
+                "www.h-avis.no",
+                "www.startsiden.no",
+                "www.t-a.no",
+                "www.tb.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/7410484386335067809",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "1cb846b9c5568695b106fcd1814a44b3f49d233746c95647ce6fe33322cf613a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "jsonformatter.org",
+                "visualboyadvance.org",
+                "www.calendar-365.com",
+                "www.skiftkalender.no",
+                "www.wincalendar.com",
+                "www.yamli.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/gsap_3\\.2\\.4_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "e8403779d45a9590b43c0ecf984ebe11e75fd2982630d658390a6001a6768770"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "people.com",
+                "wegotthiscovered.com",
+                "www.kongregate.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/Enabler_01_247\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "wegotthiscovered.com",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/6314271810999202113",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b8a21ad38266e2bfe630215872f22fc0bf0169cc2203731c8259f751295458c1"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "abcnyheter.no",
+                "www.abcnyheter.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/DcmEnabler_01_250\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "fc9fe8ec0612072dc6d3b4acd268e09d28c253807f47846a5f70dd8360d1a0d1"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "americanrifleman.org",
+                "www.americanrifleman.org"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/gsap_3\\.5\\.1_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "341e0d761251ee538d0cad6322c66abdbf78dc7d6f3ca62f3459fab822a2103f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bilnorge.no",
+                "www.bilnorge.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/gsap_3\\.11\\.5_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e5118140a15e5dbb471f19c06816bcfa44170878bd8fe0ade80c24b7a988d8ba"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bilnorge.no",
+                "www.bilnorge.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/dfa7banner_html_inpage_rendering_lib_200_268\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 8,
+                "Navigator.prototype.plugins": 8,
+                "Navigator.prototype.mimeTypes": 8,
+                "HTMLMediaElement.prototype.canPlayType": 8
+            },
+            "sites": 8,
+            "prevalence": 0.000805,
+            "cnames": [],
+            "responseHashes": [
+                "6d28830ef0fdeba41bc402b8b12341e929c6c66db8fe512deb2b1baa9611745b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bundesliga.com",
+                "www.eurosport.no",
+                "www.everydayhealth.com",
+                "www.gjengangeren.no",
+                "www.homecinemachoice.com",
+                "www.oa.no",
+                "www.oblad.no",
+                "www.tradewindsnews.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/3251414639563932908",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2ac588367b2629b8ffee0410eea3afcd392062e29806e4e86e0ee18ed63f79d7"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cpu-monkey.com",
+                "www.cpu-monkey.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/6415822779668496384\\/2023-WinterSALE-NO-Norwegian-300x250-638378899595443985-454cfaac-6cb2-4795-8198-852dea94f72a\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cpu-monkey.com",
+                "www.cpu-monkey.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/Enabler\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3,
+                "window.innerWidth": 3,
+                "window.innerHeight": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "c3ec5fd82b2b5642bcd2bb6f6db113306135239c684e8b41ee971aaeeb436d84"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "drm24.no",
+                "www.drm24.no",
+                "www.gardsdrift.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/instream\\/html5\\/ima3\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "Navigator.prototype.deviceMemory": 2,
+                "Date.prototype.getTime": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "395149d128d5d361aaf2cd3df1cfd23dee746145bdef0105d99aba97fbcf712f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "motor.no",
+                "www.sennik.biz"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/creatives\\/assets\\/3705119\\/adlDCO\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "Navigator.prototype.appName": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "516662dd9977e229a39c361398cb3c298ae5ca241f184f898806392fc484a5f6"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nationen.no",
+                "www.nationen.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/creatives\\/assets\\/3705119\\/adl\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "24ee784f7efaee9e6b398f4f20335d9cef65475d258a436bc3d4c22fc8770a58"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nationen.no",
+                "www.nationen.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/creatives\\/assets\\/3528849\\/MaxboSans\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2b92714ba378efa8d2ce32f52e28fd9b757cd9ee40e8f37539b7112bf2b901aa"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nationen.no",
+                "www.nationen.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/creatives\\/assets\\/3528849\\/MaxboSans-Bold\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "692fa71e4cf64c650d2383bac748c801981f481b13b174c75228d4da736e4842"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nationen.no",
+                "www.nationen.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/creatives\\/assets\\/3528849\\/MaxboHeavy-Regular\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b13a59af8f03dd99e7cd680e6ed58e826073d650906aa9012d936fc3266c2e51"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nationen.no",
+                "www.nationen.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/creatives\\/assets\\/3528849\\/MaxboSans-Black\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "8d90c3d2312d7cdcc3616d8969820aa29b89a6f6bb9c8df3ddb223e4e7198747"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nationen.no",
+                "www.nationen.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/490376\\/729264176\\/1677144628130\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "62b7926273c4f01a31f606cc058f3e847d2ebf4f800e6ddc188d1b9cc2f1c93f"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "oa.no",
+                "www.oblad.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/490376\\/729264176\\/1677144628130\\/3201993be1687af0d2623aa9376f17f4\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e8e72e0a24814d17ec075278071890e1127f7e79a70cd0e8e95b1fd844be768c"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "oa.no",
+                "www.oblad.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/490376\\/729264176\\/1677144628130\\/media\\/f299fdd0e7142112ce1e2e6615817612\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a6830def6c38e727d050291647fc92f58fcaa6644afb993027c7b14756d741ce"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "oa.no",
+                "www.oblad.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/490376\\/729264176\\/1677144628130\\/media\\/e8db6c29467bbc6a51dde5e4090e4d3f\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b10050c67c3595c709f5b41d1c9819f946d9cb7b21b4af3f7dba25c9ec56ceed"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "oa.no",
+                "www.oblad.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/490376\\/729264176\\/1677144628130\\/media\\/8be52f2c514182d9036fbbf5ab9234ec\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "43bbc2840331377293b5326460d73566eb93ae7fad73e1a34edc4128aa7acdc0"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "oa.no",
+                "www.oblad.no"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdpage_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdpagedeck_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdgooglead_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdimage_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdattached_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdtaparea_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwd_webcomponents_v1_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/googbase_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdpage_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdpagedeck_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdgooglead_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdimage_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwd-events-support\\.1\\.0\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdgpadataprovider_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdattached_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdtexthelper_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwddatabinder_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdtaparea_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwdimagebutton_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwd-text-fitting\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1651951033822323219\\/gwd-dynamic-binders\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rpgsite.net",
+                "www.rpgsite.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/4709917646275509244",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "a95f972aff86db9da6cff500d4a318767514889495fec224c034cadc793bb0d2"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "t-a.no",
+                "www.tb.no",
+                "www.tk.no"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Ad Fraud"
+    ],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "imasdk.googleapis.com",
+            "prevalence": 0.5465587044534413
+        },
+        {
+            "domain": "googlesyndication.com",
+            "prevalence": 0.1659919028340081
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.145748987854251
+        },
+        {
+            "domain": "createjs.com",
+            "prevalence": 0.032388663967611336
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.024291497975708502
+        },
+        {
+            "domain": "lijit.com",
+            "prevalence": 0.020242914979757085
+        },
+        {
+            "domain": "adnuntius.com",
+            "prevalence": 0.020242914979757085
+        },
+        {
+            "domain": "adlightning.com",
+            "prevalence": 0.016194331983805668
+        },
+        {
+            "domain": "bannerflow.net",
+            "prevalence": 0.012145748987854251
+        },
+        {
+            "domain": "bluebillywig.com",
+            "prevalence": 0.008097165991902834
+        }
+    ],
+    "types": {
+        "Script": 213,
+        "Image": 44,
+        "Document": 8,
+        "Stylesheet": 16,
+        "Font": 6
+    },
+    "nameservers": [
+        "ns2.google.com",
+        "ns3.google.com",
+        "ns4.google.com",
+        "ns1.google.com"
+    ]
+}

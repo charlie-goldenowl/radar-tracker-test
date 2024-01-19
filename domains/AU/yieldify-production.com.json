@@ -1,0 +1,108 @@
+{
+    "domain": "yieldify-production.com",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.00111,
+    "sites": 11,
+    "subdomains": [
+        "gateway",
+        "fonts"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "yieldify-production\\.com\\/socialproof\\/rpc",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "gateway"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "b24a1b606c6d47cdd8420d7ce1b84904011722cd4bc9d010d9257a2ed446f135",
+                "2bb374c5b05f34195870b30d4759e494d987931e691af60cfd88023493bea171",
+                "84c89228926bd021c6a9f3948f614b50f5771929b30402048f0dc9e3b5ff1e80"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "assemblylabel.com",
+                "www.adrenaline.com.au",
+                "www.cheesecake.com.au",
+                "www.nicks.com.au",
+                "www.onitsukatiger.com"
+            ]
+        },
+        {
+            "rule": "yieldify-production\\.com\\/dynamic-coupon\\/rpc",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "gateway"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "9900ae1a2b5e9f83a6f116aba0f35c1b09c558324a9c79855bd91afc5dd55dec"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adrenaline.com.au",
+                "www.cheesecake.com.au",
+                "www.redballoon.com.au"
+            ]
+        },
+        {
+            "rule": "yieldify-production\\.com\\/fonts\\/100446\\/ae4e4b69-57c7-4974-b159-72ed70d6d4a7\\.otf",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "fonts"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "26dec3164adce3502c6630cd8d10c55f1d833e413e451baa54690d0f810fcec2"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cheesecake.com.au",
+                "www.cheesecake.com.au"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Fetch": 8,
+        "Font": 2
+    },
+    "nameservers": [
+        "ns-1411.awsdns-48.org",
+        "ns-1717.awsdns-22.co.uk",
+        "ns-240.awsdns-30.com",
+        "ns-653.awsdns-17.net"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "domain": "adconsole.ch",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.000403,
+    "sites": 4,
+    "subdomains": [
+        "api"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "adconsole\\.ch\\/api\\/ws-yaleo\\/v2\\/data\\.json",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "627904de3acee40999c36bf57ddf906b87dcbd81a93b43b24753ea4f07287777",
+                "5582ee6e33dbb9e1ff8c061b590d7713791de1347e34094e5842f28b5d39ba06",
+                "1ed3ca0a80a4756d889cad0dea2367e2954fc23af131faf4ea9b31cac1a7ad63"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "bclk": 0.00040290088638195,
+                "lotame_domain_check": 0.0001007252215954875
+            },
+            "exampleSites": [
+                "lesobservateurs.ch",
+                "www.laliberte.ch",
+                "www.polizei-schweiz.ch",
+                "www.swisshabs.ch"
+            ]
+        },
+        {
+            "rule": "adconsole\\.ch\\/api\\/ws-contextual\\/page-keywords",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "cabf5609dd3ca129d4a52f774801221dd9715298f4d99d36959ce24dc3c716ad"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.0001007252215954875
+            },
+            "exampleSites": [
+                "lesobservateurs.ch",
+                "www.laliberte.ch",
+                "www.polizei-schweiz.ch",
+                "www.swisshabs.ch"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "businessclick.ch",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Fetch": 8
+    },
+    "nameservers": [
+        "charles.ns.cloudflare.com",
+        "cheryl.ns.cloudflare.com"
+    ]
+}

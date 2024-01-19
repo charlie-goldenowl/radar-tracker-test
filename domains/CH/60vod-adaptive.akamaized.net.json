@@ -1,0 +1,194 @@
+{
+    "domain": "60vod-adaptive.akamaized.net",
+    "owner": {
+        "name": "Akamai Technologies",
+        "displayName": "Akamai",
+        "privacyPolicy": "https://www.akamai.com/us/en/privacy-policies/",
+        "url": "http://akamai.com"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.000101,
+    "sites": 1,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "60vod-adaptive\\.akamaized\\.net\\/exp=1704240649~acl=%2F882e7ac2-f6d0-4843-97e2-05844b8b8183%2F%2A~hmac=4fa4920ff7989716975ddf3b33ac0398c04653761d9f41b35736ecf3a921d8bc\\/882e7ac2-f6d0-4843-97e2-05844b8b8183\\/parcel\\/audio\\/03ac269b\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "fca2c706b37c188d26549a96b1101c5708e1078c00306f13ae399029f87c2819"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "solaredge.com",
+                "www.solaredge.com"
+            ]
+        },
+        {
+            "rule": "60vod-adaptive\\.akamaized\\.net\\/exp=1704240650~acl=%2F882e7ac2-f6d0-4843-97e2-05844b8b8183%2F%2A~hmac=ce047045147cc679cfbe48ac686d224491d75cdb0162ee9e735a8af9926fc79d\\/882e7ac2-f6d0-4843-97e2-05844b8b8183\\/parcel\\/audio\\/03ac269b\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "fca2c706b37c188d26549a96b1101c5708e1078c00306f13ae399029f87c2819"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "solaredge.com",
+                "www.solaredge.com"
+            ]
+        },
+        {
+            "rule": "60vod-adaptive\\.akamaized\\.net\\/exp=1704240649~acl=%2F882e7ac2-f6d0-4843-97e2-05844b8b8183%2F%2A~hmac=4fa4920ff7989716975ddf3b33ac0398c04653761d9f41b35736ecf3a921d8bc\\/882e7ac2-f6d0-4843-97e2-05844b8b8183\\/parcel\\/video\\/55b1f918\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "626b3f403f75028aa451b22d093b415ac5dc5c7cfdee0554522b61726b7373dc"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "solaredge.com",
+                "www.solaredge.com"
+            ]
+        },
+        {
+            "rule": "60vod-adaptive\\.akamaized\\.net\\/exp=1704240650~acl=%2F882e7ac2-f6d0-4843-97e2-05844b8b8183%2F%2A~hmac=ce047045147cc679cfbe48ac686d224491d75cdb0162ee9e735a8af9926fc79d\\/882e7ac2-f6d0-4843-97e2-05844b8b8183\\/parcel\\/video\\/1debb8d7\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "242d9e0eea55346c5595904cb871fa86cf63fa78abc7f6d57cf2c583cc1325cc"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "solaredge.com",
+                "www.solaredge.com"
+            ]
+        },
+        {
+            "rule": "60vod-adaptive\\.akamaized\\.net\\/exp=1704240654~acl=%2F882e7ac2-f6d0-4843-97e2-05844b8b8183%2F%2A~hmac=7d894b5f6c5d1c3a831522cbd6880f61d374e6f2609ef88fa589abc87780aa5b\\/882e7ac2-f6d0-4843-97e2-05844b8b8183\\/parcel\\/audio\\/03ac269b\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "fca2c706b37c188d26549a96b1101c5708e1078c00306f13ae399029f87c2819"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "solaredge.com",
+                "www.solaredge.com"
+            ]
+        },
+        {
+            "rule": "60vod-adaptive\\.akamaized\\.net\\/exp=1704240655~acl=%2F882e7ac2-f6d0-4843-97e2-05844b8b8183%2F%2A~hmac=42da61daf67cc1ad56d05f27a089dae0897704a0116c1ee979e6dd0dd3e0bfca\\/882e7ac2-f6d0-4843-97e2-05844b8b8183\\/parcel\\/audio\\/03ac269b\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "fca2c706b37c188d26549a96b1101c5708e1078c00306f13ae399029f87c2819"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "solaredge.com",
+                "www.solaredge.com"
+            ]
+        },
+        {
+            "rule": "60vod-adaptive\\.akamaized\\.net\\/exp=1704240654~acl=%2F882e7ac2-f6d0-4843-97e2-05844b8b8183%2F%2A~hmac=7d894b5f6c5d1c3a831522cbd6880f61d374e6f2609ef88fa589abc87780aa5b\\/882e7ac2-f6d0-4843-97e2-05844b8b8183\\/parcel\\/video\\/1debb8d7\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "242d9e0eea55346c5595904cb871fa86cf63fa78abc7f6d57cf2c583cc1325cc"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "solaredge.com",
+                "www.solaredge.com"
+            ]
+        },
+        {
+            "rule": "60vod-adaptive\\.akamaized\\.net\\/exp=1704240655~acl=%2F882e7ac2-f6d0-4843-97e2-05844b8b8183%2F%2A~hmac=42da61daf67cc1ad56d05f27a089dae0897704a0116c1ee979e6dd0dd3e0bfca\\/882e7ac2-f6d0-4843-97e2-05844b8b8183\\/parcel\\/video\\/55b1f918\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "626b3f403f75028aa451b22d093b415ac5dc5c7cfdee0554522b61726b7373dc"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "solaredge.com",
+                "www.solaredge.com"
+            ]
+        }
+    ],
+    "categories": [
+        "CDN"
+    ],
+    "performance": {},
+    "cookies": 0.000101,
+    "topInitiators": [
+        {
+            "domain": "vimeocdn.com",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "XHR": 16
+    },
+    "nameservers": []
+}

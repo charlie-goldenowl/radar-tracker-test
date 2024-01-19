@@ -1,0 +1,110 @@
+{
+    "domain": "6sense.com",
+    "owner": {
+        "name": "6Sense Insights, Inc.",
+        "displayName": "6Sense Insights, Inc."
+    },
+    "source": [
+        "DuckDuckGo-NO"
+    ],
+    "prevalence": 0.00101,
+    "sites": 10,
+    "subdomains": [
+        "epsilon",
+        "epsilon-globalaccelerator"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "6sense\\.com\\/v3\\/company\\/details",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "epsilon",
+                "epsilon-globalaccelerator"
+            ],
+            "apis": {},
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [
+                "2c1c9da0728a595b4b37bc419c81afa38999160e561adfb4a6ebca138f2f2db5",
+                "ab0d0e87c2063167d9310214a816670923613028dc7963cadd9e2f685ca371b6",
+                "6ae30def120906ff397c44d15ef6f285188134f852cb0e02f5af7e298fddcfae",
+                "be1e89d414dae74badae4253dad03e4f05065a0ba98799588a79ff6263477052"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "splunk.com",
+                "developer.nvidia.com",
+                "docs.splunk.com",
+                "dzone.com",
+                "www.fortinet.com",
+                "www.instructables.com",
+                "www.mongodb.com",
+                "www.nvidia.com",
+                "www.payscale.com",
+                "www.techrepublic.com"
+            ]
+        },
+        {
+            "rule": "6sense\\.com\\/v3\\/company\\/details",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "epsilon",
+                "epsilon-globalaccelerator"
+            ],
+            "apis": {},
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Preflight",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "splunk.com",
+                "developer.nvidia.com",
+                "docs.splunk.com",
+                "dzone.com",
+                "www.fortinet.com",
+                "www.instructables.com",
+                "www.mongodb.com",
+                "www.nvidia.com",
+                "www.payscale.com",
+                "www.techrepublic.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "6sc.co",
+            "prevalence": 0.5454545454545454
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.36363636363636365
+        },
+        {
+            "domain": "dirms4qsy6412.cloudfront.net",
+            "prevalence": 0.09090909090909091
+        }
+    ],
+    "types": {
+        "XHR": 10,
+        "Preflight": 10
+    },
+    "nameservers": [
+        "ns-964.awsdns-56.net",
+        "ns-1307.awsdns-35.org",
+        "ns-244.awsdns-30.com",
+        "ns-1579.awsdns-05.co.uk"
+    ]
+}

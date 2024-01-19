@@ -1,0 +1,125 @@
+{
+    "domain": "a3ion.com",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.000705,
+    "sites": 7,
+    "subdomains": [
+        "a",
+        "s"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "a3ion\\.com\\/ad-provider\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "a"
+            ],
+            "apis": {
+                "Document.cookie getter": 5,
+                "Navigator.prototype.userAgent": 6,
+                "Navigator.prototype.language": 5,
+                "NavigatorUAData.prototype.getHighEntropyValues": 5,
+                "Date.prototype.getTime": 6
+            },
+            "sites": 7,
+            "prevalence": 0.000705,
+            "cnames": [],
+            "responseHashes": [
+                "2026783dd3146539605e1e0bb0c4f6575a209ffdcc7cb6a8e32c8944301bc24b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bestcam.tv",
+                "hotleak.vip",
+                "leakedzone.com",
+                "scrolller.com",
+                "thotporn.tv",
+                "thotsbay.tv",
+                "www.xxbrits.com"
+            ]
+        },
+        {
+            "rule": "a3ion\\.com\\/v1\\/api\\.php",
+            "cookies": 0.000604,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "1ac0d208844441baf8a9373d368d3b0a86721bbcf89d3cfab8d1ac419e7c001e",
+                "2e890e56d6ce3ef0e9530335fed6f8e2fa7a4a47a8c3ed5e4196f648941c7163",
+                "d452c73ffbe7cf0f652a7bf167836a2fe95af0da2d0aab5ec578644597654847",
+                "1499e231ec479eca4776ce2b571e5f97736df207f4784b996a4d9f2b50fbe16a",
+                "71a138837996856608b8c6f3b3d7280205d03056fe9c407a1798617439682000"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bestcam.tv",
+                "hotleak.vip",
+                "leakedzone.com",
+                "thotporn.tv",
+                "thotsbay.tv",
+                "www.xxbrits.com"
+            ]
+        },
+        {
+            "rule": "a3ion\\.com\\/cimp\\.php",
+            "cookies": 0.000604,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bestcam.tv",
+                "hotleak.vip",
+                "leakedzone.com",
+                "thotporn.tv",
+                "thotsbay.tv",
+                "www.xxbrits.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000604,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Script": 7,
+        "XHR": 12
+    },
+    "nameservers": [
+        "dns2.cloudns.net",
+        "sec1.rcode0.net",
+        "dns1.cloudns.net",
+        "sec2.rcode0.net"
+    ]
+}

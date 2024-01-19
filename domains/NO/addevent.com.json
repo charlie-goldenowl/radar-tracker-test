@@ -1,0 +1,66 @@
+{
+    "domain": "addevent.com",
+    "owner": {
+        "name": "AddEvent, Inc.",
+        "displayName": "AddEvent"
+    },
+    "source": [
+        "DuckDuckGo-NO"
+    ],
+    "prevalence": 0.000201,
+    "sites": 2,
+    "subdomains": [
+        "www",
+        "cdn"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "addevent\\.com\\/libs\\/atc\\/1\\.6\\.1\\/atc\\.min\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www",
+                "cdn"
+            ],
+            "apis": {
+                "Navigator.prototype.maxTouchPoints": 2,
+                "Navigator.prototype.userAgent": 1,
+                "Date.prototype.getTime": 2
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "2a47e6425e7b8b13cc41a793610261685f231c584701ba52f6f5a6fe6e0a02c6"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "clasohlson.com",
+                "about.clasohlson.com",
+                "www.brentfordfc.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Script": 3
+    },
+    "nameservers": [
+        "ns-1369.awsdns-43.org",
+        "ns-141.awsdns-17.com",
+        "ns-909.awsdns-49.net",
+        "ns-1626.awsdns-11.co.uk"
+    ]
+}

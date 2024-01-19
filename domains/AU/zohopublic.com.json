@@ -1,0 +1,116 @@
+{
+    "domain": "zohopublic.com",
+    "owner": {
+        "name": "ZOHO Corporation",
+        "displayName": "ZOHO"
+    },
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.000904,
+    "sites": 9,
+    "subdomains": [
+        "salesiq",
+        "vts"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "zohopublic\\.com\\/visitor\\/v2\\/channels\\/website",
+            "cookies": 0.000904,
+            "fingerprinting": 0,
+            "subdomains": [
+                "salesiq"
+            ],
+            "apis": {},
+            "sites": 9,
+            "prevalence": 0.000904,
+            "cnames": [],
+            "responseHashes": [
+                "94cc25c951e612d6c60bf29010b0048c86ed4994663028d8d0fd5d9e348ce41b",
+                "c9cb690e253b274a33e57b6cf496bfbea172918a53dfa33d1d2c82911f8a254c",
+                "6874c2220edf1cbddc9e848de90556b3a985725d2742c1dc3748903ee9032a35",
+                "395dc824fb9aca6247858990fe319a13342548e6ca3f8191d56b05061bcd78ff",
+                "972d18e989a6ff45c8f257a5e9c12d4fb965cce863e7afb848028cf49a58e634",
+                "7a402962ed8edc597a87a1f20d0a4a2e1385fda40040775919701ac995e72551",
+                "63fc9c6876297184157dc4169cc221874b6ac1c459e9fa28e8b169dd5d8d2f3a",
+                "7f359fbd3ecf57db380799e82403819058e3e887f47a2bcfb2844dc0a104c220"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "floorvenue.com.au",
+                "tasmania.com",
+                "www.bluettipower.com.au",
+                "www.goodness.com.au",
+                "www.instrumentchoice.com.au",
+                "www.lavitafurniture.com.au",
+                "www.livingstyles.com.au",
+                "www.loungelife.com.au",
+                "www.stellarinfo.com"
+            ]
+        },
+        {
+            "rule": "zohopublic\\.com\\/watchws",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "vts"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "WebSocket",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "floorvenue.com.au",
+                "www.goodness.com.au",
+                "www.instrumentchoice.com.au",
+                "www.lavitafurniture.com.au",
+                "www.loungelife.com.au"
+            ]
+        }
+    ],
+    "categories": [
+        "CDN"
+    ],
+    "performance": {},
+    "cookies": 0.000904,
+    "topInitiators": [
+        {
+            "domain": "zoho.com",
+            "prevalence": 0.631578947368421
+        },
+        {
+            "domain": "zohocdn.com",
+            "prevalence": 0.21052631578947367
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.10526315789473684
+        },
+        {
+            "domain": "bigcommerce.com",
+            "prevalence": 0.05263157894736842
+        }
+    ],
+    "types": {
+        "XHR": 9,
+        "WebSocket": 5
+    },
+    "nameservers": [
+        "ns41.zns-53.net",
+        "pdns90.ultradns.net",
+        "pdns90.ultradns.biz",
+        "ns11.zns-53.com",
+        "pdns90.ultradns.com",
+        "ns31.zns-53.com",
+        "ns21.zns-53.net",
+        "ns1.zohocorp.com"
+    ]
+}

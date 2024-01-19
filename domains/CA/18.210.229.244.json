@@ -1,0 +1,51 @@
+{
+    "domain": "18.210.229.244",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.000705,
+    "sites": 7,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "18\\.210\\.229\\.244\\/is",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000705,
+            "cnames": [],
+            "responseHashes": [
+                "eac3280988cb97d89e3e17068b98519a157f9933623f37f641d619948d88058e",
+                "1d5d62cb5cb30b3126cb9b1b1280f4b8c1ab5c279ef49322c6f8df967b151b5f",
+                "70bb088651403d3579170a5bac4350d7672e2a629b1d95873ad8e27db1ca5dd0",
+                "b08fc37b3f0a789ae505b81ff15f104c7f3e0b7ec1a2a38930bdfe0de899f6ed",
+                "b006070ad28ac7c7a7977c855a74a046e4a4a0bfb8241df5fd4e7688aa30e7d1",
+                "be18c81a9b72ff2c592a3a4dbab76f25528213c8a08dda371eac706080281cf5"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bitwarden.com",
+                "food52.com",
+                "linktr.ee",
+                "www.focusonthefamily.com",
+                "www.fortinet.com",
+                "www.lennox.com",
+                "www.rbauction.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "types": {
+        "Fetch": 7
+    },
+    "nameservers": []
+}

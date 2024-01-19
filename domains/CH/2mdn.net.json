@@ -1,0 +1,1498 @@
+{
+    "domain": "2mdn.net",
+    "owner": {
+        "name": "Google LLC",
+        "displayName": "Google",
+        "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+        "url": "http://google.com"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.0216,
+    "sites": 214,
+    "subdomains": [
+        "s0"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "2mdn\\.net\\/dot\\.gif",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 36,
+            "prevalence": 0.00363,
+            "cnames": [],
+            "responseHashes": [
+                "77b1d2c0857d4e95d4c2ae7aa0abc5aaafa6bd4581b31203d1592759c26f5c44"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "whatismyipaddress.com",
+                "www.biblegateway.com",
+                "www.pcinvasion.com",
+                "tecnobits.com",
+                "www.phoronix.com",
+                "flightsim.to",
+                "technischetipps.com",
+                "sonichits.com",
+                "reisetopia.ch",
+                "www.soundguys.com",
+                "www.whatfontis.com",
+                "www.seat61.com",
+                "www.schweizerbauer.ch",
+                "www.smithsonianmag.com",
+                "www.qrz.com",
+                "playit.ch",
+                "www.slant.co",
+                "de.restaurantguru.com",
+                "mydramalist.com",
+                "www.free-spider-solitaire.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/dfa7banner_html_inpage_rendering_lib_200_268\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 18,
+                "Navigator.prototype.plugins": 17,
+                "Navigator.prototype.mimeTypes": 18,
+                "HTMLMediaElement.prototype.canPlayType": 18
+            },
+            "sites": 20,
+            "prevalence": 0.00201,
+            "cnames": [],
+            "responseHashes": [
+                "6d28830ef0fdeba41bc402b8b12341e929c6c66db8fe512deb2b1baa9611745b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "appenzell24.ch",
+                "chalet.myswitzerland.com",
+                "imginn.com",
+                "snow.myswitzerland.com",
+                "vitagate.ch",
+                "www.accuweather.com",
+                "www.finews.ch",
+                "www.freeconvert.com",
+                "www.israelnationalnews.com",
+                "www.kurir.rs",
+                "www.lanacion.com.ar",
+                "www.migros-ferien.ch",
+                "www.moneycab.com",
+                "www.myswitzerland.com",
+                "www.nhl.com",
+                "www.nau.ch",
+                "www.nzherald.co.nz",
+                "www.onlinepc.ch",
+                "www.pctipp.ch",
+                "www.smh.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/DcmEnabler_01_243\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "77a6e7584722f285dd6b3039728b6f1aab3948e60b4c26298600f1a5ee155bbb"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "appenzell24.ch",
+                "www.finews.ch",
+                "www.migros-ferien.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/createjs_2019\\.11\\.15_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 15,
+                "Date.prototype.getTime": 15,
+                "CanvasRenderingContext2D.prototype.measureText": 1,
+                "CanvasRenderingContext2D.prototype.getImageData": 1
+            },
+            "sites": 15,
+            "prevalence": 0.00151,
+            "cnames": [],
+            "responseHashes": [
+                "bc12347103da4da2ac30f8b4defd567679284e0bad691a54fad78ad804fc9c27"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "appenzell24.ch",
+                "themarket.ch",
+                "www.arcinfo.ch",
+                "www.fritzundfraenzi.ch",
+                "www.gipfelbuch.ch",
+                "www.israelnationalnews.com",
+                "www.lacote.ch",
+                "www.laliberte.ch",
+                "www.linternaute.fr",
+                "www.linternaute.com",
+                "www.persoenlich.com",
+                "www.rhonefm.ch",
+                "www.schweizerbauer.ch",
+                "www.shn.ch",
+                "www.zentralplus.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/instream\\/video\\/client\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 88
+            },
+            "sites": 102,
+            "prevalence": 0.0103,
+            "cnames": [],
+            "responseHashes": [
+                "d0bffc7261df1454c5e05475cda7d9e6647318dc6c3936767e1252bfe8849c54"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "finance.yahoo.com",
+                "gizmodo.com",
+                "mashable.com",
+                "screenrant.com",
+                "time.com",
+                "www.azlyrics.com",
+                "www.bbc.co.uk",
+                "www.bbc.com",
+                "www.dailymotion.com",
+                "www.howtogeek.com",
+                "www.songlyrics.com",
+                "www.xda-developers.com",
+                "www.macworld.com",
+                "www.huffpost.com",
+                "www.pcwelt.de",
+                "www.pocket-lint.com",
+                "www.actugaming.net",
+                "excel-downloads.com",
+                "www.macwelt.de",
+                "www.cinemablend.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/291977\\/38801777\\/1641886316619\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b9fd39b4d3cb068d1b6a176ea60a920257b16ba5ddb31683929e66514de47e19"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "myswitzerland.com",
+                "snow.myswitzerland.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/291977\\/38801777\\/1641886316619\\/5c5c818243510a7dfb3002dd78d5aeef\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.appName": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "bd7d9dfd01e1ad1aa373d743d8fd2e00ef8bf4f8b5cc338ab5c83fd1f0cb9239"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "myswitzerland.com",
+                "snow.myswitzerland.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/291977\\/38801777\\/1641886316619\\/fonts\\/user_uploaded_helvetica_neue_lt_std_500_normal\\.ttf",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3820d25cb70f6e945ecc64bfb88853a33b720e32e08cd759091addca46fbce6"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "myswitzerland.com",
+                "snow.myswitzerland.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/291977\\/38801777\\/1641886316619\\/fonts\\/user_uploaded_helvetica_neue_lt_std_700_normal\\.ttf",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "689c2605b16d3edb0f6e9faec1d1b578a4a00dd2d712febd94dead71e7579e12"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "myswitzerland.com",
+                "snow.myswitzerland.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/291977\\/38801777\\/1641886316619\\/media\\/7b35b035f6482a5ca07e3bdd47f0385c\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "ea9ca0d4f16e11848a33e4a0c9c4e220f978068d4bbd252087c36ef86578d071"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "myswitzerland.com",
+                "snow.myswitzerland.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/291977\\/38801777\\/1641886316619\\/media\\/bebe7312f50b38debf4f638295c4c5cf\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2d420822f19fa763645df833483727ef5cc6a9d5d8c1c9a8f5ce3cdf9f509d96"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "myswitzerland.com",
+                "snow.myswitzerland.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/express_html_inpage_rendering_lib_200_278\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 26,
+                "HTMLMediaElement.prototype.canPlayType": 26,
+                "Date.prototype.getTime": 16
+            },
+            "sites": 28,
+            "prevalence": 0.00282,
+            "cnames": [],
+            "responseHashes": [
+                "1642dd5dc126df4feff2255cba0988528507973d842d0a73331a5873f6b9d4e5"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.linuxquestions.org",
+                "www.linternaute.com",
+                "www.macwelt.de",
+                "automobiledimension.com",
+                "www.nachhaltigleben.ch",
+                "www.persoenlich.com",
+                "www.xe.com",
+                "www.lacote.ch",
+                "www.lenouvelliste.ch",
+                "teslamotorsclub.com",
+                "www.techadvisor.com",
+                "www.areadvd.de",
+                "themarket.ch",
+                "www.laliberte.ch",
+                "www.zentralplus.ch",
+                "www.arcinfo.ch",
+                "www.gipfelbuch.ch",
+                "www.schoenesleben.ch",
+                "www.linternaute.fr",
+                "www.shn.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/13531886328276689309",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "47eed86735d414b4412d52d4b6daf5937bbec037bddb30521e3a2ee8b8b78ab4"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hcap.ch",
+                "www.bscyb.ch",
+                "www.evz.ch",
+                "www.fcz.ch",
+                "www.hcd.ch",
+                "www.zsclions.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/html_inpage_rendering_lib_200_278\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 9,
+                "HTMLMediaElement.prototype.canPlayType": 9,
+                "Date.prototype.getTime": 9,
+                "window.innerWidth": 4,
+                "window.innerHeight": 4
+            },
+            "sites": 9,
+            "prevalence": 0.000907,
+            "cnames": [],
+            "responseHashes": [
+                "a6d36aa3d742ccd6f1ca3c76dcf885af72f7bebe2fcc001ea011a7aea2f55678"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "reverso.net",
+                "taz.de",
+                "www.bubbleshooter.net",
+                "www.finews.ch",
+                "www.kreuzwortraetsel.de",
+                "www.macwelt.de",
+                "www.merriam-webster.com",
+                "www.umrechnung-zoll-cm.de",
+                "www.werbewoche.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/DcmEnabler_01_250\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 11
+            },
+            "sites": 12,
+            "prevalence": 0.00121,
+            "cnames": [],
+            "responseHashes": [
+                "fc9fe8ec0612072dc6d3b4acd268e09d28c253807f47846a5f70dd8360d1a0d1"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "usnews.com",
+                "www.arcinfo.ch",
+                "www.gipfelbuch.ch",
+                "www.lacote.ch",
+                "www.linternaute.fr",
+                "www.linternaute.com",
+                "www.macwelt.de",
+                "www.persoenlich.com",
+                "www.rhonefm.ch",
+                "www.schweizerbauer.ch",
+                "www.shn.ch",
+                "www.zentralplus.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/tweenmax_1\\.19\\.0_643d6911392a3398cb1607993edabfa7_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "36c0ec05d79bd9d3164effc3eca0f1962cd6f82bb1f41cb212e080910be24153"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rheintaler.ch",
+                "www.bote.ch",
+                "zofingertagblatt.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/Enabler_01_250\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 6,
+                "window.innerWidth": 6,
+                "window.innerHeight": 6
+            },
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "31d02f43dd0c7fc5c0d95db087a23f1c2d729c93f10450884c8da6b415f7839b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "taz.de",
+                "www.finews.ch",
+                "www.macwelt.de",
+                "www.merriam-webster.com",
+                "www.umrechnung-zoll-cm.de",
+                "www.werbewoche.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/Enabler\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 5,
+                "window.innerWidth": 5,
+                "window.innerHeight": 5
+            },
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "c3ec5fd82b2b5642bcd2bb6f6db113306135239c684e8b41ee971aaeeb436d84"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "anwaltvergleich.ch",
+                "www.anwaltvergleich.ch",
+                "www.gitarrebass.de",
+                "www.hardwareluxx.de",
+                "www.vorsorge-3a.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/gsap_3\\.2\\.4_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e8403779d45a9590b43c0ecf984ebe11e75fd2982630d658390a6001a6768770"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "areadvd.de",
+                "www.kurir.rs"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3588078614195563902\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "315d7aa8357f7472e377fd778cfaf000f275fa1e4d0fbb489c5c3c43e1b1c895"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "arcinfo.ch",
+                "www.lacote.ch",
+                "www.linternaute.fr",
+                "www.linternaute.com",
+                "www.rhonefm.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/gsap_3\\.11\\.1_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [
+                "fbae080321632ad4ce06e9207ef9a534abd1d6488a96a0a4334fa768d1f93717"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "arcinfo.ch",
+                "www.gipfelbuch.ch",
+                "www.lacote.ch",
+                "www.linternaute.fr",
+                "www.linternaute.com",
+                "www.persoenlich.com",
+                "www.rhonefm.ch",
+                "www.schweizerbauer.ch",
+                "www.shn.ch",
+                "www.zentralplus.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3588078614195563902\\/wingo\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "window.innerWidth": 5,
+                "window.innerHeight": 5,
+                "window.devicePixelRatio": 5
+            },
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "23c1966c721cb14fe28c578a21e010c9bef56449787307f34736cfd1b0f7de0b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "arcinfo.ch",
+                "www.lacote.ch",
+                "www.linternaute.fr",
+                "www.linternaute.com",
+                "www.rhonefm.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3588078614195563902\\/visual\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "984470d39b12d31cd46ccd10d8f4c596415f03ba4293ca1fafd4269808e1bbab"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "arcinfo.ch",
+                "www.lacote.ch",
+                "www.linternaute.fr",
+                "www.linternaute.com",
+                "www.rhonefm.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/tweenmax_2\\.1\\.2_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "a863a77e9ee263a0ec9c1e792bb33ed0f663582b7369f472261df7b6040990c4"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bonus.ch",
+                "www.bonus.ch",
+                "www.nebelspalter.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/instream\\/html5\\/ima3\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3,
+                "Navigator.prototype.deviceMemory": 2,
+                "Date.prototype.getTime": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "395149d128d5d361aaf2cd3df1cfd23dee746145bdef0105d99aba97fbcf712f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cinema.de",
+                "www.hockeyfans.ch",
+                "www.iltempo.it"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/gsap_3\\.9\\.1_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "femelle.ch",
+                "www.merriam-webster.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8549421345592231761\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "eaee60c4762ebc67d3e625447adcedaf74d2983cee4c2a8bb5523ecb37e65423"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gipfelbuch.ch",
+                "www.shn.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8549421345592231761\\/wingo\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "window.devicePixelRatio": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "32ff868a795c4da21bf707269db28f2811cc470a5544adcbd87db4f9e7e0570a"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gipfelbuch.ch",
+                "www.shn.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8549421345592231761\\/visual\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "431ceec9f9d7d168f0df4ffb8ef108b41db207e246075cf492e15648ac1d556d"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gipfelbuch.ch",
+                "www.shn.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4700953762801448376\\/728x90\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "46c8fc4bd0ae5895f146fc423f65704a0cc18ba5af0dcddb231106ea97486c2d"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "linuxquestions.org",
+                "www.xe.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4700953762801448376\\/728x90\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "window.devicePixelRatio": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "8e97817a3afbacdcc705a218f01e3cd2b80b47602c7436b09b12c0977aed4315"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "linuxquestions.org",
+                "www.xe.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4700953762801448376\\/BG_728x90\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "536898c9ef7a56f17069c844abb47f5a8a189b855ec0fbe176967375ad417a07"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "linuxquestions.org",
+                "www.xe.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4700953762801448376\\/box\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "acca49d4dc84d2ba418ea4d126c0bca0bf623fca8accbb32a75a650828dd5279"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "linuxquestions.org",
+                "www.xe.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1810139744853443274\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "315d7aa8357f7472e377fd778cfaf000f275fa1e4d0fbb489c5c3c43e1b1c895"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "persoenlich.com",
+                "www.schweizerbauer.ch",
+                "www.zentralplus.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1810139744853443274\\/wingo\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "window.innerWidth": 3,
+                "window.innerHeight": 3,
+                "window.devicePixelRatio": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "a7e764f5bb97746f9a4887ea046888731e9cdc502597b52d31bfadfe5cc43848"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "persoenlich.com",
+                "www.schweizerbauer.ch",
+                "www.zentralplus.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1810139744853443274\\/visual\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "984470d39b12d31cd46ccd10d8f4c596415f03ba4293ca1fafd4269808e1bbab"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "persoenlich.com",
+                "www.schweizerbauer.ch",
+                "www.zentralplus.ch"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c2839be5a82aba1a054c4886333a59a215b667c7437ec02783468d35568039e5"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdpage_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2afb3cf38deea01d461f29b961c8aab0da4f121a84a9c843f49dc7cced99b6a5"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdpagedeck_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "3974624ff80521dbd81d3ed32f8ec10c7baef11c272f46626a6284538e90e44b"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdgooglead_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e52ad60cf8269c44381d5e0833e69b9b8f3b9f9346b7066b1dc5a52b390feedc"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdimage_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4e17f25a33727defde4f0e88b24844c00e48ed88484c4440d978025a82567287"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdattached_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "fffa14e9a3c576087a9202af54e8f11669f29c37617df0c6f728ca24d95f60bc"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdtaparea_style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "20160b923de864cdf44fa26bfd6281a9e0aba7eb800fac86804d9a41a93c2394"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwd_webcomponents_v1_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "10cde3f051ab9eefa8676bee667fd65705c5fcf1d0544f9acffe7caa224d14b9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdpage_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "da1b1dba110f3d97894949bedfc60fe7fec3659813c957f88e51d550bc95ad88"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdpagedeck_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "cfc5afa3cbf80ed8a39987d2f4cc9215f915cfde9c83e86d5ee4a874bd69a401"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdgooglead_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "window.innerHeight": 2,
+                "window.innerWidth": 2,
+                "PerformanceTiming.prototype.navigationStart": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6494566919e28711a1f36d6389923dfccb4750fb9522e9e6d1967ab778ab0073"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdimage_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "32ab0a5c85cabdb695704b5128a8fb7c9a8dfa3242cc36ceda6bb0650a45b35f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdattached_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "dd50ba290f74d344ad0d04ade63c55b02360bf4db99c0a2749f34deb0c8dcec9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdtexthelper_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "91c86e76693fc278899037d0d8a66c2fe01fc83e5cbae1a54a47fe0f61b2be15"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdtaparea_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b0e4d6e13eb1fd414025e5c3c3f18b9212fd0cd69890e7f69804ae69dec5bbb3"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwdgpadataprovider_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "bd213446287693e851042a2e326cfbf2268a0075cd7db0552c9448733c31d4cf"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwddatabinder_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c4338434527c2703a0630c6d5561653bc2790abd608cfe5f83fb200ff20bbdc2"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwd-text-fitting\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b41835ad763abb366c167dab7c1fbc77a7a81e5bbc51c2ce66bfa5250bfc9a00"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/14802717610942739150\\/gwd-dynamic-binders\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "bdae14000f409e929efc6f3cfd785b90a939d22044705a48f1a3b5074620fc12"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "umrechnung-zoll-cm.de",
+                "www.umrechnung-zoll-cm.de"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Ad Fraud"
+    ],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "imasdk.googleapis.com",
+            "prevalence": 0.37337662337662336
+        },
+        {
+            "domain": "googlesyndication.com",
+            "prevalence": 0.18181818181818182
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.14285714285714285
+        },
+        {
+            "domain": "createjs.com",
+            "prevalence": 0.08116883116883117
+        },
+        {
+            "domain": "lijit.com",
+            "prevalence": 0.07467532467532467
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.03896103896103896
+        },
+        {
+            "domain": "bannerwise.io",
+            "prevalence": 0.032467532467532464
+        },
+        {
+            "domain": "geoedge.be",
+            "prevalence": 0.01948051948051948
+        },
+        {
+            "domain": "adform.net",
+            "prevalence": 0.016233766233766232
+        },
+        {
+            "domain": "anderthalb.ch",
+            "prevalence": 0.00974025974025974
+        }
+    ],
+    "types": {
+        "Image": 60,
+        "Script": 261,
+        "Document": 16,
+        "Font": 4,
+        "Stylesheet": 12
+    },
+    "nameservers": [
+        "ns2.google.com",
+        "ns3.google.com",
+        "ns4.google.com",
+        "ns1.google.com"
+    ]
+}

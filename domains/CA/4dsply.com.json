@@ -1,0 +1,445 @@
+{
+    "domain": "4dsply.com",
+    "owner": {
+        "name": "AdSupply, Inc.",
+        "displayName": "AdSupply"
+    },
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.00121,
+    "sites": 12,
+    "subdomains": [
+        "cdn.engine",
+        "engine"
+    ],
+    "cnames": [],
+    "fingerprinting": 2,
+    "resources": [
+        {
+            "rule": "4dsply\\.com\\/Scripts\\/infinity\\.js\\.aspx",
+            "cookies": 0.000504,
+            "fingerprinting": 3,
+            "subdomains": [
+                "cdn.engine"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 9,
+                "Navigator.prototype.platform": 10,
+                "window.localStorage": 10,
+                "Date.prototype.getTimezoneOffset": 10,
+                "Screen.prototype.width": 10,
+                "Screen.prototype.height": 10,
+                "Navigator.prototype.mimeTypes": 10,
+                "Document.cookie getter": 9,
+                "Document.cookie setter": 5,
+                "window.screenLeft": 5,
+                "window.innerWidth": 10,
+                "window.screenTop": 5,
+                "window.innerHeight": 10,
+                "window.sessionStorage": 8,
+                "Date.prototype.getTime": 7
+            },
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [
+                "36278810a1a84b0aefaee3cf712fe16cc22d2664684811b4013122cb47599229",
+                "c1a7f8032a19dbcb07cca2657792b4953cc1d95292a5c89495328888cfe3a5e1",
+                "f6416f3bd12028c1dbfa808b0e61c6368e1b6117e1e12a9edc7695a7f123d707",
+                "6d572e49646136dbe3a8f0821fd40c30312f1df43a865c573a66f6c75ade8519",
+                "b20b43a3a96486e1f0915c65b97096a9b8556adec17cc937ca36ce8694fb85ef",
+                "e5574b5f11984429412c9aa634ae20b7901781cc410f7eaa54f703ecfa8afa6d",
+                "b39aaac1550df4b1ef7f0d13d357b88e0e5eb9326bfa43edbf214982eee953bb",
+                "edc96c935ffe88460fa680a72453c6219c46177adf2950e57b012e061c76fe41",
+                "98e783674df66ffc4250426a253f3326cf7c69de388fb7e78f3bbf24fbef00f8"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "g36FastPopSessionRequestNumber": {
+                    "ttl": null,
+                    "length": 1,
+                    "prevalence": 0.0005036768409388536,
+                    "uniqueness": 0.2
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "canadafreepress.com",
+                "operationdisclosureofficial.com",
+                "thefederalist.com",
+                "thelibertydaily.com",
+                "ussanews.com",
+                "whatreallyhappened.com",
+                "www.breitbart.com",
+                "www.studylight.org",
+                "www.theburningplatform.com",
+                "www.wikifeet.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/Tag\\.vrfy",
+            "cookies": 0.000504,
+            "fingerprinting": 0,
+            "subdomains": [
+                "engine"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000705,
+            "cnames": [],
+            "responseHashes": [
+                "078fccd4c3b951214333dcc83b32f11f3995ac2ff68444e473e5a82e889ca66b",
+                "f0d24bb5341662e383c15da94605794859f03ab2dc690ccd60d68ac0b14619ea",
+                "1336b2aff9545804218157058edc08bcd5dd8af5933a10d2a893f5e6e738240c",
+                "98b6199e659072b4a5fd1467c73d9edaf53752b3715883596f4b19aca0d5012d",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "token_QlJAAAAAAAAArRMIRsGBk-hpXXMDyS9EWV8qBEI": 0.00020147073637554144,
+                "lotame_domain_check": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "canadafreepress.com",
+                "operationdisclosureofficial.com",
+                "thelibertydaily.com",
+                "ussanews.com",
+                "whatreallyhappened.com",
+                "www.studylight.org",
+                "www.wikifeet.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/verify",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "engine"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "39ca3c85734717cf31f55ab2e7d04d8ad2438a3bd9f6f46fae350d12506b4699"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "token_QlJAAAAAAAAArRMIRsGBk-hpXXMDyS9EWV8qBEI": 0.0005036768409388536
+            },
+            "exampleSites": [
+                "canadafreepress.com",
+                "operationdisclosureofficial.com",
+                "whatreallyhappened.com",
+                "www.studylight.org",
+                "www.wikifeet.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/Scripts\\/MediaScripts\\/b\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "cdn.engine"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 6,
+                "Date.prototype.getTime": 6
+            },
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "a801a356ee6f672d2c95c2a82786ba106ffde01ef1e4b39f1d934e67111a80d0"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "canadafreepress.com",
+                "operationdisclosureofficial.com",
+                "ussanews.com",
+                "whatreallyhappened.com",
+                "www.breitbart.com",
+                "www.theburningplatform.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/Scripts\\/MediaScripts\\/fb\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "cdn.engine"
+            ],
+            "apis": {
+                "window.localStorage": 3,
+                "window.devicePixelRatio": 3,
+                "window.innerHeight": 3,
+                "window.innerWidth": 3,
+                "Event.prototype.timeStamp": 1,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "eed5eefb65932a4c558f990f7b02816551dc80faec450287b22e8de68b5cb3b7"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "canadafreepress.com",
+                "ussanews.com",
+                "www.theburningplatform.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/multipane\\.engine",
+            "cookies": 0.000302,
+            "fingerprinting": 0,
+            "subdomains": [
+                "engine"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "ddb3d13145d7d37c359d9e00c3752a6f00495d439c3b458a42e96a380d162aac",
+                "06546d8f3e9c0e94fd5187bf5b88cd11fb669df6fcec417df97c12fe69a3b1d4"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "canadafreepress.com",
+                "drudgereport.com",
+                "thelibertydaily.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/\\/Redirect\\.eng",
+            "cookies": 0.000403,
+            "fingerprinting": 0,
+            "subdomains": [
+                "engine"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "canadafreepress.com",
+                "drudgereport.com",
+                "thelibertydaily.com",
+                "www.americanthinker.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/mediahosting\\.engine",
+            "cookies": 0.000403,
+            "fingerprinting": 0,
+            "subdomains": [
+                "engine"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "a034d894c8fb5d416fc8c63f68249fbd287a7266f7c40a542c72709062cd7fd5",
+                "46c507501dc2a1b14bfd32591374e9bbbcc4d826f2a7987a925371fde1e96e3a",
+                "522d3e3135ce9ece9641c8acb1db24bf4bffe64c9f2a12d3c0abdd176ca5545e"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "canadafreepress.com",
+                "drudgereport.com",
+                "thelibertydaily.com",
+                "www.americanthinker.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/banner\\.engine",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "engine"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "8b82944e5b8b88ace94b3ef3a0774ce3bd6bb6a2499c09c49ce8bdc3d5423d40"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "drudgereport.com",
+                "thelibertydaily.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/Scripts\\/MediaScripts\\/push\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "cdn.engine"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d194018bbd323feec0fbee49bcccd4ae6b0feb87e291ae76149934ee0210b768"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thelibertydaily.com",
+                "www.theburningplatform.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/Scripts\\/ippnotice\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cdn.engine"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2135fad8a5e7a9cd1149844afdd28b2f8531f315a85624e9d2e6ad92bef20305"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thelibertydaily.com",
+                "www.theburningplatform.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/Redirect\\.eng",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "engine"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b08f58e4fdfa200dda86fe1abc29d2e7328fbe6d4fb237cb769a5cb65ce2b492"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thelibertydaily.com",
+                "www.theburningplatform.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/mediahosting\\.engine",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "engine"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b08f58e4fdfa200dda86fe1abc29d2e7328fbe6d4fb237cb769a5cb65ce2b492"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thelibertydaily.com",
+                "www.theburningplatform.com"
+            ]
+        },
+        {
+            "rule": "4dsply\\.com\\/Tag\\.engine",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "engine"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b298691634e2216aa27759b5f02921c460938f8fd9f40c17801cbc69cc57e77e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "breitbart.com",
+                "www.theburningplatform.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00111,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.5217391304347826
+        },
+        {
+            "domain": "addroplet.com",
+            "prevalence": 0.2608695652173913
+        },
+        {
+            "domain": "webcontentassessor.com",
+            "prevalence": 0.08695652173913043
+        },
+        {
+            "domain": "script.ac",
+            "prevalence": 0.043478260869565216
+        },
+        {
+            "domain": "ajax.googleapis.com",
+            "prevalence": 0.043478260869565216
+        },
+        {
+            "domain": "crwdcntrl.net",
+            "prevalence": 0.043478260869565216
+        }
+    ],
+    "types": {
+        "Script": 34,
+        "XHR": 9,
+        "Document": 11
+    },
+    "nameservers": [
+        "jim.ns.cloudflare.com",
+        "amy.ns.cloudflare.com"
+    ]
+}

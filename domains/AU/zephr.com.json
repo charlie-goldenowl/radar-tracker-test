@@ -1,0 +1,345 @@
+{
+    "domain": "zephr.com",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.00121,
+    "sites": 12,
+    "subdomains": [
+        "associated-press-apnews.cdn",
+        "ny-post-ny-post.cdn",
+        "ny-post-page-six.cdn",
+        "ny-post-decider.cdn",
+        "assets"
+    ],
+    "cnames": [
+        {
+            "original": "ap-prod.apnews.com",
+            "resolved": "associated-press-apnews.cdn.zephr.com"
+        },
+        {
+            "original": "zephr-v4.decider.com",
+            "resolved": "ny-post-decider.cdn.zephr.com"
+        },
+        {
+            "original": "zephr-v4.nypost.com",
+            "resolved": "ny-post-ny-post.cdn.zephr.com"
+        },
+        {
+            "original": "zephr-v4.pagesix.com",
+            "resolved": "ny-post-page-six.cdn.zephr.com"
+        }
+    ],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "zephr\\.com\\/zephr\\/feature-decisions",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "associated-press-apnews.cdn",
+                "ny-post-ny-post.cdn",
+                "ny-post-page-six.cdn"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [
+                {
+                    "original": "ap-prod.apnews.com",
+                    "resolved": "associated-press-apnews.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.nypost.com",
+                    "resolved": "ny-post-ny-post.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.pagesix.com",
+                    "resolved": "ny-post-page-six.cdn.zephr.com"
+                }
+            ],
+            "responseHashes": [
+                "2a2c17ca046f127395cec4825549047ba022d29ccc62b723f29bd9a14f4a4d43",
+                "4d8fca635e945cca51dcf63272edea270ef210d21d7fd5a10e1a2813ebf2aa61"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "apnews.com",
+                "nypost.com",
+                "pagesix.com"
+            ]
+        },
+        {
+            "rule": "zephr\\.com\\/zephr\\/feature-decisions",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "associated-press-apnews.cdn",
+                "ny-post-ny-post.cdn",
+                "ny-post-page-six.cdn"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [
+                {
+                    "original": "ap-prod.apnews.com",
+                    "resolved": "associated-press-apnews.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.nypost.com",
+                    "resolved": "ny-post-ny-post.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.pagesix.com",
+                    "resolved": "ny-post-page-six.cdn.zephr.com"
+                }
+            ],
+            "responseHashes": [],
+            "type": "Preflight",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "apnews.com",
+                "nypost.com",
+                "pagesix.com"
+            ]
+        },
+        {
+            "rule": "zephr\\.com\\/zephr\\/features",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ny-post-decider.cdn",
+                "ny-post-ny-post.cdn",
+                "ny-post-page-six.cdn"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [
+                {
+                    "original": "zephr-v4.decider.com",
+                    "resolved": "ny-post-decider.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.nypost.com",
+                    "resolved": "ny-post-ny-post.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.pagesix.com",
+                    "resolved": "ny-post-page-six.cdn.zephr.com"
+                }
+            ],
+            "responseHashes": [
+                "87171d091d307d077266964e43251dbffd6d69c3fa0775e26481e08d31c949d6"
+            ],
+            "type": "Other",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "decider.com",
+                "nypost.com",
+                "pagesix.com"
+            ]
+        },
+        {
+            "rule": "zephr\\.com\\/blaize\\/datalayer",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ny-post-decider.cdn",
+                "ny-post-ny-post.cdn",
+                "ny-post-page-six.cdn"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [
+                {
+                    "original": "zephr-v4.decider.com",
+                    "resolved": "ny-post-decider.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.nypost.com",
+                    "resolved": "ny-post-ny-post.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.pagesix.com",
+                    "resolved": "ny-post-page-six.cdn.zephr.com"
+                }
+            ],
+            "responseHashes": [],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "decider.com",
+                "nypost.com",
+                "pagesix.com"
+            ]
+        },
+        {
+            "rule": "zephr\\.com\\/zephr\\/decision-engine",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ny-post-decider.cdn",
+                "ny-post-ny-post.cdn",
+                "ny-post-page-six.cdn"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [
+                {
+                    "original": "zephr-v4.decider.com",
+                    "resolved": "ny-post-decider.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.nypost.com",
+                    "resolved": "ny-post-ny-post.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.pagesix.com",
+                    "resolved": "ny-post-page-six.cdn.zephr.com"
+                }
+            ],
+            "responseHashes": [],
+            "type": "Preflight",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "decider.com",
+                "nypost.com",
+                "pagesix.com"
+            ]
+        },
+        {
+            "rule": "zephr\\.com\\/zephr\\/decision-engine",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ny-post-decider.cdn",
+                "ny-post-ny-post.cdn",
+                "ny-post-page-six.cdn"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [
+                {
+                    "original": "zephr-v4.decider.com",
+                    "resolved": "ny-post-decider.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.nypost.com",
+                    "resolved": "ny-post-ny-post.cdn.zephr.com"
+                },
+                {
+                    "original": "zephr-v4.pagesix.com",
+                    "resolved": "ny-post-page-six.cdn.zephr.com"
+                }
+            ],
+            "responseHashes": [
+                "9fa030bd8c5330c2e8e981e3449f052b5bdf950bf9bd955d93e0c02518805ca8",
+                "f07981ada418160b7e534282cfaaf6abcbae6af062b9981842881e9114496a18"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "decider.com",
+                "nypost.com",
+                "pagesix.com"
+            ]
+        },
+        {
+            "rule": "zephr\\.com\\/zephr-browser\\/1\\.5\\.2\\/zephr-browser\\.umd\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 4,
+                "window.localStorage": 4
+            },
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "877aa4bf01c52907108645fb2bd3f9a0eab9eb1d599e5ea41764023440ced4fd"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bbc.co.uk",
+                "www.bbc.co.uk",
+                "www.bbc.com",
+                "www.sciencefocus.com"
+            ]
+        },
+        {
+            "rule": "zephr\\.com\\/zephr-browser\\/1\\.4\\.1\\/zephr-browser\\.umd\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c7b98a60c2b121ab17c0b1d342b829a1c5405684f21f3676886b52a7036f6774"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bikeradar.com",
+                "www.classical-music.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000402,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.45454545454545453
+        },
+        {
+            "domain": "bbci.co.uk",
+            "prevalence": 0.2727272727272727
+        },
+        {
+            "domain": "zephr.com",
+            "prevalence": 0.18181818181818182
+        },
+        {
+            "domain": "adobedtm.com",
+            "prevalence": 0.09090909090909091
+        }
+    ],
+    "types": {
+        "Fetch": 9,
+        "Preflight": 6,
+        "Other": 3,
+        "Script": 6
+    },
+    "nameservers": [
+        "ns-1991.awsdns-56.co.uk",
+        "ns-877.awsdns-45.net",
+        "ns-1113.awsdns-11.org",
+        "ns-46.awsdns-05.com"
+    ]
+}

@@ -1,0 +1,541 @@
+{
+    "domain": "ad4m.at",
+    "owner": {
+        "name": "advanced STORE GmbH",
+        "displayName": "advanced STORE"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.00624,
+    "sites": 62,
+    "subdomains": [
+        "as",
+        "assets"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "ad4m\\.at\\/ad\\/sim\\/ix",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 49,
+            "prevalence": 0.00494,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "lifehacker.com",
+                "pastebin.com",
+                "slate.com",
+                "tabs.ultimate-guitar.com",
+                "www.biblegateway.com",
+                "www.cnn.com",
+                "www.howtogeek.com",
+                "www.ign.com",
+                "www.thesaurus.com",
+                "www.systemrequirementslab.com",
+                "10minutemail.com",
+                "www.clubic.com",
+                "www.247sudoku.com",
+                "www.pep.ph",
+                "www.exceldemy.com",
+                "radiopaedia.org",
+                "forebears.io",
+                "www.neoseeker.com",
+                "www.pcgamingwiki.com",
+                "ukutabs.com"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/ad\\/dr",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "as"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "e67a91e893f2fb868644fb89f49a2c70ab7cddad69b9ed73e8bcd6c709235dcc",
+                "4da61d49f727e9cb2c30bcd3be0cf53fa771ad490cfd62b02a99b5c627ef2632",
+                "00ea7c15b9e367ecffeb17cca0296f0ea821e8eea4ca4ce46f98c90a93175465"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "im-coder.com",
+                "synonyme.woxikon.de",
+                "www.digitalmedia.ch"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/ad\\/style\\/0\\.1\\.50\\/one-ad\\/default\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "as"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "5f5a0db09b2c7d59fce00d749f6b857d80edafcca6897c038c5b77fb942f1393"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "im-coder.com",
+                "synonyme.woxikon.de",
+                "www.digitalmedia.ch",
+                "www.motor-talk.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/r62eglto\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [],
+            "apis": {
+                "Navigator.prototype.userAgent": 4,
+                "Navigator.prototype.doNotTrack": 4
+            },
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "e688c863b85a28f75e5c1c7f21092f1f419649e10496f9f1fc36826112bbd348"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "im-coder.com",
+                "synonyme.woxikon.de",
+                "www.digitalmedia.ch"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/cookie-frame\\.html",
+            "cookies": 0.00101,
+            "fingerprinting": 1,
+            "subdomains": [],
+            "apis": {
+                "Document.cookie getter": 6,
+                "Document.cookie setter": 10
+            },
+            "sites": 13,
+            "prevalence": 0.00131,
+            "cnames": [],
+            "responseHashes": [
+                "0db16c25165bfd35ea9114187f3e97d7084a33135cb56fe276f6cdd2ab675647"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "gonser.ch",
+                "im-coder.com",
+                "synonyme.woxikon.de",
+                "www.alle-noten.de",
+                "www.bruno-wickart.ch",
+                "www.buchhaltungsbutler.ch",
+                "www.digitalmedia.ch",
+                "www.gonser.ch",
+                "www.hifi-forum.de",
+                "www.motor-talk.de",
+                "www.orionversand.ch",
+                "www.promiflash.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/rs",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "f9062aceb417ae0e347ea4dd679ac453daba2998afc73402b22aa1576b601c0f",
+                "a2abe10fcb5273a1075ae0c5f0ea62ed802b9c981c75204acab646235aa2276e",
+                "e5fcd95381d7f36c866d2c48f5c54e18668186b2d28834da117dab5e058da5d4"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "synonyme.woxikon.de",
+                "www.digitalmedia.ch",
+                "www.motor-talk.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/rs",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Preflight",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "synonyme.woxikon.de",
+                "www.digitalmedia.ch",
+                "www.motor-talk.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/ad\\/rar",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "as"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "452f296a494816928701a67acd370f2c724bf3800a773be512a4f307f9fd5f95",
+                "4c1568dfe6458dbd79ae7c8aca2aef688bf40f24abb681101241e4f029e9088f",
+                "65bdd8708779bf4fdbbae610fe20cc33074f31c7e7444482085c9e1b7d021726"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "synonyme.woxikon.de",
+                "www.digitalmedia.ch",
+                "www.motor-talk.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/logo\\/FD5F24A2D31F8DF379AC66382D10C95BCB2B6DBDAB1DA6A8C928B4E2932EB8E5F816C97A7A7B662747A82FA3B32C5D2169F78EB90A71DB8E4B05718BDD554064",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "cee36c5cc317caeb8c9be022acb0b3643e3910d3192ba35ec550bc5a7e8eb870"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "synonyme.woxikon.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/product_image\\/7FE0F60184B8707CB4E52907E84ABF5F2942E25C75CD0D84CBAB8E652522C20786FE0CAB8FD6F7E8494D211127C98389FCFC432B4C8D17D1B74406E1DA298B4F",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "88f6c7cadef237ced5ddf45d206adfd08ba593b3d0504549a744658136f3ead8"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "synonyme.woxikon.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/logo\\/F1668CEEF41AAD8A0C029F9D23FE46EC6F8068CDC15DA60F85AFC1E3BD14A8C560B4DF91D88D53A78DBCC7160246BC21A8B17CCED604428331EE91402A545B83",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "903a8262e78f66cb5d39eb8907a98f67dd1e944994cb0943402d87fd8a79f8fe"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "www.digitalmedia.ch"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/product_image\\/96AA637161FCFF7D0AE42DD0E3CF6E6A33D7A2D96B5FF2BDA5B1A8E0996EEB464D78D8CE114DFCCD8F5FCF559382B5A858EE2F2DD03A6307DB4B399DF7A75EC6",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "54d72a78307f9e3bcf70117a6ad74a58970ce0dc42d64945ed4aa20f90557847"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "www.digitalmedia.ch"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/logo\\/E622BC9BD82AE6F51E341CE5BBC00C7BCEF1113266FC86A7954D357A123D68059FD32592A221C64F87EEABAF18D4698D5388E6B9CA984D807BB6BB7E4D07744E",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "d9d0e3aa49495a9eb12e7e4d577efbc049335a19bc0e062e561d6d73c4862edd"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "synonyme.woxikon.de",
+                "www.motor-talk.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/product_image\\/7959CC8A5841863E2029D11337BD9743816B11539BB7B5FE82C05DA418BFFEA9B2B39CC1367019AB169ACFDD5A75E84454CFD285683B9548532D984CEBD8DAF8",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "905029871da450d051d2ff16da5ec4d0bf6309336e8c38437bc0054635311abe"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ekiwi-blog.de",
+                "synonyme.woxikon.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/xuxyim2w\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "Navigator.prototype.doNotTrack": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a60679c24b451b8bb515aec9319302afb841856d37a983a79400f32fda19b015"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gonser.ch",
+                "www.gonser.ch"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/ad\\/dpe",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "as"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "userId": 0.00030217566478646255
+            },
+            "exampleSites": [
+                "gonser.ch",
+                "www.alle-noten.de",
+                "www.buchhaltungsbutler.ch",
+                "www.bruno-wickart.ch",
+                "www.gonser.ch",
+                "www.orionversand.ch"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/logo\\/0FFB463DB03CB009793080C1B53C23C9FD5377E1899EF35E72791D21CA62D52A222D662E2077C819E6DE8402D02F3C83CF5355E92DFA2B41CAD20448D14D8FA3",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "838f26c8f76d054281f819a42b1352b977b6c88bcf5ee7c8900e3ae3a3cf6edb"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "woxikon.de",
+                "www.digitalmedia.ch"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/50A0391ED1E82638BD388F91DB7A2617B584090578A365720D8AF5FD1BDF22035CB111A0506980F2E608C60A08D698A0A8D1AC530659B7A2489C546E1B8D6D1B",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "aecbcd4eb57cd64a842c5305e417986965f7d29fe68790afa3dccf22d6befca6"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "woxikon.de",
+                "www.digitalmedia.ch"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/ad\\/dst",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "as"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "userId": 0.000201450443190975
+            },
+            "exampleSites": [
+                "alle-noten.de",
+                "www.bruno-wickart.ch",
+                "www.buchhaltungsbutler.ch",
+                "www.orionversand.ch"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00101,
+    "topInitiators": [
+        {
+            "domain": "casalemedia.com",
+            "prevalence": 0.7647058823529411
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.04411764705882353
+        },
+        {
+            "domain": "adcell.com",
+            "prevalence": 0.04411764705882353
+        },
+        {
+            "domain": "dwin1.com",
+            "prevalence": 0.04411764705882353
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.04411764705882353
+        },
+        {
+            "domain": "adform.net",
+            "prevalence": 0.029411764705882353
+        },
+        {
+            "domain": "googlesyndication.com",
+            "prevalence": 0.014705882352941176
+        },
+        {
+            "domain": "confiant-integrations.net",
+            "prevalence": 0.014705882352941176
+        }
+    ],
+    "types": {
+        "Image": 76,
+        "Document": 21,
+        "Stylesheet": 5,
+        "Script": 6,
+        "XHR": 4,
+        "Preflight": 4
+    },
+    "nameservers": [
+        "nora.ns.cloudflare.com",
+        "elliot.ns.cloudflare.com"
+    ]
+}

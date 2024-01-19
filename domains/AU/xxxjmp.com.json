@@ -1,0 +1,287 @@
+{
+    "domain": "xxxjmp.com",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.000904,
+    "sites": 9,
+    "subdomains": [
+        "go",
+        "creative",
+        "video"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "xxxjmp\\.com\\/api\\/models\\/ts",
+            "cookies": 0.000402,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "c0c59b516b55b4d5c33d504775ed8c37f873555c402572dd96fc50caa7bfcef7",
+                "f8da05dbe1336535b8565da185776d96bf172ff8839fc6a6a0886373ea8f6c94",
+                "21e783694deb25b5a16229da49dc48172b3b13cc5cbd09ee67dcc49e79142d50"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fullporner.org",
+                "fullporner.com",
+                "novelcrow.com",
+                "www.povaddict.net"
+            ]
+        },
+        {
+            "rule": "xxxjmp\\.com\\/widgets\\/Spot\\/lib-auto\\.js",
+            "cookies": 0.0001,
+            "fingerprinting": 2,
+            "subdomains": [
+                "creative"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3,
+                "PerformanceTiming.prototype.navigationStart": 3,
+                "window.innerHeight": 3,
+                "window.innerWidth": 3,
+                "Navigator.prototype.vendor": 3,
+                "Navigator.prototype.language": 3,
+                "MediaSource.isTypeSupported": 3,
+                "HTMLMediaElement.prototype.canPlayType": 3
+            },
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "a6a95c20202c3ce91030470cf2172c915d007191602f24d0db629fdd9b99496b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gayboystube.com",
+                "www.porntrex.com",
+                "www.shemalestube.com",
+                "www.whoreshub.com"
+            ]
+        },
+        {
+            "rule": "xxxjmp\\.com\\/config",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "33fd9b2ecbc6e85470f800ca4f9676418bd56e6324d9e6280132cd4650a6586c",
+                "debfda89e38791844284fcdc8e94be32c027e982928b3c641af7c64320dfa91b"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "porntrex.com",
+                "www.shemalestube.com",
+                "www.whoreshub.com"
+            ]
+        },
+        {
+            "rule": "xxxjmp\\.com\\/widgets\\/Spot\\/lang\\/en\\.json",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "creative"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "065782e76dcfa6a9181cc36d69abefa429aafe2db2171b5d705a35b3fe234e3f"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "porntrex.com",
+                "www.shemalestube.com",
+                "www.whoreshub.com"
+            ]
+        },
+        {
+            "rule": "xxxjmp\\.com\\/api\\/models",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "7f35517b9c8a76343cbd7c2efaa505f9d45d592aaaed152a972f579eae284418",
+                "a7daa90c970834fc53bb92c3fa5aa01f7de93b4cfb7da19d5c6d44a0af05ab42"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "porntrex.com",
+                "www.shemalestube.com",
+                "www.whoreshub.com"
+            ]
+        },
+        {
+            "rule": "xxxjmp\\.com\\/app\\/domain-checker\\/get-check",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "3afdd86bd4c778315dee5a5b60f0c18cde303c1b8182b8ebc07028f43356f5aa",
+                "708e1745a53b0d9ca1f58c6a3fb4509926b25d80df1829c9ef951243ad314a3f"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "porntrex.com",
+                "www.shemalestube.com",
+                "www.whoreshub.com"
+            ]
+        },
+        {
+            "rule": "xxxjmp\\.com\\/abc\\.gif",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "porntrex.com",
+                "www.shemalestube.com",
+                "www.whoreshub.com"
+            ]
+        },
+        {
+            "rule": "xxxjmp\\.com\\/thumbs\\/view",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "389527683a1010a80aec3a1d6cd552d6e367c6222dde0a6a6c3f8db0277a0dc1",
+                "15c731b978b957c7aae3e4755befb64b76a4b056de2fd5635650681f11273d70"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "porntrex.com",
+                "www.shemalestube.com",
+                "www.whoreshub.com"
+            ]
+        },
+        {
+            "rule": "xxxjmp\\.com\\/app\\/domain-checker\\/check-result",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "porntrex.com",
+                "www.shemalestube.com",
+                "www.whoreshub.com"
+            ]
+        },
+        {
+            "rule": "xxxjmp\\.com\\/push\\/eu7\\/1704246750\\/79793927\\.jpeg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "video"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4ada90b9cb9946a12f4b80b60acfbed042d16a287bf4af4bfe2524118bdf6e15"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "povaddict.net",
+                "www.povaddict.net"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000804,
+    "topInitiators": [
+        {
+            "domain": "tsyndicate.com",
+            "prevalence": 0.6666666666666666
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.3333333333333333
+        }
+    ],
+    "types": {
+        "XHR": 4,
+        "Script": 4,
+        "Fetch": 18,
+        "Image": 5
+    },
+    "nameservers": [
+        "amy.ns.cloudflare.com",
+        "duke.ns.cloudflare.com"
+    ]
+}

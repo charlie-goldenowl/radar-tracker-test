@@ -1,0 +1,566 @@
+{
+    "domain": "acuityplatform.com",
+    "owner": {
+        "name": "AcuityAds",
+        "displayName": "AcuityAds",
+        "privacyPolicy": "https://acuityscheduling.com/privacy.php",
+        "url": "http://acuityscheduling.com"
+    },
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.0727,
+    "sites": 722,
+    "subdomains": [
+        "ums",
+        "serve-va",
+        "cdn",
+        "origin",
+        "e"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "acuityplatform\\.com\\/tum",
+            "cookies": 0.0487,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ums"
+            ],
+            "apis": {},
+            "sites": 509,
+            "prevalence": 0.0513,
+            "cnames": [],
+            "responseHashes": [
+                "1866961a029c65376fefb7f2ba1e6187e09ff50ea58d97dedfd72c197947d002"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "9gag.com",
+                "cplusplus.com",
+                "dictionary.cambridge.org",
+                "doctor.webmd.com",
+                "fortune.com",
+                "forum.wordreference.com",
+                "forums.macrumors.com",
+                "mashable.com",
+                "townhall.com",
+                "twinfinite.net",
+                "www.tokyvideo.com",
+                "www.everydayfamilycooking.com",
+                "www.adultswim.com",
+                "www.jetpunk.com",
+                "www.calendarr.com",
+                "www.makeupalley.com",
+                "www.saltwire.com",
+                "www.rarbgproxy.to",
+                "thecoconutmama.com",
+                "www.01net.com"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/tum",
+            "cookies": 0.0237,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ums"
+            ],
+            "apis": {},
+            "sites": 243,
+            "prevalence": 0.0245,
+            "cnames": [],
+            "responseHashes": [
+                "1866961a029c65376fefb7f2ba1e6187e09ff50ea58d97dedfd72c197947d002",
+                "f4eef8263281c0b26486637831251059757bc3fdc4c3a48045a8ef8646b36e8f",
+                "071d0a5d172af491aedca9041f20e830d25fd4d339a1006bca3bed949069aa30",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "aam_uuid": 0.0009066183136899365
+            },
+            "exampleSites": [
+                "9to5mac.com",
+                "forum.wordreference.com",
+                "gamefaqs.gamespot.com",
+                "hollywoodlife.com",
+                "lifehacker.com",
+                "mashable.com",
+                "osxdaily.com",
+                "variety.com",
+                "www.allrecipes.com",
+                "www.buzzfeed.com",
+                "www.lalanguefrancaise.com",
+                "www.chfi.com",
+                "www.tsc.ca",
+                "ageofempires.fandom.com",
+                "substitutecooking.com",
+                "songmeanings.com",
+                "calgary.citynews.ca",
+                "dermnetnz.org",
+                "www.jalopyjournal.com",
+                "restaurantguru.com"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/Adserver\\/banner",
+            "cookies": 0.00212,
+            "fingerprinting": 0,
+            "subdomains": [
+                "serve-va"
+            ],
+            "apis": {},
+            "sites": 21,
+            "prevalence": 0.00212,
+            "cnames": [],
+            "responseHashes": [
+                "47d37ff3352d323939d522dea478080884f85440d403dfb60397523c87dee1cf",
+                "b26a1ad308577a794662ed29fa491edcbfc5be305b35e18c44d7310f7073d36e",
+                "05e3a3a26364ab5142943d4ab55999888e8ef3b0e64334a9f23adf752fd790c0",
+                "9380f3b84aabab0624276adf7cc4b52a3ca02262d65c4ebe64bc36469caafce5",
+                "af4da6cdbc04bff458e40cb710704cfeeba455d55f88c65c50642f807f98886a",
+                "97e412fb80e30296d3f31d5dddf1e45ad5e739f4ad49e1270f1ce4386a9b485b",
+                "9285efe13d8952de90ef462d9af9ed4aa0e82c3c984ebda07a1d60a60e884222",
+                "26819018a86ef537cf5e8b017b0427708b32261a4458247fed08453b9ade1ba4",
+                "7997065bbbdbf988a86b57ae9018c5ac42dfea34cd6f57ffdc94e034ce0ba2bc",
+                "bbf70f9a75b153786cb6ff308fad08d2ba02444d287e080d1274b29452503391",
+                "4bd1d0656550013f2694d6247f3f40afd8a43bbf432f286429bf5968834f80d3",
+                "377a7de42efa1d93d4f456bc6ddc7991eeab19e3a243195e07c17d24c776de18",
+                "f86abfd9015a97c7c2c4c75c930c5411103a642e110bd7fc02e911bee2f68ad6",
+                "2222cb1b008436fa6f3d1c07fce662b74076dff49f6970b2fd42887145584a33",
+                "deca2793bf20eecf1f38ddb9b96cdffd9f59b489dbdfedd6b0d6979d4585448b",
+                "272d7c8add2f6170d1b64599776f381930664cf9553821d1b2b11e5bef6d529a",
+                "67e5119efe8e45493a93eebcc9c8af615907506e11890fed70a0eabf650576a9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "advanced-astrology.com",
+                "altarofgaming.com",
+                "www.tideschart.com",
+                "thenerdstash.com",
+                "recipeteacher.com",
+                "www.favfamilyrecipes.com",
+                "www.curbsideclassic.com",
+                "www.wrestlinginc.com",
+                "www.homebrewtalk.com",
+                "www.color-meanings.com",
+                "pickerwheel.com",
+                "nikke.gg",
+                "www.farmersalmanac.com",
+                "www.melaniecooks.com",
+                "cookieandkate.com",
+                "www.101planners.com",
+                "izzycooking.com",
+                "www.aquariumsource.com",
+                "www.citytv.com",
+                "trashschedules.com"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/rtb\\/2023\\/12\\/BP_1545031\\/STM_320x50_EN_100\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cdn"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "99e373603c769ef3b195792843785cd19facbac2fc2132bfb1ddaca24e9a9010"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "advanced-astrology.com",
+                "recipeteacher.com",
+                "www.tideschart.com"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/rtb\\/oba\\/IconOnlyCollisionMarker\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cdn"
+            ],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.00191,
+            "cnames": [],
+            "responseHashes": [
+                "5ba211e752b905480bd4cb9f82979684d6a3e7f17cb8d4f3aae9cf87bac030e6"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "advanced-astrology.com",
+                "altarofgaming.com",
+                "cookieandkate.com",
+                "izzycooking.com",
+                "nikke.gg",
+                "pickerwheel.com",
+                "recipeteacher.com",
+                "thenerdstash.com",
+                "trashschedules.com",
+                "www.101planners.com",
+                "www.aquariumsource.com",
+                "www.citytv.com",
+                "www.color-meanings.com",
+                "www.curbsideclassic.com",
+                "www.favfamilyrecipes.com",
+                "www.melaniecooks.com",
+                "www.tideschart.com",
+                "www.windowsdigitals.com",
+                "www.wrestlinginc.com"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/rtb\\/oba\\/CollisionAdMarker\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cdn"
+            ],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.00191,
+            "cnames": [],
+            "responseHashes": [
+                "b9b7f40c3e697702acdcc8b60b53aeabb8b2c965a2f269bf3e4feb5b29294a10"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "advanced-astrology.com",
+                "altarofgaming.com",
+                "cookieandkate.com",
+                "izzycooking.com",
+                "nikke.gg",
+                "pickerwheel.com",
+                "recipeteacher.com",
+                "thenerdstash.com",
+                "trashschedules.com",
+                "www.101planners.com",
+                "www.aquariumsource.com",
+                "www.citytv.com",
+                "www.color-meanings.com",
+                "www.curbsideclassic.com",
+                "www.favfamilyrecipes.com",
+                "www.melaniecooks.com",
+                "www.tideschart.com",
+                "www.windowsdigitals.com",
+                "www.wrestlinginc.com"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/sum",
+            "cookies": 0.00413,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ums"
+            ],
+            "apis": {},
+            "sites": 50,
+            "prevalence": 0.00504,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cz-usa.com",
+                "ottawahumane.ca",
+                "ca.vessi.com",
+                "www.melaniecooks.com",
+                "www.vitamix.com",
+                "www.favfamilyrecipes.com",
+                "www.luckymobile.ca",
+                "www.mynslc.com",
+                "recipeteacher.com",
+                "koa.com",
+                "www.aviva.ca",
+                "www.itravel2000.com",
+                "www.citytv.com",
+                "www.rcmusic.com",
+                "www.panago.com",
+                "www.curbsideclassic.com",
+                "www.cooperators.ca",
+                "harbourair.com",
+                "kinsta.com",
+                "sja.ca"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/Adserver\\/openWin",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "serve-va"
+            ],
+            "apis": {},
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "advanced-astrology.com",
+                "altarofgaming.com",
+                "izzycooking.com",
+                "recipeteacher.com",
+                "www.aquariumsource.com",
+                "www.citytv.com",
+                "www.favfamilyrecipes.com",
+                "www.melaniecooks.com",
+                "www.windowsdigitals.com",
+                "www.wrestlinginc.com"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/rtb\\/2023\\/12\\/BP_1545025\\/STM_300x50_EN_100\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cdn"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "ac139c73da2b6d27f1e4ea2abda70db59a441cc54c7879fc9720d210e448b056"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "altarofgaming.com",
+                "thenerdstash.com",
+                "www.101planners.com",
+                "www.favfamilyrecipes.com",
+                "www.tideschart.com"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/event\\/v2\\/pixel\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "origin"
+            ],
+            "apis": {},
+            "sites": 20,
+            "prevalence": 0.00201,
+            "cnames": [],
+            "responseHashes": [
+                "89cf66cb9de8da20fc15e9953845dd4d1de2c0fb465c827a09d818449222c533"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "vessi.com",
+                "cz-usa.com",
+                "en.nikon.ca",
+                "kinsta.com",
+                "koa.com",
+                "kubota.ca",
+                "mont-sainte-anne.com",
+                "parkroyal.ca",
+                "www.aviva.ca",
+                "www.connectfirstcu.com",
+                "www.cooperators.ca",
+                "www.fanshawec.ca",
+                "www.itravel2000.com",
+                "www.lacordee.com",
+                "www.luckymobile.ca",
+                "www.ray-ban.com",
+                "www.redtag.ca",
+                "www.trailappliances.com",
+                "www.vitamix.com",
+                "www.weightwatchers.com"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/pj",
+            "cookies": 0.00191,
+            "fingerprinting": 0,
+            "subdomains": [
+                "e"
+            ],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.00191,
+            "cnames": [],
+            "responseHashes": [
+                "5b20473ac78f22e4bd436d90ca1388192a30f70ff28861390f77ca20980f5423",
+                "00778e8f0e7254ba6a76d60c75759ff3b2f06e3eb4887a860d09ff705d7bbeeb",
+                "63ccfe134d3aff04a581cfcb8581ba599659a1a63ba64470714f2870a5ae4339",
+                "5159b4062a2fe19151e223535555e8fd32487fbdec54c07cc0092078dccb01bf",
+                "9c411df2a43940aef7bc2381d383f99d855629ebf795887e4809c65ead80cbc1",
+                "e0da056f45f9f530e96849a468b48c2be6670098e05521f121b795cfe2a0b382",
+                "1b38240af09ba3fa86047fb3e1a4743088f334e19d367eba2bd53e991e929be6",
+                "72799029fdade9b53faf63751a21197b0a3657acce6d88e0bf891440576f7f17",
+                "1bea06c5ad1602ed7c367f7ec9b2614d17323611e6721d132b985a5dbf8eb3f8",
+                "6378892c30c5fe04fca816dc74535117b3c1d38602c29e094a6348d4fd2e9624",
+                "0b4dbbf20883d6f784516edf0b8672a2d46c522775d613a241fa7540ef1018b7",
+                "6f5aa828948eadf43f053e6dd2effada0756fa30e35357eaa6352852f54f7c14",
+                "c1db056f9ba543af891d6150b428e14715781cb2a8bfca16b8a082c514025786",
+                "1dd2634ae818b170146019c26d58ec1bc05a60ab996eb2f3531f4740d74d7e9d",
+                "f3f5c5e45ced6b750ed32bf7f48df068435dad45ddbacd54b708e344d44ce44c",
+                "1ce143760e90119590fe45a2f6d7bc9aaaf1c1be34dfced700f46a17643afb17",
+                "5cf5c33420e0307ecc90591ca6191b757d5cd189de54af7b53f4e70a4d190fe3",
+                "82d099a31f1e0eba4a6f360b2b6d2a07833d371cc3f338d69635374912d38d8e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "gpv_server": 0.00010073536818777072,
+                "IR_gbd": 0.00010073536818777072
+            },
+            "exampleSites": [
+                "vessi.com",
+                "cz-usa.com",
+                "en.nikon.ca",
+                "kinsta.com",
+                "koa.com",
+                "kubota.ca",
+                "mont-sainte-anne.com",
+                "parkroyal.ca",
+                "www.aviva.ca",
+                "www.cooperators.ca",
+                "www.fanshawec.ca",
+                "www.itravel2000.com",
+                "www.lacordee.com",
+                "www.luckymobile.ca",
+                "www.ray-ban.com",
+                "www.redtag.ca",
+                "www.trailappliances.com",
+                "www.vitamix.com",
+                "www.weightwatchers.com"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/rtb\\/2023\\/12\\/BP_1545071\\/STM_320x50_EN_100\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cdn"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "99e373603c769ef3b195792843785cd19facbac2fc2132bfb1ddaca24e9a9010"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "izzycooking.com",
+                "recipeteacher.com",
+                "www.101planners.com"
+            ]
+        },
+        {
+            "rule": "acuityplatform\\.com\\/rtb\\/2023\\/12\\/BP_1545081\\/STM_300x50_EN_100\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cdn"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "ac139c73da2b6d27f1e4ea2abda70db59a441cc54c7879fc9720d210e448b056"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "pickerwheel.com",
+                "www.color-meanings.com",
+                "www.wrestlinginc.com"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising"
+    ],
+    "performance": {},
+    "cookies": 0.0693,
+    "topInitiators": [
+        {
+            "domain": "pubmatic.com",
+            "prevalence": 0.6139315230224321
+        },
+        {
+            "domain": "lijit.com",
+            "prevalence": 0.11570247933884298
+        },
+        {
+            "domain": "googlesyndication.com",
+            "prevalence": 0.06611570247933884
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.047225501770956316
+        },
+        {
+            "domain": "casalemedia.com",
+            "prevalence": 0.04250295159386069
+        },
+        {
+            "domain": "rubiconproject.com",
+            "prevalence": 0.03305785123966942
+        },
+        {
+            "domain": "demdex.net",
+            "prevalence": 0.02243211334120425
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.01770956316410862
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.009445100354191263
+        },
+        {
+            "domain": "serving-sys.com",
+            "prevalence": 0.0059031877213695395
+        }
+    ],
+    "types": {
+        "Document": 509,
+        "Image": 355,
+        "Script": 60
+    },
+    "nameservers": [
+        "dns3.p01.nsone.net",
+        "dns1.p01.nsone.net",
+        "dns2.p01.nsone.net",
+        "dns4.p01.nsone.net"
+    ]
+}

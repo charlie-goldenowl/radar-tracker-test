@@ -1,0 +1,70 @@
+{
+    "domain": "a-ads.com",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-NO"
+    ],
+    "prevalence": 0.00181,
+    "sites": 18,
+    "subdomains": [
+        "ad"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "a-ads\\.com\\/2077818",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4ca84c6b3403c370a6471f1b4bc57e41255e9982e97f754468b8bd3bc3b64407"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fappedia.com",
+                "thegirlgirl.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.6666666666666666
+        },
+        {
+            "domain": "adsxyz.com",
+            "prevalence": 0.125
+        },
+        {
+            "domain": "bidgear.com",
+            "prevalence": 0.125
+        },
+        {
+            "domain": "laivue.com",
+            "prevalence": 0.041666666666666664
+        },
+        {
+            "domain": "pubfuture-ad.com",
+            "prevalence": 0.041666666666666664
+        }
+    ],
+    "types": {
+        "Document": 2
+    },
+    "nameservers": [
+        "algin.ns.cloudflare.com",
+        "carol.ns.cloudflare.com"
+    ]
+}

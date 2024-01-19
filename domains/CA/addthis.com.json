@@ -1,0 +1,453 @@
+{
+    "domain": "addthis.com",
+    "owner": {
+        "name": "Oracle Corporation",
+        "displayName": "Oracle",
+        "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+        "url": "http://oracle.com"
+    },
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.019,
+    "sites": 189,
+    "subdomains": [
+        "s7",
+        "cw",
+        "x.dlx",
+        "su",
+        "e.dlx",
+        "m"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "addthis\\.com\\/js\\/300\\/addthis_widget\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s7"
+            ],
+            "apis": {},
+            "sites": 98,
+            "prevalence": 0.00987,
+            "cnames": [],
+            "responseHashes": [
+                "f475c34186022ba531ebc8bba97fc10df7e4c3ea854f314a18ab0644c851620d"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "4anime.is",
+                "www.gov.mb.ca",
+                "musiccritic.com",
+                "www.gallery.ca",
+                "days.to",
+                "www.cliqueduplateau.com",
+                "www.guardian-ida-remedysrx.ca",
+                "www.canadahelps.org",
+                "www.venmar.ca",
+                "www.citynews.ca",
+                "www.pentaxforums.com",
+                "www.frommers.com",
+                "www.ameublements.ca",
+                "rarbg.tw",
+                "monsterhunterworld.wiki.fextralife.com",
+                "www.westonaprice.org",
+                "www.hockeycanada.ca",
+                "bikepacking.com",
+                "saultstemarie.ca",
+                "ztube.org"
+            ]
+        },
+        {
+            "rule": "addthis\\.com\\/t\\.gif",
+            "cookies": 0.00222,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cw"
+            ],
+            "apis": {},
+            "sites": 34,
+            "prevalence": 0.00343,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gamefaqs.gamespot.com",
+                "thechive.com",
+                "myheroacademia.fandom.com",
+                "hackaday.com",
+                "babynames.com",
+                "www.artnet.com",
+                "jav.fandom.com",
+                "virtualyoutuber.fandom.com",
+                "www.gimmesomeoven.com",
+                "hoopshype.com",
+                "blog.prepscholar.com",
+                "www.rhymezone.com",
+                "ftw.usatoday.com",
+                "topdogtips.com",
+                "dragonball.fandom.com",
+                "wowpedia.fandom.com",
+                "zelda.fandom.com",
+                "www.realqunb.com",
+                "liveboldandbloom.com",
+                "www.alldatasheet.com"
+            ]
+        },
+        {
+            "rule": "addthis\\.com\\/e\\/rocketfuel_sync",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "x.dlx"
+            ],
+            "apis": {},
+            "sites": 14,
+            "prevalence": 0.00141,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "answersingenesis.org",
+                "cz-usa.com",
+                "www.bettycrocker.com",
+                "www.duca.com",
+                "www.gohawaii.com",
+                "www.healthgrades.com",
+                "www.mlb.com",
+                "www.pillsbury.com",
+                "www.ramtrucks.com",
+                "www.skibanff.com",
+                "www.thenation.com",
+                "www.vanillagift.com",
+                "www.westernunion.com",
+                "www.wyndhamhotels.com"
+            ]
+        },
+        {
+            "rule": "addthis\\.com\\/red\\/usync",
+            "cookies": 0.00161,
+            "fingerprinting": 0,
+            "subdomains": [
+                "su"
+            ],
+            "apis": {},
+            "sites": 16,
+            "prevalence": 0.00161,
+            "cnames": [],
+            "responseHashes": [
+                "1866961a029c65376fefb7f2ba1e6187e09ff50ea58d97dedfd72c197947d002"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "arstechnica.com",
+                "gateway.bmonesbittburns.com",
+                "pitchfork.com",
+                "www.allure.com",
+                "www.architecturaldigest.com",
+                "www.cntraveler.com",
+                "www.cowboylyrics.com",
+                "www.epicurious.com",
+                "www.glamour.com",
+                "www.gq.com",
+                "www.mgmresorts.com",
+                "www.newyorker.com",
+                "www.self.com",
+                "www.teenvogue.com",
+                "www.vanityfair.com",
+                "www.wired.com"
+            ]
+        },
+        {
+            "rule": "addthis\\.com\\/e\\/demdex_sync",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "x.dlx"
+            ],
+            "apis": {},
+            "sites": 13,
+            "prevalence": 0.00131,
+            "cnames": [],
+            "responseHashes": [
+                "1866961a029c65376fefb7f2ba1e6187e09ff50ea58d97dedfd72c197947d002"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "aam_uuid": 0.00020147073637554144,
+                "aam_did": 0.00010073536818777072
+            },
+            "exampleSites": [
+                "arstechnica.com",
+                "canada.lenovo.com",
+                "pcsupport.lenovo.com",
+                "support.lenovo.com",
+                "www.allure.com",
+                "www.architecturaldigest.com",
+                "www.buffalobills.com",
+                "www.glamour.com",
+                "www.lenovo.com",
+                "www.nfl.com",
+                "www.newyorker.com",
+                "www.self.com",
+                "www.stuff.co.nz"
+            ]
+        },
+        {
+            "rule": "addthis\\.com\\/e\\/a-1625\\/s-3300",
+            "cookies": 0.000504,
+            "fingerprinting": 0,
+            "subdomains": [
+                "e.dlx"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "e41656eb2ba6c6293bf6dd928e5a88cdbc50535cab661c1969e0f598e497ed62"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "oodle.com",
+                "canada.oodle.com",
+                "slashdot.org",
+                "www.alibris.com",
+                "www.architecturaldesigns.com"
+            ]
+        },
+        {
+            "rule": "addthis\\.com\\/e\\/bk_sync\\.xgi",
+            "cookies": 0.000302,
+            "fingerprinting": 0,
+            "subdomains": [
+                "x.dlx"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "oodle.com",
+                "www.alibris.com",
+                "www.architecturaldesigns.com"
+            ]
+        },
+        {
+            "rule": "addthis\\.com\\/js\\/250\\/addthis_widget\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s7"
+            ],
+            "apis": {},
+            "sites": 8,
+            "prevalence": 0.000806,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "alberta.ca",
+                "onhockey.tv",
+                "princessauto.com",
+                "www.amigoexpress.com",
+                "www.princessauto.com",
+                "www.recettesquebecoises.com",
+                "www.tvhebdo.com",
+                "www.webpussi.com"
+            ]
+        },
+        {
+            "rule": "addthis\\.com\\/e\\/a-1189\\/s-3614",
+            "cookies": 0.000705,
+            "fingerprinting": 0,
+            "subdomains": [
+                "e.dlx"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000705,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "oemdrivers.com",
+                "transittoronto.ca",
+                "usermanual.wiki",
+                "weather-and-climate.com",
+                "www.carcarekiosk.com",
+                "www.taxtips.ca",
+                "www.worldometers.info"
+            ]
+        },
+        {
+            "rule": "addthis\\.com\\/static\\/sh\\.e4e8af4de595fdb10ec1459d\\.html",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s7"
+            ],
+            "apis": {
+                "Date.prototype.getTime": 2,
+                "Date.prototype.getTimezoneOffset": 2,
+                "Document.cookie setter": 2,
+                "Document.cookie getter": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "73a58a88abecfd2c105645b81a1380554557bee28b7b1c141b8899f11496368a"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gorillasurplus.com",
+                "www.gorillasurplus.com"
+            ]
+        },
+        {
+            "rule": "addthis\\.com\\/live\\/red_lojson\\/300lo\\.json",
+            "cookies": 0.000101,
+            "fingerprinting": 0,
+            "subdomains": [
+                "m"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "3d0761f023e27cfd823ea4a44400bd8acddd2af6513f976316044885f40a4b40"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gorillasurplus.com",
+                "www.sec.gov"
+            ]
+        },
+        {
+            "rule": "addthis\\.com\\/static\\/sh\\.f48a1a04fe8dbf021b4cda1d\\.html",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s7"
+            ],
+            "apis": {
+                "Date.prototype.getTime": 2,
+                "Date.prototype.getTimezoneOffset": 2,
+                "Document.cookie getter": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "7b6bfa13f0778c40bb2a00af9819bea2f07afcb4d071e7e4f436196953a5db4d"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sec.gov",
+                "www.sec.gov"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Analytics",
+        "Audience Measurement",
+        "Third-Party Analytics Marketing",
+        "Social - Share",
+        "Embedded Content"
+    ],
+    "performance": {},
+    "cookies": 0.00504,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.5168067226890757
+        },
+        {
+            "domain": "undertone.com",
+            "prevalence": 0.11764705882352941
+        },
+        {
+            "domain": "demdex.net",
+            "prevalence": 0.1092436974789916
+        },
+        {
+            "domain": "rfihub.com",
+            "prevalence": 0.09243697478991597
+        },
+        {
+            "domain": "googlesyndication.com",
+            "prevalence": 0.058823529411764705
+        },
+        {
+            "domain": "crsspxl.com",
+            "prevalence": 0.046218487394957986
+        },
+        {
+            "domain": "perfectaudience.com",
+            "prevalence": 0.01680672268907563
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.01680672268907563
+        },
+        {
+            "domain": "marinsm.com",
+            "prevalence": 0.008403361344537815
+        },
+        {
+            "domain": "hubspot.net",
+            "prevalence": 0.004201680672268907
+        }
+    ],
+    "types": {
+        "Script": 108,
+        "Image": 92,
+        "Document": 4
+    },
+    "nameservers": [
+        "ns2.p201.dns.oraclecloud.net",
+        "ns1.p201.dns.oraclecloud.net",
+        "ns3.p201.dns.oraclecloud.net",
+        "ns4.p201.dns.oraclecloud.net"
+    ]
+}

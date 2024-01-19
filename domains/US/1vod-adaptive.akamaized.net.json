@@ -1,0 +1,54 @@
+{
+    "domain": "1vod-adaptive.akamaized.net",
+    "owner": {
+        "name": "Akamai Technologies",
+        "displayName": "Akamai",
+        "privacyPolicy": "https://www.akamai.com/us/en/privacy-policies/",
+        "url": "http://akamai.com"
+    },
+    "source": [
+        "DuckDuckGo-US"
+    ],
+    "prevalence": 0.0000068,
+    "sites": 1,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "1vod-adaptive\\.akamaized\\.net\\/exp=1704197073~acl=%2F5b65884b-5036-4658-a8b4-86c977fbdc20%2F%2A~hmac=34314a8dd1d869b6425bf9a84e4caac477a6cd5d4cd3d906a29c76e3c60313ad\\/5b65884b-5036-4658-a8b4-86c977fbdc20\\/parcel\\/audio\\/4bd2e935\\.mp4",
+            "cookies": 0.0000136,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "fca2c706b37c188d26549a96b1101c5708e1078c00306f13ae399029f87c2819"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cctvsecuritypros.com",
+                "www.cctvsecuritypros.com"
+            ]
+        }
+    ],
+    "categories": [
+        "CDN"
+    ],
+    "performance": {},
+    "cookies": 0.0000068,
+    "topInitiators": [
+        {
+            "domain": "vimeocdn.com",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "XHR": 2
+    },
+    "nameservers": []
+}

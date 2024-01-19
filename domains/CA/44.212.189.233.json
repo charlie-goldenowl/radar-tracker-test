@@ -1,0 +1,48 @@
+{
+    "domain": "44.212.189.233",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.000604,
+    "sites": 6,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "44\\.212\\.189\\.233\\/is",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "4cc9b4a80aaf78dcd6d397dba332f85a9d01e6582513a891a17f69b42b8476cf",
+                "894211f004f74eca111649dd97a72dd650d66ff16a5779179f0bd332c5d79adc",
+                "509729ea90f7342afae72f3688ff5c3650c59094cbd07cec9107e610673d4178",
+                "21e30e35a1598f29d90303af14d3ab2bc486ba2a0d948532451f5bdac38e7fda"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "stockx.com",
+                "www.americastestkitchen.com",
+                "www.cpap.com",
+                "www.edx.org",
+                "www.singer.com",
+                "www.sweetwater.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "types": {
+        "Fetch": 6
+    },
+    "nameservers": []
+}

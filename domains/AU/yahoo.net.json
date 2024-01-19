@@ -1,0 +1,197 @@
+{
+    "domain": "yahoo.net",
+    "owner": {
+        "name": "Verizon Media",
+        "displayName": "Verizon Media",
+        "privacyPolicy": "https://www.verizon.com/about/privacy/privacy-policy-summary",
+        "url": "http://verizon.com"
+    },
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.0691,
+    "sites": 688,
+    "subdomains": [
+        "hb"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "yahoo\\.net\\/cksync",
+            "cookies": 0.0229,
+            "fingerprinting": 0,
+            "subdomains": [
+                "hb"
+            ],
+            "apis": {},
+            "sites": 238,
+            "prevalence": 0.0239,
+            "cnames": [],
+            "responseHashes": [
+                "0e03167032a907068d64756064465a2c12126ce4e9e6e9d37a859bc9ef9b962b"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "soundcloud.com",
+                "www.etsy.com",
+                "www.yummly.com",
+                "www.cellarbrations.com.au",
+                "www.michaelhill.com.au",
+                "tasteofsummer.com.au",
+                "www.audible.com.au",
+                "www.bankaust.com.au",
+                "www.wix.com",
+                "www.kia.com",
+                "www.goodyear.com.au",
+                "www.sydneyfestival.org.au",
+                "www.totaltools.com.au",
+                "www.snapfitness.com",
+                "squareup.com",
+                "www.wallacebishop.com.au",
+                "www.ingeniaholidays.com.au",
+                "nga.gov.au",
+                "www.mydeal.com.au",
+                "www.ryde.nsw.gov.au"
+            ]
+        },
+        {
+            "rule": "yahoo\\.net\\/cksync",
+            "cookies": 0.0337,
+            "fingerprinting": 0,
+            "subdomains": [
+                "hb"
+            ],
+            "apis": {},
+            "sites": 391,
+            "prevalence": 0.0393,
+            "cnames": [],
+            "responseHashes": [
+                "0e03167032a907068d64756064465a2c12126ce4e9e6e9d37a859bc9ef9b962b"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "draxe.com",
+                "mashable.com",
+                "people.com",
+                "slate.com",
+                "tabs.ultimate-guitar.com",
+                "www.allrecipes.com",
+                "www.alibaba.com",
+                "www.bustle.com",
+                "www.expedia.com",
+                "www.fixya.com",
+                "www.engineersaustralia.org.au",
+                "www.lyricsmode.com",
+                "support.squarespace.com",
+                "www.tripadvisor.ca",
+                "www.slatergordon.com.au",
+                "www.morgans.com.au",
+                "dnyuz.com",
+                "www.amymyersmd.com",
+                "www.commercialrealestate.com.au",
+                "www.coingecko.com"
+            ]
+        },
+        {
+            "rule": "yahoo\\.net\\/cksync\\.php",
+            "cookies": 0.0171,
+            "fingerprinting": 0,
+            "subdomains": [
+                "hb"
+            ],
+            "apis": {},
+            "sites": 180,
+            "prevalence": 0.0181,
+            "cnames": [],
+            "responseHashes": [
+                "0e03167032a907068d64756064465a2c12126ce4e9e6e9d37a859bc9ef9b962b"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.alibaba.com",
+                "www.mrvitamins.com.au",
+                "www.idrive.com",
+                "www.edisons.com.au",
+                "www.crazysales.com.au",
+                "djcity.com.au",
+                "www.cmsnl.com",
+                "www.bhphotovideo.com",
+                "www.sportscraft.com.au",
+                "www.innovations.com.au",
+                "www.artistguitars.com.au",
+                "www.platypusshoes.com.au",
+                "toolswarehouse.com.au",
+                "www.bluedm.com.au",
+                "www.florsheim.com.au",
+                "www.adairs.com.au",
+                "www.bakersdelight.com.au",
+                "www.netgear.com",
+                "www.budgetpetproducts.com.au",
+                "www.autotrader.com.au"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.0635,
+    "topInitiators": [
+        {
+            "domain": "criteo.com",
+            "prevalence": 0.3417142857142857
+        },
+        {
+            "domain": "adsrvr.org",
+            "prevalence": 0.3062857142857143
+        },
+        {
+            "domain": "rubiconproject.com",
+            "prevalence": 0.18971428571428572
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.036571428571428574
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.03542857142857143
+        },
+        {
+            "domain": "amazon-adsystem.com",
+            "prevalence": 0.030857142857142857
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.014857142857142857
+        },
+        {
+            "domain": "d1eoo1tco6rr5e.cloudfront.net",
+            "prevalence": 0.010285714285714285
+        },
+        {
+            "domain": "tagcommander.com",
+            "prevalence": 0.006857142857142857
+        },
+        {
+            "domain": "wdsvc.net",
+            "prevalence": 0.006857142857142857
+        }
+    ],
+    "types": {
+        "Document": 238,
+        "Image": 571
+    },
+    "nameservers": [
+        "ns1.yahoo.com",
+        "ns5.yahoo.com",
+        "ns2.yahoo.com",
+        "ns3.yahoo.com",
+        "ns4.yahoo.com"
+    ]
+}

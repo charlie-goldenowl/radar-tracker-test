@@ -1,0 +1,89 @@
+{
+    "domain": "addsearch.com",
+    "owner": {
+        "name": "AddSearch Oy",
+        "displayName": "AddSearch"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.000705,
+    "sites": 7,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "addsearch\\.com\\/js\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000705,
+            "cnames": [],
+            "responseHashes": [
+                "cfe4838f5a02ca3217bbe793a5b0b9cf3c3f94bc520c5f9f3733ff2e69819737",
+                "f41f95cc7e51810b964810439eed7183cf4c085ffb494c50beeaa5b79a594df4",
+                "c30698be4fee58d6ade2998a2c54653720d3e3ecb67767040adfe62c72c2f884",
+                "151ca4924549f64bbfb07420ccc55df83d74e5e06af0498daedac2714630bb44"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "grindelwald.swiss",
+                "jungfrauregion.swiss",
+                "loeb.ch",
+                "muerren.swiss",
+                "wengen.swiss",
+                "www.singleboersen-vergleich.ch",
+                "www.zu-zweit.ch"
+            ]
+        },
+        {
+            "rule": "addsearch\\.com\\/searchui\\/v3\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "e30950a1f76d5b93f5dce286fc13e89753e49405047269de1488a24d4187e122",
+                "96c1a77525e8de347780a5c03c7cdd4590211a41a250775d55dd3958b08516f1",
+                "3b89efc852dbf4b0bd57d698be8bfbb4e9fa92fc609e5703dab94babb72ca707",
+                "21420e30c812120b4c49f7599b3151687102796350cc41731ccb4e5a6ac46633"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "grindelwald.swiss",
+                "jungfrauregion.swiss",
+                "muerren.swiss",
+                "wengen.swiss",
+                "www.zu-zweit.ch"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Script": 12
+    },
+    "nameservers": [
+        "ns-516.awsdns-00.net",
+        "ns-1211.awsdns-23.org",
+        "ns-406.awsdns-50.com",
+        "ns-1812.awsdns-34.co.uk"
+    ]
+}

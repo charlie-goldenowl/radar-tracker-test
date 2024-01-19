@@ -1,0 +1,259 @@
+{
+    "domain": "a-mo.net",
+    "owner": {
+        "name": "Monet Engine Inc.",
+        "displayName": "Monet Engine"
+    },
+    "source": [
+        "DuckDuckGo-DE"
+    ],
+    "prevalence": 0.00292,
+    "sites": 29,
+    "subdomains": [
+        "prebid",
+        "1x1"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "a-mo\\.net\\/cchain\\/0",
+            "cookies": 0.000604,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "9to5mac.com",
+                "bdocodex.com",
+                "de.automobiledimension.com",
+                "www.picuki.com",
+                "www.powerpyx.com",
+                "www.thegearpage.net"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/a\\/c",
+            "cookies": 0.000705,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 8,
+            "prevalence": 0.000806,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "5d75462ac02db3de7b75bd7334db408752b889e3f39881fe198551392281f56e"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "appleinsider.com",
+                "bdocodex.com",
+                "de.wukihow.com",
+                "sharemods.com",
+                "stocktwits.com",
+                "www.furaffinity.net",
+                "www.mangaread.org",
+                "www.picuki.com"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/isyn",
+            "cookies": 0.00101,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "appleinsider.com",
+                "bdocodex.com",
+                "de.automobiledimension.com",
+                "linux.how2shout.com",
+                "stocktwits.com",
+                "www.behindthename.com",
+                "www.furaffinity.net",
+                "www.hdsports.de",
+                "www.picuki.com",
+                "www.sqlitetutorial.net"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/cchain\\/0",
+            "cookies": 0.000906,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 9,
+            "prevalence": 0.000906,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "coinmarketcap.com",
+                "cplusplus.com",
+                "garticphone.com",
+                "linuxhandbook.com",
+                "pokemondb.net",
+                "riptutorial.com",
+                "www.avsim.com",
+                "www.behindthename.com",
+                "www.picuki.com"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/a\\/c",
+            "cookies": 0.00101,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "automobiledimension.com",
+                "linux.how2shout.com",
+                "progameguides.com",
+                "www.behindthename.com",
+                "www.hdsports.de",
+                "www.jpost.com",
+                "www.mindbodygreen.com",
+                "www.mysqltutorial.org",
+                "www.postgresqltutorial.com",
+                "www.sqlitetutorial.net"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/hbx\\/g_pbto",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "1x1"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sharemods.com",
+                "www.picuki.com"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/setuid\\/magnite",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "digminecraft.com",
+                "www.mangaread.org"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00282,
+    "topInitiators": [
+        {
+            "domain": "servenobid.com",
+            "prevalence": 0.13114754098360656
+        },
+        {
+            "domain": "vlitag.com",
+            "prevalence": 0.13114754098360656
+        },
+        {
+            "domain": "stpd.cloud",
+            "prevalence": 0.09836065573770492
+        },
+        {
+            "domain": "nextmillmedia.com",
+            "prevalence": 0.08196721311475409
+        },
+        {
+            "domain": "increaserev.com",
+            "prevalence": 0.08196721311475409
+        },
+        {
+            "domain": "bidmatic.io",
+            "prevalence": 0.06557377049180328
+        },
+        {
+            "domain": "htlbid.com",
+            "prevalence": 0.04918032786885246
+        },
+        {
+            "domain": "h12-media.com",
+            "prevalence": 0.04918032786885246
+        },
+        {
+            "domain": "azureedge.net",
+            "prevalence": 0.03278688524590164
+        },
+        {
+            "domain": "aniview.com",
+            "prevalence": 0.03278688524590164
+        }
+    ],
+    "types": {
+        "Document": 16,
+        "XHR": 8,
+        "Image": 13,
+        "Fetch": 10
+    },
+    "nameservers": [
+        "ns-936.awsdns-53.net",
+        "ns-1907.awsdns-46.co.uk",
+        "ns-1313.awsdns-36.org",
+        "ns-243.awsdns-30.com"
+    ]
+}

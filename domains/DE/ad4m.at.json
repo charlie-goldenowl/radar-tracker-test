@@ -1,0 +1,613 @@
+{
+    "domain": "ad4m.at",
+    "owner": {
+        "name": "advanced STORE GmbH",
+        "displayName": "advanced STORE"
+    },
+    "source": [
+        "DuckDuckGo-DE"
+    ],
+    "prevalence": 0.00201,
+    "sites": 20,
+    "subdomains": [
+        "as",
+        "assets"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "ad4m\\.at\\/ad\\/sim\\/ix",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fcbinside.de",
+                "linuxhandbook.com",
+                "www.behindthename.com"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/ad\\/dst",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "as"
+            ],
+            "apis": {},
+            "sites": 9,
+            "prevalence": 0.000906,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "userId": 0.00030211480362537764
+            },
+            "exampleSites": [
+                "greenstories.de",
+                "mcdart.de",
+                "porzellantreff.de",
+                "schraub-doc.de",
+                "www.alle-noten.de",
+                "www.bikes.de",
+                "www.naturzeit.com",
+                "www.verwoehnwochenende.de",
+                "www.zumnorde.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/ad\\/dpe",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "as"
+            ],
+            "apis": {},
+            "sites": 9,
+            "prevalence": 0.000906,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "userId": 0.00030211480362537764
+            },
+            "exampleSites": [
+                "greenstories.de",
+                "mcdart.de",
+                "porzellantreff.de",
+                "schraub-doc.de",
+                "www.alle-noten.de",
+                "www.bikes.de",
+                "www.naturzeit.com",
+                "www.verwoehnwochenende.de",
+                "www.zumnorde.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/network-tag\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "2fd7e78ab05ebf69eca4a3e4b70c4513b02d8580c7b7fdd2e92063bcfd09ca60"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mcdart.de",
+                "schraub-doc.de",
+                "www.alle-noten.de",
+                "www.verwoehnwochenende.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/ad\\/ant",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "as"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "c3652c33178301edd497b9b219e137cc35975bfbf87abec6f0015fbaab8318eb",
+                "cb4963b1a8921fbce9801e61dc32ede81aefaa6b458aba845a7b3ee362bc4f58",
+                "3b428dfe5cea4af797156e2b2b22dcd96a2a859e251272e5d2250deb56ba1a94"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mcdart.de",
+                "schraub-doc.de",
+                "www.alle-noten.de",
+                "www.verwoehnwochenende.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/cookie-frame\\.html",
+            "cookies": 0.00111,
+            "fingerprinting": 1,
+            "subdomains": [],
+            "apis": {
+                "Document.cookie getter": 8,
+                "Document.cookie setter": 11
+            },
+            "sites": 16,
+            "prevalence": 0.00161,
+            "cnames": [],
+            "responseHashes": [
+                "0db16c25165bfd35ea9114187f3e97d7084a33135cb56fe276f6cdd2ab675647"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mcdart.de",
+                "minecraft.novaskin.me",
+                "onepiece-tube.com",
+                "porzellantreff.de",
+                "schraub-doc.de",
+                "www.alle-noten.de",
+                "www.bikes.de",
+                "www.congstar.de",
+                "www.heimhelden.de",
+                "www.hifi-forum.de",
+                "www.libreoffice-forum.de",
+                "www.naturzeit.com",
+                "www.promiflash.de",
+                "www.reifen.de",
+                "www.verwoehnwochenende.de",
+                "www.zumnorde.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/ad\\/dr",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "as"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "0f4ca05236e163d4c2dee320410569f8806b63d430d9591cb8b4417e8add0f4e",
+                "453db1cb020510b7c0d9512c2929bc4ff22d340fdb94a9506f34093766782cfb"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "www.heimhelden.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/ad\\/style\\/0\\.1\\.50\\/one-ad\\/default\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "as"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "5f5a0db09b2c7d59fce00d749f6b857d80edafcca6897c038c5b77fb942f1393"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "minecraft.novaskin.me",
+                "onepiece-tube.com",
+                "www.heimhelden.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/r62eglto\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [],
+            "apis": {
+                "Navigator.prototype.userAgent": 3,
+                "Navigator.prototype.doNotTrack": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "e688c863b85a28f75e5c1c7f21092f1f419649e10496f9f1fc36826112bbd348"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "www.heimhelden.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/rs",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "3051b0e1808bf2821948f3a8ed3ce52261a5ef0fc3991a5f6313baf4e11f06e6",
+                "7ba91d263e18a1dcf07f4fc56f1a43fa32ebe10f5d4a9d7d6f4fdca695801f03",
+                "05800cbfbb52a56763a312f6efc231c0ee2155c8fd3b98aba1ded05d5a4b6d86"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "onepiece-tube.com",
+                "www.heimhelden.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/rs",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Preflight",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "onepiece-tube.com",
+                "www.heimhelden.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/ad\\/rar",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "as"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "c8f8a0267feeca65ab925b5a0d5692f39f44244c1365e519662562fa8049d510",
+                "58238edfa46c011ee2fa266c606d330d7f3de67cad131c137c51fe46b22165cf",
+                "a7c3b77465393525641791b94a411476f1aeddc30015c312c66aea27360f5f17"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "onepiece-tube.com",
+                "www.heimhelden.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/logo\\/D694B3AB12381C049B127B34DC11A792684BA8B6EE8B598D6E4045678591B7D0DC6B2CEF7528F06BB05FC11826A1D16CF24DA68FCFC2416343996FBFC05A3155",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "da9eb227e9f1a1392ae1b0c5b779ee907011f6191f182f90be50457ba9c966f1"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "www.heimhelden.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/product_image\\/F62A1DE9558535D0FF655677BD09A3CC277ACE3637CF682E0D52C0F5BBA2668E34C6194AEF65CBBC1F6ECA33D1332A3C8BE1215EA4AB0FD0FBE5F5B485AF1875",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "40c6682f02011422355a7a3803108db0a267be21ecda9786ebdacdecd1f22a06"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "www.heimhelden.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/logo\\/90E11D2E4CFB32857DB7C2E1317DD53401EA4F6F6F9CD68E6E871CA9D0C876402E8B3C561F20D09E5FFCF6D6F6634B28F60F47276020F60158747BE09B58F826",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "caf39568927b8cfc84ccbd5b8e7a864ebf7635ba21db21dae18ac602f776e874"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "onepiece-tube.com",
+                "www.heimhelden.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/287435BEDBEF5210566F91ED2E6D57494D1CBA241E887A111712FB8ADF6747B3B44CBC7EE390AD74BB6985CDD69339A9B2EDEE7334ACD70F503D0812F8C7EBF1",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "c13d8914afd9162ca425f6086e9cb49a1306ec800fb6e530bb5adf6bbd16862a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "onepiece-tube.com",
+                "www.heimhelden.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/logo\\/A0843E9156C9D7335C02FDBAB8781B4AFFEEE9E59ABD085E1EDF62037D970710A817E95DBBFD727CE4E28B26524C9A8F4A33EB1E826BD3A7B2541F094E39D266",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "71c2a683639a9c546abf547ab9f2fe11239f62b9e9731d17516fb11b3c0cdfbf"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "www.heimhelden.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/B4A4D4AE24A1FC5067FA06DB00E21DA5A143F663CF3153C1D2812B519806D793E1E07140C733352966C6C7C037FF39882FAEB141999BF28A93837E2C21DB35B1",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "48cd9f386014e2490296764ec405161296f9e80d4dfbb03b920d69739133e992"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "novaskin.me",
+                "www.heimhelden.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/logo\\/AC50ED06D6B01579BBF8202CAC1E2BC99A8C4EFC03AE0DB29DFC1BDB2F82E09188D30122E09EB7D91DC8B3182DA9DB4A5BED06E4BC2B9D6F0CA2AC61EC267111",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "1e061133a00a4cf89e1ccbf5ce82482eba5fad8a7fc6722308b03ba322d44eeb"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "libreoffice-forum.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/product_image\\/A36DAD0D440985CF6ABFA23492945CE5BC6D94350A66B19418CB771AFE823AD9B48ADE8E2F007546F0A50A710172EEFC2CAC1468E38852CE2028C22592AAFB75",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "12094890968de0adb3c4c30bcf09682b5e7954ee5a877b819e043d92d2117904"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "libreoffice-forum.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/logo\\/762E992A001272DDC355514B76DC4960DDF6238B0F54854C0B29BE64A7E78BA5693E54C1A602322E523834805FE15471ECC3FEB06D9A02796A930A4085F71F84",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "3d5e83afb217e3e3b42f3bb1f80b690fbf442a95159c7434ce37d91862968b2e"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "libreoffice-forum.de",
+                "www.libreoffice-forum.de"
+            ]
+        },
+        {
+            "rule": "ad4m\\.at\\/E1613AB51B8289501DC4E750FD05DAF49FBB0AEAEF6155FD81001404C0F388525557C80572BA5C3D895730DA3957A6D15AF6D079DFB5F55ED0C22B8402FC82AE",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "assets"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "9198a52c5331627b65e518ff86c2b8f0e6460ae52db41243fab4e62ae1bc4e24"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "libreoffice-forum.de",
+                "www.libreoffice-forum.de"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00111,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.2916666666666667
+        },
+        {
+            "domain": "adcell.com",
+            "prevalence": 0.1875
+        },
+        {
+            "domain": "smarketer.de",
+            "prevalence": 0.10416666666666667
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.10416666666666667
+        },
+        {
+            "domain": "trackjs.com",
+            "prevalence": 0.08333333333333333
+        },
+        {
+            "domain": "casalemedia.com",
+            "prevalence": 0.0625
+        },
+        {
+            "domain": "dwin1.com",
+            "prevalence": 0.0625
+        },
+        {
+            "domain": "belboon.com",
+            "prevalence": 0.0625
+        },
+        {
+            "domain": "belboon.de",
+            "prevalence": 0.020833333333333332
+        },
+        {
+            "domain": "misaglam.com",
+            "prevalence": 0.020833333333333332
+        }
+    ],
+    "types": {
+        "Image": 46,
+        "Script": 7,
+        "XHR": 8,
+        "Document": 23,
+        "Stylesheet": 5,
+        "Preflight": 4
+    },
+    "nameservers": [
+        "nora.ns.cloudflare.com",
+        "elliot.ns.cloudflare.com"
+    ]
+}

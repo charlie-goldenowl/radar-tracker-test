@@ -1,0 +1,912 @@
+{
+    "domain": "360yield.com",
+    "owner": {
+        "name": "Improve Digital BV",
+        "displayName": "Improve Digital",
+        "privacyPolicy": "https://www.improvedigital.com/platform-privacy-policy/",
+        "url": "http://improvedigital.com"
+    },
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.0891,
+    "sites": 884,
+    "subdomains": [
+        "ad",
+        "ice",
+        "euw-ice",
+        "ad2",
+        "match",
+        "pbs"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "360yield\\.com\\/server_match",
+            "cookies": 0.0501,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad",
+                "ice",
+                "euw-ice",
+                "ad2"
+            ],
+            "apis": {},
+            "sites": 570,
+            "prevalence": 0.0574,
+            "cnames": [],
+            "responseHashes": [
+                "c956a8bbf43bb56f60d1beefcc5a70f2cb0725083a00e8a0daf423176509fd18",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "ac554a4ea8b34bbb80db013e14be195ebc986f82f24e5b18b0ea9032ef561f57",
+                "1cc0f34da66aa6c5eb411685ba8e08835e72eb5850c2f136ba9cc5b4e8c62d05",
+                "831b0d6cde4541d363bb7a67eb49010fc5fd717dda4b9c3187dd3207b1da56cd",
+                "2fce2feb1cb59a8c53b5b46d1d758949090324d34b2a941a972240d6ccf63db6"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dictionary.reverso.net",
+                "forums.macrumors.com",
+                "gizmodo.com",
+                "globalnews.ca",
+                "hollywoodlife.com",
+                "nypost.com",
+                "screenrant.com",
+                "theconservativetreehouse.com",
+                "thoughtcatalog.com",
+                "twinfinite.net",
+                "www.asahi.com",
+                "wafflegame.net",
+                "noita.fandom.com",
+                "www.gbmb.org",
+                "macreports.com",
+                "www.celebritynetworth.com",
+                "ca.investing.com",
+                "attackofthefanboy.com",
+                "www.mafourchette.com",
+                "www.mazda3revolution.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/ul_cb\\/server_match",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad",
+                "ice",
+                "euw-ice",
+                "ad2"
+            ],
+            "apis": {},
+            "sites": 475,
+            "prevalence": 0.0478,
+            "cnames": [],
+            "responseHashes": [
+                "c956a8bbf43bb56f60d1beefcc5a70f2cb0725083a00e8a0daf423176509fd18",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "ac554a4ea8b34bbb80db013e14be195ebc986f82f24e5b18b0ea9032ef561f57",
+                "1cc0f34da66aa6c5eb411685ba8e08835e72eb5850c2f136ba9cc5b4e8c62d05",
+                "2fce2feb1cb59a8c53b5b46d1d758949090324d34b2a941a972240d6ccf63db6",
+                "831b0d6cde4541d363bb7a67eb49010fc5fd717dda4b9c3187dd3207b1da56cd"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dictionary.reverso.net",
+                "forums.macrumors.com",
+                "gizmodo.com",
+                "globalnews.ca",
+                "hollywoodlife.com",
+                "nypost.com",
+                "theconservativetreehouse.com",
+                "thoughtcatalog.com",
+                "www.cnn.com",
+                "www.fixya.com",
+                "www.asahi.com",
+                "montreal.eater.com",
+                "blazingcatfur.ca",
+                "www.feastingathome.com",
+                "www.theperfectloaf.com",
+                "chicago.suntimes.com",
+                "tvovermind.com",
+                "www.kingstonist.com",
+                "riptutorial.com",
+                "www.womansworld.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/server_match",
+            "cookies": 0.000504,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ice",
+                "ad"
+            ],
+            "apis": {},
+            "sites": 9,
+            "prevalence": 0.000907,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "10minutemail.com",
+                "cardarium.com",
+                "francoischarron.com",
+                "www.dcode.fr",
+                "www.haaretz.com",
+                "www.hindustantimes.com",
+                "www.metrotimes.com",
+                "www.nationalreview.com",
+                "www.supersoluce.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/ul_cb\\/server_match",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ice"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "10minutemail.com",
+                "cardarium.com",
+                "www.dcode.fr",
+                "www.hindustantimes.com",
+                "www.supersoluce.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/match",
+            "cookies": 0.0226,
+            "fingerprinting": 0,
+            "subdomains": [
+                "match",
+                "ad",
+                "ice"
+            ],
+            "apis": {},
+            "sites": 231,
+            "prevalence": 0.0233,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744",
+                "2fce2feb1cb59a8c53b5b46d1d758949090324d34b2a941a972240d6ccf63db6",
+                "8f84c4ced509262009163e45994b45ed7ee9d4dbac88674be5f2db5c9e5be38e"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_cb_svref": 0.0004029414727510829
+            },
+            "exampleSites": [
+                "draxe.com",
+                "www.alibaba.com",
+                "www.cargurus.com",
+                "www.drugs.com",
+                "www.zillow.com",
+                "www.globalindustrial.ca",
+                "www.hostelworld.com",
+                "www.penningtons.com",
+                "www.lennox.com",
+                "www.swansonvitamins.com",
+                "www.farfetch.com",
+                "www.audible.com",
+                "www.1stdibs.com",
+                "www.autotrader.ca",
+                "www.stereophile.com",
+                "www.270towin.com",
+                "www.visitflorida.com",
+                "www.zwift.com",
+                "www.passionrecettes.com",
+                "www.selloffvacations.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/ul_cb\\/match",
+            "cookies": 0.0212,
+            "fingerprinting": 0,
+            "subdomains": [
+                "match",
+                "ad",
+                "ice"
+            ],
+            "apis": {},
+            "sites": 210,
+            "prevalence": 0.0212,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744",
+                "2fce2feb1cb59a8c53b5b46d1d758949090324d34b2a941a972240d6ccf63db6",
+                "8f84c4ced509262009163e45994b45ed7ee9d4dbac88674be5f2db5c9e5be38e"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_cb_svref": 0.0003022061045633122
+            },
+            "exampleSites": [
+                "draxe.com",
+                "www.alibaba.com",
+                "www.cargurus.com",
+                "www.drugs.com",
+                "www.zillow.com",
+                "gameranx.com",
+                "www.anycubic.com",
+                "www.doctorkiltz.com",
+                "www.softmoc.com",
+                "www.270towin.com",
+                "www.michaels.com",
+                "hush.ca",
+                "www.liveabout.com",
+                "www.trivago.ca",
+                "www.golfpass.com",
+                "silvergoldbull.ca",
+                "www.lenscrafters.ca",
+                "my.eastlink.ca",
+                "www.venus.com",
+                "www.carsguide.com.au"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/ux",
+            "cookies": 0.00917,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 95,
+            "prevalence": 0.00957,
+            "cnames": [],
+            "responseHashes": [
+                "6b3da89922d333d106b84fefeebd7b16bfebf4cfbd7bef37fa10a47c471ae64c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_au_1d": 0.00967059534602599
+            },
+            "exampleSites": [
+                "arstechnica.com",
+                "healthfully.com",
+                "itsfoss.com",
+                "knowyourmeme.com",
+                "oureverydaylife.com",
+                "screenrant.com",
+                "variety.com",
+                "whatismyipaddress.com",
+                "eso-hub.com",
+                "www.behindthename.com",
+                "www.audiokarma.org",
+                "greenwichmeantime.com",
+                "www.resetera.com",
+                "xdaforums.com",
+                "www.icy-veins.com",
+                "www.drweil.com",
+                "www.eatwell101.com",
+                "www.automateexcel.com",
+                "babylonbee.com",
+                "www.sporcle.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/ul_cb\\/ux",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 91,
+            "prevalence": 0.00917,
+            "cnames": [],
+            "responseHashes": [
+                "6b3da89922d333d106b84fefeebd7b16bfebf4cfbd7bef37fa10a47c471ae64c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_au_1d": 0.009267653873274906
+            },
+            "exampleSites": [
+                "arstechnica.com",
+                "healthfully.com",
+                "itsfoss.com",
+                "knowyourmeme.com",
+                "oureverydaylife.com",
+                "screenrant.com",
+                "variety.com",
+                "whatismyipaddress.com",
+                "www.stuff.tv",
+                "www.onlyinyourstate.com",
+                "wordfinder.yourdictionary.com",
+                "ffxiv.gamerescape.com",
+                "www.vogue.com",
+                "xdaforums.com",
+                "www.footballdb.com",
+                "www.snbforums.com",
+                "www.gottabemobile.com",
+                "cafemom.com",
+                "www.muscleandfitness.com",
+                "oilprice.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/1914\\/pb",
+            "cookies": 0.000705,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000705,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "realgm.com",
+                "downloads.digitaltrends.com",
+                "greenwichmeantime.com",
+                "justthenews.com",
+                "segmentnext.com",
+                "www.gbmb.org",
+                "www.websudoku.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/335\\/pb",
+            "cookies": 0.000403,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "bd45853f167ee5a5cd1a3f6c4f4e6b0bbce98077c00777473b95a970e50babe2"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ccm.net",
+                "mazdas247.com",
+                "www.lacoccinelle.net",
+                "www.paroles-musique.com",
+                "www.planetf1.com",
+                "www.racedepartment.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/pb",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ccm.net",
+                "drudgereport.com",
+                "filehippo.com",
+                "fortnite.gg",
+                "www.aidedd.org",
+                "www.gamersdecide.com",
+                "www.numbeo.com",
+                "www.powerpyx.com",
+                "www.supercoloring.com",
+                "www.zacks.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/match\\/ebda",
+            "cookies": 0.000403,
+            "fingerprinting": 0,
+            "subdomains": [
+                "match"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cottagelife.com",
+                "watchdocumentaries.com",
+                "www.journaldequebec.com",
+                "www.timesofisrael.com",
+                "www.ultimatespecs.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/ul_cb\\/match\\/ebda",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "match"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "071d0a5d172af491aedca9041f20e830d25fd4d339a1006bca3bed949069aa30"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cottagelife.com",
+                "watchdocumentaries.com",
+                "www.journaldequebec.com",
+                "www.timesofisrael.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/cookie_sync",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "pbs"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000705,
+            "cnames": [],
+            "responseHashes": [
+                "f0b2a2229159faa2419675ceb995aa7cacc68cb4b0b357b2de81ddfec9b9574d",
+                "abfadc9e933a68a3b36b136528d2531e5981f63132c9285c0544e8947557d55f",
+                "a129b91d724d5c2c1b427e41de531ecdd4cbc646696e7b2fb4d6bee071346710",
+                "7aca01ee8e0491fb144facfb52718a45876edb9667630b98eb1143c7d36858f9",
+                "87a6201aa36f31e5703547418c363c9ddf9874eb09c1a5ed330be73c272734ef",
+                "4880714cc2b284eef11e910df1e9829c97ca945ae636db4172f3316337025636"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dndtools.net",
+                "www.crazydaysandnights.net",
+                "www.dvdsreleasedates.com",
+                "www.gpucheck.com",
+                "www.siliconinvestor.com",
+                "www.songlyrics.com",
+                "zaubee.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/openrtb2\\/auction",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "pbs"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000705,
+            "cnames": [],
+            "responseHashes": [
+                "1a00c51b677c836518adccedaead87dee304b948faa1b22926dfad3a0a6039fc",
+                "601f929e9944e0fa997cca6b9c6a42d63dbe5c32d975921065f958c93a934d26",
+                "76ab786f0ab1deeb36c09506b8491e7c861a88b8fbca7138003ecf6f57d77e2e",
+                "498554704cda52b59bdc156f7e652d2a8f6038a7e85bafae14aca7baafc2f198",
+                "69b7e752784220190fdc3c49cbde3218f09c4c82f3974d16d72e408d7ee1cc59"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dndtools.net",
+                "www.crazydaysandnights.net",
+                "www.dvdsreleasedates.com",
+                "www.gpucheck.com",
+                "www.siliconinvestor.com",
+                "www.songlyrics.com",
+                "zaubee.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/1263\\/pb",
+            "cookies": 0.000705,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000705,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dndtools.net",
+                "www.crazydaysandnights.net",
+                "www.dvdsreleasedates.com",
+                "www.gpucheck.com",
+                "www.siliconinvestor.com",
+                "www.songlyrics.com",
+                "zaubee.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/setuid",
+            "cookies": 0.000403,
+            "fingerprinting": 0,
+            "subdomains": [
+                "pbs"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "c956a8bbf43bb56f60d1beefcc5a70f2cb0725083a00e8a0daf423176509fd18"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dndtools.net",
+                "www.dvdsreleasedates.com",
+                "www.siliconinvestor.com",
+                "www.songlyrics.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/pb",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "washingtonpost.com",
+                "www.planespotters.net"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/1723\\/pb",
+            "cookies": 0.000604,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "francoischarron.com",
+                "vedettequebec.com",
+                "www.habsolumentfan.com",
+                "www.hockeyfeed.com",
+                "www.mafourchette.com",
+                "www.mondedestars.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/1713\\/pb",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "insideevs.com",
+                "www.motor1.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/1469\\/pb",
+            "cookies": 0.000806,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 8,
+            "prevalence": 0.000806,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "01net.com",
+                "www.01net.com",
+                "www.betaseries.com",
+                "www.frandroid.com",
+                "www.journaldugeek.com",
+                "www.numerama.com",
+                "www.presse-citron.net",
+                "www.tokyvideo.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/1082\\/pb",
+            "cookies": 0.000403,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "boiteachansons.net",
+                "www.boiteachansons.net",
+                "www.marketscreener.com",
+                "www.ptitchef.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/setuid",
+            "cookies": 0.000302,
+            "fingerprinting": 0,
+            "subdomains": [
+                "pbs"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dvdsreleasedates.com",
+                "www.dvdsreleasedates.com",
+                "zaubee.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/1258\\/pb",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mail.com",
+                "www.mail.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/1628\\/pb",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "metrotimes.com",
+                "www.metrotimes.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/2141\\/pb",
+            "cookies": 0.000302,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nba.com",
+                "www.nba.com",
+                "www.sportingnews.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/2159\\/pb",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "standard.co.uk",
+                "www.standard.co.uk"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/1041\\/pb",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thinkbabynames.com",
+                "www.thinkbabynames.com"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Third-Party Analytics Marketing"
+    ],
+    "performance": {},
+    "cookies": 0.0864,
+    "topInitiators": [
+        {
+            "domain": "amazon-adsystem.com",
+            "prevalence": 0.16650853889943074
+        },
+        {
+            "domain": "rubiconproject.com",
+            "prevalence": 0.15702087286527514
+        },
+        {
+            "domain": "criteo.com",
+            "prevalence": 0.1204933586337761
+        },
+        {
+            "domain": "ad.gt",
+            "prevalence": 0.0872865275142315
+        },
+        {
+            "domain": "4dex.io",
+            "prevalence": 0.058823529411764705
+        },
+        {
+            "domain": "outbrain.com",
+            "prevalence": 0.05075901328273245
+        },
+        {
+            "domain": "mediavine.com",
+            "prevalence": 0.03557874762808349
+        },
+        {
+            "domain": "dsh7ky7308k4b.cloudfront.net",
+            "prevalence": 0.031309297912713474
+        },
+        {
+            "domain": "infolinks.com",
+            "prevalence": 0.024667931688804556
+        },
+        {
+            "domain": "tappx.com",
+            "prevalence": 0.024193548387096774
+        }
+    ],
+    "types": {
+        "Image": 1685,
+        "Document": 17,
+        "Fetch": 55,
+        "XHR": 22
+    },
+    "nameservers": [
+        "ns-515.awsdns-00.net",
+        "ns-1786.awsdns-31.co.uk",
+        "ns-1350.awsdns-40.org",
+        "ns-508.awsdns-63.com"
+    ]
+}

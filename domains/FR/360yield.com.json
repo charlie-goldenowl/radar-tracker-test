@@ -1,0 +1,341 @@
+{
+    "domain": "360yield.com",
+    "owner": {
+        "name": "Improve Digital BV",
+        "displayName": "Improve Digital",
+        "privacyPolicy": "https://www.improvedigital.com/platform-privacy-policy/",
+        "url": "http://improvedigital.com"
+    },
+    "source": [
+        "DuckDuckGo-FR"
+    ],
+    "prevalence": 0.0109,
+    "sites": 108,
+    "subdomains": [
+        "ad",
+        "euw-ice",
+        "ice",
+        "match"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "360yield\\.com\\/1602\\/pb",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "air-cosmos.com",
+                "forum.raspberry-pi.fr"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/335\\/pb",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 18,
+            "prevalence": 0.00181,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "brocabrac.fr",
+                "dirigeant.societe.com",
+                "paris.onvasortir.com",
+                "trucmania.ouest-france.fr",
+                "www.allrugby.com",
+                "www.infoconcert.com",
+                "www.lacoccinelle.net",
+                "www.lemagfemmes.com",
+                "www.manageo.fr",
+                "www.matchendirect.fr",
+                "www.medisite.fr",
+                "www.maxifoot.fr",
+                "www.paroles-musique.com",
+                "www.planet.fr",
+                "www.racedepartment.com",
+                "www.replay.fr",
+                "www.societe.com",
+                "www.viewsurf.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/server_match",
+            "cookies": 0.000101,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad",
+                "euw-ice",
+                "ice"
+            ],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.00191,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "collider.com",
+                "fr.automobiledimension.com",
+                "gamerant.com",
+                "lostarmour.info",
+                "picuki.me",
+                "readcomiconline.li",
+                "sciencepost.fr",
+                "screenrant.com",
+                "simpleflying.com",
+                "www.androidpolice.com",
+                "www.behindthename.com",
+                "www.cbr.com",
+                "www.lecoindunet.com",
+                "www.makeuseof.com",
+                "www.mangaread.org",
+                "www.nasdaq.com",
+                "www.ontvtime.ru",
+                "www.petitfute.com",
+                "www.thegamer.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/2192\\/pb",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fextralife.com",
+                "eldenring.wiki.fextralife.com",
+                "monsterhunterworld.wiki.fextralife.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/match",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad",
+                "match",
+                "ice"
+            ],
+            "apis": {},
+            "sites": 58,
+            "prevalence": 0.00584,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "draxe.com",
+                "www.zillow.com",
+                "www.netgear.com",
+                "www.dmm.co.jp",
+                "fr.altitude-sports.com",
+                "www.ancestry.com",
+                "www.1stdibs.com",
+                "www.elite-auto.fr",
+                "reverb.com",
+                "shop.labourseauxlivres.fr",
+                "pyrenex.com",
+                "www.croisieurope.com",
+                "www.devenirpolicier.fr",
+                "smaaart.fr",
+                "www.vetostore.com",
+                "www.ada.fr",
+                "www.silamp.fr",
+                "photo.fnac.com",
+                "www.speedway.fr",
+                "www.50factory.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/1765\\/pb",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "automobiledimension.com",
+                "fr.automobiledimension.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/advast",
+            "cookies": 0.000101,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ice"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.00010071507704703394
+            },
+            "exampleSites": [
+                "investing.com",
+                "guiasteam.com"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/server_match",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ice"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "motor1.com",
+                "www.alti-mag.com",
+                "www.haaretz.com",
+                "www.skiresort.fr"
+            ]
+        },
+        {
+            "rule": "360yield\\.com\\/advast",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a71702232a771b558b12f8c0012a15f5652b500fd2e33464d283406cee36754d"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nordicmag.info",
+                "www.nordicmag.info"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Third-Party Analytics Marketing"
+    ],
+    "performance": {},
+    "cookies": 0.000201,
+    "topInitiators": [
+        {
+            "domain": "criteo.com",
+            "prevalence": 0.3968253968253968
+        },
+        {
+            "domain": "ayads.co",
+            "prevalence": 0.14285714285714285
+        },
+        {
+            "domain": "amazon-adsystem.com",
+            "prevalence": 0.07142857142857142
+        },
+        {
+            "domain": "marfeelrev.com",
+            "prevalence": 0.06349206349206349
+        },
+        {
+            "domain": "smilewanted.com",
+            "prevalence": 0.03968253968253968
+        },
+        {
+            "domain": "admanmedia.com",
+            "prevalence": 0.03968253968253968
+        },
+        {
+            "domain": "aniview.com",
+            "prevalence": 0.031746031746031744
+        },
+        {
+            "domain": "bppb.link",
+            "prevalence": 0.023809523809523808
+        },
+        {
+            "domain": "ssm.codes",
+            "prevalence": 0.023809523809523808
+        },
+        {
+            "domain": "opti-digital.com",
+            "prevalence": 0.023809523809523808
+        }
+    ],
+    "types": {
+        "Fetch": 6,
+        "XHR": 23,
+        "Image": 77,
+        "Document": 4
+    },
+    "nameservers": [
+        "ns-1350.awsdns-40.org",
+        "ns-1786.awsdns-31.co.uk",
+        "ns-508.awsdns-63.com",
+        "ns-515.awsdns-00.net"
+    ]
+}

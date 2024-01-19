@@ -1,0 +1,232 @@
+{
+    "domain": "4dex.io",
+    "owner": {
+        "name": "Adagio",
+        "displayName": "Adagio"
+    },
+    "source": [
+        "DuckDuckGo-NL"
+    ],
+    "prevalence": 0.00412,
+    "sites": 41,
+    "subdomains": [
+        "script",
+        "mp"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "4dex\\.io\\/localstore\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "script"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 40,
+                "window.localStorage": 40,
+                "PerformanceTiming.prototype.navigationStart": 35,
+                "Date.prototype.getTime": 9
+            },
+            "sites": 40,
+            "prevalence": 0.00402,
+            "cnames": [],
+            "responseHashes": [
+                "e8fe64429e5900c16c7f8dd7861704e2f4d38e00cbb16bc18820b46d92461389"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "coinmarketcap.com",
+                "cplusplus.com",
+                "www.discogs.com",
+                "www.picuki.com",
+                "shellshock.io",
+                "loremipsum.io",
+                "www.haaretz.com",
+                "www.radio.net",
+                "home-assistant-guide.com",
+                "www.spigotmc.org",
+                "riptutorial.com",
+                "howchoo.com",
+                "nl.motorsport.com",
+                "linuxhandbook.com",
+                "nl.automobiledimension.com",
+                "pokemondb.net",
+                "insideevs.com",
+                "www.futbin.com",
+                "www.wordfeudwoorden.nl",
+                "bbq-junkie.nl"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/adagio\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "script"
+            ],
+            "apis": {},
+            "sites": 40,
+            "prevalence": 0.00402,
+            "cnames": [],
+            "responseHashes": [
+                "26305a08644b4f51b55812cf0ecf879c22da303a365b3d2769baa1b54c028c4d"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "coinmarketcap.com",
+                "cplusplus.com",
+                "www.discogs.com",
+                "nl.motorsport.com",
+                "gamepress.gg",
+                "pokemondb.net",
+                "home-assistant-guide.com",
+                "shellshock.io",
+                "www.motorcyclespecs.co.za",
+                "www.showmyip.com",
+                "www.iplocation.net",
+                "www.kids-n-fun.nl",
+                "www.wordfeudwoorden.nl",
+                "www.koreaboo.com",
+                "www.spigotmc.org",
+                "www.powerpyx.com",
+                "readcomiconline.li",
+                "linuxhandbook.com",
+                "bbq-junkie.nl",
+                "linux.how2shout.com"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/prebid",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mp"
+            ],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.00191,
+            "cnames": [],
+            "responseHashes": [
+                "77b47b7a038f38916adbe760bc262fe2aa75e9f2a0d67621d19ad74e41acdb39",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "c27414876349712983df81fb135ebf1c414976dde4a0e75d658e69f9dde06728"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "coinmarketcap.com",
+                "cplusplus.com",
+                "ejje.weblio.jp",
+                "insideevs.com",
+                "linuxhandbook.com",
+                "nl.radio.net",
+                "pokemondb.net",
+                "readcomiconline.li",
+                "riptutorial.com",
+                "www.culinea.nl",
+                "www.eurosport.nl",
+                "www.futbin.com",
+                "www.haaretz.com",
+                "www.iplocation.net",
+                "www.japantimes.co.jp",
+                "www.motorcyclespecs.co.za",
+                "www.picuki.com",
+                "www.radio.net",
+                "www.wordfeudwoorden.nl"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/prebid",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mp"
+            ],
+            "apis": {},
+            "sites": 11,
+            "prevalence": 0.00111,
+            "cnames": [],
+            "responseHashes": [
+                "77b47b7a038f38916adbe760bc262fe2aa75e9f2a0d67621d19ad74e41acdb39",
+                "de6775494a885d8a2df4bab566fcdaf81395e868fab6b3dd069ea8470bb624a1"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "how2shout.com",
+                "linux.how2shout.com",
+                "nl.automobiledimension.com",
+                "panorama.nl",
+                "readcomiconline.li",
+                "shellshock.io",
+                "www.behindthename.com",
+                "www.jpost.com",
+                "www.kookfans.nl",
+                "www.koreaboo.com",
+                "www.showmyip.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.15294117647058825
+        },
+        {
+            "domain": "buysellads.net",
+            "prevalence": 0.11764705882352941
+        },
+        {
+            "domain": "script.ac",
+            "prevalence": 0.11764705882352941
+        },
+        {
+            "domain": "stpd.cloud",
+            "prevalence": 0.07058823529411765
+        },
+        {
+            "domain": "thisiswaldo.com",
+            "prevalence": 0.047058823529411764
+        },
+        {
+            "domain": "adgrid.io",
+            "prevalence": 0.047058823529411764
+        },
+        {
+            "domain": "vlitag.com",
+            "prevalence": 0.047058823529411764
+        },
+        {
+            "domain": "blogcluster.nl",
+            "prevalence": 0.047058823529411764
+        },
+        {
+            "domain": "prplads.com",
+            "prevalence": 0.047058823529411764
+        },
+        {
+            "domain": "vntsm.com",
+            "prevalence": 0.03529411764705882
+        }
+    ],
+    "types": {
+        "Script": 40,
+        "Fetch": 51,
+        "XHR": 19
+    },
+    "nameservers": [
+        "bart.ns.cloudflare.com",
+        "roxy.ns.cloudflare.com"
+    ]
+}

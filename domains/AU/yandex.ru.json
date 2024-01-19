@@ -1,0 +1,1132 @@
+{
+    "domain": "yandex.ru",
+    "owner": {
+        "name": "Yandex LLC",
+        "displayName": "Yandex",
+        "privacyPolicy": "https://yandex.com/legal/privacy/",
+        "url": "http://yandex.com"
+    },
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.0113,
+    "sites": 112,
+    "subdomains": [
+        "mc",
+        "bs",
+        "an",
+        "adfstat"
+    ],
+    "cnames": [],
+    "fingerprinting": 3,
+    "resources": [
+        {
+            "rule": "yandex\\.ru\\/metrika\\/tag\\.js",
+            "cookies": 0.00623,
+            "fingerprinting": 2,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 61,
+                "Document.cookie setter": 61,
+                "Document.cookie getter": 61,
+                "Date.prototype.getTime": 61,
+                "PerformanceTiming.prototype.navigationStart": 61,
+                "window.localStorage": 61,
+                "Navigator.prototype.language": 61,
+                "Navigator.prototype.vendor": 61,
+                "Navigator.prototype.platform": 61,
+                "Navigator.prototype.connection": 61,
+                "Navigator.prototype.getBattery": 58,
+                "Date.prototype.getTimezoneOffset": 61,
+                "Navigator.prototype.cookieEnabled": 61,
+                "Screen.prototype.width": 61,
+                "Screen.prototype.height": 61,
+                "Screen.prototype.colorDepth": 61,
+                "window.devicePixelRatio": 61,
+                "Navigator.prototype.javaEnabled": 61,
+                "Navigator.prototype.webdriver": 61,
+                "Navigator.prototype.plugins": 61,
+                "Notification.permission": 61,
+                "Navigator.prototype.storage": 58,
+                "NavigatorUAData.prototype.getHighEntropyValues": 55,
+                "Navigator.prototype.appVersion": 23,
+                "Screen.prototype.orientation": 23,
+                "window.sessionStorage": 23,
+                "Navigator.prototype.onLine": 14
+            },
+            "sites": 62,
+            "prevalence": 0.00623,
+            "cnames": [],
+            "responseHashes": [
+                "f4d52b2f18ee8dd9761051674cb84dd5202b61ba4e8d7056b41a205791c7a61c",
+                "3b43adc4bb1104e13a1e0644c0aedbc64a57b7fca1ecfcc67188b1957dd1c087"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "_ym_uid": {
+                    "ttl": 31536008,
+                    "length": 19,
+                    "prevalence": 0.005627575118078585,
+                    "uniqueness": 1
+                },
+                "_ym_d": {
+                    "ttl": 31536008,
+                    "length": 10,
+                    "prevalence": 0.005627575118078585,
+                    "uniqueness": 1
+                },
+                "_ym_isad": {
+                    "ttl": 72010,
+                    "length": 1,
+                    "prevalence": 0.005627575118078585,
+                    "uniqueness": 0.03571428571428571
+                },
+                "_ym_visorc": {
+                    "ttl": 1815,
+                    "length": 1,
+                    "prevalence": 0.0023113254949251334,
+                    "uniqueness": 0.08695652173913043
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "beeg.com",
+                "hqporner.com",
+                "www.alibaba.com",
+                "www.banggood.com",
+                "zenporn.com",
+                "erothots.co",
+                "www.sott.net",
+                "tarkov-market.com",
+                "allclassic.porn",
+                "www.ozeex.com",
+                "hqporn.xxx",
+                "www.trannytube.tv",
+                "www.aliexpress.com",
+                "www.rt.com",
+                "sale.aliexpress.com",
+                "www.i2symbol.com",
+                "blowjobs.pro",
+                "zzztube.com",
+                "recurbate.me",
+                "instanavigation.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/sync_cookie_image_start",
+            "cookies": 0.00844,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {},
+            "sites": 84,
+            "prevalence": 0.00844,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "beeg.com",
+                "hqporner.com",
+                "rutracker.org",
+                "tabs.ultimate-guitar.com",
+                "theporndude.com",
+                "tukif.com",
+                "www.sgtreport.com",
+                "comics.8muses.com",
+                "musescore.org",
+                "www.sott.net",
+                "www.boyfriendtv.com",
+                "gizmoxxx.com",
+                "www.austrahealth.com.au",
+                "erothots.co",
+                "www.romsgames.net",
+                "tubepornclassic.com",
+                "tporn.xxx",
+                "zzztube.com",
+                "www.pornhits.com",
+                "sweetishhill.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/sync_cookie_image_start_secondary",
+            "cookies": 0.00673,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {},
+            "sites": 67,
+            "prevalence": 0.00673,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "beeg.com",
+                "hqporner.com",
+                "tabs.ultimate-guitar.com",
+                "tukif.com",
+                "www.digitalcombatsimulator.com",
+                "javascript.info",
+                "recurbate.me",
+                "sweetishhill.com",
+                "magnet-yify.com",
+                "zzztube.com",
+                "www.ozeex.com",
+                "pornzog.com",
+                "musescore.com",
+                "www.aliexpress.com",
+                "www.rt.com",
+                "tangem.com",
+                "area51.porn",
+                "www.lyricsmode.com",
+                "rule34.world",
+                "www.mangaread.org"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/metrika\\/watch\\.js",
+            "cookies": 0.00111,
+            "fingerprinting": 2,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 11,
+                "PerformanceTiming.prototype.navigationStart": 11,
+                "window.localStorage": 11,
+                "Document.cookie setter": 11,
+                "Document.cookie getter": 11,
+                "Date.prototype.getTime": 11,
+                "Navigator.prototype.language": 11,
+                "Navigator.prototype.vendor": 11,
+                "Navigator.prototype.platform": 11,
+                "Navigator.prototype.connection": 11,
+                "Navigator.prototype.getBattery": 9,
+                "Date.prototype.getTimezoneOffset": 11,
+                "Navigator.prototype.cookieEnabled": 11,
+                "Screen.prototype.width": 11,
+                "Screen.prototype.height": 11,
+                "Screen.prototype.colorDepth": 11,
+                "window.devicePixelRatio": 11,
+                "Navigator.prototype.javaEnabled": 11,
+                "Navigator.prototype.webdriver": 11,
+                "Navigator.prototype.plugins": 11,
+                "Notification.permission": 11,
+                "Navigator.prototype.storage": 10,
+                "NavigatorUAData.prototype.getHighEntropyValues": 8,
+                "Navigator.prototype.onLine": 3
+            },
+            "sites": 11,
+            "prevalence": 0.00111,
+            "cnames": [],
+            "responseHashes": [
+                "fc0b834cbf1da15b1db4164eb42b2378ad6e5539a20f9e946f63b3e2cd0c024d",
+                "72c11dbd47594755bcc92ddbb74e8791c152844a5265c76412155555fb6277de"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "_ym_uid": {
+                    "ttl": 31536009,
+                    "length": 19,
+                    "prevalence": 0.0009044317154054868,
+                    "uniqueness": 1
+                },
+                "_ym_d": {
+                    "ttl": 31536009,
+                    "length": 10,
+                    "prevalence": 0.0009044317154054868,
+                    "uniqueness": 1
+                },
+                "_ym_isad": {
+                    "ttl": 72011,
+                    "length": 1,
+                    "prevalence": 0.0009044317154054868,
+                    "uniqueness": 0.2222222222222222
+                },
+                "_ym_visorc": {
+                    "ttl": 1813,
+                    "length": 1,
+                    "prevalence": 0.00030147723846849563,
+                    "uniqueness": 0.6666666666666666
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "anybunny.org",
+                "hdzog.com",
+                "javascript.info",
+                "pornzog.com",
+                "telegram.im",
+                "tempail.com",
+                "tubepornclassic.com",
+                "txxx.com",
+                "upornia.com",
+                "vjav.com",
+                "wiki.warthunder.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/prebid\\/3147786",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "bs"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.0004019696512913275
+            },
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/resource\\/spacer\\.gif",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 18,
+            "prevalence": 0.00181,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "auhoursguide.com",
+                "cellularnews.com",
+                "droidwin.com",
+                "independentaustralia.net",
+                "nascompares.com",
+                "ostechnix.com",
+                "search.entireweb.com",
+                "songbpm.com",
+                "www.aupropertyreport.com",
+                "www.findacamp.com.au",
+                "www.hours-advisor-au.com",
+                "www.rtl-sdr.com",
+                "www.sydney-airport.net",
+                "www.systranbox.com",
+                "www.thewellflouredkitchen.com",
+                "www.wareable.com",
+                "www.webbikeworld.com",
+                "yachthub.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/watch\\/3",
+            "cookies": 0.00151,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {},
+            "sites": 15,
+            "prevalence": 0.00151,
+            "cnames": [],
+            "responseHashes": [
+                "04dc3ede15d1fad0a570195dcb3b8b440aa2ad824b82630b78985fbffa42dbf9",
+                "23ad602cbf3fe8ffca5b1281a5c70cbddcf8f5cacca77d178fdd236b0e4e2bf7"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_ym_uid": 0.0015073861923424782,
+                "_ym_d": 0.0015073861923424782
+            },
+            "exampleSites": [
+                "befuck.net",
+                "comics.8muses.com",
+                "gizmoxxx.com",
+                "leak.xxx",
+                "mat6tube.com",
+                "rutracker.net",
+                "rutracker.org",
+                "thefantazy.com",
+                "theporndude.com",
+                "www.ashemaletube.com",
+                "www.boyfriendtv.com",
+                "www.sotwe.com",
+                "www.twoplayergames.org",
+                "xfantazy.com",
+                "youncensored.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/metrika\\/advert\\.gif",
+            "cookies": 0.00151,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {},
+            "sites": 15,
+            "prevalence": 0.00151,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "befuck.net",
+                "comics.8muses.com",
+                "gizmoxxx.com",
+                "leak.xxx",
+                "mat6tube.com",
+                "rutracker.net",
+                "rutracker.org",
+                "thefantazy.com",
+                "theporndude.com",
+                "www.ashemaletube.com",
+                "www.boyfriendtv.com",
+                "www.sotwe.com",
+                "www.twoplayergames.org",
+                "xfantazy.com",
+                "youncensored.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/watch\\/3\\/1",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {},
+            "sites": 15,
+            "prevalence": 0.00151,
+            "cnames": [],
+            "responseHashes": [
+                "c17a5920953162dc45067565f006bb7252b58194f277191ac4671eb51e2f98f4",
+                "1c94751838fc163f5cedb725013e3de4fe3adc25b546a35f5292f9b120f0aadd",
+                "c5a873075927886221813c19962c730dda3aba770e804e16ebc9a2be0c88f2b6",
+                "3fd204f890dd11e4964cb7748cc8b68d31dbc4c75234984b8ab06e37061f7d71",
+                "685b0652afb67e6d1e25f1faa29e84fddf53a11292b92640f6f13454ccd7fa2a",
+                "064b58c39478113262f07e1cb1f1392bb27e29168f9cc105689696e0a481b61e",
+                "04dc3ede15d1fad0a570195dcb3b8b440aa2ad824b82630b78985fbffa42dbf9",
+                "9c38806ffda58301ffe3bfad0e676b27ed9080b5db3668dbb078684cc3a7f751",
+                "23ad602cbf3fe8ffca5b1281a5c70cbddcf8f5cacca77d178fdd236b0e4e2bf7",
+                "70b734ef1d33eecd1ab0ec3d109f87d2ce4c28894165e54a069bfc0ad8f8f088",
+                "1e20d6a4dd300e849f65ce1c3a8594d00836732aaa4451d34351b16dcbfd0847",
+                "43754690f28c3911e97bc9a9e6f2d281cfa27ead4d48cb2fd29c03ebf1fa1ef0",
+                "51af9c88275e6d1c82e01f13d07f30488ce1377c3235112bbbca7384ee770a60",
+                "0057b5b59d5ee5027cd81a4a59df7441422f1bfda2621c7eff8895696953c8f0"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_ym_uid": 0.0015073861923424782,
+                "_ym_d": 0.0015073861923424782
+            },
+            "exampleSites": [
+                "befuck.net",
+                "comics.8muses.com",
+                "gizmoxxx.com",
+                "leak.xxx",
+                "mat6tube.com",
+                "rutracker.net",
+                "rutracker.org",
+                "thefantazy.com",
+                "theporndude.com",
+                "www.ashemaletube.com",
+                "www.boyfriendtv.com",
+                "www.sotwe.com",
+                "www.twoplayergames.org",
+                "xfantazy.com",
+                "youncensored.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/sync_cookie_image_finish",
+            "cookies": 0.000603,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000603,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "musescore.com",
+                "tabs.ultimate-guitar.com",
+                "tukif.com",
+                "www.lyricsmode.com",
+                "www.porndig.com",
+                "www.ultimate-guitar.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/ads\\/system\\/context\\.js",
+            "cookies": 0.000603,
+            "fingerprinting": 2,
+            "subdomains": [],
+            "apis": {
+                "window.localStorage": 5,
+                "window.sessionStorage": 5,
+                "Navigator.prototype.userAgent": 5,
+                "Date.prototype.getTime": 3,
+                "window.innerWidth": 5,
+                "window.innerHeight": 5,
+                "window.devicePixelRatio": 3,
+                "Navigator.prototype.connection": 3,
+                "Document.cookie getter": 3,
+                "Navigator.prototype.vendor": 3,
+                "Date.prototype.getTimezoneOffset": 2,
+                "Screen.prototype.width": 2,
+                "Screen.prototype.height": 2,
+                "Element.prototype.getClientRects": 2
+            },
+            "sites": 6,
+            "prevalence": 0.000603,
+            "cnames": [],
+            "responseHashes": [
+                "efd015760a293c8ccec3739b2cfff3a6f92469a41575476ed6cfc2fb6d70680c",
+                "76a2eaf900c613fd41c7ad27a9b8e9400a41cab93d86bf64bd4a4bffd055cd91",
+                "d94897a2cb721d5990ff495ebfff6c0460f44b22bf8ecb0df0786338d42c7572",
+                "3f3dcc32f81cb889fd9b84f99559c3b0ec3557de9c8db385217f7d6aea0260db",
+                "3e4b4e90ec37db8ece1403e8a11a0ab2cae169c21d54ecaba7318483806c0348"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "livejournal.com",
+                "my.mail.ru",
+                "sputnikglobe.com",
+                "www.mangaread.org",
+                "www.rbth.com",
+                "www.rt.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/watch\\/55725919",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_ym_uid": 0.00020098482564566376,
+                "_ym_d": 0.00020098482564566376
+            },
+            "exampleSites": [
+                "rutracker.net",
+                "rutracker.org"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/watch\\/55725919\\/1",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "3d3f2e03824cf400a5e25491b88d2fd946349210295899abd9fdba14b4ac65f9"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_ym_uid": 0.00020098482564566376,
+                "_ym_d": 0.00020098482564566376
+            },
+            "exampleSites": [
+                "rutracker.net",
+                "rutracker.org"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/google\\/CAESELoakS1JoFosY-MRGUPTO-w",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "entireweb.com",
+                "search.entireweb.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/google\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aliexpress.com",
+                "www.aliexpress.com",
+                "www.alibaba.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/betweenx\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aliexpress.com",
+                "www.aliexpress.com",
+                "www.alibaba.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/operacom\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aliexpress.com",
+                "www.aliexpress.com",
+                "www.alibaba.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/blueseaxcom\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aliexpress.com",
+                "www.aliexpress.com",
+                "www.alibaba.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/minimobww\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aliexpress.com",
+                "www.aliexpress.com",
+                "www.alibaba.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/xapadsssp\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aliexpress.com",
+                "www.aliexpress.com",
+                "www.alibaba.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/yeahmobissp\\/",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aliexpress.com",
+                "www.aliexpress.com",
+                "www.alibaba.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/watch\\/49415098",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_ym_uid": 0.00020098482564566376,
+                "_ym_d": 0.00020098482564566376
+            },
+            "exampleSites": [
+                "thefantazy.com",
+                "xfantazy.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/watch\\/49415098\\/1",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "dfdf64aa5760cd27d25c62fbb4ebaa37ae39533e3e8196f220525e383f6e2059"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_ym_uid": 0.00020098482564566376,
+                "_ym_d": 0.00020098482564566376
+            },
+            "exampleSites": [
+                "thefantazy.com",
+                "xfantazy.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/watch\\/49415098\\/1",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mc"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d346801abbf9bb4e9e9a055239053d4ab5596514304f601a6c70604187acb744"
+            ],
+            "type": "Ping",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_ym_uid": 0.00020098482564566376,
+                "_ym_d": 0.00020098482564566376
+            },
+            "exampleSites": [
+                "thefantazy.com",
+                "xfantazy.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/metrica",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "adfstat"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "theporndude.vip",
+                "wiki.warthunder.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/google\\/CAESEF2Dsx8kHpRps-naPG8lzRw",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aupropertyreport.com",
+                "www.aupropertyreport.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/google\\/CAESEEnuaKnUGiOLxanAZw1H_aI",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "findacamp.com.au",
+                "www.findacamp.com.au"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/prebid\\/2334704",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "bs"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "haaretz.com",
+                "www.haaretz.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/google\\/CAESEPJO5x69BtK8kd_RqdwVkOw",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hours-advisor-au.com",
+                "www.hours-advisor-au.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/google\\/CAESEEP7wfIZ6gRlNtstT9lRF1U",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rtl-sdr.com",
+                "www.rtl-sdr.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/ads\\/adfox\\/365599\\/getBulk\\/v2",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "0122726e2dc27be144e76f1c4dde6d836d911d573618dc006773384d814bedc3"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rt.com",
+                "www.rt.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/google\\/CAESEL4jXb5rGBgbcIYIs4uMrV4",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sydney-airport.net",
+                "www.sydney-airport.net"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/google\\/CAESEMG-p5wQhqkARs-1ydW51_Q",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "systranbox.com",
+                "www.systranbox.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/google\\/CAESEClMm1q2P9StQW8dqW39-VE",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thewellflouredkitchen.com",
+                "www.thewellflouredkitchen.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/google\\/CAESEFl7WWwM4PSKwuZ1JflYpUo",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "wareable.com",
+                "www.wareable.com"
+            ]
+        },
+        {
+            "rule": "yandex\\.ru\\/mapuid\\/google\\/CAESEDMhHUSqlMtBiEpEl1tYkxU",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "an"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "webbikeworld.com",
+                "www.webbikeworld.com"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Analytics",
+        "Audience Measurement",
+        "SSO",
+        "Online Payment",
+        "Action Pixels",
+        "Embedded Content",
+        "Session Replay"
+    ],
+    "performance": {},
+    "cookies": 0.0113,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.4716417910447761
+        },
+        {
+            "domain": "jsdelivr.net",
+            "prevalence": 0.2298507462686567
+        },
+        {
+            "domain": "googlesyndication.com",
+            "prevalence": 0.1701492537313433
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.05373134328358209
+        },
+        {
+            "domain": "valuad.cloud",
+            "prevalence": 0.014925373134328358
+        },
+        {
+            "domain": "quickcontentnetwork.com",
+            "prevalence": 0.008955223880597015
+        },
+        {
+            "domain": "invmed.co",
+            "prevalence": 0.005970149253731343
+        },
+        {
+            "domain": "livejournal.net",
+            "prevalence": 0.005970149253731343
+        },
+        {
+            "domain": "yandex.com",
+            "prevalence": 0.005970149253731343
+        },
+        {
+            "domain": "ustatik.com",
+            "prevalence": 0.005970149253731343
+        }
+    ],
+    "types": {
+        "Script": 79,
+        "Image": 233,
+        "XHR": 6,
+        "Fetch": 38,
+        "Ping": 2
+    },
+    "nameservers": [
+        "ns2.yandex.ru",
+        "ns1.yandex.ru"
+    ]
+}

@@ -1,0 +1,512 @@
+{
+    "domain": "0i0i0i0.com",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-US"
+    ],
+    "prevalence": 0.000231,
+    "sites": 34,
+    "subdomains": [],
+    "cnames": [
+        {
+            "original": "a.fapcat.com",
+            "resolved": "0i0i0i0.com"
+        },
+        {
+            "original": "dl.4kporn.xxx",
+            "resolved": "0i0i0i0.com"
+        },
+        {
+            "original": "e.sexbule.xxx",
+            "resolved": "0i0i0i0.com"
+        },
+        {
+            "original": "stuff.wikiporno.org",
+            "resolved": "0i0i0i0.com"
+        },
+        {
+            "original": "x.xxxbf.tv",
+            "resolved": "0i0i0i0.com"
+        },
+        {
+            "original": "x.xxxbp.tv",
+            "resolved": "0i0i0i0.com"
+        }
+    ],
+    "fingerprinting": 3,
+    "resources": [
+        {
+            "rule": "0i0i0i0\\.com\\/uqbLDUd\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "dl.4kporn.xxx",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "c5de336af868a802a4f6500531a78959b12247f3aad2b0386cd9176889abf26b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "4kporn.xxx",
+                "m.4kporn.xxx"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/lYXTqI9\\.js",
+            "cookies": 0.0000136,
+            "fingerprinting": 3,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "dl.4kporn.xxx",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "4651332ff7dabfd0bada2a68883f1197b7f491643335a61d23f989bf33bafd29"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "4kporn.xxx",
+                "m.4kporn.xxx"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/settings\\/285506",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "dl.4kporn.xxx",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "72d79d0ad9a70ef53c1bab65c588d44bffb1a1b5aba0eb2f9f6a886c4c3aec4f"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "4kporn.xxx",
+                "m.4kporn.xxx"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/users\\/285506",
+            "cookies": 0.0000136,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "dl.4kporn.xxx",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "ef96be2212f84231b9b4879d62d3df69f48ed9afd6168d321d3ce648dfb2e6e4"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "4kporn.xxx",
+                "m.4kporn.xxx"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/users\\/311499",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "dl.4kporn.xxx",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "f437a890df655ada1dc6d6206efa4416f4f017a13546203c7531d712ae8153dc"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "4kporn.xxx",
+                "m.4kporn.xxx"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/mBaA9\\.js",
+            "cookies": 0.0000136,
+            "fingerprinting": 3,
+            "subdomains": [],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.0000204,
+            "cnames": [
+                {
+                    "original": "e.sexbule.xxx",
+                    "resolved": "0i0i0i0.com"
+                },
+                {
+                    "original": "x.xxxbp.tv",
+                    "resolved": "0i0i0i0.com"
+                },
+                {
+                    "original": "x.xxxbf.tv",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "2bc0234463689931b9279cb284fe9146eaedc4bcb40502f907768b210ebea1b7"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sexbule.xxx",
+                "xxxbp.tv",
+                "xxxbf.tv"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/15ohLgd\\.js",
+            "cookies": 0.0000136,
+            "fingerprinting": 2,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.fapcat.com",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "c5de336af868a802a4f6500531a78959b12247f3aad2b0386cd9176889abf26b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fapcat.com",
+                "www.fapcat.com"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/gtO3pA9\\.js",
+            "cookies": 0.0000136,
+            "fingerprinting": 3,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.fapcat.com",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "1aded2db35a362b25cc236a3a69474f44288d212ae28ea9dc9b78cbe2a108c12"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fapcat.com",
+                "www.fapcat.com"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/settings\\/362844",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.fapcat.com",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "72d79d0ad9a70ef53c1bab65c588d44bffb1a1b5aba0eb2f9f6a886c4c3aec4f"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fapcat.com",
+                "www.fapcat.com"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/users\\/362844",
+            "cookies": 0.0000136,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.fapcat.com",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "8353f4bb4570b9665bd11f886bec85f587a72a9abf87fa7ff3920d2c7bbbbd66"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fapcat.com",
+                "www.fapcat.com"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/users\\/361809",
+            "cookies": 0.0000068,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.fapcat.com",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "ba7909d36af151d77dd52e32014ff9642d99c947c55fcd8cb665582ff4f537f0"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fapcat.com",
+                "www.fapcat.com"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/click\\/16165218257780510073",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.fapcat.com",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fapcat.com",
+                "www.fapcat.com"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/click\\/6411285532899340073",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.fapcat.com",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fapcat.com",
+                "www.fapcat.com"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/click\\/643768027314617073",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.fapcat.com",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fapcat.com",
+                "www.fapcat.com"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/click\\/3120771700588628073",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.fapcat.com",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fapcat.com",
+                "www.fapcat.com"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/K6G9ig9\\.js",
+            "cookies": 0.0000136,
+            "fingerprinting": 3,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "stuff.wikiporno.org",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "4651332ff7dabfd0bada2a68883f1197b7f491643335a61d23f989bf33bafd29"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "wikiporno.org",
+                "www.wikiporno.org"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/settings\\/17899",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "stuff.wikiporno.org",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "72d79d0ad9a70ef53c1bab65c588d44bffb1a1b5aba0eb2f9f6a886c4c3aec4f"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "wikiporno.org",
+                "www.wikiporno.org"
+            ]
+        },
+        {
+            "rule": "0i0i0i0\\.com\\/api\\/users\\/17899",
+            "cookies": 0.0000136,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "stuff.wikiporno.org",
+                    "resolved": "0i0i0i0.com"
+                }
+            ],
+            "responseHashes": [
+                "98db3cdcfe4fbe5b61b0c3641a123fee7dcf9582366e7053d3aff2b2938cbe7e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "wikiporno.org",
+                "www.wikiporno.org"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000231,
+    "types": {
+        "Script": 19,
+        "Fetch": 10,
+        "Image": 8
+    },
+    "nameservers": [
+        "gns14.cloudns.net",
+        "gns12.cloudns.net",
+        "gns13.cloudns.net",
+        "gns11.cloudns.net"
+    ]
+}

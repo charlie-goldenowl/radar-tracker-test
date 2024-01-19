@@ -1,0 +1,146 @@
+{
+    "domain": "yimg.jp",
+    "owner": {
+        "name": "LY-Corporation",
+        "displayName": "LY-Corporation"
+    },
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.00251,
+    "sites": 25,
+    "subdomains": [
+        "s"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "yimg\\.jp\\/images\\/listing\\/tool\\/cv\\/ytag\\.js",
+            "cookies": 0.00191,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 18,
+                "window.localStorage": 20,
+                "Document.cookie getter": 20,
+                "Date.prototype.getTime": 20,
+                "Document.cookie setter": 19,
+                "NavigatorUAData.prototype.getHighEntropyValues": 7
+            },
+            "sites": 22,
+            "prevalence": 0.00221,
+            "cnames": [],
+            "responseHashes": [
+                "87813d0507d9e425d8a423153e598fbef4342d9a553edc4e0ad29cba6b380274"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "_yjsu_yjad": {
+                    "ttl": 31622413,
+                    "length": 47,
+                    "prevalence": 0.0019093558436338056,
+                    "uniqueness": 1
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.jal.co.jp",
+                "www.shangri-la.com",
+                "www.usj.co.jp",
+                "www.ubereats.com",
+                "www.zwift.com",
+                "www.airasia.com",
+                "wise.com",
+                "www.cyberlink.com",
+                "www.japantimes.co.jp",
+                "www.flyscoot.com",
+                "www.asahi.com",
+                "www.jreast.co.jp",
+                "www.insta360.com",
+                "www.udemy.com",
+                "www.ana.co.jp",
+                "www.twilio.com",
+                "www.panpacific.com",
+                "www.seagate.com",
+                "livejapan.com",
+                "www.doordash.com"
+            ]
+        },
+        {
+            "rule": "yimg\\.jp\\/images\\/listing\\/tool\\/cv\\/conversion\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fujifilm-x.com",
+                "www.philippineairlines.com"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising"
+    ],
+    "performance": {},
+    "cookies": 0.00191,
+    "topInitiators": [
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.5925925925925926
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.1111111111111111
+        },
+        {
+            "domain": "yjtag.jp",
+            "prevalence": 0.07407407407407407
+        },
+        {
+            "domain": "adingo.jp",
+            "prevalence": 0.037037037037037035
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.037037037037037035
+        },
+        {
+            "domain": "ensighten.com",
+            "prevalence": 0.037037037037037035
+        },
+        {
+            "domain": "adobedtm.com",
+            "prevalence": 0.037037037037037035
+        },
+        {
+            "domain": "powerrobotflower.com",
+            "prevalence": 0.037037037037037035
+        },
+        {
+            "domain": "tiqcdn.com",
+            "prevalence": 0.037037037037037035
+        }
+    ],
+    "types": {
+        "Script": 24
+    },
+    "nameservers": [
+        "ns01.yahoo.co.jp",
+        "ns02.yahoo.co.jp",
+        "ns12.yahoo.co.jp",
+        "ns11.yahoo.co.jp"
+    ]
+}

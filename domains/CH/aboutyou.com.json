@@ -1,0 +1,225 @@
+{
+    "domain": "aboutyou.com",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.000201,
+    "sites": 2,
+    "subdomains": [
+        "api",
+        "tadarida-web"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "aboutyou\\.com\\/campaigns",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aboutyou.ch",
+                "www.aboutyou.de"
+            ]
+        },
+        {
+            "rule": "aboutyou\\.com\\/aysa_api\\.services\\.country_detection\\.v1\\.CountryDetectionService\\/GetCountryPopup",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tadarida-web"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "ddddfcc113a16b951bba27c3dc35687b17bdec311567d61e5b1512b8a5fde314"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aboutyou.ch",
+                "www.aboutyou.de"
+            ]
+        },
+        {
+            "rule": "aboutyou\\.com\\/aysa_api\\.services\\.country_detection\\.v1\\.CountryDetectionService\\/GetCountryPopup",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tadarida-web"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Preflight",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aboutyou.ch",
+                "www.aboutyou.de"
+            ]
+        },
+        {
+            "rule": "aboutyou\\.com\\/user\\/me\\/wishlist\\/bapi",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "dd3f4d3dae7d252989a777f8672f29fd895e63fae1876b381e63b87652598813"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aboutyou.ch",
+                "www.aboutyou.de"
+            ]
+        },
+        {
+            "rule": "aboutyou\\.com\\/user\\/me\\/wishlist\\/bapi",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Preflight",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aboutyou.ch",
+                "www.aboutyou.de"
+            ]
+        },
+        {
+            "rule": "aboutyou\\.com\\/aysa_api\\.services\\.basket\\.v1\\.BasketService\\/GetMinimalState",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tadarida-web"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "aaff33c0a807acbcbe2e0d98b32bc77aa257c1a76fd16712526225cef96edab3"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aboutyou.ch",
+                "www.aboutyou.de"
+            ]
+        },
+        {
+            "rule": "aboutyou\\.com\\/aysa_api\\.services\\.basket\\.v1\\.BasketService\\/GetMinimalState",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tadarida-web"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Preflight",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aboutyou.ch",
+                "www.aboutyou.de"
+            ]
+        },
+        {
+            "rule": "aboutyou\\.com\\/customer\\/me",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "8d60b1b1f06e9f7f4d6a3f435f7422e31d144afa739e0724084123b19dde97c9"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aboutyou.ch",
+                "www.aboutyou.de"
+            ]
+        },
+        {
+            "rule": "aboutyou\\.com\\/customer\\/me",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Preflight",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aboutyou.ch",
+                "www.aboutyou.de"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000201,
+    "topInitiators": [
+        {
+            "domain": "aboutstatic.com",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "XHR": 6,
+        "Fetch": 4,
+        "Preflight": 8
+    },
+    "nameservers": [
+        "vick.ns.cloudflare.com",
+        "donna.ns.cloudflare.com"
+    ]
+}

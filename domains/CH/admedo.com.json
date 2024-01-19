@@ -1,0 +1,256 @@
+{
+    "domain": "admedo.com",
+    "owner": {
+        "name": "Admedo",
+        "displayName": "Admedo",
+        "privacyPolicy": "https://www.admedo.com/privacy-policy",
+        "url": "http://admedo.com"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.00866,
+    "sites": 86,
+    "subdomains": [
+        "pool",
+        "pj.l"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "admedo\\.com\\/sync",
+            "cookies": 0.00353,
+            "fingerprinting": 0,
+            "subdomains": [
+                "pool"
+            ],
+            "apis": {},
+            "sites": 35,
+            "prevalence": 0.00353,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "twinfinite.net",
+                "www.azlyrics.com",
+                "www.tripadvisor.com",
+                "www.finanznachrichten.de",
+                "www.metasrc.com",
+                "de.moyens.net",
+                "www.askpython.com",
+                "jardinage.lemonde.fr",
+                "www.iphon.fr",
+                "snootysims.com",
+                "xdaforums.com",
+                "www.freeconvert.com",
+                "www.notebookcheck.com",
+                "dictionary.goo.ne.jp",
+                "www.avforums.com",
+                "woxikon.de",
+                "www.slant.co",
+                "www.gameskinny.com",
+                "www.resetera.com",
+                "www.recipetineats.com"
+            ]
+        },
+        {
+            "rule": "admedo\\.com\\/ul_cb\\/sync",
+            "cookies": 0.00342,
+            "fingerprinting": 0,
+            "subdomains": [
+                "pool"
+            ],
+            "apis": {},
+            "sites": 35,
+            "prevalence": 0.00353,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "twinfinite.net",
+                "www.azlyrics.com",
+                "www.tripadvisor.com",
+                "www.notebookcheck.com",
+                "www.askpython.com",
+                "www.ilgiornale.it",
+                "mtgdecks.net",
+                "www.01net.com",
+                "excel-downloads.com",
+                "woxikon.de",
+                "www.iphon.fr",
+                "www.pointdevue.fr",
+                "www.songlyrics.com",
+                "xdaforums.com",
+                "www.freeconvert.com",
+                "www.gameskinny.com",
+                "www.avforums.com",
+                "www.metasrc.com",
+                "www.blic.rs",
+                "www.slant.co"
+            ]
+        },
+        {
+            "rule": "admedo\\.com\\/sync",
+            "cookies": 0.00453,
+            "fingerprinting": 0,
+            "subdomains": [
+                "pool"
+            ],
+            "apis": {},
+            "sites": 49,
+            "prevalence": 0.00494,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cplusplus.com",
+                "www.independent.co.uk",
+                "www.spanishdict.com",
+                "www.chunkbase.com",
+                "www.motortrend.com",
+                "www.mesinspirationsculinaires.com",
+                "bestlifeonline.com",
+                "tattle.life",
+                "www.politico.eu",
+                "doctonat.com",
+                "pythonexamples.org",
+                "www.eatingwell.com",
+                "www.findagrave.com",
+                "thecinemaholic.com",
+                "www.convertunits.com",
+                "www.bleepingcomputer.com",
+                "www.systemrequirementslab.com",
+                "mydramalist.com",
+                "www.pcinvasion.com",
+                "forums.civfanatics.com"
+            ]
+        },
+        {
+            "rule": "admedo\\.com\\/ul_cb\\/sync",
+            "cookies": 0.00443,
+            "fingerprinting": 0,
+            "subdomains": [
+                "pool"
+            ],
+            "apis": {},
+            "sites": 44,
+            "prevalence": 0.00443,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cplusplus.com",
+                "www.independent.co.uk",
+                "www.spanishdict.com",
+                "www.motortrend.com",
+                "www.mesinspirationsculinaires.com",
+                "www.bleepingcomputer.com",
+                "www.bhg.com",
+                "www.eatingwell.com",
+                "www.morewords.com",
+                "forums.civfanatics.com",
+                "www.aljazeera.com",
+                "www.trueachievements.com",
+                "bestlifeonline.com",
+                "www.pewpewtactical.com",
+                "www.thegearpage.net",
+                "howchoo.com",
+                "www.politico.eu",
+                "fr.automobiledimension.com",
+                "www.boredpanda.com",
+                "thecinemaholic.com"
+            ]
+        },
+        {
+            "rule": "admedo\\.com\\/admtracker\\.lib\\.min\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "pj.l"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "window.sessionStorage": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "5132c99b7b7051d471e258bfe7057f5cb11df18e0b05ebd9b5c4198fa06caf45"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "futbin.com",
+                "www.topuniversities.com"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising"
+    ],
+    "performance": {},
+    "cookies": 0.00816,
+    "topInitiators": [
+        {
+            "domain": "pubmatic.com",
+            "prevalence": 0.41916167664670656
+        },
+        {
+            "domain": "openx.net",
+            "prevalence": 0.30538922155688625
+        },
+        {
+            "domain": "lijit.com",
+            "prevalence": 0.10778443113772455
+        },
+        {
+            "domain": "gumgum.com",
+            "prevalence": 0.07784431137724551
+        },
+        {
+            "domain": "seedtag.com",
+            "prevalence": 0.03592814371257485
+        },
+        {
+            "domain": "adpushup.com",
+            "prevalence": 0.011976047904191617
+        },
+        {
+            "domain": "vidoomy.com",
+            "prevalence": 0.011976047904191617
+        },
+        {
+            "domain": "armanet.co",
+            "prevalence": 0.011976047904191617
+        },
+        {
+            "domain": "contextweb.com",
+            "prevalence": 0.005988023952095809
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.005988023952095809
+        }
+    ],
+    "types": {
+        "Document": 70,
+        "Image": 93,
+        "Script": 2
+    },
+    "nameservers": [
+        "jeff.ns.cloudflare.com",
+        "may.ns.cloudflare.com"
+    ]
+}

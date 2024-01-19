@@ -1,0 +1,204 @@
+{
+    "domain": "adition.com",
+    "owner": {
+        "name": "Virtual Minds AG",
+        "displayName": "Virtual Minds",
+        "privacyPolicy": "https://www.virtualminds.de/en/",
+        "url": "http://virtualminds.de"
+    },
+    "source": [
+        "DuckDuckGo-NO"
+    ],
+    "prevalence": 0.00292,
+    "sites": 29,
+    "subdomains": [
+        "dsp.adfarm1",
+        "imagesrv",
+        "ad3.adfarm1"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "adition\\.com\\/cookie\\/",
+            "cookies": 0.00242,
+            "fingerprinting": 0,
+            "subdomains": [
+                "dsp.adfarm1"
+            ],
+            "apis": {},
+            "sites": 25,
+            "prevalence": 0.00252,
+            "cnames": [],
+            "responseHashes": [
+                "071d0a5d172af491aedca9041f20e830d25fd4d339a1006bca3bed949069aa30"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.moddb.com",
+                "www.mercedes-benz.no",
+                "playlixt.com",
+                "thebarentsobserver.com",
+                "factorioprints.com",
+                "fettogforstand.no",
+                "coffeemanga.io",
+                "www.barstoolsports.com",
+                "jsonformatter.org",
+                "visualboyadvance.org",
+                "riptutorial.com",
+                "linuxhandbook.com",
+                "www.avsim.com",
+                "collider.com",
+                "www.wordplays.com",
+                "vitux.com",
+                "ww1.jujustukaisen.com",
+                "www.skigeilo.no",
+                "www.cpu-monkey.com",
+                "www.dreammoods.com"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/cookie\\/",
+            "cookies": 0.000403,
+            "fingerprinting": 0,
+            "subdomains": [
+                "dsp.adfarm1"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "__cmpconsentx54111": 0.00010067451927917044
+            },
+            "exampleSites": [
+                "thecinemaholic.com",
+                "vitux.com",
+                "www.dagens.no",
+                "www.gtainside.com"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/js\\/adition\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "imagesrv"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "Navigator.prototype.appVersion": 2,
+                "Screen.prototype.width": 2,
+                "Screen.prototype.height": 2,
+                "Navigator.prototype.plugins": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6356dca74d480f9fe67e7a08ad460f342880cfb3004f3ef6d8df6db39edae277"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "servustv.com",
+                "www.servustv.com"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad3.adfarm1"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "51a8fc978e077ac0a4434ad3e3513a1d5805b46fcc0d1ad800aefa71f15f1550"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "servustv.com",
+                "www.servustv.com"
+            ]
+        },
+        {
+            "rule": "adition\\.com\\/banner",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "ad3.adfarm1"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c79831d809c25cd6e16f0484f07797112717213d2b7335a1edfcf386d2aa7397"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "servustv.com",
+                "www.servustv.com"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising"
+    ],
+    "performance": {},
+    "cookies": 0.00272,
+    "topInitiators": [
+        {
+            "domain": "googlesyndication.com",
+            "prevalence": 0.36666666666666664
+        },
+        {
+            "domain": "smartadserver.com",
+            "prevalence": 0.23333333333333334
+        },
+        {
+            "domain": "outbrain.com",
+            "prevalence": 0.13333333333333333
+        },
+        {
+            "domain": "pubmatic.com",
+            "prevalence": 0.13333333333333333
+        },
+        {
+            "domain": "primis.tech",
+            "prevalence": 0.06666666666666667
+        },
+        {
+            "domain": "adform.net",
+            "prevalence": 0.06666666666666667
+        }
+    ],
+    "types": {
+        "Image": 25,
+        "Document": 4,
+        "Script": 6
+    },
+    "nameservers": [
+        "ns3.dnsimple.com",
+        "ns2.dnsimple.com",
+        "ns4.dnsimple.com",
+        "ns1.dnsimple.com"
+    ]
+}

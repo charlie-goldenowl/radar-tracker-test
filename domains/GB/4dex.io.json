@@ -1,0 +1,260 @@
+{
+    "domain": "4dex.io",
+    "owner": {
+        "name": "Adagio",
+        "displayName": "Adagio"
+    },
+    "source": [
+        "DuckDuckGo-GB"
+    ],
+    "prevalence": 0.00563,
+    "sites": 56,
+    "subdomains": [
+        "script",
+        "mp",
+        "c"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "4dex\\.io\\/localstore\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "script"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 54,
+                "window.localStorage": 51,
+                "PerformanceTiming.prototype.navigationStart": 46,
+                "Date.prototype.getTime": 8
+            },
+            "sites": 54,
+            "prevalence": 0.00543,
+            "cnames": [],
+            "responseHashes": [
+                "e8fe64429e5900c16c7f8dd7861704e2f4d38e00cbb16bc18820b46d92461389"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "coinmarketcap.com",
+                "cplusplus.com",
+                "pastebin.com",
+                "www.discogs.com",
+                "www.nexusmods.com",
+                "www.besteveralbums.com",
+                "www.automobiledimension.com",
+                "pokemondb.net",
+                "www.koreaboo.com",
+                "vitux.com",
+                "www.tokyvideo.com",
+                "www.spigotmc.org",
+                "www.grammar-monster.com",
+                "linuxhandbook.com",
+                "www.futbin.com",
+                "www.betaseries.com",
+                "howchoo.com",
+                "www.iplocation.net",
+                "www.wikifeet.com",
+                "www.straitstimes.com"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/prebid",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mp"
+            ],
+            "apis": {},
+            "sites": 27,
+            "prevalence": 0.00272,
+            "cnames": [],
+            "responseHashes": [
+                "77b47b7a038f38916adbe760bc262fe2aa75e9f2a0d67621d19ad74e41acdb39",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "c27414876349712983df81fb135ebf1c414976dde4a0e75d658e69f9dde06728"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "coinmarketcap.com",
+                "cplusplus.com",
+                "www.nexusmods.com",
+                "www.straitstimes.com",
+                "www.thebeachguide.co.uk",
+                "www.techweekmag.com",
+                "www.eurosport.com",
+                "vitux.com",
+                "arcadespot.com",
+                "steamcharts.com",
+                "www.goonhammer.com",
+                "insideevs.com",
+                "forums.golfwrx.com",
+                "readcomiconline.li",
+                "pokemondb.net",
+                "www.japantimes.co.jp",
+                "ejje.weblio.jp",
+                "www.haaretz.com",
+                "linuxhandbook.com",
+                "www.picuki.com"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/adagio\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "script"
+            ],
+            "apis": {},
+            "sites": 54,
+            "prevalence": 0.00543,
+            "cnames": [],
+            "responseHashes": [
+                "26305a08644b4f51b55812cf0ecf879c22da303a365b3d2769baa1b54c028c4d"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "coinmarketcap.com",
+                "cplusplus.com",
+                "pastebin.com",
+                "www.discogs.com",
+                "www.nexusmods.com",
+                "www.koreaboo.com",
+                "readcomiconline.li",
+                "www.picuki.com",
+                "www.japantimes.co.jp",
+                "pokemondb.net",
+                "arcadespot.com",
+                "www.motor1.com",
+                "gamepress.gg",
+                "insideevs.com",
+                "www.gearrice.com",
+                "www.automobiledimension.com",
+                "kerrydalestreet.co.uk",
+                "www.iplocation.net",
+                "www.grammar-monster.com",
+                "mydramalist.com"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/prebid",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mp"
+            ],
+            "apis": {},
+            "sites": 14,
+            "prevalence": 0.00141,
+            "cnames": [],
+            "responseHashes": [
+                "77b47b7a038f38916adbe760bc262fe2aa75e9f2a0d67621d19ad74e41acdb39"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "readcomiconline.li",
+                "surnames.behindthename.com",
+                "www.allfreeknitting.com",
+                "www.automobiledimension.com",
+                "www.behindthename.com",
+                "www.betaseries.com",
+                "www.gearrice.com",
+                "www.jpost.com",
+                "www.koreaboo.com",
+                "www.tdpri.com",
+                "www.thegearpage.net",
+                "www.tokyvideo.com",
+                "www.vintag.es",
+                "www.whereandwhen.net"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/pba\\.gif",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "c"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "77b1d2c0857d4e95d4c2ae7aa0abc5aaafa6bd4581b31203d1592759c26f5c44"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.0002011465352509303
+            },
+            "exampleSites": [
+                "gearrice.com",
+                "www.gearrice.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.09016393442622951
+        },
+        {
+            "domain": "buysellads.net",
+            "prevalence": 0.08196721311475409
+        },
+        {
+            "domain": "script.ac",
+            "prevalence": 0.06557377049180328
+        },
+        {
+            "domain": "adgrid.io",
+            "prevalence": 0.06557377049180328
+        },
+        {
+            "domain": "themoneytizer.com",
+            "prevalence": 0.06557377049180328
+        },
+        {
+            "domain": "stpd.cloud",
+            "prevalence": 0.06557377049180328
+        },
+        {
+            "domain": "vlitag.com",
+            "prevalence": 0.05737704918032787
+        },
+        {
+            "domain": "network-n.com",
+            "prevalence": 0.04918032786885246
+        },
+        {
+            "domain": "opti-digital.com",
+            "prevalence": 0.04918032786885246
+        },
+        {
+            "domain": "d18u3dv00u9abu.cloudfront.net",
+            "prevalence": 0.04918032786885246
+        }
+    ],
+    "types": {
+        "Script": 54,
+        "XHR": 27,
+        "Fetch": 70
+    },
+    "nameservers": [
+        "roxy.ns.cloudflare.com",
+        "bart.ns.cloudflare.com"
+    ]
+}

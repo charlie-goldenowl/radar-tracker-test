@@ -1,0 +1,72 @@
+{
+    "domain": "actionnetwork.org",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-DE"
+    ],
+    "prevalence": 0.000101,
+    "sites": 1,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "actionnetwork\\.org\\/widgets\\/v3\\/form\\/haltet-mich-auf-dem-laufenden-home-header",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [],
+            "apis": {
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "efa7f6728e1ec784bcf186ead5c43a13caf1e022da9cc8e82a0fd2db9e09bf6d"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gruene.de",
+                "www.gruene.de"
+            ]
+        },
+        {
+            "rule": "actionnetwork\\.org\\/widgets\\/v3\\/form\\/es-beginnt-mitdir",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "36dc5591f7f75f1b9db38c77bc11d838b28fb9cb28d102f235fe187023974f7c"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gruene.de",
+                "www.gruene.de"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000101,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Script": 4
+    },
+    "nameservers": [
+        "erin.ns.cloudflare.com",
+        "dan.ns.cloudflare.com"
+    ]
+}

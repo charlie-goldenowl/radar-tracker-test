@@ -1,0 +1,409 @@
+{
+    "domain": "xlirdr.com",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.00121,
+    "sites": 12,
+    "subdomains": [
+        "go",
+        "creative"
+    ],
+    "cnames": [],
+    "fingerprinting": 2,
+    "resources": [
+        {
+            "rule": "xlirdr\\.com\\/config",
+            "cookies": 0.000603,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000703,
+            "cnames": [],
+            "responseHashes": [
+                "96596a32d3efd08a6c8a4997dd1f507eafae10b3ec2c62d2f71ffb7df142e20c",
+                "a622547c278ab2dc64cc1bed61a4a4b911dcd03e3bbdd2b3dcb3be03e1635bb9",
+                "d8648174b1a187bd874a417464e756d2c5c6dc760bbe9a8d96221ba915f0e52b",
+                "dcf718c739f10ec76d24f214c9ef53079050cf20aac0b71ffd5a90d0896e762c",
+                "740d881e27cc280627b7dde171907dcf396465611f15e884542264dc80004cb6",
+                "97bac7ac7296d3db95800d9cb939c2519b52a9a4e0135cc18b12546afeba49d5"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hentaiworld.tv",
+                "hypnotube.com",
+                "motherless.com",
+                "sexyforums.com",
+                "thefappeningblog.com",
+                "upskirt.tv",
+                "www.sexysluts.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/abc\\.gif",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hentaiworld.tv",
+                "sexyforums.com",
+                "www.sexysluts.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/i",
+            "cookies": 0.000301,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hypnotube.com",
+                "thefappeningblog.com",
+                "upskirt.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/widgets\\/v4\\/Universal\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "creative"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "217ac227f1ea8980e87987069c356fe694656573b5e144fb381416164133f638"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hypnotube.com",
+                "thefappeningblog.com",
+                "upskirt.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/widgets\\/v4\\/Universal\\/main\\.59fabc32f4564d7ff5f9\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "creative"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "a4d09f6a50b6d96e7f22ab12f406dcf44be0d815105018cc5c7f1105fbf597f7"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hypnotube.com",
+                "motherless.com",
+                "thefappeningblog.com",
+                "upskirt.tv",
+                "www.sexysluts.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/widgets\\/v4\\/Universal\\/main\\.59fabc32f4564d7ff5f9\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "creative"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 4,
+                "PerformanceTiming.prototype.navigationStart": 4,
+                "Navigator.prototype.language": 4,
+                "window.innerHeight": 4,
+                "window.innerWidth": 4,
+                "Navigator.prototype.vendor": 4,
+                "MediaSource.isTypeSupported": 5,
+                "HTMLMediaElement.prototype.canPlayType": 5
+            },
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "66f1223eedc2f65ce3c144a86d164322f0ca383227e9b19444939e5f228efc85"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hypnotube.com",
+                "motherless.com",
+                "thefappeningblog.com",
+                "upskirt.tv",
+                "www.sexysluts.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/widgets\\/v4\\/Universal\\/lang\\/en\\.json",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "creative"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "0c25fbbff92c994866041b57d519aa22aa84d55b6b31bcf681dd5b74668cb750"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hypnotube.com",
+                "motherless.com",
+                "thefappeningblog.com",
+                "upskirt.tv",
+                "www.sexysluts.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/api\\/models",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "8c90865b60d21138600c91d9d8d2aa12b19746d528511ed5c64ec161118d9913",
+                "42a2ad11c70450db740d4d328dc2eafa9da13a7ae29e2e7bea5786781bff2198",
+                "268dfced8e818a4fb5eccde915cbe47b12ab24ac80c9bae94512846a30872379",
+                "4e6e5a23c9ca6aac9763ef053296105c30b3224503d294a72d976b91b1d5a48f"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hypnotube.com",
+                "sexyforums.com",
+                "thefappeningblog.com",
+                "upskirt.tv",
+                "www.sexysluts.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/app\\/domain-checker\\/get-check",
+            "cookies": 0.000402,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "c6496279f01ebe6b056039c6e088bffe8bc34f20f45ccd217b0884e0247416ce",
+                "2b9845b0308ecef759270b7293eb957f26e05c8bd9ec8fa639985fd50cf49230",
+                "63937089cc863cfd5ed93b9aaf9cd0c137a24e3b0988bff11973fd8269b7eacc",
+                "63e6d1c1d633339ca2d2453382c253ad11715c9acd57028f4c6b574880d25442"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hypnotube.com",
+                "sexyforums.com",
+                "thefappeningblog.com",
+                "upskirt.tv",
+                "www.sexysluts.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/widgets\\/v4\\/Universal",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "creative"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "217ac227f1ea8980e87987069c356fe694656573b5e144fb381416164133f638"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "motherless.com",
+                "www.sexysluts.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/widgets\\/Spot\\/lib\\.js",
+            "cookies": 0.0001,
+            "fingerprinting": 2,
+            "subdomains": [
+                "creative"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "window.innerHeight": 2,
+                "window.innerWidth": 2,
+                "Navigator.prototype.vendor": 2,
+                "Navigator.prototype.language": 2,
+                "MediaSource.isTypeSupported": 2,
+                "HTMLMediaElement.prototype.canPlayType": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4261947323558db39342f13f4f58d18744d8f55e4f2ecd8df559b1dc743f6f99"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sexyforums.com",
+                "www.sexysluts.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/widgets\\/Spot\\/lang\\/en\\.json",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "creative"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "065782e76dcfa6a9181cc36d69abefa429aafe2db2171b5d705a35b3fe234e3f"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sexyforums.com",
+                "www.sexysluts.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/thumbs\\/view",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d84df344f61bf503907bfd40502d4184d3428fb2f3826d18582828c620c8a387"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sexyforums.com",
+                "www.sexysluts.tv"
+            ]
+        },
+        {
+            "rule": "xlirdr\\.com\\/app\\/domain-checker\\/check-result",
+            "cookies": 0.000402,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sexyforums.com",
+                "thefappeningblog.com",
+                "upskirt.tv",
+                "www.sexysluts.tv"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00111,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.8387096774193549
+        },
+        {
+            "domain": "cams.gratis",
+            "prevalence": 0.06451612903225806
+        },
+        {
+            "domain": "ajax.googleapis.com",
+            "prevalence": 0.06451612903225806
+        },
+        {
+            "domain": "6g0blqi1541polz4n0kjvwo1kjl5tcx30.xyz",
+            "prevalence": 0.03225806451612903
+        }
+    ],
+    "types": {
+        "Fetch": 30,
+        "Image": 3,
+        "Document": 8,
+        "Stylesheet": 5,
+        "Script": 7
+    },
+    "nameservers": [
+        "ali.ns.cloudflare.com",
+        "kolton.ns.cloudflare.com"
+    ]
+}

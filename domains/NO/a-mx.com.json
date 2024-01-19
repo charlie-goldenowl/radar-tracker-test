@@ -1,0 +1,138 @@
+{
+    "domain": "a-mx.com",
+    "owner": {
+        "name": "Monet Engine Inc.",
+        "displayName": "Monet Engine"
+    },
+    "source": [
+        "DuckDuckGo-NO"
+    ],
+    "prevalence": 0.00383,
+    "sites": 38,
+    "subdomains": [
+        "id"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "a-mx\\.com\\/sync\\/",
+            "cookies": 0.000101,
+            "fingerprinting": 0,
+            "subdomains": [
+                "id"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000705,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.00010067451927917044
+            },
+            "exampleSites": [
+                "coffeemanga.io",
+                "picuki.me",
+                "readcomiconline.li",
+                "ww1.jujustukaisen.com",
+                "ww3.readjujutsukaisen.com",
+                "www.mangaread.org",
+                "www.picnob.com"
+            ]
+        },
+        {
+            "rule": "a-mx\\.com\\/sync\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "id"
+            ],
+            "apis": {},
+            "sites": 32,
+            "prevalence": 0.00322,
+            "cnames": [],
+            "responseHashes": [
+                "d5a6f6aa5e5e2ba6e3b27453c14e5b2bf9e0a85b7b23582c5fae7110d35c3b5e",
+                "b63b9529882fa74e71dd1b7d2b0148f3ea2fb8df8f786fdbaba321c44430b87b",
+                "7ba379525a66d3c1f8bf26ebf1778224d9e6e2f128d8dbacdbf26cb0f0a45329",
+                "91cde6d4579a729433acecc34cb1e3ecc6294369f2d41901361f6ec18f4fd975",
+                "4a0ec5ade2fd084537b25547b3b7d2f00cc0413f855b344969da3c9532061f86",
+                "98551e41146954eee3303feab8c52163c1876d4995790c0c10dc02ef5703453a",
+                "512905ac89fea8cd4283bb200b3f0009d19bda26aaa4cfb84392731d511be38b",
+                "6ec3a47f2439e1f22d533ab3fe06bd116dd1c33f2100ef62067f350d332a6be8",
+                "563a3abc6d148015e2e662447cac158651ea2bcd530d8fef96a8f94037ec1622",
+                "83878e84cfad6d23af78ac41dd9d16b0fb7b1fcab4f02aaed7983d2549ece4d3"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.0028188865398167725
+            },
+            "exampleSites": [
+                "www.howtogeek.com",
+                "www.makeuseof.com",
+                "www.rogerebert.com",
+                "www.javascripttutorial.net",
+                "www.thephoblographer.com",
+                "www.gbmb.org",
+                "www.jpost.com",
+                "www.androidpolice.com",
+                "www.thethings.com",
+                "www.dualshockers.com",
+                "www.onmanorama.com",
+                "www.oracletutorial.com",
+                "theitbros.com",
+                "www.thesportster.com",
+                "ww3.readjujutsukaisen.com",
+                "www.pocket-lint.com",
+                "gamerant.com",
+                "www.binaryhexconverter.com",
+                "www.pythonforbeginners.com",
+                "www.xda-developers.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000101,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.3181818181818182
+        },
+        {
+            "domain": "h12-media.com",
+            "prevalence": 0.2727272727272727
+        },
+        {
+            "domain": "increaserev.com",
+            "prevalence": 0.11363636363636363
+        },
+        {
+            "domain": "vlitag.com",
+            "prevalence": 0.09090909090909091
+        },
+        {
+            "domain": "adapex.io",
+            "prevalence": 0.09090909090909091
+        },
+        {
+            "domain": "vuukle.com",
+            "prevalence": 0.09090909090909091
+        },
+        {
+            "domain": "adligature.com",
+            "prevalence": 0.022727272727272728
+        }
+    ],
+    "types": {
+        "XHR": 7,
+        "Fetch": 32
+    },
+    "nameservers": [
+        "kiki.bunny.net",
+        "coco.bunny.net"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "domain": "adleadevent.com",
+    "owner": {
+        "name": "ADLEAD",
+        "displayName": "ADLEAD"
+    },
+    "source": [
+        "DuckDuckGo-DE"
+    ],
+    "prevalence": 0.00131,
+    "sites": 13,
+    "subdomains": [
+        "adtrack"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "adleadevent\\.com\\/mailNotification\\.php",
+            "cookies": 0.00121,
+            "fingerprinting": 0,
+            "subdomains": [
+                "adtrack"
+            ],
+            "apis": {},
+            "sites": 13,
+            "prevalence": 0.00131,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "winedexer.com",
+                "expressantworten.com",
+                "lexikon.stangl.eu",
+                "mobi-test.de",
+                "nachbelichtet.com",
+                "schlaraffenwelt.de",
+                "www.beastieguides.de",
+                "www.digital-eliteboard.com",
+                "www.hdsports.de",
+                "www.ms-office-forum.net",
+                "www.onlinesprache.de",
+                "www.onlinetvrecorder.com",
+                "www.pravda-tv.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00121,
+    "topInitiators": [
+        {
+            "domain": "themoneytizer.com",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Script": 13
+    },
+    "nameservers": [
+        "dns17.ovh.net",
+        "ns17.ovh.net"
+    ]
+}

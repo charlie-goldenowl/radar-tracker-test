@@ -1,0 +1,94 @@
+{
+    "domain": "5vod-adaptive.akamaized.net",
+    "owner": {
+        "name": "Akamai Technologies",
+        "displayName": "Akamai",
+        "privacyPolicy": "https://www.akamai.com/us/en/privacy-policies/",
+        "url": "http://akamai.com"
+    },
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.000201,
+    "sites": 2,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "5vod-adaptive\\.akamaized\\.net\\/exp=1704245930~acl=%2F81154243-dbe6-48f6-ad5d-dda7e39de534%2F%2A~hmac=7001a4ea7e5a8757f5903f79099f4af4f88faa9563e78205d3e680abecb491b0\\/81154243-dbe6-48f6-ad5d-dda7e39de534\\/parcel\\/audio\\/6461cdbe\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e8c356b992c6c1ccbf3ce8f93f5947514435e8679cbe93ec8ea59bb5b4470e65"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "jgl.com.au",
+                "justjeans.jgl.com.au"
+            ]
+        },
+        {
+            "rule": "5vod-adaptive\\.akamaized\\.net\\/exp=1704245930~acl=%2F81154243-dbe6-48f6-ad5d-dda7e39de534%2F%2A~hmac=7001a4ea7e5a8757f5903f79099f4af4f88faa9563e78205d3e680abecb491b0\\/81154243-dbe6-48f6-ad5d-dda7e39de534\\/parcel\\/video\\/7a50fc77\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2494f7d4cdbf28f50418f9240bbfcfd1688986d555189ef9374ec96640710811"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "jgl.com.au",
+                "justjeans.jgl.com.au"
+            ]
+        },
+        {
+            "rule": "5vod-adaptive\\.akamaized\\.net\\/exp=1704246733~acl=%2F83612426-0634-445b-ae66-324c57481364%2F%2A~hmac=67acb53146ba036d86f1ddb88df40ed950a9b1a073ae7860781a5060a1ae4c4b\\/83612426-0634-445b-ae66-324c57481364\\/parcel\\/audio\\/9c0b8e6f\\.mp4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "fca2c706b37c188d26549a96b1101c5708e1078c00306f13ae399029f87c2819"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fitmycar.com.au",
+                "www.fitmycar.com.au"
+            ]
+        }
+    ],
+    "categories": [
+        "CDN"
+    ],
+    "performance": {},
+    "cookies": 0.000201,
+    "topInitiators": [
+        {
+            "domain": "vimeocdn.com",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "XHR": 6
+    },
+    "nameservers": []
+}

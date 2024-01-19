@@ -1,0 +1,571 @@
+{
+    "domain": "4dex.io",
+    "owner": {
+        "name": "Adagio",
+        "displayName": "Adagio"
+    },
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.025,
+    "sites": 249,
+    "subdomains": [
+        "script",
+        "mp",
+        "u",
+        "c"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "4dex\\.io\\/localstore\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "script"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 225,
+                "window.localStorage": 209,
+                "PerformanceTiming.prototype.navigationStart": 157,
+                "Date.prototype.getTime": 42,
+                "Date.prototype.getTimezoneOffset": 2,
+                "window.innerHeight": 1
+            },
+            "sites": 245,
+            "prevalence": 0.0246,
+            "cnames": [],
+            "responseHashes": [
+                "e8fe64429e5900c16c7f8dd7861704e2f4d38e00cbb16bc18820b46d92461389"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "9gag.com",
+                "coinmarketcap.com",
+                "cplusplus.com",
+                "dictionary.reverso.net",
+                "pastebin.com",
+                "screenrant.com",
+                "www.discogs.com",
+                "www.fixya.com",
+                "www.howtogeek.com",
+                "www.makeuseof.com",
+                "www.mtbr.com",
+                "www.wranglerforum.com",
+                "www.sporcle.com",
+                "www.japantimes.co.jp",
+                "ww3.readjujutsukaisen.com",
+                "www.supercoloring.com",
+                "files.minecraftforge.net",
+                "www.asahi.com",
+                "www.budgetyourtrip.com",
+                "www.studylight.org"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/adagio\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "script"
+            ],
+            "apis": {},
+            "sites": 229,
+            "prevalence": 0.023,
+            "cnames": [],
+            "responseHashes": [
+                "26305a08644b4f51b55812cf0ecf879c22da303a365b3d2769baa1b54c028c4d"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "9gag.com",
+                "coinmarketcap.com",
+                "cplusplus.com",
+                "dictionary.reverso.net",
+                "pastebin.com",
+                "screenrant.com",
+                "www.discogs.com",
+                "www.fixya.com",
+                "www.howtogeek.com",
+                "www.makeuseof.com",
+                "www.pcgamesn.com",
+                "pc-builds.com",
+                "steamcharts.com",
+                "oldschool.tools",
+                "www.rpgsite.net",
+                "www.wargamer.com",
+                "secondhandsongs.com",
+                "www.gamersdecide.com",
+                "www.xda-developers.com",
+                "www.budgetyourtrip.com"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/prebid",
+            "cookies": 0.00573,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mp"
+            ],
+            "apis": {},
+            "sites": 68,
+            "prevalence": 0.00683,
+            "cnames": [],
+            "responseHashes": [
+                "ef79683c2fe25f87d54bae3bb45f7326bbd77b82ad8153f360c8d75fdeb61ba9",
+                "0b051e1bc0614b80f9b79ae8c65e37d83dce86ec96f29dc76b8d8d1b4715512d",
+                "a0fb18b20b6d7554734672bfb9a9bfd2c9aa0ace1a54c959952661abd75a9173",
+                "b62ebcf3d9ca3ab4c1df5275603680458984e8717eacf5e36fecb11043c655fb",
+                "e2d6fc5f54c11f7bb0fd9e3ff57f070d0be5e818a06dab196d367d1a8fc19ef1",
+                "2bb58405f6a30fb12741193b49f3aadf87e0667b3a6aa2f4872e4cb8022e476e",
+                "1e1757b4497b6429af6ba67e144e97bd1caba381beec9f74ba3d5b78eb0686fc",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "77b47b7a038f38916adbe760bc262fe2aa75e9f2a0d67621d19ad74e41acdb39",
+                "002c22cb60f5197893f59fbfe8d55dc4245249d10e6d143bd45afc4138f4973e",
+                "10649bda5b42b057ff716fe749fb5b385bea600ccf169fc3ff95f94999226946",
+                "12d984b668afad50880b03e535fc7c7634ec80a99e4a26482c7cb3a9886d94fc",
+                "a5d92c36f0eb926088fb3920aed1073d887720f53ceb0df4847be336df14c5db",
+                "69ac3b74a834aca6a34f5968a6a390ae2bcba55c9edfcbe77c4a16c22225557d",
+                "ba7f7a67b6843c61de60e009ad79bd81a73283b759e63c67f33b845ad9cc854d",
+                "b0556c9c7d795e595c1ecf78f3bb1cbc5a8d2a030bf430c90b9f2833b0d7f961",
+                "7a99322673227e5fc0723e4743a29ce1a3ad8015293e6deef50c7688f9c5a6a9",
+                "e6838b22593a722eb4726eb8edf1a56f46e202ac105c7860966f75bd2d1804dd",
+                "c1672ee3ac43490e2b10dae27b7c0ff3764acd38e2b458c7722056272b58d3cf",
+                "3e5793d7085734c3b9f70e27a5b11de86084340de17330351e3bd3fdc82dcb59",
+                "75ff46c2dc2a0d577137e6c42c639e945e6537afcfc126d9ba97806edd788391",
+                "f20c36baa0dd6833db0d686291931a17122ef8522b47f7e2a4be1863e929d20b",
+                "17891dadfb766211a85a941f6ba78af108b37c4b261258f819f7e9d7e66233a0",
+                "e9e5df5d56fbf5f6f35b9750fd63b0fb3588c3b744bf997ce8b1d3be5d924b06",
+                "dcb6c27e50c3e4a600b9c97a374b95c3c407deab67b440e10a1721abdb2156c4",
+                "d2b0bbf8db4350b3dfb16d4258748635aae0365a5f858295360e68a6f21e4862",
+                "bc5e66cc2cb1e5f9ab65b5b3f6aaeece4fdb1f7c16c4bcdc62826c28f47d6dab",
+                "ce979653eff2f4b6adfca39fc8b816c4db70aa60001f6ef61787fe2a91cab429",
+                "48d3098fe941b6fb80eb2fd859f74957114e0f5312d2e1b64e6df8cb0b96f598",
+                "3bbd37eb21f55473b184613602681fd42e36028cf9748b8c9fa6a33a8cf37dd7",
+                "843f81a70f309f24ae78857d2e7967eed89dd8f2136fc4c3c4d8c35a2c39579f",
+                "fb31ae5d97d58df39b44a0f067118bd49485fb9083d947e83e0fde142ed1b37c",
+                "7e34459061ef1173547a8141388aa69b2c46b4c2a80f83e66399b9a917399d12",
+                "8c63bd88041b773244d00c25cf1892af27e775fee45562191ae89f8ab651d15e",
+                "5f63114fc98c1091f750800dfd6bb532bec6b4832da036f1b27ef2529556585b",
+                "f035cbee5c4c20f94a8a249067165cad202887bbf538f882b24c156fbfc98f19",
+                "327b8e43be9daac8f831d80a56e38ec209e3f53031a6c9cd211362a45aa035d6",
+                "b530cb253c5d1243404ac2342d0e83442cd18948c92f30453941d11547d20589",
+                "20cd107b4908da893190dafe60bc85b92e0ca29a592434d06e5f8b9457e15399",
+                "bcf6c68f7568df8ba5097f082910b2e168d2cfe5a671c9b63c4f8b383d2bbca1",
+                "4d40c70dbcb2df20e916796213429598836cf4fc9b899f13aaed4c766bccb1b8",
+                "06b2c6c6b0092898751c1d1fbdb82897d13ad432f5cd54b9ec941bd015d5f83e",
+                "b3050c70e17d3373813ee2c4ed36d411ed4154391ccc198752ed1a4df19545ee",
+                "eb7e1801aee141c49a1ac43ade8e2d37b7517efde071d6409413509e5eebc993",
+                "10c1b2b3d60c64f9000688204a9b81ed81a34b67f52de710a693d63258c7e32e",
+                "ee6a069b52967f03c55dd893744430ca10f546358be05c1a790a6155a9c3a239",
+                "991fdebd8ab044725d1d70469a11a4eedd839b857b6ae3ccb0afc9c9ea4a18b1",
+                "1899037ed5186194bcb9f9e0bad8fcd019dcc9f347dbbe8e39af215c6b37807f",
+                "79b4a3fdd19eb0fb266cab32dcd5840354dd8eeb9923077ead952e7e87bb5270",
+                "23da3883e1cd65dc27985336e50edccbd58eb101e632dc70161c0a0128b85e77",
+                "62e05d97f280a3296aa324cb7f36aaeca232b4697a48dccdbc6225fe4927dcc7",
+                "07bc923ef31060d4045ec296b8233167349b3cf64319dc220ad5647f0893022d"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "screenrant.com",
+                "www.fixya.com",
+                "www.howtogeek.com",
+                "www.makeuseof.com",
+                "www.asahi.com",
+                "www.slotforum.com",
+                "en.uesp.net",
+                "www.sportingnews.com",
+                "visaguide.world",
+                "www.schengenvisainfo.com",
+                "www.songlyrics.com",
+                "www.gsmarena.com",
+                "www.subaruforester.org",
+                "www.jpost.com",
+                "foreignpolicy.com",
+                "www.androidpolice.com",
+                "www.phonearena.com",
+                "files.minecraftforge.net",
+                "www.watchuseek.com",
+                "socialblade.com"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/setuid",
+            "cookies": 0.00904,
+            "fingerprinting": 0,
+            "subdomains": [
+                "u"
+            ],
+            "apis": {},
+            "sites": 93,
+            "prevalence": 0.00935,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "9gag.com",
+                "coinmarketcap.com",
+                "dictionary.reverso.net",
+                "www.fixya.com",
+                "www.nexusmods.com",
+                "socialblade.com",
+                "helpdeskgeek.com",
+                "devicetests.com",
+                "www.betaseries.com",
+                "en.uesp.net",
+                "alcasthq.com",
+                "files.minecraftforge.net",
+                "www.light.gg",
+                "awoiaf.westeros.org",
+                "www.vintag.es",
+                "www.zockify.com",
+                "www.smogon.com",
+                "www.gtplanet.net",
+                "www.jetpunk.com",
+                "www.enotes.com"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/prebid",
+            "cookies": 0.00874,
+            "fingerprinting": 0,
+            "subdomains": [
+                "mp"
+            ],
+            "apis": {},
+            "sites": 120,
+            "prevalence": 0.0121,
+            "cnames": [],
+            "responseHashes": [
+                "ec7fbb553f7e1d68d5fff2c9d78c1651c961d756ae280ad1824dccbb33aada20",
+                "630923cff329159b98a78f59915c20ec1eb9ffeaaab1bebcbe9d0ced5205cf7f",
+                "77b47b7a038f38916adbe760bc262fe2aa75e9f2a0d67621d19ad74e41acdb39",
+                "ae6ac07c96e2d940cd893e29401074e9304b8081fd3704b8ec4643d6138ae649",
+                "ea77643668de12aeed65a27d346a660df7d294672e9f3be7b3e7060e5919ac69",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "dc729e7c0e21e32742506b9e8f646d460e2b056cc968bfb596db2d1ad5a8260b",
+                "40708ea7fe3a2912d7f1fa48d125f7d51de7e78b9926e8b848e094769bcf5b43",
+                "aa4382032e7d4c70e39f11e677c7119c21ced904f48357d4593450b8115e9984",
+                "3bbd37eb21f55473b184613602681fd42e36028cf9748b8c9fa6a33a8cf37dd7",
+                "106f4282e83ba5c7f19b1e94ee4c111f6878b548986a39a77e2cc685da98ac62",
+                "fa95bf02ca0076187d5e9514c66b1952c568a695b952f435408c5dc520be02e7",
+                "ee42f4c0e3c119a98a97ffdca42b0419a46fdc9dc7b1de14333d6becf2cdd9cb",
+                "38aecce67d85e51acfae59ec03faee90ddf875f65aabeaf783b349d0744f9f40",
+                "a8f0a4b5c7cd560460ed6e68af680a9285554c8afe7ddbb75f212c869bbde225",
+                "d565cf35207027d9f3720139b194c27d8d61eb90f6e1752d2f9218eaa4fe512b",
+                "922c2dce1d41ef700bc7df5c51f0c59465ef402c1f392463f613ca8090f2f5b8",
+                "c1466f2a671cd804ef88a8289567e0ec3c4a34f1e6277ba31c63b61298863e3b",
+                "385524dd9b682dfe3d52d54a35af2270c015d7082c6c5d57bb21079d0268d003",
+                "8b448b0e15e6624fac7fdacc9fd9ebd45291b6a70d34b9d4fa34fc5319531c4b",
+                "e35c08768d260a5f93c6840d674097cecdb49e4bb255e1e9c485762cc59fefa2",
+                "06f9a13b562480b2d24af9166e950ed04e8c3e7c8312d44b788a8ff5326e9135",
+                "8ef344a05f2004facf34aed16cddbf5f72757c024d2a86094fa2755d784fcc35",
+                "9a6609c076617dbe569541d6ff2ab35019691d290ecef33271ae1e1548999862",
+                "99848edba6c251e743e84a8dec1757d5e98e7bd53307c9228a6edd4f09fbb1a6",
+                "20cd107b4908da893190dafe60bc85b92e0ca29a592434d06e5f8b9457e15399",
+                "22b882ddea430b93e5b43ed724967fa756f72a55ec97909d2abd557613b0a152",
+                "0b2d7b05b402d41497096d617dd9ea03f632aa581f29f3f62595daf90c1bb1a3",
+                "34ad03e5bc134f5387e122ab9ff03c9e9ccf416e4067e97158cf4f40faf85bc9",
+                "edd515a9fad826c0718a9448f2269f47e05874141f04854960b0012bbb2aa12d",
+                "25cd4a6252206160cae3b8effd705a59904d97c1c388193154d107e53687376c",
+                "d9c5e5ae79b0f1823ac247df8d1e9d45cb87009258352a8c4f8d4913063526c3",
+                "46e0ec895d416abf92226312c48a722018357106e3725077f0459282633a450e",
+                "61a5c21a07d0052a9f4cb3be4a4ea40b7e28bfb344f961e6471bd00d0e647842",
+                "245eeee4f557ef5520b9ca176e72e6265c9ad6be850d0ecf4dc3252db74acded",
+                "6259b0eae166b6c77a01b0907083e4f41f9e66d03134a48f04717cce9f16fe96",
+                "f4d0a5216796181a588280f7fc38d9473281dfd3aa8f91edd152b61a05c638b7",
+                "771cca5d30b8d481beb782886bb68af9824e8b7a2e0cde41493806d1c0e8deae",
+                "f67201e23caa1e289746d724604c991b78d07f11eb9b743c66be68f6c238e281",
+                "6b2edc25cffe373321389ee57f8e5a2eca7f771924efd3ce658ccb313f8a537d",
+                "76457fed8d81dc7b627882da1f6cc723149dc8e3d1229702db97947520b7160a",
+                "0db22a50964e97a42c85d052071a4528fa2327cba768f11fb7383b99a4b03152",
+                "c2efc37fe13af4646a35e01589d4903b9c915f6ce7f3e4648e9bf99043bf0ef1",
+                "452df5bdb087535a5f42829863502aa30bc52fc7a23e3b2e4413decb725b4624",
+                "9adfedbf50d8b20a02814f4a4826826ae41a93a788f46537506ca30547dca429",
+                "9b8143603746432cb8a43520ce19f9cf01dca958721a73e5b313a1ce71f36161",
+                "e42e9c610390de335d2982c8fdbcd28faef66610b05ebe0ae468ba4dd6bb5cf1",
+                "7288c96faf9ed9108316abeb6b9f8390d9251d2684c636a4bec29010f07d8798",
+                "8fdb712be2cfcb4f9df315b79b7fc1d69a5b2352ea9755bdba4b687aeb754185",
+                "ec2848a877ade43cc261fa324d61c0787b12368ffdc9c91225a86156ba2d04b5",
+                "8bdf51276beda29c05aa00142b4568993696daf89ea9e25466729d35b21de5ff",
+                "777789411219c2bee2902449d6f6515d3a860ff7803a519c41bd95eeb9cd038a",
+                "4ae54c9740878649e958ebfa7c21644bcad2e10f745db029ad8c784669271091",
+                "6c742c57015e43bac9b79ada0057164f74b4bbb7a8664ee05b07fc9506c09a31",
+                "a4eeba4c47fbefe9e381f6b8368c1e850a7ed895d8935c95683f38b707d6a9b1",
+                "0c90dc32594f4ad610338e73fd2526f34c11b5b2d72f440b99c51f08c61cd99e",
+                "1903d27b6e1f9ffa42ff3b29eef7362c9217c08c17ae6b2b5953f1a7c1426b0d",
+                "4b54b833b00a36c2852aac054dd62ca1105f666f7d265418764d9da4808d1d7f",
+                "4d7ec59bf891ecbb17628db46439e69740d8a0b13ba801a8c4e9632d667e51a2",
+                "78cfd657c90983f594c9d9d3829a649a7ca937f9a032ba69f5358cc76b8c5649",
+                "ad2d220d4a53a85d1eb1af951343af7dc52d0fb9ac1102fff9289d47db72025c",
+                "f197637395dff9327301a6632a0021c8bb9df7d96fc27affe4b0447642f77252",
+                "53df1d84e417824f1818dbf17edcdd4e12bb428addb44987948f90f58410398b",
+                "83991523e9706d350f47edf5c3139ce1c1c0de9f8f3e4215748f5b7123a56f5d",
+                "29788fec37e6583d26eac9383ad2e07ab92c03c22418f608724752f30bd57e83",
+                "47f8379114e36a58973d41ffb90ed82d3e16913ec061a12a6ac40eeb202de038",
+                "3372eb81dc6c0890cf4c7573d7a6b20c06c4a952eb93e3dbc9564879cbf3dbfb",
+                "e2d28c664c1738194726b83588c877247fd1f7e3cf4658ed005b6229e2065144",
+                "d8cc315bfba4ac696615c92966c4dd605ac6ea2790fe9b18b828648ac9ddee6e",
+                "c93ec011fd8d44712386332e92259363b332a191bde0582c09bd3fd1ea0cc827",
+                "ab1d89d0bce75abbf1dd561b8ce5142011dd3d9d6297cfc32a606404a0796f44",
+                "1d2c255cc934299fb20b8cecf700cb5376c920629c31f4f66a9e2221b956e21e",
+                "5c4ebb7d04d544c46fd456654999cb79dbf6540ecb83815c48b1087b59dbafaf",
+                "040b959b7699af1a7c0f5de172034c89a56340fc2faa630b47c6e363962603e8",
+                "6ce2191162d9f3ec63c57c84257c0b6a3f23dc43d2e2bd0d603d378a27668a94",
+                "74062a9676bc04fe3af104462a9dfda6d7242d6f0eae3657e8aa786f230d1f89",
+                "57df76528d2a0e64fe75d13951fd7df23d888cc65ccf75162e3064ab6d8876c8",
+                "2cf55620c2e65329cffa79a182411edfdf72569a41c0b5c430b7ec927118c1ad",
+                "d579f064a9c7e3cce2cd86477f7065768618463fd6dfbd31179586bfcea42e99"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "9gag.com",
+                "coinmarketcap.com",
+                "cplusplus.com",
+                "dictionary.reverso.net",
+                "www.nexusmods.com",
+                "www.w3schools.com",
+                "www.sporcle.com",
+                "kprofiles.com",
+                "secondhandsongs.com",
+                "www.playstationtrophies.org",
+                "www.expertreviews.co.uk",
+                "www.ultimatespecs.com",
+                "www.picuki.com",
+                "www.planetf1.com",
+                "www.gtplanet.net",
+                "arkids.net",
+                "www.mobafire.com",
+                "swtorista.com",
+                "www.rapidtables.com",
+                "www.theloadout.com"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/pba\\.gif",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "c"
+            ],
+            "apis": {},
+            "sites": 25,
+            "prevalence": 0.00251,
+            "cnames": [],
+            "responseHashes": [
+                "77b1d2c0857d4e95d4c2ae7aa0abc5aaafa6bd4581b31203d1592759c26f5c44"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.0012059089538739825
+            },
+            "exampleSites": [
+                "screenrant.com",
+                "www.howtogeek.com",
+                "www.makeuseof.com",
+                "westeros.org",
+                "www.sportingnews.com",
+                "www.pocket-lint.com",
+                "movieweb.com",
+                "files.minecraftforge.net",
+                "en.uesp.net",
+                "www.dualshockers.com",
+                "www.enotes.com",
+                "www.topspeed.com",
+                "socialblade.com",
+                "www.nba.com",
+                "gamerant.com",
+                "collider.com",
+                "www.hotcars.com",
+                "www.androidpolice.com",
+                "www.asahi.com",
+                "www.xda-developers.com"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/setuid",
+            "cookies": 0.00432,
+            "fingerprinting": 0,
+            "subdomains": [
+                "u"
+            ],
+            "apis": {},
+            "sites": 47,
+            "prevalence": 0.00472,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "coinmarketcap.com",
+                "dictionary.reverso.net",
+                "forums.sufficientvelocity.com",
+                "www.jetpunk.com",
+                "www.wordhippo.com",
+                "wafflegame.net",
+                "www.enotes.com",
+                "www.expertreviews.co.uk",
+                "www.advrider.com",
+                "www.kyivpost.com",
+                "en.uesp.net",
+                "www.slotforum.com",
+                "devicetests.com",
+                "forums.golfwrx.com",
+                "oldschool.tools",
+                "www.mtggoldfish.com",
+                "www.thingiverse.com",
+                "www.planetminecraft.com",
+                "www.sportingnews.com",
+                "www.light.gg"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/bids\\.gif",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "c"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "devicetests.com",
+                "www.notebookcheck.net"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/avw\\.gif",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "c"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_li_dcdm_c": 0.00010049241282283188,
+                "lotame_domain_check": 0.00010049241282283188
+            },
+            "exampleSites": [
+                "weblio.jp",
+                "ejje.weblio.jp",
+                "www.organicfacts.net",
+                "www.yardbarker.com"
+            ]
+        },
+        {
+            "rule": "4dex\\.io\\/avw\\.gif",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "c"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Ping",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_li_dcdm_c": 0.00020098482564566376,
+                "lotame_domain_check": 0.00020098482564566376
+            },
+            "exampleSites": [
+                "yardbarker.com",
+                "www.yardbarker.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.0149,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.17958783120706576
+        },
+        {
+            "domain": "lngtdv.com",
+            "prevalence": 0.09028459273797841
+        },
+        {
+            "domain": "script.ac",
+            "prevalence": 0.08243375858684986
+        },
+        {
+            "domain": "vntsm.com",
+            "prevalence": 0.07065750736015702
+        },
+        {
+            "domain": "pubmatic.com",
+            "prevalence": 0.06771344455348381
+        },
+        {
+            "domain": "smartadserver.com",
+            "prevalence": 0.052011776251226695
+        },
+        {
+            "domain": "snigelweb.com",
+            "prevalence": 0.050049067713444556
+        },
+        {
+            "domain": "htplayground.com",
+            "prevalence": 0.04808635917566242
+        },
+        {
+            "domain": "d25lqe4mlyaln6.cloudfront.net",
+            "prevalence": 0.03434739941118744
+        },
+        {
+            "domain": "dsh7ky7308k4b.cloudfront.net",
+            "prevalence": 0.03042198233562316
+        }
+    ],
+    "types": {
+        "Script": 245,
+        "Fetch": 322,
+        "Image": 93,
+        "XHR": 126,
+        "Document": 47,
+        "Ping": 2
+    },
+    "nameservers": [
+        "bart.ns.cloudflare.com",
+        "roxy.ns.cloudflare.com"
+    ]
+}

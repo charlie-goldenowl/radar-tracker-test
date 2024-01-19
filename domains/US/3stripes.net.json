@@ -1,0 +1,234 @@
+{
+    "domain": "3stripes.net",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-US"
+    ],
+    "prevalence": 0.000068,
+    "sites": 10,
+    "subdomains": [
+        "translations.glass"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "3stripes\\.net\\/api\\/projects\\/glass\\/namespaces\\/adidas\\/translations\\/en_US\\/keys",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "translations.glass"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "9c4c45db50aea44c0d68fb70f7d9bb2f91c51bb4f8d924f0b821e880b9f1638f"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adidas.com",
+                "www.adidas.com"
+            ]
+        },
+        {
+            "rule": "3stripes\\.net\\/api\\/projects\\/welcome-flow\\/namespaces\\/default\\/translations\\/en_US\\/keys",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "translations.glass"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "1b5d3b95f43022b91eee8cecd30c5b64d0082ae9463549b25dc385bd6c56f5e8"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adidas.com",
+                "www.adidas.com"
+            ]
+        },
+        {
+            "rule": "3stripes\\.net\\/api\\/projects\\/glass\\/namespaces\\/adidas\\/translations\\/en_CA\\/keys",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "translations.glass"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "b263984f3672ebf9db4769a6a38a1d966298d81a1b04ce2d257ed7f3b4bdc4cd"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adidas.ca",
+                "www.adidas.ca"
+            ]
+        },
+        {
+            "rule": "3stripes\\.net\\/api\\/projects\\/glass\\/namespaces\\/adidas\\/translations\\/en_GB\\/keys",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "translations.glass"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "573d9d26b0f3ad07cf0098c785e7ae112077609d55c9c2d4721f404ac7006e93"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adidas.co.uk",
+                "www.adidas.co.uk"
+            ]
+        },
+        {
+            "rule": "3stripes\\.net\\/api\\/projects\\/glass\\/namespaces\\/adidas\\/translations\\/en_AU\\/keys",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "translations.glass"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "49a2301bb26273270efd3375cba0e22661531567482ef06a75c64722e56a0fb3"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adidas.com.au",
+                "www.adidas.com.au"
+            ]
+        },
+        {
+            "rule": "3stripes\\.net\\/api\\/projects\\/glass\\/namespaces\\/adidas\\/translations\\/de_DE\\/keys",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "translations.glass"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "498c669e4da1659aeb368c5569f7cf054952d21bf27e9ac3b3e596a60a1bac46"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adidas.de",
+                "www.adidas.de"
+            ]
+        },
+        {
+            "rule": "3stripes\\.net\\/api\\/projects\\/glass\\/namespaces\\/adidas\\/translations\\/es_ES\\/keys",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "translations.glass"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "522e505d8942bae95637946b292aa40743b969e368f86bdd501a843d15dc6370"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adidas.es",
+                "www.adidas.es"
+            ]
+        },
+        {
+            "rule": "3stripes\\.net\\/api\\/projects\\/glass\\/namespaces\\/adidas\\/translations\\/fr_FR\\/keys",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "translations.glass"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "1b26b4870afe6fb17cb69125802de3ba1c96e6c55fcb34af675230e83767ffa8"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adidas.fr",
+                "www.adidas.fr"
+            ]
+        },
+        {
+            "rule": "3stripes\\.net\\/api\\/projects\\/glass\\/namespaces\\/adidas\\/translations\\/nl_NL\\/keys",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "translations.glass"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "f0a9b676b2c0dab5709d673413a159b8726e4dabf874db8c85d52c002ff88ea7"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adidas.nl",
+                "www.adidas.nl"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "instana.io",
+            "prevalence": 0.9318181818181818
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.06818181818181818
+        }
+    ],
+    "types": {
+        "XHR": 18
+    },
+    "nameservers": [
+        "udns2.cscdns.uk",
+        "udns1.cscdns.net"
+    ]
+}

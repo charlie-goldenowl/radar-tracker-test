@@ -1,0 +1,335 @@
+{
+    "domain": "a-mo.net",
+    "owner": {
+        "name": "Monet Engine Inc.",
+        "displayName": "Monet Engine"
+    },
+    "source": [
+        "DuckDuckGo-NO"
+    ],
+    "prevalence": 0.0129,
+    "sites": 128,
+    "subdomains": [
+        "prebid",
+        "1x1"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "a-mo\\.net\\/a\\/c",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 41,
+            "prevalence": 0.00413,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.howtogeek.com",
+                "www.makeuseof.com",
+                "movieweb.com",
+                "www.pocket-lint.com",
+                "www.topspeed.com",
+                "endante.com",
+                "www.hotcars.com",
+                "www.gbmb.org",
+                "10minutemail.com",
+                "www.allclash.com",
+                "simpleflying.com",
+                "www.photrio.com",
+                "ww3.readjujutsukaisen.com",
+                "www.puzzle-nonograms.com",
+                "nameberry.com",
+                "www.postgresqltutorial.com",
+                "theitbros.com",
+                "itexamanswers.net",
+                "www.thethings.com",
+                "www.showmyip.com"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/cchain\\/0",
+            "cookies": 0.00191,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.00191,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "instUid": 0.00010067451927917044
+            },
+            "exampleSites": [
+                "9to5mac.com",
+                "cineuropa.org",
+                "dermnetnz.org",
+                "electrek.co",
+                "forums.tomsguide.com",
+                "holdtoreset.com",
+                "rapidsave.com",
+                "savelocation.net",
+                "tunebat.com",
+                "www.charlieintel.com",
+                "www.delftstack.com",
+                "www.dexerto.com",
+                "www.drugs.com",
+                "www.duplichecker.com",
+                "www.independent.co.uk",
+                "www.picuki.com",
+                "www.powerpyx.com",
+                "www.thegearpage.net",
+                "www.tutorialspoint.com"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/a\\/c",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 54,
+            "prevalence": 0.00544,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.timesofisrael.com",
+                "www.metasrc.com",
+                "pokemonshowdown.com",
+                "picuki.me",
+                "steptodown.com",
+                "www.mangaread.org",
+                "www.xboxachievements.com",
+                "www.gtainside.com",
+                "www.planetminecraft.com",
+                "www.littletinythings.com",
+                "www.systemrequirementslab.com",
+                "www.delftstack.com",
+                "www.picuki.com",
+                "www.mobafire.com",
+                "ww1.jujustukaisen.com",
+                "www.duplichecker.com",
+                "www.mtggoldfish.com",
+                "www.theloadout.com",
+                "fortnite.gg",
+                "www.zockify.com"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/cchain\\/0",
+            "cookies": 0.00342,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 34,
+            "prevalence": 0.00342,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "coinmarketcap.com",
+                "cplusplus.com",
+                "insideevs.com",
+                "wzstats.gg",
+                "www.delftstack.com",
+                "www.onlinegdb.com",
+                "road.cc",
+                "fortnite.gg",
+                "www.motor1.com",
+                "pokemondb.net",
+                "sinfest.xyz",
+                "ridermagazine.com",
+                "www.rpgsite.net",
+                "riptutorial.com",
+                "www.gearrice.com",
+                "www.playstationtrophies.org",
+                "www.xboxachievements.com",
+                "linuxhandbook.com",
+                "www.behindthename.com",
+                "pythonexamples.org"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/isyn",
+            "cookies": 0.00423,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 42,
+            "prevalence": 0.00423,
+            "cnames": [],
+            "responseHashes": [
+                "07f643335a154089774d8ed73464b4bf3e17d4075c6c3d914bf39918265150d7"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.howtogeek.com",
+                "www.makeuseof.com",
+                "linux.how2shout.com",
+                "rapidsave.com",
+                "ezgif.com",
+                "www.picuki.com",
+                "www.gearrice.com",
+                "ridermagazine.com",
+                "www.duplichecker.com",
+                "www.linuxfordevices.com",
+                "www.topspeed.com",
+                "www.thesportster.com",
+                "steptodown.com",
+                "www.thethings.com",
+                "www.photrio.com",
+                "www.delftstack.com",
+                "asiatimes.com",
+                "www.behindthename.com",
+                "www.showmyip.com",
+                "www.picresize.com"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/hbx\\/g_pbto",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "1x1"
+            ],
+            "apis": {},
+            "sites": 12,
+            "prevalence": 0.00121,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ets2.lt",
+                "ezgif.com",
+                "godeacs.com",
+                "linux.how2shout.com",
+                "sharemods.com",
+                "steptodown.com",
+                "www.androidpolice.com",
+                "www.cfwaifu.com",
+                "www.gtainside.com",
+                "www.moddb.com",
+                "www.photrio.com",
+                "www.showmyip.com"
+            ]
+        },
+        {
+            "rule": "a-mo\\.net\\/setuid\\/magnite",
+            "cookies": 0.000503,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prebid"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000503,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "__cmpconsentx54111": 0.00010067451927917044
+            },
+            "exampleSites": [
+                "thecinemaholic.com",
+                "www.dagens.no",
+                "www.digminecraft.com",
+                "www.strategypage.com",
+                "www.techonthenet.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00836,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.2084507042253521
+        },
+        {
+            "domain": "vntsm.com",
+            "prevalence": 0.12394366197183099
+        },
+        {
+            "domain": "saambaa.com",
+            "prevalence": 0.10422535211267606
+        },
+        {
+            "domain": "vlitag.com",
+            "prevalence": 0.07323943661971831
+        },
+        {
+            "domain": "stpd.cloud",
+            "prevalence": 0.07042253521126761
+        },
+        {
+            "domain": "servenobid.com",
+            "prevalence": 0.056338028169014086
+        },
+        {
+            "domain": "nextmillmedia.com",
+            "prevalence": 0.04225352112676056
+        },
+        {
+            "domain": "adpushup.com",
+            "prevalence": 0.04225352112676056
+        },
+        {
+            "domain": "h12-media.com",
+            "prevalence": 0.036619718309859155
+        },
+        {
+            "domain": "the-ozone-project.com",
+            "prevalence": 0.02535211267605634
+        }
+    ],
+    "types": {
+        "Fetch": 41,
+        "Document": 61,
+        "XHR": 54,
+        "Image": 51
+    },
+    "nameservers": [
+        "ns-936.awsdns-53.net",
+        "ns-1907.awsdns-46.co.uk",
+        "ns-1313.awsdns-36.org",
+        "ns-243.awsdns-30.com"
+    ]
+}

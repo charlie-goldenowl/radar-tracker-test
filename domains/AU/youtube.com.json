@@ -1,0 +1,4654 @@
+{
+    "domain": "youtube.com",
+    "owner": {
+        "name": "Google LLC",
+        "displayName": "Google",
+        "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+        "url": "http://google.com"
+    },
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.0717,
+    "sites": 713,
+    "subdomains": [
+        "www",
+        "fcmatch",
+        "img"
+    ],
+    "cnames": [],
+    "fingerprinting": 3,
+    "resources": [
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/www-player\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 307,
+            "prevalence": 0.0309,
+            "cnames": [],
+            "responseHashes": [
+                "af17d4cff542b33c97ee3a95f82a21d8993c87fd3472dff534fa855828a3b615",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "idioms.thefreedictionary.com",
+                "www.irs.gov",
+                "www.thefreedictionary.com",
+                "macaro-ni.jp",
+                "www.bikebug.com",
+                "moulinrougemusical.com",
+                "callofduty.fandom.com",
+                "www.loungelovers.com.au",
+                "campion.com.au",
+                "evernote.com",
+                "www.conceptmusic.com.au",
+                "store.independenceaustralia.com",
+                "www.dndbeyond.com",
+                "www.strikebowling.com.au",
+                "robbreport.com",
+                "www.craftofexile.com",
+                "www.bluedm.com.au",
+                "www.stereophile.com",
+                "www.allfasteners.com.au",
+                "www.doterra.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/player_ias\\.vflset\\/en_GB\\/embed\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 304,
+            "prevalence": 0.0305,
+            "cnames": [],
+            "responseHashes": [
+                "ecd5f8ac7476beff5f3b9727291ad577e8ffc74b5013827c855ade5cc90b4f3f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "idioms.thefreedictionary.com",
+                "www.irs.gov",
+                "www.thefreedictionary.com",
+                "www.mutualart.com",
+                "www.classification.gov.au",
+                "americansongwriter.com",
+                "www.gamersdecide.com",
+                "www.alzheimers.org.uk",
+                "autoexpert.com.au",
+                "www.dndbeyond.com",
+                "www.bounceinc.com.au",
+                "esta.cbp.dhs.gov",
+                "www.seagate.com",
+                "cuisinart.com.au",
+                "i-build.com.au",
+                "www.edconsteel.com.au",
+                "answersingenesis.org",
+                "robbreport.com",
+                "www.lakemac.com.au",
+                "www.belfieldmusic.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/www-embed-player\\.vflset\\/www-embed-player\\.js",
+            "cookies": 0.0304,
+            "fingerprinting": 3,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 304,
+                "Date.prototype.getTime": 304,
+                "Document.cookie getter": 303,
+                "PerformanceTiming.prototype.navigationStart": 301,
+                "window.localStorage": 303,
+                "window.indexedDB": 303,
+                "Navigator.prototype.onLine": 301,
+                "Document.cookie setter": 303,
+                "window.devicePixelRatio": 301,
+                "Date.prototype.getTimezoneOffset": 301,
+                "Intl.DateTimeFormat.prototype.resolvedOptions": 301,
+                "Screen.prototype.height": 301,
+                "Screen.prototype.width": 301,
+                "Screen.prototype.availHeight": 301,
+                "Screen.prototype.availWidth": 301,
+                "Screen.prototype.colorDepth": 301,
+                "window.screenX": 301,
+                "window.screenY": 301,
+                "window.outerWidth": 301,
+                "window.outerHeight": 301,
+                "window.innerWidth": 301,
+                "window.innerHeight": 301,
+                "window.screenLeft": 301,
+                "window.screenTop": 301,
+                "Screen.prototype.availTop": 301,
+                "Navigator.prototype.connection": 292,
+                "Navigator.prototype.vendor": 2
+            },
+            "sites": 307,
+            "prevalence": 0.0309,
+            "cnames": [],
+            "responseHashes": [
+                "d854531f9c3833536d6971b4fd7617dafe1a2c6fd0bbed9469122e73ff3b13a1",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "idioms.thefreedictionary.com",
+                "www.irs.gov",
+                "www.thefreedictionary.com",
+                "www.bluedm.com.au",
+                "i-build.com.au",
+                "www.flaru.com",
+                "www.nationalpharmacies.com.au",
+                "www.securitywholesalers.com.au",
+                "science.nasa.gov",
+                "www.transhub.org.au",
+                "www.goldbullionaustralia.com.au",
+                "www.anglerswarehouse.com.au",
+                "www.bbqspitrotisseries.com.au",
+                "www.australiannationalreview.com",
+                "www.heritage.com.au",
+                "leatherman.com.au",
+                "www.sydneywater.com.au",
+                "www.conceptmusic.com.au",
+                "www.mater.org.au",
+                "lawandcrime.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/player_ias\\.vflset\\/en_GB\\/base\\.js",
+            "cookies": 0.0302,
+            "fingerprinting": 3,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 301,
+                "Date.prototype.getTime": 301,
+                "Navigator.prototype.mediaCapabilities": 296,
+                "Navigator.prototype.cookieEnabled": 300,
+                "Document.cookie getter": 301,
+                "Document.cookie setter": 301,
+                "window.localStorage": 301,
+                "window.sessionStorage": 300,
+                "window.innerWidth": 301,
+                "window.innerHeight": 301,
+                "window.devicePixelRatio": 301,
+                "Navigator.prototype.connection": 301,
+                "Navigator.prototype.getBattery": 297,
+                "MediaSource.isTypeSupported": 300,
+                "HTMLCanvasElement.prototype.toDataURL": 268,
+                "Date.prototype.getTimezoneOffset": 74,
+                "Intl.DateTimeFormat.prototype.resolvedOptions": 74,
+                "Screen.prototype.height": 74,
+                "Screen.prototype.width": 74,
+                "Screen.prototype.availHeight": 74,
+                "Screen.prototype.availWidth": 74,
+                "Screen.prototype.colorDepth": 74,
+                "window.screenX": 74,
+                "window.screenY": 77,
+                "window.outerWidth": 74,
+                "window.outerHeight": 76,
+                "window.screenLeft": 75,
+                "window.screenTop": 74,
+                "Screen.prototype.availTop": 74,
+                "Event.prototype.timeStamp": 37,
+                "window.matchMedia(\"prefers-color-scheme\")": 34,
+                "Navigator.prototype.hardwareConcurrency": 30,
+                "URL.createObjectURL": 34,
+                "PerformanceTiming.prototype.navigationStart": 29,
+                "Navigator.prototype.plugins": 1,
+                "Navigator.prototype.language": 1,
+                "WebGLRenderingContext.prototype.getExtension": 3,
+                "WebGLRenderingContext.prototype.getParameter": 3,
+                "Navigator.prototype.mimeTypes": 1,
+                "HTMLMediaElement.prototype.canPlayType": 2,
+                "Navigator.prototype.languages": 1,
+                "window.name": 11,
+                "Navigator.prototype.vendor": 9,
+                "Navigator.prototype.webkitTemporaryStorage": 3,
+                "Navigator.prototype.webkitPersistentStorage": 1,
+                "Navigator.prototype.appVersion": 1,
+                "Navigator.prototype.vendorSub": 1,
+                "Navigator.prototype.onLine": 1,
+                "Navigator.prototype.appCodeName": 2,
+                "Navigator.prototype.permissions": 1,
+                "Navigator.prototype.maxTouchPoints": 1
+            },
+            "sites": 305,
+            "prevalence": 0.0307,
+            "cnames": [],
+            "responseHashes": [
+                "6eacb20de3f229bd4ce37b7a225647fed4dbd508514e37b000e39f5d0a6a9487",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "TESTCOOKIESENABLED": {
+                    "ttl": 68,
+                    "length": 1,
+                    "prevalence": 0.030147723846849564,
+                    "uniqueness": 0.0033333333333333335
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "idioms.thefreedictionary.com",
+                "www.irs.gov",
+                "www.thefreedictionary.com",
+                "www.edconsteel.com.au",
+                "www.nylex.com.au",
+                "www.raineandhorne.com.au",
+                "www.iihf.com",
+                "raspberry.piaustralia.com.au",
+                "www.blueletterbible.org",
+                "cairnsnews.org",
+                "botanex.com.au",
+                "www.oakshotels.com",
+                "www.thefirearmblog.com",
+                "www.mackay.qld.gov.au",
+                "www.michaelsmithnews.com",
+                "higginsstormchasing.com",
+                "simplicity.com",
+                "monsterhunterworld.wiki.fextralife.com",
+                "assettomods.com",
+                "robots.net"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/player_ias\\.vflset\\/en_GB\\/remote\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 269,
+            "prevalence": 0.027,
+            "cnames": [],
+            "responseHashes": [
+                "feef510b7834ca72eb33e765be6385e0dc8d24a8bb5f5c946b8c8ecd22901577",
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "idioms.thefreedictionary.com",
+                "www.irs.gov",
+                "www.thefreedictionary.com",
+                "bedsrus.com.au",
+                "www.coastrv.com.au",
+                "raider.io",
+                "robots.net",
+                "aware.com.au",
+                "www.loungelovers.com.au",
+                "pokemondb.net",
+                "www.belldirect.com.au",
+                "deepwoken.fandom.com",
+                "en-au.sennheiser.com",
+                "www.belfieldmusic.com.au",
+                "www.nationalgeographic.org",
+                "www.lloydsauctions.com.au",
+                "www.nuclearforaustralia.com",
+                "www.bobjane.com.au",
+                "www.leaseplan.com.au",
+                "www.airservicesaustralia.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/generate_204",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 296,
+            "prevalence": 0.0297,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "idioms.thefreedictionary.com",
+                "www.irs.gov",
+                "www.thefreedictionary.com",
+                "bespokeunit.com",
+                "fishingmad.com.au",
+                "www.awo.com.au",
+                "vtac.edu.au",
+                "deadbydaylight.fandom.com",
+                "assettomods.com",
+                "www.newscientist.com",
+                "www.qrida.qld.gov.au",
+                "www.ukrinform.net",
+                "esta.cbp.dhs.gov",
+                "www.basketball-reference.com",
+                "www.concertarchives.org",
+                "pokemonshowdown.com",
+                "www.blueletterbible.org",
+                "dfes.wa.gov.au",
+                "www.soundandvision.com",
+                "www.mysailing.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/youtubei\\/v1\\/log_event",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 302,
+            "prevalence": 0.0303,
+            "cnames": [],
+            "responseHashes": [
+                "d7d5e54ad1e33d7ab49c664323ced79cb9723ff15e9764cd0edc3e15208e8336"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "idioms.thefreedictionary.com",
+                "www.irs.gov",
+                "www.thefreedictionary.com",
+                "www.doorsplus.com.au",
+                "www.michelin.com.au",
+                "forum.corsair.com",
+                "www.paulcarroll.com.au",
+                "australianfootball.com",
+                "www.michaelsmithnews.com",
+                "callofduty.fandom.com",
+                "www.sydneynewyearseve.com",
+                "www.curtin.edu.au",
+                "www.blueletterbible.org",
+                "www.allfasteners.com.au",
+                "www.cityofpae.sa.gov.au",
+                "radiopaedia.org",
+                "www.picturestore.com.au",
+                "assettomods.com",
+                "renew.org.au",
+                "www.trekbikes.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/subscribe_embed",
+            "cookies": 0.00171,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 18,
+            "prevalence": 0.00181,
+            "cnames": [],
+            "responseHashes": [
+                "a4cb068b0bc53debdedc2fcd96f054d4d9f3b4b24090de1d77562173cd55fcb6",
+                "e3e5f29f1535770309f87390d646a6e8704921fe8d19f4a79919501652f68f58",
+                "7109550ce25bb84b28fd90c707adec272b8459806f66c814ad8f3feb61d30439",
+                "b00045b5b911c37473c6fc29c7b00490e2c1e418c6f9da9ad19b3d4f249e3ccf",
+                "ca8bf09613c38310cd43efcbeb7ecb3e73b504c63586ab69b44f009931165281",
+                "e52d2b75e040a4d1411d051cde34fee5cd00e717a714bc3f3aad58e138549880",
+                "1002046ae9e9b14a69373fe4661d2d750bd50336b471466fb0e7bc9da158229e",
+                "fa60609c8c0a2eca378b0eca60131be6bfbb2cd4dad2320383309fc953aa1406",
+                "aef30606b3f2fab4cf3736f231b3799d621bcfcbf42694c296de106c3f14ca8a",
+                "15aa7676ab7faf0cec9100387fbbfae764e597aef9e899420f300a836d857461",
+                "18e2e846c969a40eacd516f677de486445cce0f41296a8302d9c7ada4a161a2d",
+                "5affcab13335f5c26e4aaeae1103d18fdea596ff67f263461f486f74239880ac",
+                "4afc41a959f23513b758015e1ad3fc062c098252c921f04d4fd3320c637ef908",
+                "badf012b7e7bd7f9d19bb1a61788f143e765c3393523358d28231e1da8dd0a14",
+                "69c847389bb4bde16c2d2002af97f221dc4f138d1075a29eb1cb957992abf77b",
+                "323f751bcabb46c89f3ad27ac3d677bdd444bd881b140f8c14e16aa170b0a975"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "IR_gbd": 0.00010049241282283188,
+                "lotame_domain_check": 0.00020098482564566376
+            },
+            "exampleSites": [
+                "acmods.net",
+                "flowmountainbike.com",
+                "goodmenproject.com",
+                "michaelwest.com.au",
+                "mymodernmet.com",
+                "ultimateclassicrock.com",
+                "www.asgoodasgoldaus.com.au",
+                "www.carls-sims-4-guide.com",
+                "www.gamerguides.com",
+                "www.marketwatch.com",
+                "www.nationalparks.nsw.gov.au",
+                "www.neowin.net",
+                "www.scamadviser.com",
+                "www.sony.com.au",
+                "www.thefirearmblog.com",
+                "www.uploadvr.com",
+                "www.vlchelp.com",
+                "www.xxlmag.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/subscriptions\\/subscribe_embed\\/css\\/www-subscribe-embed_split_v0\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 18,
+            "prevalence": 0.00181,
+            "cnames": [],
+            "responseHashes": [
+                "9325cb86c14e757a3266ab710efa8294b3cd00403310dfe09e6f561f7c94b438"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "acmods.net",
+                "flowmountainbike.com",
+                "goodmenproject.com",
+                "michaelwest.com.au",
+                "mymodernmet.com",
+                "ultimateclassicrock.com",
+                "www.asgoodasgoldaus.com.au",
+                "www.carls-sims-4-guide.com",
+                "www.gamerguides.com",
+                "www.marketwatch.com",
+                "www.nationalparks.nsw.gov.au",
+                "www.neowin.net",
+                "www.scamadviser.com",
+                "www.sony.com.au",
+                "www.thefirearmblog.com",
+                "www.uploadvr.com",
+                "www.vlchelp.com",
+                "www.xxlmag.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/subscriptions\\/subscribe_embed\\/js\\/www-subscribe-embed_v0\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 18,
+                "Date.prototype.getTime": 18,
+                "PerformanceTiming.prototype.navigationStart": 16
+            },
+            "sites": 18,
+            "prevalence": 0.00181,
+            "cnames": [],
+            "responseHashes": [
+                "35196923692f06f97491caf22422cce4b612d5ef07c51842ca94a088b15456e2"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "acmods.net",
+                "flowmountainbike.com",
+                "goodmenproject.com",
+                "michaelwest.com.au",
+                "mymodernmet.com",
+                "ultimateclassicrock.com",
+                "www.asgoodasgoldaus.com.au",
+                "www.carls-sims-4-guide.com",
+                "www.gamerguides.com",
+                "www.marketwatch.com",
+                "www.nationalparks.nsw.gov.au",
+                "www.neowin.net",
+                "www.scamadviser.com",
+                "www.sony.com.au",
+                "www.thefirearmblog.com",
+                "www.uploadvr.com",
+                "www.vlchelp.com",
+                "www.xxlmag.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/subscriptions\\/subscribe_embed\\/img\\/subscribe_button_branded_lozenge\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 15,
+            "prevalence": 0.00151,
+            "cnames": [],
+            "responseHashes": [
+                "7b7b99efbfdd90559d144d380682e6c8f653d5301a5ed524654e6747ad7b6cc4"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "acmods.net",
+                "flowmountainbike.com",
+                "goodmenproject.com",
+                "michaelwest.com.au",
+                "ultimateclassicrock.com",
+                "www.asgoodasgoldaus.com.au",
+                "www.carls-sims-4-guide.com",
+                "www.gamerguides.com",
+                "www.marketwatch.com",
+                "www.nationalparks.nsw.gov.au",
+                "www.neowin.net",
+                "www.scamadviser.com",
+                "www.sony.com.au",
+                "www.vlchelp.com",
+                "www.xxlmag.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/subscriptions\\/subscribe_embed\\/css\\/www-subscribe-embed-card_v0\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 13,
+            "prevalence": 0.00131,
+            "cnames": [],
+            "responseHashes": [
+                "fff7b5b76321e4080e4cf8a5b312d74a943b7ebc2aec9081ac7e17458123fcb2"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "acmods.net",
+                "flowmountainbike.com",
+                "michaelwest.com.au",
+                "mymodernmet.com",
+                "www.asgoodasgoldaus.com.au",
+                "www.carls-sims-4-guide.com",
+                "www.gamerguides.com",
+                "www.marketwatch.com",
+                "www.nationalparks.nsw.gov.au",
+                "www.neowin.net",
+                "www.scamadviser.com",
+                "www.thefirearmblog.com",
+                "www.vlchelp.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/subscriptions\\/subscribe_embed\\/js\\/www-subscribe-embed-card_v0\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 11,
+                "Date.prototype.getTime": 12,
+                "PerformanceTiming.prototype.navigationStart": 11
+            },
+            "sites": 13,
+            "prevalence": 0.00131,
+            "cnames": [],
+            "responseHashes": [
+                "1485460341dd7acce60bbff4b235101869025328e39f205fea7c0ea0f4b23ac6"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "acmods.net",
+                "flowmountainbike.com",
+                "michaelwest.com.au",
+                "mymodernmet.com",
+                "www.asgoodasgoldaus.com.au",
+                "www.carls-sims-4-guide.com",
+                "www.gamerguides.com",
+                "www.marketwatch.com",
+                "www.nationalparks.nsw.gov.au",
+                "www.neowin.net",
+                "www.scamadviser.com",
+                "www.thefirearmblog.com",
+                "www.vlchelp.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/iframe_api",
+            "cookies": 0.04,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 403,
+            "prevalence": 0.0405,
+            "cnames": [],
+            "responseHashes": [
+                "7ac9f0e85d1ed4d4ccf7a151ec6b9b80f89baa745841db8efd82713671ff5ab8"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "techcrunch.com",
+                "www.irs.gov",
+                "www.uploadvr.com",
+                "www.goindigo.in",
+                "www.ynetnews.com",
+                "www.crucial.com",
+                "www.securitywholesalers.com.au",
+                "howchoo.com",
+                "www.riotgames.com",
+                "www.nikonusa.com",
+                "thechampagnemile.com.au",
+                "daiwafishing.com.au",
+                "bespokeunit.com",
+                "www.solaredge.com",
+                "www.mca.com.au",
+                "www.ehealth.nsw.gov.au",
+                "www.isuzuute.com.au",
+                "kb.synology.com",
+                "www.newcastle.edu.au",
+                "edhrec.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/www-widgetapi\\.vflset\\/www-widgetapi\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 437,
+                "Date.prototype.getTime": 437,
+                "PerformanceTiming.prototype.navigationStart": 436,
+                "Event.prototype.timeStamp": 123
+            },
+            "sites": 440,
+            "prevalence": 0.0442,
+            "cnames": [],
+            "responseHashes": [
+                "5a0e2b951191e60b6c3905118d84d9a95a309d355c4eb71dfead2ae2866683ee"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "techcrunch.com",
+                "www.irs.gov",
+                "www.maxxia.com.au",
+                "www.murrays.com.au",
+                "www.ibanez.com",
+                "soundcentre.com.au",
+                "www.gty.org",
+                "www.rockstargames.com",
+                "www.tmz.com",
+                "www.perthfestival.com.au",
+                "www.riotinto.com",
+                "www.oup.com.au",
+                "www.automateexcel.com",
+                "www.tcl.com",
+                "www.msi.com",
+                "www.snowys.com.au",
+                "www.japanrailpass.com.au",
+                "www.orbitfitness.com.au",
+                "www.amplifon.com",
+                "bespokeunit.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/api\\/stats\\/atr",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 35,
+            "prevalence": 0.00352,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_hjTLDTest": 0.00020098482564566376
+            },
+            "exampleSites": [
+                "www.strikebowling.com.au",
+                "www.doorsplus.com.au",
+                "www.regentcinemas.com.au",
+                "raspberry.piaustralia.com.au",
+                "oreillys.com.au",
+                "bedsrus.com.au",
+                "www.zonebowling.com",
+                "poolandspawarehouse.com.au",
+                "www.mindtools.com",
+                "www.goodyear.com.au",
+                "www.newcastle.edu.au",
+                "www.police.sa.gov.au",
+                "assettomods.com",
+                "visitmandurah.com",
+                "www.adfcareers.gov.au",
+                "www.springers.com.au",
+                "www.studyaustralia.gov.au",
+                "www.westernsydney.edu.au",
+                "robbreport.com",
+                "www.newscientist.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/k2DpzGyHpSU",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6946d70a557761c885a3982e7dc6eb9b4aee8be8e05a76f5e54741d2992d1842"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sika.com",
+                "aus.sika.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/youtubei\\/v1\\/player",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 30,
+            "prevalence": 0.00301,
+            "cnames": [],
+            "responseHashes": [
+                "cac5d5fa3ba6fbfd8b98d8f5dfafa9e091b9d7e85735b7570e2c9f8ce9875263",
+                "2d9850d68bf207e8e972d6177f94b9808794cd83497c790d4095655c759260ca",
+                "5e3d03d36a7a396e9898de45c2ac493cc36b409529a5eac3e2f650f08df31bd4",
+                "69ea4eb769da947738556a4791343a50d96af82b871a058319a31159d7c0e886",
+                "bca4792dd9b0f97f1d8e233a5e011334b3ae1c3f6638a5c6c811fb1dee7f814d",
+                "0308e6b2a4dd5aa3c3de3cf85be56d44ba89e7a4fc451cfecc48a7af49a943ba",
+                "ec5bf30bcd973e8b71290ba6527f913948a8006bfb53774cfcd5b4384bb18107",
+                "03a393695792000926b963f06c221e041930be76ed8cb611d98eab2eaeabcf81",
+                "523c54675c2f766fab6993e7e47915a126472e460a2257260e16e46de91ea719",
+                "6a0894cafe771808d0a8178bd13fd8509f2b106620ac5c8564b5b99cdcfa3218",
+                "60f916d352523100f36e6f993e81da6f49bb70a2902c70308ac0d96b9044fb87",
+                "3e2df1c3544c343427ce5399c98e90cbeb3b6793ad28b0455e953d8c53c83fd9",
+                "73b7b48aec01e04a78472cc65f62d1e0e4b747fea81fc1a70ed9c4f5446adf75",
+                "66bef3cdfe9ab0ad1ef299ea79ccad1e050450eb7915d4832fc2886eeba5429f",
+                "4d847211ae084daa964d953ab63625a466eb49d6840a55f5ae29cb8881d6bfdc",
+                "d33eb56ca07169cae9cea787a4a2ac351e6bee5fecafc7273e4de0a88a22a1c7",
+                "b796926bb4e2575d5f72b52332d6dc683b82d74023c56661ad1398e36d7d7d36",
+                "e9153cef9920685fb08ecaed631097d24b843899ee43151b6881aca29f29bcf4",
+                "34d1cc5d70b7b03bb398b9686542f5eee91304a5b9757e4ffa5f6768fd7aa1cf",
+                "fd56cf962b32079b24d50fc523e88aa7688b239213dc3dcc8d9f2b37656a7d50",
+                "48d8ddb59dc9bd38c2825e3bf13d2c5dcc9de70553641d716479c6fc12e96bc4",
+                "b6afabb18927885187b7013d74a4dd726aeac92f4d1fa4d2312e1d5537c30ee5",
+                "44397caca70eac5eef4ff124874f2dc2c9ff23454e82ed7e70c7f847f3e713f6",
+                "047c582634429807ac98599f7a825916e449827facb3f48bf71567dfc5cc650c",
+                "efd10d4c0efd9b06f07124f08845019039cc2c89aba00aad259fc080330d10ca",
+                "d3e31a76a2612e2dd4dd0c632a4f783f0363152e5e17a2ddb22212f982ce80b5",
+                "d26a9928f5771a2ec591b18f25d371423e5e334e24c3e90d868ad698157b2da1",
+                "5e1181140763b86c5f481e84747453dc61f305c9eebf6130242ba5c2945e2a95",
+                "28e56155045ba2b018f0d98ffd36b38bb81622cbacbc95078aac9bb787544aa3"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "higginsstormchasing.com",
+                "royalenfield.com.au",
+                "oreillys.com.au",
+                "www.evergreentrees.com.au",
+                "www.adfcareers.gov.au",
+                "www.newcastle.edu.au",
+                "www.newscientist.com",
+                "lawandcrime.com",
+                "sugotoys.com.au",
+                "www.loungelovers.com.au",
+                "www.regentcinemas.com.au",
+                "www.zonebowling.com",
+                "poolandspawarehouse.com.au",
+                "gamma.app",
+                "www.allfasteners.com.au",
+                "www.securitywholesalers.com.au",
+                "www.i-screen.com.au",
+                "raspberry.piaustralia.com.au",
+                "cuisinart.com.au",
+                "www.strikebowling.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/api\\/stats\\/qoe",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 32,
+            "prevalence": 0.00322,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_hjTLDTest": 0.00010049241282283188
+            },
+            "exampleSites": [
+                "www.newcastle.edu.au",
+                "poolandspawarehouse.com.au",
+                "i-build.com.au",
+                "www.trekbikes.com",
+                "lawandcrime.com",
+                "sugotoys.com.au",
+                "www.i-screen.com.au",
+                "www.evergreentrees.com.au",
+                "aussiesoapsupplies.com.au",
+                "www.adfcareers.gov.au",
+                "www.weber.com",
+                "www.regentcinemas.com.au",
+                "eightify.app",
+                "www.allfasteners.com.au",
+                "www.securitywholesalers.com.au",
+                "www.citycave.com.au",
+                "higginsstormchasing.com",
+                "royalenfield.com.au",
+                "raspberry.piaustralia.com.au",
+                "oreillys.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/player_ias\\.vflset\\/en_GB\\/endscreen\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 29,
+            "prevalence": 0.00291,
+            "cnames": [],
+            "responseHashes": [
+                "1dbd896014a9fa67eedcb857654b6c9753ff0ba32eb85cc0be9b2dea8a205c44"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.strikebowling.com.au",
+                "www.citycave.com.au",
+                "raspberry.piaustralia.com.au",
+                "www.goodyear.com.au",
+                "www.adfcareers.gov.au",
+                "www.weber.com",
+                "www.evergreentrees.com.au",
+                "www.regentcinemas.com.au",
+                "www.newscientist.com",
+                "i-build.com.au",
+                "oreillys.com.au",
+                "www.i-screen.com.au",
+                "eightify.app",
+                "gerni.com.au",
+                "www.lunaparksydney.com",
+                "www.springers.com.au",
+                "robbreport.com",
+                "poolandspawarehouse.com.au",
+                "cuisinart.com.au",
+                "www.securitywholesalers.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/youtubei\\/v1\\/next",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 32,
+            "prevalence": 0.00322,
+            "cnames": [],
+            "responseHashes": [
+                "85b7441e5a394c9d9794b7e32e93fe2a3f05460a1afc72e12bed764e805693b3",
+                "b3e4a72dfb32484f9368f20ed4f052395d37b41e6d627f1b8d71a957374bf246",
+                "04bf2ce19c14469ecc870f82111aac1c6a6d0f0a7f29770d2753690f617737fa",
+                "84627ff3b9670c3ac9811b7b18e421071ec90406e0a67a824de23829fe3e1f0e",
+                "f4182797798676e46a234f64e4bacc157efa9b1504cdc9b50923fbbd21693024",
+                "0c9663f810745bff88551f772f2dd04c45a83bafb611eb55cd76524ec4d8776d",
+                "17a1da2110fb8b4c21911aed364adc3bf2b6f1b2b16284feeab381e2d14dbd41",
+                "c88b30b99f690fd1a651d04db44a84e488289a0792796de29b8d5851f2056f7b",
+                "ba593011d993a16439e8e3cdb43b4c9e770129c9a56d23bf55047124fea91048",
+                "6491883585a1ebdeda228c040fb94d49c62ebc52fc4c2bda2803bfbb26f2aab6",
+                "f9191cb6e4bac95066552a7cf3f4899351856ba6b3000ce4602f7f72c6400571",
+                "5fb8e9e2fc112070fc9608ffbe4f5fe3b004547cd3b625e1a8adce3899fca9d6",
+                "4b4427eb354f0b69629b8722f3e773f5aa70138f61a71188fbfeeb079a7b69ac",
+                "ee9e122a60ead11551156ee0fa0865a2e89680c8aca352eb81909f69693871dd",
+                "643d399678e021dbbe6de155158c82e049865819cac7fb1143ae2ffe5c15eceb",
+                "7709a162ceb28ff67296c052df1ec62dbdb36f6214186a78c5dfd298dcec71a3",
+                "5613c14b1366fb6b175720e1f4954b13906832c14b029e9808ff6569eac06a5c",
+                "68a71ebfd1941d3cae23c534771a9bbc80cae806bb341920c9fdabb88e319dbd",
+                "0e04dfece178c529e8243da31c98ab4b60a8a614e95fb961400538f809eb48c3",
+                "2382b821bab93f5b9759fe215388097d55fbd8872f0d1465dd364ad052c5e48b",
+                "c65b4d329ae10317feba82a2f248dd5a2064674dc23a0912978c2bcd63ad0295",
+                "47ddf57f707cdc52d65879b9c2e3bc86c528ea70e80acf308db6912f673bd5ab",
+                "127bd9d201e635bd515efbf77906364e711f6bdf879e6bfa80d4056887366f87",
+                "2505542ec670af88d22a986a8510dd1142e07e11d744169d944eb3f42fa78a22",
+                "028b134c0d18f416d4211a9395566b4a863b884611824f554d8ecf9e22391a72",
+                "657952fe7732af10fff518df388d1c9c54c52b701b3344f74775f9fb1b1abb62",
+                "c66382da35372c0a51fbf6052e975af796039b4ec6509194d8cdbbb3276f1ca8",
+                "64c3af34f77b838aa55a98582d47dd804517674a2a259bacbd0afd006fb3242b",
+                "3ea4383a2cbd714451f54fdb534256478c7e214616220a2a4d956bcd4a963464",
+                "9cfce135b245747e1e240b8cecf8b287965247f1e2c1d05d58dc73b416e5cba3",
+                "b73661f8fc788c5086900764f9618b9ae8f437ebd1b32e44585f106df816d79e"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gerni.com.au",
+                "www.allfasteners.com.au",
+                "www.springers.com.au",
+                "www.newcastle.edu.au",
+                "oreillys.com.au",
+                "royalenfield.com.au",
+                "www.goodyear.com.au",
+                "higginsstormchasing.com",
+                "www.loungelovers.com.au",
+                "eightify.app",
+                "www.adfcareers.gov.au",
+                "www.i-screen.com.au",
+                "cuisinart.com.au",
+                "www.lunaparksydney.com",
+                "i-build.com.au",
+                "www.weber.com",
+                "www.zonebowling.com",
+                "www.securitywholesalers.com.au",
+                "www.regentcinemas.com.au",
+                "lawandcrime.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/api\\/stats\\/playback",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 30,
+            "prevalence": 0.00301,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_hjTLDTest": 0.00010049241282283188
+            },
+            "exampleSites": [
+                "lawandcrime.com",
+                "higginsstormchasing.com",
+                "www.studyaustralia.gov.au",
+                "i-build.com.au",
+                "www.weber.com",
+                "www.allfasteners.com.au",
+                "www.springers.com.au",
+                "www.newscientist.com",
+                "www.i-screen.com.au",
+                "www.strikebowling.com.au",
+                "www.lunaparksydney.com",
+                "poolandspawarehouse.com.au",
+                "royalenfield.com.au",
+                "robbreport.com",
+                "www.goodyear.com.au",
+                "www.adfcareers.gov.au",
+                "www.newcastle.edu.au",
+                "sugotoys.com.au",
+                "www.securitywholesalers.com.au",
+                "aussiesoapsupplies.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/ptracking",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 30,
+            "prevalence": 0.00301,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "robbreport.com",
+                "oreillys.com.au",
+                "www.newscientist.com",
+                "poolandspawarehouse.com.au",
+                "gerni.com.au",
+                "cuisinart.com.au",
+                "www.i-screen.com.au",
+                "www.regentcinemas.com.au",
+                "i-build.com.au",
+                "lawandcrime.com",
+                "www.securitywholesalers.com.au",
+                "www.goodyear.com.au",
+                "www.strikebowling.com.au",
+                "eightify.app",
+                "www.newcastle.edu.au",
+                "www.citycave.com.au",
+                "www.springers.com.au",
+                "www.adfcareers.gov.au",
+                "www.allfasteners.com.au",
+                "www.weber.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/player_api",
+            "cookies": 0.00402,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 40,
+            "prevalence": 0.00402,
+            "cnames": [],
+            "responseHashes": [
+                "7ac9f0e85d1ed4d4ccf7a151ec6b9b80f89baa745841db8efd82713671ff5ab8"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.catholicweekly.com.au",
+                "www.sl.nsw.gov.au",
+                "ultimaker.com",
+                "www.royalcaribbean.com",
+                "www.revolveclothing.com.au",
+                "www.hobbysew.com.au",
+                "www.bhp.com",
+                "forums.terraria.org",
+                "bedbuyer.com.au",
+                "www.polymaster.com.au",
+                "www.latrobe.edu.au",
+                "www.electrickicks.com.au",
+                "www.selfwealth.com.au",
+                "www.michelin.com.au",
+                "www.regentcinemas.com.au",
+                "www.avid.com",
+                "deepmind.google",
+                "www.timezonegames.com",
+                "wwf.org.au",
+                "www.zingpopculture.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/watch",
+            "cookies": 0.000402,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Media",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "aussiebrewmakers.com.au",
+                "bedbuyer.com.au",
+                "cairnsnews.org",
+                "www.orpheum.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/pixel",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "fcmatch"
+            ],
+            "apis": {},
+            "sites": 29,
+            "prevalence": 0.00291,
+            "cnames": [],
+            "responseHashes": [
+                "071d0a5d172af491aedca9041f20e830d25fd4d339a1006bca3bed949069aa30"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "en.japantravel.com",
+                "www.flyscoot.com",
+                "login.mailchimp.com",
+                "www.dji.com",
+                "www.virginvoyages.com",
+                "www.metmuseum.org",
+                "www.worldnomads.com",
+                "cruiseline.com",
+                "www.qthotels.com",
+                "flights.rex.com.au",
+                "www.godaddy.com",
+                "www.trivago.com.au",
+                "trivago.com.au",
+                "www.fijiairways.com",
+                "www.rydges.com",
+                "www.hilton.com",
+                "www.crystalbrookcollection.com",
+                "iknowthepilot.com.au",
+                "northernterritory.com",
+                "iwantthatflight.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/vi\\/nEoymzsjZW0\\/mqdefault\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "img"
+            ],
+            "apis": {},
+            "sites": 9,
+            "prevalence": 0.000904,
+            "cnames": [],
+            "responseHashes": [
+                "4f6f44c2ef9e2e14e7542271b52a57bda23db51c7ab198a732c721074cdb1d13"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fextralife.com",
+                "cyberpunk2077.wiki.fextralife.com",
+                "darksouls.wiki.fextralife.com",
+                "darksouls3.wiki.fextralife.com",
+                "divinityoriginalsin2.wiki.fextralife.com",
+                "monsterhunterworld.wiki.fextralife.com",
+                "pathfinderwrathoftherighteous.wiki.fextralife.com",
+                "remnant2.wiki.fextralife.com",
+                "sekiroshadowsdietwice.wiki.fextralife.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/player_ias\\.vflset\\/en_US\\/embed\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "234595572b74d58cd52917208142b3131ad7992126358ee0d917a40cd1240e83"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cairnsnews.org",
+                "www.openculture.com",
+                "www.studyaustralia.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/player_ias\\.vflset\\/en_US\\/base\\.js",
+            "cookies": 0.000301,
+            "fingerprinting": 3,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3,
+                "Date.prototype.getTime": 3,
+                "Navigator.prototype.mediaCapabilities": 3,
+                "Navigator.prototype.cookieEnabled": 3,
+                "Document.cookie getter": 3,
+                "Document.cookie setter": 3,
+                "window.localStorage": 3,
+                "window.sessionStorage": 3,
+                "window.innerWidth": 3,
+                "window.innerHeight": 3,
+                "window.devicePixelRatio": 3,
+                "Navigator.prototype.connection": 3,
+                "Navigator.prototype.getBattery": 3,
+                "MediaSource.isTypeSupported": 3,
+                "HTMLCanvasElement.prototype.toDataURL": 3,
+                "URL.createObjectURL": 1,
+                "Date.prototype.getTimezoneOffset": 1,
+                "window.matchMedia(\"prefers-color-scheme\")": 1,
+                "Intl.DateTimeFormat.prototype.resolvedOptions": 1,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "Screen.prototype.availHeight": 1,
+                "Screen.prototype.availWidth": 1,
+                "Screen.prototype.colorDepth": 1,
+                "window.screenX": 1,
+                "window.screenY": 1,
+                "window.outerWidth": 1,
+                "window.outerHeight": 1,
+                "window.screenLeft": 1,
+                "window.screenTop": 1,
+                "Screen.prototype.availTop": 1,
+                "Event.prototype.timeStamp": 1,
+                "Navigator.prototype.hardwareConcurrency": 1
+            },
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "fd8d118fe8ac283b6e6ece58b4bcbbc06cd734f11761faa7c46ff08069f711f5"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "TESTCOOKIESENABLED": {
+                    "ttl": 67,
+                    "length": 1,
+                    "prevalence": 0.00030147723846849563,
+                    "uniqueness": 0.3333333333333333
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cairnsnews.org",
+                "www.openculture.com",
+                "www.studyaustralia.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/player_ias\\.vflset\\/en_US\\/remote\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "e878848ad649d0b771d44453abd0ae8e4aa7a2b93298641ed0c26fff581dcb4f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cairnsnews.org",
+                "www.openculture.com",
+                "www.studyaustralia.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/vRfNtN4Oc_E",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "0dc1af1890b94b3484252bc232f09e963950e9ab5c89f174859a35239612e198"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "vmware.com",
+                "communities.vmware.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/player_ias\\.vflset\\/en_GB\\/captions\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 12,
+            "prevalence": 0.00121,
+            "cnames": [],
+            "responseHashes": [
+                "d06890ba7e60c041868d62ef6a504985dee95befd4649841501ce5e0844a7cf6"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cuisinart.com.au",
+                "eightify.app",
+                "gerni.com.au",
+                "lawandcrime.com",
+                "poolandspawarehouse.com.au",
+                "royalenfield.com.au",
+                "www.allfasteners.com.au",
+                "www.citycave.com.au",
+                "www.evergreentrees.com.au",
+                "www.newscientist.com",
+                "www.regentcinemas.com.au",
+                "www.weber.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/api\\/stats\\/watchtime",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 18,
+            "prevalence": 0.00181,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_hjTLDTest": 0.00010049241282283188
+            },
+            "exampleSites": [
+                "cuisinart.com.au",
+                "gamma.app",
+                "lawandcrime.com",
+                "oreillys.com.au",
+                "poolandspawarehouse.com.au",
+                "robbreport.com",
+                "royalenfield.com.au",
+                "www.adfcareers.gov.au",
+                "www.allfasteners.com.au",
+                "www.evergreentrees.com.au",
+                "www.i-screen.com.au",
+                "www.newcastle.edu.au",
+                "www.newscientist.com",
+                "www.regentcinemas.com.au",
+                "www.springers.com.au",
+                "www.strikebowling.com.au",
+                "www.studyaustralia.gov.au",
+                "www.zonebowling.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/hWscLTMWYIo",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "11f580220f83feeec9d7dccb2a6279e4906f19a9b8a59c2bdd995a2ffa900b01"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fextralife.com",
+                "darksouls3.wiki.fextralife.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/tQPfngWUrXk",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fextralife.com",
+                "eldenring.wiki.fextralife.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/rIaaH87z1-g",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e928db2b5f12f5fa281f6954416493fa2ae484ac7f7eb2a24207800597fd97f0"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "flutter.dev",
+                "docs.flutter.dev"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/QlwiL_yLh6E",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "1948ee3a8d01babad71bff7ccd61f5644298aaef546b41c898d24926b01e8ea9"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "flutter.dev",
+                "docs.flutter.dev"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/ZnufaryH43s",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "7be1b612960bb1e5219ca901895fe2d2f0490c9be7ddea87d00febe2a0234a8a"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "flutter.dev",
+                "docs.flutter.dev"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/IOyq-eTRhvo",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "7c1cd47a68ab48ca3059ef833bed0d4ec2fc525f455406191edb490fd8292fdd"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "flutter.dev",
+                "docs.flutter.dev"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/xWV71C2kp38",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c0e14a1607dd6c66b98901e7922a2f26d5e616e4f3be182bfdc18666f184114f"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "flutter.dev",
+                "docs.flutter.dev"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/s\\/player\\/da154528\\/player_ias\\.vflset\\/en_GB\\/annotations_module\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 9,
+            "prevalence": 0.000904,
+            "cnames": [],
+            "responseHashes": [
+                "aeaba6e84e576272eaa1d7e92ad3e1f9b67add727eee523f5c62ee94d39ccc23"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "eightify.app",
+                "gerni.com.au",
+                "lawandcrime.com",
+                "robbreport.com",
+                "royalenfield.com.au",
+                "www.allfasteners.com.au",
+                "www.newscientist.com",
+                "www.regentcinemas.com.au",
+                "www.securitywholesalers.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/vi\\/tQPfngWUrXk\\/mqdefault\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "img"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "2df281f99189a919378436e668b7e5f2f2bd067ec7c92b6d96a061cd553aa191"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fextralife.com",
+                "liesofp.wiki.fextralife.com",
+                "roguetrader.wiki.fextralife.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/videoseries",
+            "cookies": 0.000301,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 3,
+                "NavigatorUAData.prototype.brands": 3,
+                "Navigator.prototype.userAgent": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "a9a2cd793bd853186e21a60e3a7070b89a33c600a09d2ec47ef785b4128d6107",
+                "911c13a77e89e2184dbdd4073f490a16801b9eb8776df623c07d87e3afe94f7e"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "enduringword.com",
+                "readingeggs.com",
+                "www.ehealth.nsw.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/aTqd-Q6ty2s",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "5a6b9a274ab43fe27b00509b0f406e113c52e166b01d9660e4c57e145421b4ab"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "corsair.com",
+                "forum.corsair.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/oMxrQ8xfKVI",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "72edd76a9e1f0e2e0a8052b056a78153d0429a634d5de525af54f5d6033ddbc1"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "corsair.com",
+                "forum.corsair.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/HR52JRy6AEg",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "7a390728e486b94afe728a1a191909ed3f21013fb25483c5b8ce4c894b18ff80"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "corsair.com",
+                "forum.corsair.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/QdBZY2fkU-0",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "225fdc1dd6d0115c4686e39cfd49610c6ab4303b9d2f8be9f80be41699710362"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fandom.com",
+                "gta.fandom.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/fzV8uILnMIY",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c8642f3509f588ce8b3e45dd56582fac81da16c5d7c1ed8839dedf4ea04d1a0a"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thefreedictionary.com",
+                "www.thefreedictionary.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/jMgsCiqpV4k",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6113e58c75832d00ce30784795582b8813003bfe3829fe14d465825952f101bf"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adafruit.com",
+                "learn.adafruit.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/PgvY4-uFFKQ",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "712653cf42176f76bccb8a80b581ec0ca1092b65b04bace9311b8cfa21dd5eb8"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "adafruit.com",
+                "learn.adafruit.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/BT62Ku-NGM4",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d5bdcf27d6d7c90d6b50b1eb6c748d083662f42b5610a18c7dbb0c82510c737b"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "unsw.edu.au",
+                "newsroom.unsw.edu.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/R-TOoGTvFL8",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "91500ed87422f4fa0aaffc5111a8496f4e1df0d8a7cc7a1222fa1f4101ee78f7"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nasa.gov",
+                "science.nasa.gov"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/YT9HABZssVc",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c5bb0877643c3efcc6b1d512215b6af5b83003a3e10c721a575ae4963104dfa4"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "independenceaustralia.com",
+                "store.independenceaustralia.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/GegQUpv7-S4",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "008884af527d09895715cca708d6c1db8eaacf611536d8ad886f06a6a8a44b68"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mq.edu.au",
+                "students.mq.edu.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/youtubei\\/v1\\/att\\/get",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "62ff3a3d453868bab9a68d2e5ee4ce77f9c4fb9ce0f8206aee55e334dfa6258f",
+                "a36c0831e74768725b2ca7ee38235c50c7bbaf1bbaedf2852c43e4247eb10520",
+                "c311a91305011cbbef92cf184b56b68e4b26632e21610d582e29fa64c0850708"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "warthunder.com",
+                "www.heritage.com.au",
+                "www.irs.gov",
+                "www.studyaustralia.gov.au",
+                "www.trekbikes.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/QYmnFHAGDw4",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b35c49454b21bc63d14224ad774e19720fa816970ed6d7dab262fa82eec8ecaa"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "agedcarequality.gov.au",
+                "www.agedcarequality.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/c7mfQllhCVI",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "31d75e34feb08f2627d5fbb5cdbda37c49451750892560b5815cd233eb1ef817"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "airservicesaustralia.com",
+                "www.airservicesaustralia.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/QiMLH8vyf7k",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2ec4a58fd7404ab05f60dac536f221f406860f1f2f891e16af16ef2810f6351f"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "allfasteners.com.au",
+                "www.allfasteners.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/0bn92NDYDxk",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "22ef5b462681f5d4022f1d9d76101a92e1d71daec520fcb5c202a0c577f9201b"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "allfasteners.com.au",
+                "www.allfasteners.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/CMXUYqpd4_g",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "db05c789628c740b838b9293483e335a01f5224a0d77e476cacb0c2c8c765b7d"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "allfasteners.com.au",
+                "www.allfasteners.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/IeW2uY34SgI",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "ba1e8a98761f1b13a97d56ada407ce654e4f61441bdfe376ea27cdb36ff52412"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "allfasteners.com.au",
+                "www.allfasteners.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/cKSGV-Zuu5M",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c896e64da52b768f845b304aa81d14ac33bb1227492ef84280e9392fc6ccfe78"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "alzheimers.org.uk",
+                "www.alzheimers.org.uk"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/hfxU4C16J10",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "arlec.com.au",
+                "www.arlec.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/QUNxBrvixBI",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "arlec.com.au",
+                "www.arlec.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/NXYPdgabenA",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "arlec.com.au",
+                "www.arlec.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/K4TOrB7at0Y",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "23fe0d284a17fd927eebaa12b892f14415e3a95f2d6d061ae46899a401e4fc79"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "awo.com.au",
+                "www.awo.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/DKPEeN0YNpA",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "5f0cc93c23c5caeac9e21ddd5e1a596e5833269cb70a302b8716258c05c2116d"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bedshed.com.au",
+                "www.bedshed.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/DSffw5jQLl8",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6082dfe0059898fbac255996323d6fbfc89637067033a3fe4d8e96fdcd5b0db6"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "belfieldmusic.com.au",
+                "www.belfieldmusic.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/61O-1Iz9VME",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2628d576c48dec13f781c98154dc8c2ca87ea648cb121fa8a473f836fe688e8c"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "belfieldmusic.com.au",
+                "www.belfieldmusic.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/FB5ie-vU-jo",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "1580d15b35415c22d68772fbb94ba6cf0cac3e9e9f222e7608f3ba7713536ea9"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "belldirect.com.au",
+                "www.belldirect.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/D00UTbCp2H8",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bfi.org.uk",
+                "www.bfi.org.uk"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/joUKN8ezVio",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bfi.org.uk",
+                "www.bfi.org.uk"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/SrmUFHdxxHE",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bfi.org.uk",
+                "www.bfi.org.uk"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/qEd8ouDMXX8",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "7253381eb9fd5d7cc2336ffb56fe51e820a81b0b77aca0bcd3fbdef9df1c74bd"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "blueletterbible.org",
+                "www.blueletterbible.org"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/tPMV5dcBth0",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bobjane.com.au",
+                "www.bobjane.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/4E45dEfdLq4",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bobjane.com.au",
+                "www.bobjane.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/EzotT-iIlUQ",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bobjane.com.au",
+                "www.bobjane.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/Una0wZMmMUI",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bobjane.com.au",
+                "www.bobjane.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/L6xzfTrdLiU",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bobjane.com.au",
+                "www.bobjane.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/mBIpfcR73xI",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bobjane.com.au",
+                "www.bobjane.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/5NrcjDrq-Xk",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "3a2f97d87ef9f2b762913cafbfa31e9976a2264ce35cc3afa06addad3e945e4d"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "brita.com.au",
+                "www.brita.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/qqcyGMV0BsU",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "04e009ac9b7fa34033fcfa2863eaa11e7a21e35aa5757b94f31123f2a906aba9"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bounceinc.com.au",
+                "www.bounceinc.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/K5CDqlwijTU",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "de9bb80d956a7eaf03af6d8d260c342456c047f8ffb98a3b375a68b348e68455"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "buildi.com.au",
+                "www.buildi.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/4f0E_s_DeaY",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cabots.com.au",
+                "www.cabots.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/-W9soqwdQDI",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cabots.com.au",
+                "www.cabots.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/--cY006QxsY",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cabots.com.au",
+                "www.cabots.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/zrunGVRjKx4",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cabots.com.au",
+                "www.cabots.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/G-gQomzAwls",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e37a9975dbf1dfdc0aafcfc561f23fe401fbd745ba2c60df2ec1487ce156b60d"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "catholicweekly.com.au",
+                "www.catholicweekly.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/0Dq_AzXDNoY",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a37ad002f3f853b73d14a24c2094bf93e828aabb3aaa4f1c5f89fc7a2595b51c"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "countdowntothekingdom.com",
+                "www.countdowntothekingdom.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/DXDxV0pccxw",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "383b7180f57fc97add362a03b27b3ebb7e4c5eab1b61958fa3ad5a4701d9cd92"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "craftofexile.com",
+                "www.craftofexile.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/6u_euKlXZms",
+            "cookies": 0.0001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "187dc10a5e665c6ffb63cb9a07071e0443e5fcc160b03c58c8d00b4085d14bf0"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "csu.edu.au",
+                "www.csu.edu.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/8DCiSMOQIx0",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "curtin.edu.au",
+                "www.curtin.edu.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/duUZMki6DDI",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "curtin.edu.au",
+                "www.curtin.edu.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/40ddEmjZ46w",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "curtin.edu.au",
+                "www.curtin.edu.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/D8oFXqvBz1c",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "fe7e7323b6aa7efafbb1da65fa8571637e4a6ebd3842ce03baa7d194a5870618"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dndbeyond.com",
+                "www.dndbeyond.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/IfUV8jFEjaQ",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "29181d706cb24544a884c86de9d9884e01895f8a2f0effe2d914f6957a1927f6"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "doorsplus.com.au",
+                "www.doorsplus.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/PcRRp0viqVw",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "doterra.com",
+                "www.doterra.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/jWsTdPodgsk",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "85d566a116b007eba3bde69926267111b031090cd5020ea2378f6b15bdc1bdfb"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nsw.gov.au",
+                "www.ehealth.nsw.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/q-WuQDRNxQs",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "9cb4c47bde9469f0801e79314071864a794d54f0373cbc61a0f4755ed23e8c89"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "findapharmacy.com.au",
+                "www.findapharmacy.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/fbbqlvuovQ0",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "713627eae597282c4c999f0402a57a59298eea3c71a1b6fdc8ab487e56f519d1"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gamersdecide.com",
+                "www.gamersdecide.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/c_3el4IAevg",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c277d973c8c26aee8a72f27511517fcb1b24b8d143874d28386784578e3610f8"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gamersdecide.com",
+                "www.gamersdecide.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/GJprOON79Ig",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d28ae0918d6dbe36f3a330c18cc15063e54277c04bb14f20d182478b71e27026"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gamersdecide.com",
+                "www.gamersdecide.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/",
+            "cookies": 0.000502,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 5,
+                "NavigatorUAData.prototype.brands": 5,
+                "Navigator.prototype.userAgent": 5
+            },
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "cba1939d4836130b7d1ebfa9b8b1ebe40ea77e3a2a16f43d194a3ef1df0fa736",
+                "f1f5142710af9a9095007386ffa9690e2a356c35934a93478aa93bbcb80c5b97",
+                "22a04130b4cfb8c4797347f009febfbd61a4092fa2d79e82143e22771c925436",
+                "fee532e29ec5a0275186a890f58e1f48f0eb9a4b6773665de90b89b76dca87e7"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "globalresearch.ca",
+                "www.gty.org",
+                "www.i-screen.com.au",
+                "www.isuzuute.com.au",
+                "www.modelflight.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/Lb0ID70QdSw",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "ec2f81488b75398e74baf6dd7fd5acecd97cc7931460a9c08bb2e644e8562389"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "goldbullionaustralia.com.au",
+                "www.goldbullionaustralia.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/AlMCP8baWRU",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "1e5f399d9312cf1a6f8777e8d13056b34046acc961ae4b95c15ccf9dc0833068"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "goodyear.com.au",
+                "www.goodyear.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/favicon\\.ico",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000402,
+            "cnames": [],
+            "responseHashes": [
+                "78455d6a4558b9fe07e7ea2f182a577f9e7d1661be9cca17a64adc5924f2a0ea"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hungryjacks.com.au",
+                "www.hungryjacks.com.au",
+                "www.jabra.com",
+                "www.monash.edu"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/abj5oDhyRUU",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "irs.gov",
+                "www.irs.gov"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/k24oSWxdazM",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "japanrailpass.com.au",
+                "www.japanrailpass.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/ig7N1GYpj6E",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "keelerhardware.com.au",
+                "www.keelerhardware.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/lHL4x4onCiw",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "keelerhardware.com.au",
+                "www.keelerhardware.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/cv0_A11RiuQ",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6af000d9552cfcb2ee06389b4a3870fe5eed3d35a468335fea73b6338ca824e4"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "lowyinstitute.org",
+                "www.lowyinstitute.org"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/0mUv-DoHyHc",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c3af835796a0f8bdc5da0ea47cfb1b5ec3fe18eb4be33d1265e859089522c80a"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "lowyinstitute.org",
+                "www.lowyinstitute.org"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/3VMrV--TSe0",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "bfe965e331e27218aac14bf44e062a8f7a1399396b69e37dbdfffba4ada2f6d9"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "lowyinstitute.org",
+                "www.lowyinstitute.org"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/tKp99goCAYY",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "ea4414a244f4bfd3f4ae06078abbf8aed6c2a81da1b6a79cd31c3eb123cda27a"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "lowyinstitute.org",
+                "www.lowyinstitute.org"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/50Lzey657BU",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2cdb6cb96a8628a2e3baa9ab9c06e7dc96362ef15878bb3a9c4d54c015127eb7"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "lunaparksydney.com",
+                "www.lunaparksydney.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/DyFi9C9OsZo",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mackay.qld.gov.au",
+                "www.mackay.qld.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/DChGcLB5fRM",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mackay.qld.gov.au",
+                "www.mackay.qld.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/Yo4EIL_sQyg",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mackay.qld.gov.au",
+                "www.mackay.qld.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/4iRDlPX8oR8",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mackay.qld.gov.au",
+                "www.mackay.qld.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/_xCpWtrsP2Q",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mackay.qld.gov.au",
+                "www.mackay.qld.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/uq_7N25DTmM",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "acf0ac93d14e8a80ff4a42d8caef5f19dfe443587dfab9ea1190be12acc93951"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mater.org.au",
+                "www.mater.org.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/IHpmH2XOPdI",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "28b3cbd8b79c5b659a34f7f4f930f95e70cc0df838dee5a88b04057b3e056590"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "metalroofingonline.com.au",
+                "www.metalroofingonline.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/kv4kGThoyGI",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "40de14107d7c2b39563a3f1269be2559484b98095c26681216c18ffa44a59bc2"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mindtools.com",
+                "www.mindtools.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/bVKR7UNoFOs",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "afe1a25b91731c7020f59308ab465ac059597a76312c28f5adf485684c6c09c2"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "msq.qld.gov.au",
+                "www.msq.qld.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/QkWMK7gDVkw",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "341367a61877d1b3a4b529d63a0b44bc75798d4885657a2330045e7fc999f076"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "myagedcare.gov.au",
+                "www.myagedcare.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/Vf9mL10TcrQ",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mutualart.com",
+                "www.mutualart.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/C7zjU5hGu2Y",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f5315913b5d026079bafb8a7e1231492ad0f64f0b4d298ef2dfee39e12d4818d"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "newcastle.edu.au",
+                "www.newcastle.edu.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/aJaD4iLoEYc",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nylex.com.au",
+                "www.nylex.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/hRmrGiu2wrE",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nylex.com.au",
+                "www.nylex.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/fe2rq922yYE",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nylex.com.au",
+                "www.nylex.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/2WlPXs8s2RI",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nylex.com.au",
+                "www.nylex.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/KdGsbzDlwLc",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "9c9de0a162ef78256e316ad11c6954f079e615a7f4c01553d1c07184574a6589"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "oecd.org",
+                "www.oecd.org"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/ZcqN1e2mjOs",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "bc975be57d5400b87db5a507a295229e6aec2571425381f7f4eee62644a3898f"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "oup.com.au",
+                "www.oup.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/2e6ZKmUDs0Q",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "cd136f78fb08d9287229e59e70f1e5801bd0b1e00edb96ac8f168a1e3ba2d016"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "police.sa.gov.au",
+                "www.police.sa.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/iF86Mv15zQs",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "614f9338c97dd212346c07c16dfaa0c07fd4e5671d64b34fce2247b01ccda250"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "popularwoodworking.com",
+                "www.popularwoodworking.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/vrAxVAI3FKw",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "50b04a65e9745834a08591a0a396c20f17358b44a4536d271638ec838a3225c0"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "qrida.qld.gov.au",
+                "www.qrida.qld.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/E_d1V73BO8I",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 1,
+                "PerformanceTiming.prototype.navigationStart": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c22f6dcf96c8c2a65924be1da2d6b1f891d2719f65ee9f324d972032164369e1"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "qrida.qld.gov.au",
+                "www.qrida.qld.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/ELkq1mqE-Yk",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 1,
+                "PerformanceTiming.prototype.navigationStart": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "89bb9a903816469447d546f3289faf1868edd69335854afbb75e39f1f3b4f1c9"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "qrida.qld.gov.au",
+                "www.qrida.qld.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/7qXgBOJWPmU",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "1e0dd4f24389901774b3a106d1ce44e985da115a2526bc8e40b87793e84000a8"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rbg.vic.gov.au",
+                "www.rbg.vic.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/https:\\/\\/www\\.youtube\\.com\\/watch",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nsw.gov.au",
+                "www.safework.nsw.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/https:\\/\\/youtu\\.be\\/KO8pYKmvwsw",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nsw.gov.au",
+                "www.safework.nsw.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/https:\\/\\/youtu\\.be\\/liVsyx4J_sI",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nsw.gov.au",
+                "www.safework.nsw.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/Nl9ZkUgX5H0",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4f9c3fd94079a3dd823746aa72dc2a8d879e5a7e060c5c17da9546ed4e0594a4"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ryobitools.com",
+                "www.ryobitools.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/tpTk1oETO98",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6d80a68639508b4ee56aa1195ff03ffaca1243f735faa83581a435e5727c9ce5"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "soundandvision.com",
+                "www.stereophile.com"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/j5wPDOJ8OsU",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "631d48fdc758a3eb4db58ec4c5cef532439751ac1d46db7b25c917c3380fe3d8"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "studyaustralia.gov.au",
+                "www.studyaustralia.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/Abp100kKzqo",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "surffx.com.au",
+                "www.surffx.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/nXPlrt8nvSg",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "surffx.com.au",
+                "www.surffx.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/jB3S2vLzcjk",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "surffx.com.au",
+                "www.surffx.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/F-KP-GbCn30",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "surffx.com.au",
+                "www.surffx.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/OfhKX8jD5SU",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "surffx.com.au",
+                "www.surffx.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/q2I3uCTzeeg",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "surffx.com.au",
+                "www.surffx.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/rR_1KkXeOBw",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "surffx.com.au",
+                "www.surffx.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/4ik25w3VhWA",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "surffx.com.au",
+                "www.surffx.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/duvkkGCqvUE",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 1,
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sydneywater.com.au",
+                "www.sydneywater.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/WDjHBaipmxk",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "tactoys.com.au",
+                "www.tactoys.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/q4Yg1XV_3aU",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4307d3cd1a345365a1b35f6be1564f0a76118967db65df07e7910c6a9865538e"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "tankworld.com.au",
+                "www.tankworld.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/0lsYw2eILEA",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "8f8529471d3ea22b43c7a7742d8ac1454b176bf002859673f5ae3949ab39ba91"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "visitphillipisland.com.au",
+                "www.visitphillipisland.com.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/Yh7fm_V9eBE",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2330d634f549895e85540981070f549e77a59b332d0b246b4d4f64d7b04e0d6f"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "westernsydney.edu.au",
+                "www.westernsydney.edu.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/OU-A2EmVrKQ",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e7867e1576cff966c8fc9db580a2eaa3a3d50206be6bbb50b76195db308a84e8"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "wireshark.org",
+                "www.wireshark.org"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/embed\\/qXe1criFCaA",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.brands": 2,
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "yourhome.gov.au",
+                "www.yourhome.gov.au"
+            ]
+        },
+        {
+            "rule": "youtube\\.com\\/v\\/https:\\/\\/youtu\\.be\\/EbjwPksoajI",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "zonebowling.com",
+                "www.zonebowling.com"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "CDN",
+        "Embedded Content"
+    ],
+    "performance": {},
+    "cookies": 0.0646,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.7411971830985915
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.09624413145539906
+        },
+        {
+            "domain": "google.com",
+            "prevalence": 0.01643192488262911
+        },
+        {
+            "domain": "pcdn.co",
+            "prevalence": 0.014671361502347418
+        },
+        {
+            "domain": "adobedtm.com",
+            "prevalence": 0.014084507042253521
+        },
+        {
+            "domain": "appdynamics.com",
+            "prevalence": 0.011737089201877934
+        },
+        {
+            "domain": "sojern.com",
+            "prevalence": 0.011737089201877934
+        },
+        {
+            "domain": "unpkg.com",
+            "prevalence": 0.008802816901408451
+        },
+        {
+            "domain": "jsdelivr.net",
+            "prevalence": 0.005868544600938967
+        },
+        {
+            "domain": "steamstatic.com",
+            "prevalence": 0.005868544600938967
+        }
+    ],
+    "types": {
+        "Stylesheet": 338,
+        "Script": 2158,
+        "Image": 356,
+        "XHR": 514,
+        "Document": 274,
+        "Media": 4
+    },
+    "nameservers": [
+        "ns2.google.com",
+        "ns1.google.com",
+        "ns3.google.com",
+        "ns4.google.com"
+    ]
+}

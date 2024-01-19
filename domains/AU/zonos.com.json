@@ -1,0 +1,122 @@
+{
+    "domain": "zonos.com",
+    "owner": {
+        "name": "iGlobal Stores",
+        "displayName": "iGlobal Stores"
+    },
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.000301,
+    "sites": 3,
+    "subdomains": [
+        "hello"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "zonos\\.com\\/shop-duty-tax\\/hello\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "hello"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c4c698ca60f0be0bede6445b95057761f752aa27ea3275e0a4351c6792b25968"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "billyj.com.au",
+                "www.honeybirdette.com"
+            ]
+        },
+        {
+            "rule": "zonos\\.com\\/hello\\.js",
+            "cookies": 0.0001,
+            "fingerprinting": 1,
+            "subdomains": [
+                "hello"
+            ],
+            "apis": {
+                "Document.cookie getter": 2,
+                "Document.cookie setter": 1,
+                "window.innerHeight": 1,
+                "window.innerWidth": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "eff16de192486e2d97a2dc1e1a3abba75b84f89acfa1851373c81e877371fb40"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "zCountry": {
+                    "ttl": 31536009,
+                    "length": 2,
+                    "prevalence": 0.00010049241282283188,
+                    "uniqueness": 1
+                },
+                "zHello": {
+                    "ttl": 31536010,
+                    "length": 1,
+                    "prevalence": 0.00010049241282283188,
+                    "uniqueness": 1
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "billyj.com.au",
+                "www.ereplacementparts.com"
+            ]
+        },
+        {
+            "rule": "zonos\\.com\\/api\\/country",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "hello"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "bc54fb822822779ab0c0345371ce673f2b1cae3cdbe8cb0f52f869a3525e964f"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "billyj.com.au",
+                "www.ereplacementparts.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.0001,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Script": 4,
+        "XHR": 2
+    },
+    "nameservers": [
+        "ns-1067.awsdns-05.org",
+        "ns-1923.awsdns-48.co.uk",
+        "ns-237.awsdns-29.com",
+        "ns-696.awsdns-23.net"
+    ]
+}

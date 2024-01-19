@@ -1,0 +1,412 @@
+{
+    "domain": "33across.com",
+    "owner": {
+        "name": "33Across, Inc.",
+        "displayName": "33Across",
+        "privacyPolicy": "https://33across.com/privacy-policy/",
+        "url": "http://33across.com"
+    },
+    "source": [
+        "DuckDuckGo-GB"
+    ],
+    "prevalence": 0.00825,
+    "sites": 82,
+    "subdomains": [
+        "ssc-cms",
+        "lexicon",
+        "cdn-ima",
+        "dp2",
+        "ssc",
+        "cdn-sic",
+        "sic"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "33across\\.com\\/ps\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ssc-cms"
+            ],
+            "apis": {},
+            "sites": 26,
+            "prevalence": 0.00261,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "cookies.js_dtest": 0.00010057326762546515,
+                "parsely_uuid": 0.00010057326762546515,
+                "lotame_domain_check": 0.0002011465352509303
+            },
+            "exampleSites": [
+                "9to5mac.com",
+                "itstillworks.com",
+                "www.queerty.com",
+                "www.koreaboo.com",
+                "www.mathway.com",
+                "www.allfreeknitting.com",
+                "www.thinkbabynames.com",
+                "www.automobiledimension.com",
+                "electrek.co",
+                "www.thegearpage.net",
+                "www.betaseries.com",
+                "www.techweekmag.com",
+                "aviewfrommyseat.co.uk",
+                "manofmany.com",
+                "www.thebeachguide.co.uk",
+                "www.gearrice.com",
+                "www.duplichecker.com",
+                "www.picuki.com",
+                "flashbak.com",
+                "surnames.behindthename.com"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/v1\\/envelope",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "lexicon"
+            ],
+            "apis": {},
+            "sites": 16,
+            "prevalence": 0.00161,
+            "cnames": [],
+            "responseHashes": [
+                "d0d2e098cd489ef7bc528c86de8ab5c51b5d6cdf9b76a8b08766036992f0d2f4"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "americansongwriter.com",
+                "aviewfrommyseat.co.uk",
+                "nationalpost.com",
+                "nymag.com",
+                "time.com",
+                "www.discogs.com",
+                "www.iphonelife.com",
+                "www.jpost.com",
+                "www.mathway.com",
+                "www.postgresqltutorial.com",
+                "www.pythontutorial.net",
+                "www.sheffieldforum.co.uk",
+                "www.sofascore.com",
+                "www.sqlitetutorial.net",
+                "www.thecut.com",
+                "www.theverge.com"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/ob\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "cdn-ima"
+            ],
+            "apis": {
+                "window.localStorage": 26
+            },
+            "sites": 29,
+            "prevalence": 0.00292,
+            "cnames": [],
+            "responseHashes": [
+                "c707d5798e40035ef5aa307db04e295703514d654b1e65fa62b04492c687c255"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "health.usnews.com",
+                "www.discogs.com",
+                "www.rhs.org.uk",
+                "www.mathway.com",
+                "sharemods.com",
+                "www.hemmings.com",
+                "gb.mapometer.com",
+                "www.straight.com",
+                "www.techweekmag.com",
+                "www.audiokarma.org",
+                "www.gadgetsnow.com",
+                "www.spine-health.com",
+                "www.classicandsportscar.com",
+                "www.famousbirthdays.com",
+                "www.akc.org",
+                "www.macobserver.com",
+                "www.sheffieldforum.co.uk",
+                "www.historynet.com",
+                "www.ted.com",
+                "imgur.com"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/ps\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "dp2"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000704,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bose.co.uk",
+                "quickbooks.intuit.com",
+                "support.hp.com",
+                "www.accuradio.com",
+                "www.bose.co.uk",
+                "www.euronews.com",
+                "www.mlb.com"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/api\\/v1\\/hb",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ssc"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000704,
+            "cnames": [],
+            "responseHashes": [
+                "76ec598bea02bd777a45a8d1717c7d301b91fd8dd3b6f1ef3dea36accc689fb3",
+                "f9f4e460dfed371da3070d947a2e34e36c427003a15169fbc7d19141322b7fab",
+                "2bfa9b49ca3a5af16930ea16a5601faa7e7eef83726ca81ab7ab3e455edaf634",
+                "48ed2d7dd91924890c993660d962f23e3d6dada40cf83dfddcdc89bd2daa5fc4"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "flashbak.com",
+                "golf.com",
+                "www.astrologyzone.com",
+                "www.haaretz.com",
+                "www.minecraftskins.com",
+                "www.queerty.com",
+                "www.thebeachguide.co.uk"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/v1\\/envelope",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "lexicon"
+            ],
+            "apis": {},
+            "sites": 10,
+            "prevalence": 0.00101,
+            "cnames": [],
+            "responseHashes": [
+                "d0d2e098cd489ef7bc528c86de8ab5c51b5d6cdf9b76a8b08766036992f0d2f4"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "flashbak.com",
+                "forum.mobilism.me",
+                "mydramalist.com",
+                "nationalpost.com",
+                "www.hindustantimes.com",
+                "www.mathway.com",
+                "www.ndtv.com",
+                "www.pastemagazine.com",
+                "www.payetteforward.com",
+                "www.timesnownews.com"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/api\\/v1\\/hb",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ssc"
+            ],
+            "apis": {},
+            "sites": 8,
+            "prevalence": 0.000805,
+            "cnames": [],
+            "responseHashes": [
+                "f9407fc9a84adf9745cdb33793af62091b479352224191c28fbbb6918f90dfe5",
+                "e6fc4ac4defa45093bb4a2943f60cdc98252f00f5a691695e11f5f787fa28f19",
+                "24d0d717c2896892a54aea1555dfa7863a4eb895109d9dce42a85a5421fd196f",
+                "7358d16c96c276852870007c0bc8a32d4f33e643105be28f75a4e7acd7f7131f",
+                "d0960d0a4fa9f519a448e09856d5fac037c36f5423961f1545604aef16973576",
+                "ef5527a124a4a46a01881ef29fdd289d75d19111596de9950e45c9f10ee134f3",
+                "500ecc9a972dc043387c926d43167ff4dc67fbbde1d948eb3805f7a0139dfa96"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "itstillworks.com",
+                "manofmany.com",
+                "www.jpost.com",
+                "www.koreaboo.com",
+                "www.mathway.com",
+                "www.pythontutorial.net",
+                "www.sofascore.com",
+                "www.sqlitetutorial.net"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/1\\/javascripts\\/sic\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "cdn-sic"
+            ],
+            "apis": {
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "Screen.prototype.width": 2,
+                "Screen.prototype.height": 2,
+                "Screen.prototype.availHeight": 2,
+                "Navigator.prototype.userAgent": 2,
+                "Navigator.prototype.maxTouchPoints": 2,
+                "window.devicePixelRatio": 2,
+                "Date.prototype.getTime": 2,
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.getHighEntropyValues": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c2a8f2e8029ca54c97e80477dcc7c884ed775613c42c1e5ed93479b7531ed28c"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "audioreview.com",
+                "www.emuparadise.me"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/1\\/stylesheets\\/sic\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cdn-sic"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4c821f2d169369324022057e9948ed8f9d45794d18b6c8c3fbbba900bb65158c"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "audioreview.com",
+                "www.emuparadise.me"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/authorize",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "sic"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e56c18b6f10cf1ce0a034324790302d97d8e3dd9931ee101b6482339d8420956"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "audioreview.com",
+                "www.emuparadise.me"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Analytics",
+        "Action Pixels"
+    ],
+    "performance": {},
+    "cookies": 0.000201,
+    "topInitiators": [
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.1566265060240964
+        },
+        {
+            "domain": "adapex.io",
+            "prevalence": 0.12650602409638553
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.1144578313253012
+        },
+        {
+            "domain": "pubmatic.com",
+            "prevalence": 0.1144578313253012
+        },
+        {
+            "domain": "increaserev.com",
+            "prevalence": 0.0783132530120482
+        },
+        {
+            "domain": "omnitagjs.com",
+            "prevalence": 0.07228915662650602
+        },
+        {
+            "domain": "d3lcz8vpax4lo2.cloudfront.net",
+            "prevalence": 0.05421686746987952
+        },
+        {
+            "domain": "nextmillmedia.com",
+            "prevalence": 0.04216867469879518
+        },
+        {
+            "domain": "demdex.net",
+            "prevalence": 0.04216867469879518
+        },
+        {
+            "domain": "valuad.cloud",
+            "prevalence": 0.03614457831325301
+        }
+    ],
+    "types": {
+        "Document": 26,
+        "Fetch": 24,
+        "Script": 33,
+        "Image": 7,
+        "XHR": 17,
+        "Stylesheet": 2
+    },
+    "nameservers": [
+        "ns21.constellix.com",
+        "ns61.constellix.net",
+        "ns41.constellix.net",
+        "ns11.constellix.com",
+        "ns51.constellix.net",
+        "ns31.constellix.com"
+    ]
+}

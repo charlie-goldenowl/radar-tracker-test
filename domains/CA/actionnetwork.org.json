@@ -1,0 +1,52 @@
+{
+    "domain": "actionnetwork.org",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.000101,
+    "sites": 1,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "actionnetwork\\.org\\/widgets\\/v4\\/form\\/sign-if-you-agree-speaker-mike-johnson-is-a-dangerous-extremist",
+            "cookies": 0.000201,
+            "fingerprinting": 1,
+            "subdomains": [],
+            "apis": {
+                "Navigator.prototype.userAgent": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2ee8d486015ecb6f088e0631282a045b2247429b58b8ead6977cba9b3f1b9a6b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dailykos.com",
+                "www.dailykos.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000101,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Script": 2
+    },
+    "nameservers": [
+        "dan.ns.cloudflare.com",
+        "erin.ns.cloudflare.com"
+    ]
+}

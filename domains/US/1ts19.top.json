@@ -1,0 +1,210 @@
+{
+    "domain": "1ts19.top",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-US"
+    ],
+    "prevalence": 0.000184,
+    "sites": 27,
+    "subdomains": [],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "1ts19\\.top\\/show\\.php",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 15,
+            "prevalence": 0.000102,
+            "cnames": [],
+            "responseHashes": [
+                "76f7f996a8739866abbc20496a28430f9317805829e87846126c57404835d623"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "attractivemoms.com",
+                "charmingmatures.com",
+                "charmingmilfs.com",
+                "charmingtits.com",
+                "hairycave.com",
+                "hairycorner.com",
+                "olderkiss.com",
+                "spicyolderwomen.com",
+                "tastyspics.com",
+                "transpleasure.com",
+                "verysexyladies.com",
+                "womeninyears.com",
+                "www.amateurvoyeurforum.com",
+                "www.sexhubhd.com",
+                "www.xtits.com"
+            ]
+        },
+        {
+            "rule": "1ts19\\.top\\/show_new_auction\\.php",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.000129,
+            "cnames": [],
+            "responseHashes": [
+                "00339c58e6028a2fd4cebb1768a75a5c5e00c54c3706196dcec95755f989c339",
+                "eaee91c9e9669738ac5eafa6f42419328530e7c39aaf0019e9e7bb91a70abaed",
+                "e1a77979cab5c115ac0d8a3df63ea38b579619e17092a35f94aedbb12f5bd750",
+                "d6dc351f798010766d48f8d15d3182db7350b4e3b4b528131e2698f734caec46",
+                "c97f6855f0b83d7a2c63cfe95b3fce6476bbdb3b682f5fd6fd64c38297b9e04e",
+                "3da20f65538832309a9aa9337c4e3bbbda1d4eff0e88a2e62ba0584ab1e79d79",
+                "4879525b1ae333ffb9ef50ab18ce16ef60cf1adcb8430aaae8e44b95e32f193a",
+                "2e026affc193bddb63a37fed42c813ab98e91bdcced0208641320145ef30b9b2",
+                "1e4d6abf78a4a14b4249a80426854881c46b49570738d8c8096cc2479de86ec9",
+                "066de7abca3fc790dbdca24155f023be47af97d9b612aeaf46e3d7412f3fe167",
+                "12f2c882e266e2b50166218cb5f90eae331fe7a4605d68429de826e9bd9963e3",
+                "1e1d5347e503c0fdccb24bcc1eec093fa9db732bdeccc84403b4233a76bde2f1",
+                "487d2b27bd25369d4d410a99e23781c8de5e6609a22aa457b587a0aafe843f48",
+                "d74855122de373be9fb4b26b5d151c0046a4da17ba57168b018efa27966c4ca9",
+                "aaae7eb7392e0ef923a8f77bca1f6b43a0868a8c264e7e930e5bd8091a49a565",
+                "d970441c249c33a303782b605a813871b771c0c468e23776cf24d80968056174",
+                "cf0b0f554cd5abf32179369039cda727ea58a73c20ae5bd3f5acd314d4cc4c34",
+                "23fd046b3dea181c74446e97a868a3f32aad00fe9ab7d55cc8c4375984e8287f"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "attractivemoms.com",
+                "charmingmatures.com",
+                "charmingmilfs.com",
+                "charmingtits.com",
+                "hairycave.com",
+                "hairycorner.com",
+                "olderkiss.com",
+                "spicyolderwomen.com",
+                "tastyspics.com",
+                "transpleasure.com",
+                "verysexyladies.com",
+                "womeninyears.com",
+                "www.allsexclips.com",
+                "www.amateurvoyeurforum.com",
+                "www.brandytube.com",
+                "www.realamateurfuck.com",
+                "www.sexbright.com",
+                "www.sexhubhd.com",
+                "www.xtits.com"
+            ]
+        },
+        {
+            "rule": "1ts19\\.top\\/content\\.php",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 19,
+            "prevalence": 0.000129,
+            "cnames": [],
+            "responseHashes": [
+                "e60d0f0a1c51ec230486e6f358cd147ed87fd9a20271d5092117c76e26099499",
+                "1b9207deaffd067810a7a7205944a2e8366169c6e43deac9c123955364f8491d",
+                "78a0322efb667a8f4890331fc2a1e12a2b9ac910c50d083f67e11a07e750d266",
+                "16c7c3720a245b8c2adad96c399237a6559db4e58096f2ac467b4c8c33931159",
+                "6c7df0e9c48d85cb7ca42f95a53ccd0ddc5dbe7963976fce72e38391853f179f",
+                "d32d84270305658199efd0c61931f6fda8e02bfc092122aa892f267a257d2fe4",
+                "3c5189d9e0e405b53145fcd06ecdc557ca23758952fa88e0c69b5e175ad18495",
+                "a16b89795d871e282ec100ae15cf773778c24c20e5f73e42b1547dd62b4b5c3c",
+                "410423bbe1324f94b6bb51bf8d47d7cd9a0d062e6ad003759372fdd0e03d9e9b",
+                "8fe95aca0e55f6959cf761b94df1d382048544df22ae5c696cb37faf1f10d916",
+                "1548f145564aaef35b8d80b942c9cdd3e98f2d5de8f1cd41dc9cd01ad5f3a8b8",
+                "dba469f15d1a61bb7d91ba842e2d4a9101a8b5cfd81ed33efdf0d5780ee2e5f0",
+                "8593340e08dd3b1daa9ffc5900779267621e2b29683f8ce30070022ec9f292ac",
+                "95e9befaf338ad140169ef48fc0afbc21dd6859c46e953204ae45b9e29a06cb5",
+                "2b2bc859fa21d4dce97d60487da7fb800e9b690893663df6f31010a8effb838c",
+                "a17cfbebc1b933674ec6ffd848d007555fc0383b56ca9a77ead5119feb47987e",
+                "8818c54590784d56d71ccd4cba5bee6da2a74ec474934b9cb4a9531f0ccf21a3",
+                "24a5ede6812622f625a0364905832c9b7903e8e263cb4ba61deaa6cbefbfdf84"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_ym_d": 0.000013605534731528785
+            },
+            "exampleSites": [
+                "attractivemoms.com",
+                "charmingmatures.com",
+                "charmingmilfs.com",
+                "charmingtits.com",
+                "hairycave.com",
+                "hairycorner.com",
+                "olderkiss.com",
+                "spicyolderwomen.com",
+                "tastyspics.com",
+                "transpleasure.com",
+                "verysexyladies.com",
+                "womeninyears.com",
+                "www.allsexclips.com",
+                "www.amateurvoyeurforum.com",
+                "www.brandytube.com",
+                "www.realamateurfuck.com",
+                "www.sexbright.com",
+                "www.sexhubhd.com",
+                "www.xtits.com"
+            ]
+        },
+        {
+            "rule": "1ts19\\.top\\/content\\.php",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "b7a1a026225ea234bd109b191fc05e34ef67579ddc1f951e0f03906f14806257"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "_ym_d": 0.000006802767365764393
+            },
+            "exampleSites": [
+                "amateurvoyeurforum.com",
+                "www.xtits.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "getscriptjs.com",
+            "prevalence": 0.7692307692307693
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.19230769230769232
+        },
+        {
+            "domain": "magsrv.com",
+            "prevalence": 0.028846153846153848
+        },
+        {
+            "domain": "newtits.name",
+            "prevalence": 0.009615384615384616
+        }
+    ],
+    "types": {
+        "Script": 15,
+        "XHR": 19,
+        "Document": 19,
+        "Stylesheet": 2
+    },
+    "nameservers": [
+        "brad.ns.cloudflare.com",
+        "betty.ns.cloudflare.com"
+    ]
+}

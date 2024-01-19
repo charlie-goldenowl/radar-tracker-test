@@ -1,0 +1,88 @@
+{
+    "domain": "8select.io",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-DE"
+    ],
+    "prevalence": 0.000403,
+    "sites": 4,
+    "subdomains": [
+        "wgt",
+        "eltx"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "8select\\.io\\/be70e9b2-cd4c-4df4-8557-e146b72dda67\\/loader\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "wgt"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "5e8668d404bccf8c3037a6f8e7ed400e773e98eddddee40df98dccaa4e9355d9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "jako-o.com",
+                "www.jako-o.com"
+            ]
+        },
+        {
+            "rule": "8select\\.io\\/eightlytics\\/client\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "eltx"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000403,
+            "cnames": [],
+            "responseHashes": [
+                "afdca9e087a011e56096086d57e4574add86eb58aba04ed9747b45a2bc153cea"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "jako-o.com",
+                "www.dress-for-less.de",
+                "www.jako-o.com",
+                "www.lodenfrey.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.8
+        },
+        {
+            "domain": "baqend.com",
+            "prevalence": 0.2
+        }
+    ],
+    "types": {
+        "Script": 6
+    },
+    "nameservers": [
+        "ns-410.awsdns-51.com",
+        "ns-880.awsdns-46.net",
+        "ns-1264.awsdns-30.org",
+        "ns-1969.awsdns-54.co.uk"
+    ]
+}

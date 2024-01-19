@@ -1,0 +1,79 @@
+{
+    "domain": "admantx.com",
+    "owner": {
+        "name": "SSL Corporation",
+        "displayName": "SSL"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.000705,
+    "sites": 7,
+    "subdomains": [
+        "usasync01",
+        "euasync01"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "admantx\\.com\\/admantx\\/service",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "usasync01",
+                "euasync01"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000705,
+            "cnames": [],
+            "responseHashes": [
+                "fb57f6e56837c619f1bfba52f6d85f1e45962951f2c34472b70e3532ac4bb21e",
+                "ad47d37987bcb3d6eb31965580df4a79d6909fbb0a6f460592c5df603486aa00",
+                "606696af4338cb60912eef558bf65a7bf693e58161c9d699ed9d9b19b7515861",
+                "41206f9a75e08540a0d5b9a9a9a5e90f31eec1c4f1d44504616a3772dabb9849",
+                "02a63940e447119ef6333a7135f6b599bba276c496db7b4910ccb911c5a72efd",
+                "a6594d4f589edd418689039f1ef948f0ceea89d543324d230fe61f118d335784"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cnbc.com",
+                "www.ilgiornale.it",
+                "www.msnbc.com",
+                "www.mymovies.it",
+                "www.nbcnews.com",
+                "www.tgcom24.mediaset.it",
+                "www.today.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.42857142857142855
+        },
+        {
+            "domain": "nbcuni.com",
+            "prevalence": 0.42857142857142855
+        },
+        {
+            "domain": "tiqcdn.com",
+            "prevalence": 0.14285714285714285
+        }
+    ],
+    "types": {
+        "Script": 7
+    },
+    "nameservers": [
+        "dns1.p06.nsone.net",
+        "dns2.p06.nsone.net",
+        "dns3.p06.nsone.net",
+        "dns4.p06.nsone.net"
+    ]
+}

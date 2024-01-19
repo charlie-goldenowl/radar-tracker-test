@@ -1,0 +1,71 @@
+{
+    "domain": "adleadevent.com",
+    "owner": {
+        "name": "ADLEAD",
+        "displayName": "ADLEAD"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.00121,
+    "sites": 12,
+    "subdomains": [
+        "adtrack"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "adleadevent\\.com\\/mailNotification\\.php",
+            "cookies": 0.00121,
+            "fingerprinting": 0,
+            "subdomains": [
+                "adtrack"
+            ],
+            "apis": {},
+            "sites": 12,
+            "prevalence": 0.00121,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "winedexer.com",
+                "dictionnaire.orthodidacte.com",
+                "doctonat.com",
+                "expressantworten.com",
+                "lexikon.stangl.eu",
+                "wikimonde.com",
+                "www.cosmopolitan.fr",
+                "www.magicmaman.com",
+                "www.marieclaire.fr",
+                "www.paroles-musique.com",
+                "www.pravda-tv.com",
+                "www.yubigeek.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00121,
+    "topInitiators": [
+        {
+            "domain": "themoneytizer.com",
+            "prevalence": 0.75
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.25
+        }
+    ],
+    "types": {
+        "Script": 12
+    },
+    "nameservers": [
+        "dns17.ovh.net",
+        "ns17.ovh.net"
+    ]
+}

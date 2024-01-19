@@ -1,0 +1,422 @@
+{
+    "domain": "adnz.co",
+    "owner": {
+        "name": "audienzz AG",
+        "displayName": "NZZ Management"
+    },
+    "source": [
+        "DuckDuckGo-DE"
+    ],
+    "prevalence": 0.00161,
+    "sites": 16,
+    "subdomains": [
+        "cdn",
+        "api",
+        "xd"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "adnz\\.co\\/convey2-scripts\\/contextual\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "cdn"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 3,
+                "window.localStorage": 3
+            },
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "e6dffbf2152ce2c1d29eae75c6986c707de83412d859c6189c6dc3a3b4a65f1a"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "orf.at",
+                "news.orf.at",
+                "tv.orf.at"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/api\\/ws-events-sink\\/batch",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "orf.at",
+                "news.orf.at",
+                "tv.orf.at"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/api\\/ws-contextual\\/page-keywords",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "cabf5609dd3ca129d4a52f774801221dd9715298f4d99d36959ce24dc3c716ad"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "orf.at",
+                "news.orf.at",
+                "tv.orf.at"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/convey-scripts\\/contextual_10\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "cdn"
+            ],
+            "apis": {
+                "window.localStorage": 6
+            },
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "b095c42b599d12a8c50afa725f2598ea097d1eeee522f247b962033dd9ba7872"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "search.ch",
+                "www.beobachter.ch",
+                "www.bluewin.ch",
+                "www.handelszeitung.ch",
+                "www.nachhaltigleben.ch",
+                "www.schweizer-illustrierte.ch"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/api\\/ws-contextual\\/page-keywords",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "05b3b22ff6b9cf897e8bef996da36614077a65007f312b17f7cb2862993b8642"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "search.ch",
+                "www.beobachter.ch",
+                "www.handelszeitung.ch",
+                "www.nachhaltigleben.ch",
+                "www.schweizer-illustrierte.ch"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/api\\/ws-events-sink\\/batch",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 12,
+            "prevalence": 0.00121,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "adnzVisitorId": 0.0008056394763343404
+            },
+            "exampleSites": [
+                "search.ch",
+                "weltwoche.ch",
+                "www.archdaily.com",
+                "www.beobachter.ch",
+                "www.bluewin.ch",
+                "www.finanzen.ch",
+                "www.handelszeitung.ch",
+                "www.nachhaltigleben.ch",
+                "www.pctipp.ch",
+                "www.schweizer-illustrierte.ch",
+                "www.tagblatt.ch",
+                "www.wildeisen.ch"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/header\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [],
+            "apis": {
+                "window.localStorage": 5,
+                "window.innerWidth": 4,
+                "window.innerHeight": 4
+            },
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "95af0cf51120c462caa0c1c9946be85d1593ae06c04e63c7990afa72f575fe34",
+                "5c29f2e22c9fe70a2b4bec06d22bfd7bf6090b504c66ef5ac5c9561c07b75aa0",
+                "dc43ad1154f891f2e0bb74c63f0eacc468ad024e61efda689c5903e3689553a5",
+                "8febd39700faeb421a8d763563d9f046ebad057efbaef7c095ac4b0278b0dae9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "weltwoche.ch",
+                "www.archdaily.com",
+                "www.finanzen.ch",
+                "www.tagblatt.ch",
+                "www.wildeisen.ch"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/dmp\\/publisher\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "c894beb4a5d812210d31fb268df7f352e6279019d408d475864696ad9f035e7a"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "weltwoche.ch",
+                "www.archdaily.com",
+                "www.finanzen.ch",
+                "www.pctipp.ch",
+                "www.tagblatt.ch",
+                "www.wildeisen.ch"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/api\\/ws-geodata\\/country",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "9685eb765661ea3b95f31e1bb3c3b5501d0c2acdf353feeaa4d8fe32f95f77fb"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "weltwoche.ch",
+                "www.archdaily.com",
+                "www.finanzen.ch",
+                "www.tagblatt.ch",
+                "www.wildeisen.ch"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/xdomain_cookie\\.js",
+            "cookies": 0.000403,
+            "fingerprinting": 1,
+            "subdomains": [
+                "xd"
+            ],
+            "apis": {
+                "Date.prototype.getTime": 6,
+                "Document.cookie getter": 5,
+                "Document.cookie setter": 4
+            },
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "f1afabdbc9ffd54173ee5d42ffafe4026965be1c28143570c7d32e6cfa46cdd7"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "adnzVisitorId": {
+                    "ttl": 10368006,
+                    "length": 20,
+                    "prevalence": 0.0004028197381671702,
+                    "uniqueness": 1
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "weltwoche.ch",
+                "www.archdaily.com",
+                "www.finanzen.ch",
+                "www.pctipp.ch",
+                "www.tagblatt.ch",
+                "www.wildeisen.ch"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/api\\/ws-semantiq\\/page-keywords",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [
+                "cabf5609dd3ca129d4a52f774801221dd9715298f4d99d36959ce24dc3c716ad",
+                "53b5031d1cea407e7acd67ec70bcc98f0abf48f394f926a738f5daf945e8a765"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.00010070493454179255
+            },
+            "exampleSites": [
+                "weltwoche.ch",
+                "www.archdaily.com",
+                "www.finanzen.ch",
+                "www.tagblatt.ch",
+                "www.wildeisen.ch"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/api\\/ws-convey\\/visitor-id",
+            "cookies": 0.000604,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "bfbfcf9184f978f5407c04c496f3a0b89e802d579ddf588b470a33e3d4f04ef0",
+                "6b9e20a801bd591d572651e521d8bd5fb4825351384853a8d1466f916bb1955f",
+                "a235fb59662ada2ae7b64638ab18c4628d9b145419e581562f68d05ddd77bf89",
+                "1f40382c48d0ee0f7fb469dbfca4444beaf91be5209b01efb283e90d94f64752",
+                "8a4a5aaa6fc94af1fdbbfb26e9f1e56f82e9f2372094256ea9c0f9d8d1369fb7"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "lotame_domain_check": 0.0002014098690835851
+            },
+            "exampleSites": [
+                "weltwoche.ch",
+                "www.archdaily.com",
+                "www.finanzen.ch",
+                "www.pctipp.ch",
+                "www.tagblatt.ch",
+                "www.wildeisen.ch"
+            ]
+        },
+        {
+            "rule": "adnz\\.co\\/xdomain_cookie\\.html",
+            "cookies": 0.000504,
+            "fingerprinting": 1,
+            "subdomains": [
+                "xd"
+            ],
+            "apis": {
+                "Document.cookie getter": 5,
+                "Date.prototype.getTime": 5,
+                "Document.cookie setter": 5
+            },
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "bd2717d6c9540ef58d7a2551925e8756b072e2a2efe80e6813b7f0319f5f5df9"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {
+                "adnzVisitorId": {
+                    "ttl": 10368006,
+                    "length": 17,
+                    "prevalence": 0.0005035246727089627,
+                    "uniqueness": 1
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "weltwoche.ch",
+                "www.archdaily.com",
+                "www.finanzen.ch",
+                "www.pctipp.ch",
+                "www.tagblatt.ch",
+                "www.wildeisen.ch"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000604,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.48148148148148145
+        },
+        {
+            "domain": "ringier-advertising.ch",
+            "prevalence": 0.4074074074074074
+        },
+        {
+            "domain": "gearwom.de",
+            "prevalence": 0.07407407407407407
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.037037037037037035
+        }
+    ],
+    "types": {
+        "Script": 26,
+        "XHR": 8,
+        "Fetch": 31,
+        "Document": 6
+    },
+    "nameservers": [
+        "charles.ns.cloudflare.com",
+        "cheryl.ns.cloudflare.com"
+    ]
+}

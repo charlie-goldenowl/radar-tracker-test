@@ -1,0 +1,80 @@
+{
+    "domain": "24garten.de",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.000302,
+    "sites": 3,
+    "subdomains": [
+        "www"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "24garten\\.de\\/assets\\/images\\/33\\/502\\/33502807-raeuchern-beifuss-schafgarbe-johanniskraut-wilder-dost-2jerGJxymdac\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "20c08eaae3470a6ae1ad5ee20d12fc6ca97d6003044b4d914d732df4321565c1"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fr.de",
+                "www.merkur.de",
+                "www.tz.de"
+            ]
+        },
+        {
+            "rule": "24garten\\.de\\/static\\/24garten\\/docroot\\/apple-touch-icon\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "www"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "d0a0833070a33018631fe32aa4157e426b3cfc31abfdc58dfd1ae4fb69efbfa1"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fr.de",
+                "www.merkur.de",
+                "www.tz.de"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Image": 6
+    },
+    "nameservers": [
+        "dns.dns1.de",
+        "dns.dns2.de",
+        "dns.dns3.de",
+        "dns.dns4.de"
+    ]
+}

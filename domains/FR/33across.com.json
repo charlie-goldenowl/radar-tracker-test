@@ -1,0 +1,372 @@
+{
+    "domain": "33across.com",
+    "owner": {
+        "name": "33Across, Inc.",
+        "displayName": "33Across",
+        "privacyPolicy": "https://33across.com/privacy-policy/",
+        "url": "http://33across.com"
+    },
+    "source": [
+        "DuckDuckGo-FR"
+    ],
+    "prevalence": 0.00504,
+    "sites": 50,
+    "subdomains": [
+        "ssc",
+        "ssc-cms",
+        "dp2",
+        "cdn-ima",
+        "lexicon",
+        "cdn-sic",
+        "sic"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "33across\\.com\\/api\\/v1\\/hb",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ssc"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "9fbddf4669160731ff7f4992acab6baa3a26118eb82ee5ebead71a17a3bb7cf7"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1v1.lol",
+                "www.haaretz.com"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/ps\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ssc-cms"
+            ],
+            "apis": {},
+            "sites": 18,
+            "prevalence": 0.00181,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "9to5mac.com",
+                "appleinsider.com",
+                "forum.raspberry-pi.fr",
+                "fr.chatelaine.com",
+                "fr.automobiledimension.com",
+                "garticphone.com",
+                "readcomiconline.li",
+                "sciencepost.fr",
+                "www.alti-mag.com",
+                "www.behindthename.com",
+                "www.haaretz.com",
+                "www.jpost.com",
+                "www.moddb.com",
+                "www.picuki.com",
+                "www.skiresort.fr",
+                "www.sofascore.com",
+                "www.thegearpage.net",
+                "www.yubigeek.com"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/ps\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "dp2"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bose.fr",
+                "fr.euronews.com",
+                "support.hp.com",
+                "www.amplifon.com",
+                "www.bose.fr",
+                "www.euronews.com"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/ob\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "cdn-ima"
+            ],
+            "apis": {
+                "window.localStorage": 14
+            },
+            "sites": 14,
+            "prevalence": 0.00141,
+            "cnames": [],
+            "responseHashes": [
+                "c707d5798e40035ef5aa307db04e295703514d654b1e65fa62b04492c687c255"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ecomparatif.fr",
+                "fluxdeconnaissances.com",
+                "fr.piliapp.com",
+                "imgur.com",
+                "psychcentral.com",
+                "sharemods.com",
+                "www.cinoche.com",
+                "www.elevenforum.com",
+                "www.famousbirthdays.com",
+                "www.lefrontal.com",
+                "www.macobserver.com",
+                "www.rhs.org.uk",
+                "www.straight.com",
+                "www.usnews.com"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/api\\/v1\\/hb",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ssc"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "d5dfc3ac40fec82e026c2d32e00db30b5c494f5e2a1198566bbc58a804eb6cd0",
+                "8ff93cd1a5e71bb09464866e994dade06360a3b86aeee16c295ae1bf9c88b962",
+                "ac190c3387d3bfcd87afda592cf9b74923ce68fe2b26bfbc58cd83e6812307fc",
+                "e402eb3548d7f9eabdb1233bd5f208e71482a6c81a8226865f0d52b2724dad40",
+                "726c66a351b08ca5046986427ef8d0e33d2de57a3b83300badf8119be1daba84"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "raspberry-pi.fr",
+                "forum.raspberry-pi.fr",
+                "www.jpost.com",
+                "www.pythontutorial.net",
+                "www.sofascore.com",
+                "www.sqlitetutorial.net"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/v1\\/envelope",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "lexicon"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "d0d2e098cd489ef7bc528c86de8ab5c51b5d6cdf9b76a8b08766036992f0d2f4"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mydramalist.com",
+                "psychcentral.com",
+                "www.docteurclic.com"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/v1\\/envelope",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "lexicon"
+            ],
+            "apis": {},
+            "sites": 8,
+            "prevalence": 0.000806,
+            "cnames": [],
+            "responseHashes": [
+                "d0d2e098cd489ef7bc528c86de8ab5c51b5d6cdf9b76a8b08766036992f0d2f4"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nymag.com",
+                "www.discogs.com",
+                "www.jpost.com",
+                "www.postgresqltutorial.com",
+                "www.pythontutorial.net",
+                "www.sofascore.com",
+                "www.sqlitetutorial.net",
+                "www.theverge.com"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/1\\/javascripts\\/sic\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "cdn-sic"
+            ],
+            "apis": {
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "Screen.prototype.width": 2,
+                "Screen.prototype.height": 2,
+                "Screen.prototype.availHeight": 2,
+                "Navigator.prototype.userAgent": 2,
+                "Navigator.prototype.maxTouchPoints": 2,
+                "window.devicePixelRatio": 2,
+                "Date.prototype.getTime": 2,
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "NavigatorUAData.prototype.getHighEntropyValues": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c2a8f2e8029ca54c97e80477dcc7c884ed775613c42c1e5ed93479b7531ed28c"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "audioreview.com",
+                "www.emuparadise.me"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/1\\/stylesheets\\/sic\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cdn-sic"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4c821f2d169369324022057e9948ed8f9d45794d18b6c8c3fbbba900bb65158c"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "audioreview.com",
+                "www.emuparadise.me"
+            ]
+        },
+        {
+            "rule": "33across\\.com\\/authorize",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "sic"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f9161c211f32b4d75608e1fbaace38baf99a078f2b5e8bed51c5aaf582e994a2"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "audioreview.com",
+                "www.emuparadise.me"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Analytics",
+        "Action Pixels"
+    ],
+    "performance": {},
+    "cookies": 0.000201,
+    "topInitiators": [
+        {
+            "domain": "adapex.io",
+            "prevalence": 0.27927927927927926
+        },
+        {
+            "domain": "increaserev.com",
+            "prevalence": 0.11711711711711711
+        },
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.10810810810810811
+        },
+        {
+            "domain": "omnitagjs.com",
+            "prevalence": 0.08108108108108109
+        },
+        {
+            "domain": "demdex.net",
+            "prevalence": 0.05405405405405406
+        },
+        {
+            "domain": "themoneytizer.com",
+            "prevalence": 0.05405405405405406
+        },
+        {
+            "domain": "valuad.cloud",
+            "prevalence": 0.05405405405405406
+        },
+        {
+            "domain": "nextmillmedia.com",
+            "prevalence": 0.04504504504504504
+        },
+        {
+            "domain": "cpmstar.com",
+            "prevalence": 0.036036036036036036
+        },
+        {
+            "domain": "bidmatic.io",
+            "prevalence": 0.036036036036036036
+        }
+    ],
+    "types": {
+        "XHR": 5,
+        "Document": 18,
+        "Image": 6,
+        "Script": 18,
+        "Fetch": 14,
+        "Stylesheet": 2
+    },
+    "nameservers": [
+        "ns21.constellix.com",
+        "ns61.constellix.net",
+        "ns41.constellix.net",
+        "ns11.constellix.com",
+        "ns51.constellix.net",
+        "ns31.constellix.com"
+    ]
+}

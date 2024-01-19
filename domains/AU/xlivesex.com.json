@@ -1,0 +1,82 @@
+{
+    "domain": "xlivesex.com",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.001,
+    "sites": 10,
+    "subdomains": [
+        "go"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "xlivesex\\.com\\/checkUrl",
+            "cookies": 0.001,
+            "fingerprinting": 0,
+            "subdomains": [
+                "go"
+            ],
+            "apis": {},
+            "sites": 10,
+            "prevalence": 0.001,
+            "cnames": [],
+            "responseHashes": [
+                "e78008828abaa93c4462e326ef384dcda1443352a0f24bdeedada6a6fdbfd1d5"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "animeidhentai.com",
+                "enf-cmnf.com",
+                "gizmoxxx.com",
+                "goodporn.to",
+                "sexyforums.com",
+                "spankbang.porn",
+                "wildskirts.com",
+                "www.lpsg.com",
+                "www.sexysluts.tv",
+                "xcafe.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.001,
+    "topInitiators": [
+        {
+            "domain": "xlivrdr.com",
+            "prevalence": 0.3
+        },
+        {
+            "domain": "xlrdr.com",
+            "prevalence": 0.2
+        },
+        {
+            "domain": "xlirdr.com",
+            "prevalence": 0.2
+        },
+        {
+            "domain": "xlviirdr.com",
+            "prevalence": 0.1
+        },
+        {
+            "domain": "mnaspm.com",
+            "prevalence": 0.1
+        },
+        {
+            "domain": "stripchat.com",
+            "prevalence": 0.1
+        }
+    ],
+    "types": {
+        "Fetch": 10
+    },
+    "nameservers": [
+        "amy.ns.cloudflare.com",
+        "duke.ns.cloudflare.com"
+    ]
+}

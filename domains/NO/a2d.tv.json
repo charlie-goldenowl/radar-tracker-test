@@ -1,0 +1,109 @@
+{
+    "domain": "a2d.tv",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-NO"
+    ],
+    "prevalence": 0.000201,
+    "sites": 2,
+    "subdomains": [
+        "client-gateway.tv4",
+        "tv4se-graphql",
+        "imageproxy"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "a2d\\.tv\\/graphql",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "client-gateway.tv4",
+                "tv4se-graphql"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "0b2e8d373025f796a7925211adaf5e26563a55142528c1283ea262eea44dd500",
+                "152342b3c0f1eb6c5c4cc314f23b84a9f1a91e1879452357fe21ff5585ac71b1"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "tv4play.se",
+                "www.tv4play.se",
+                "www.tv4.se"
+            ]
+        },
+        {
+            "rule": "a2d\\.tv\\/graphql",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "client-gateway.tv4",
+                "tv4se-graphql"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Preflight",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "tv4play.se",
+                "www.tv4play.se",
+                "www.tv4.se"
+            ]
+        },
+        {
+            "rule": "a2d\\.tv\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "imageproxy"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [
+                "d3adb16c3c55600f3dfb7d404bccf57b51755e13c2c152aaf13857261a4dfa0c",
+                "ab8b603eba1cfb3c6afda30ecebc968f628ce1decb4bb952d53d0dd38dad4c48"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "tv4play.se",
+                "www.tv4play.se",
+                "www.tv4.se"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000101,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Fetch": 3,
+        "Preflight": 3,
+        "Image": 3
+    },
+    "nameservers": [
+        "ns-1092.awsdns-08.org",
+        "ns-1730.awsdns-24.co.uk",
+        "ns-601.awsdns-11.net",
+        "ns-84.awsdns-10.com"
+    ]
+}

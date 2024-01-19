@@ -1,0 +1,67 @@
+{
+    "domain": "adis.ws",
+    "owner": {
+        "name": "XXXLutz KG",
+        "displayName": "XXXLutz KG"
+    },
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.000302,
+    "sites": 3,
+    "subdomains": [
+        "c1"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "adis\\.ws\\/c\\/cb2\\/amplience-cb2-styles",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "c1"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "08060f1f8731954455cd33c661ec618751759bde0cb41cf533f14352c5c53721"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cb2.ca",
+                "www.cb2.ca"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.875
+        },
+        {
+            "domain": "quantummetric.com",
+            "prevalence": 0.125
+        }
+    ],
+    "types": {
+        "Stylesheet": 2
+    },
+    "nameservers": [
+        "pdns101.ultradns.net",
+        "dns4.p07.nsone.net",
+        "pdns101.ultradns.com",
+        "dns1.p07.nsone.net",
+        "pdns101.ultradns.biz",
+        "pdns101.ultradns.org",
+        "dns2.p07.nsone.net",
+        "dns3.p07.nsone.net"
+    ]
+}

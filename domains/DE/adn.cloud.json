@@ -1,0 +1,153 @@
+{
+    "domain": "adn.cloud",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-DE"
+    ],
+    "prevalence": 0.000604,
+    "sites": 6,
+    "subdomains": [
+        "api.t3be3280.pw",
+        "logging.pw",
+        "tags.pw"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "adn\\.cloud\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api.t3be3280.pw"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [
+                "2e830682bb674334450e552c13b65a497cf38934007661ccf3a02e169fc8ae4f",
+                "26916476ab02278e1e3cc1853f4e18d7150dd15c3f95b864cb3ea897e1a48e23",
+                "45f6e920d63486dac3f486e14eab514eda6f6e39c66228f14d911a39a9108c1e",
+                "7c52d7a9b4556539754e198568aefc8e3ba52b6eba1497b6366d9d5eb862fe3b"
+            ],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ecco.com",
+                "ratgeber.immowelt.de",
+                "tunein.com",
+                "www.disneylandparis.com",
+                "www.immowelt.de",
+                "www.ralphlauren.de"
+            ]
+        },
+        {
+            "rule": "adn\\.cloud\\/",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "api.t3be3280.pw"
+            ],
+            "apis": {},
+            "sites": 6,
+            "prevalence": 0.000604,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Preflight",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ecco.com",
+                "ratgeber.immowelt.de",
+                "tunein.com",
+                "www.disneylandparis.com",
+                "www.immowelt.de",
+                "www.ralphlauren.de"
+            ]
+        },
+        {
+            "rule": "adn\\.cloud\\/collect",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "logging.pw"
+            ],
+            "apis": {},
+            "sites": 5,
+            "prevalence": 0.000504,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ecco.com",
+                "ratgeber.immowelt.de",
+                "tunein.com",
+                "www.disneylandparis.com",
+                "www.immowelt.de"
+            ]
+        },
+        {
+            "rule": "adn\\.cloud\\/4GW4OZ\\/activation\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "tags.pw"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "window.localStorage": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "602728317e1ea4152f5cb15b0ebc77fd200617847fabc6af1e7312137ff668c5"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "immowelt.de",
+                "www.immowelt.de"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 0.4117647058823529
+        },
+        {
+            "domain": "tagcommander.com",
+            "prevalence": 0.23529411764705882
+        },
+        {
+            "domain": "yottaa.com",
+            "prevalence": 0.17647058823529413
+        },
+        {
+            "domain": "tiqcdn.com",
+            "prevalence": 0.11764705882352941
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.058823529411764705
+        }
+    ],
+    "types": {
+        "Fetch": 11,
+        "Preflight": 6,
+        "Script": 2
+    },
+    "nameservers": [
+        "kiki.ns.cloudflare.com",
+        "patryk.ns.cloudflare.com"
+    ]
+}

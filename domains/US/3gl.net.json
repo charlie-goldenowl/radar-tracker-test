@@ -1,0 +1,1658 @@
+{
+    "domain": "3gl.net",
+    "owner": {
+        "name": "CatchPoint Systems Inc",
+        "displayName": "CatchPoint Systems"
+    },
+    "source": [
+        "DuckDuckGo-US"
+    ],
+    "prevalence": 0.00106,
+    "sites": 156,
+    "subdomains": [
+        "g",
+        "r"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "3gl\\.net\\/jp\\/1084\\/v3\\.2\\.1\\/M",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {},
+            "sites": 8,
+            "prevalence": 0.0000544,
+            "cnames": [],
+            "responseHashes": [
+                "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "wiley.com",
+                "agsjournals.onlinelibrary.wiley.com",
+                "agupubs.onlinelibrary.wiley.com",
+                "alz-journals.onlinelibrary.wiley.com",
+                "ietresearch.onlinelibrary.wiley.com",
+                "obgyn.onlinelibrary.wiley.com",
+                "onlinelibrary.wiley.com",
+                "wchh.onlinelibrary.wiley.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/713\\/v3\\.3\\.4\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 3,
+                "Document.cookie getter": 3,
+                "Date.prototype.getTime": 3,
+                "window.innerWidth": 3,
+                "window.innerHeight": 3,
+                "Screen.prototype.height": 3,
+                "Screen.prototype.width": 3
+            },
+            "sites": 3,
+            "prevalence": 0.0000204,
+            "cnames": [],
+            "responseHashes": [
+                "a376b6ed2f74f43bc28924e50344dfc684875ccb082016e97aa88a2698311fde"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bedbathandbeyond.com",
+                "www.bedbathandbeyond.com",
+                "www.overstock.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/hawklogserver\\/r\\.p",
+            "cookies": 0.000408,
+            "fingerprinting": 0,
+            "subdomains": [
+                "r"
+            ],
+            "apis": {},
+            "sites": 62,
+            "prevalence": 0.000422,
+            "cnames": [],
+            "responseHashes": [
+                "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            ],
+            "type": "Ping",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bedbathandbeyond.com",
+                "bhphotovideo.com",
+                "www.allrecipes.com",
+                "www.bedbathandbeyond.com",
+                "www.lifewire.com",
+                "www.thespruce.com",
+                "www.thespruceeats.com",
+                "www.verywellhealth.com",
+                "www.verywellfit.com",
+                "www.liveabout.com",
+                "www.travelandleisure.com",
+                "www.fidelity.com",
+                "www.forever21.com",
+                "www.transunion.com",
+                "www.parents.com",
+                "www.cerave.com",
+                "www.verywellmind.com",
+                "digital.fidelity.com",
+                "www.thebalancemoney.com",
+                "www.dailypaws.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/158\\/v3\\.2\\.7\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "PerformanceTiming.prototype.navigationStart": 2,
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "4fb65281e2dd00b86b144450c150a38bbe8ef664faa9d343f29870869a8e7afa"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bhphotovideo.com",
+                "www.bhphotovideo.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/241\\/v3\\.3\\.2\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 3,
+                "Document.cookie getter": 3,
+                "Date.prototype.getTime": 3,
+                "window.innerWidth": 3,
+                "window.innerHeight": 3,
+                "Screen.prototype.height": 3,
+                "Screen.prototype.width": 3
+            },
+            "sites": 3,
+            "prevalence": 0.0000204,
+            "cnames": [],
+            "responseHashes": [
+                "ebf584035e11c926d546252d8dd5fa4504e5b2bc60f76dc04d3e8883c3a02a82"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "brooksbrothers.com",
+                "stores.brooksbrothers.com",
+                "www.brooksbrothers.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/232\\/v3\\/M",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "coverstore.com",
+                "www.coverstore.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/5060\\/v3\\.3\\.1\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "Screen.prototype.height": 2,
+                "Screen.prototype.width": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "1fc4c36531c51a6d12538b958aa780f38ee293fc9fb85c50e1ab4c79a8efc6f3"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "playstation.com",
+                "direct.playstation.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/401\\/v3\\.3\\.2\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "Screen.prototype.height": 2,
+                "Screen.prototype.width": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "b2baa81978ef90f8a7bac33b34b4db6588c725a8ffb82f31d6672643e48da510"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rocketlawyer.com",
+                "www.rocketlawyer.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/10422\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "6301de01157a57d94dadb376ae5ded5db6791d472a463a75859b515d8ad6444b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "agriculture.com",
+                "www.agriculture.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/7823\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "dd04686566ee3f0185068a7bd54fa1f1f5fefd04993bf1d680db29497ae95d03"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "allrecipes.com",
+                "www.allrecipes.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/9352\\/v3\\.3\\.6\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "025d2e7232a1f1e1cc7b21463a247111d39a8b67b6e7c7fc47b10bf5f314af53"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bedbathandbeyond.ca",
+                "www.bedbathandbeyond.ca"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/7822\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "41fa58380167395a3893e2fcac86a5cda15a8031c4494136284ea63b2246a72a"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bhg.com",
+                "www.bhg.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/3144\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 1,
+                "Document.cookie getter": 1,
+                "Date.prototype.getTime": 1,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "f145f933af439961ed3e62c26fc8c46dbe01eb7cbbbea46441497c56f5b25892"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "brides.com",
+                "www.brides.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/2026\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 1,
+                "Document.cookie getter": 1,
+                "Date.prototype.getTime": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "057e9855a0068070521d9272f077993789b6acf218d8b439666fc64a39ed9507"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "byrdie.com",
+                "www.byrdie.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/10216\\/v3\\.3\\.6\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "8c21ffcdcbe5027194c7d7d887e96f7e198df2d275c362bbd05024a1c443ffc5"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cerave.com",
+                "www.cerave.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/4649\\/v3\\.3\\.0\\/M",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "chosun.com",
+                "www.chosun.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/9217\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "74a0c83dc1a7ef5520857fbe71b6d847b12d0791ba077a0b6411c2281d754eaa"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "dailypaws.com",
+                "www.dailypaws.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/9218\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "19ba4bc71e8f8887ee5dfe92431283ab449f59d8dfcb28278f5df61ec16c4dc3"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "eatingwell.com",
+                "www.eatingwell.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/7819\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "4b78181be17aad3f99cbac62fa68811cce9f26a5acf673d35945a342404cc2fd"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "foodandwine.com",
+                "www.foodandwine.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/8497\\/v3\\.3\\.5\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "Screen.prototype.height": 2,
+                "Screen.prototype.width": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "cceee3b6472c60602e3831ac2b2bd947a33961a210eff4744f6ff0db06b1e9ab"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "forever21.com",
+                "www.forever21.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/10220\\/v3\\.3\\.6\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "9e981c7a257a4fdc5a0f5fcec310a0673d3613eb27d5cacb0fa821566076498c"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "garnierusa.com",
+                "www.garnierusa.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/7818\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "740f0653b40810067e28faa9b78175c0c76cbd7052dd0167eddcfa22fb6e450c"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "health.com",
+                "www.health.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/309\\/v3\\.3\\.5\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 1,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "dfe44486a4b9ba939a2c756808b73525b485ab809e4115875927d75dba262bdd"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hottopic.com",
+                "www.hottopic.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/7817\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "f0060b58a7f69e3051cc5c8c765935a169b1980abfeedd546a0197910417926e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "instyle.com",
+                "www.instyle.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/555\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "9d6ac9178e4c6cb0b0358896e9c9365ca3d7d1fa1e7e769b758200d71421e639"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investopedia.com",
+                "www.investopedia.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/2251\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "a6bda5b7865c27f12962e1c30a7e2b2d04d5d91fba364411cc232876c7d85c5f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "learnreligions.com",
+                "www.learnreligions.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/552\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "0a6da0ddd4a03a8c8542cc5e99b2f25749aa1711de66f44b148f2905c64b5ae2"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "lifewire.com",
+                "www.lifewire.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/3656\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "0119f1526a87f5da5669216eda9b9c57cbf47a97b6d639e25fcd7755b96fa226"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "liquor.com",
+                "www.liquor.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/382\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "1316d971f6c6fca0a347f0948664ce195065b6970e63c6420e3c4a828ea7a56e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "liveabout.com",
+                "www.liveabout.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/10300\\/v3\\.3\\.7\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "3a7e6719fa24bba3487e44c7486084ca78f0e2e5934af60f50e566b04a19bc2b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "lorealparisusa.com",
+                "www.lorealparisusa.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/7495\\/v3\\.3\\.9\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Date.prototype.getTime": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "342ab692415802d677e4cfa2efca36172db68af21c3f4ffe1319772617f9a9d6"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "marmot.com",
+                "www.marmot.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/9219\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "197b90d9448300c1323e6ddf882fbf7a199d6fc87213450be4d9e2bd76bd5de9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "marthastewart.com",
+                "www.marthastewart.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/9220\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "64acfeee192fd05bed498d435e427b2ae2a20e605130332aa284039e9b993f34"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "midwestliving.com",
+                "www.midwestliving.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/2027\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 1,
+                "Document.cookie getter": 1,
+                "Date.prototype.getTime": 1,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mydomaine.com",
+                "www.mydomaine.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/344\\/v3\\/M",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mylife.com",
+                "www.mylife.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/7816\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "9a84a708b4398c22ebd403bf46d4de93134467be2051d5c2e755bdd577660606"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "parents.com",
+                "www.parents.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/8774\\/v3\\.3\\.6\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "window.localStorage": 2,
+                "Screen.prototype.height": 2,
+                "Screen.prototype.width": 2,
+                "Document.cookie getter": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "28863f8b529114694a23f494f5d983436f47ddac5b9a45ffe2671b588c91c12b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "publicstorage.com",
+                "www.publicstorage.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/7814\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "c849ea274ca00fbe43d94eead256303a713ccbbcdcb288f676dffb1dbde19694"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "realsimple.com",
+                "www.realsimple.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/5463\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 1,
+                "Document.cookie getter": 1,
+                "Date.prototype.getTime": 1,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "seriouseats.com",
+                "www.seriouseats.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/7813\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "5ec3e77b0a0b41affefb25d2aa7e07d71dcc5860f4e97f5457f261639d4297d4"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "shape.com",
+                "www.shape.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/7812\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "1284c3f13d567ee9e989d1297e511ae728418237d3bf169d789cc9b039c39f86"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "southernliving.com",
+                "www.southernliving.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/553\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "3b29982fad815259341fec7b04883434fc238e6320c939b2a2aa6be47d02ee83"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thebalancemoney.com",
+                "www.thebalancemoney.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/557\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "34a1b3106929fcd0e42a587fcc529496cf865145b350b3c5a13f16c0f0899778"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thespruce.com",
+                "www.thespruce.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/558\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "0a14127c0732bf83ec428ca625a4acd65faf26f708732e83e71c76fda6af692a"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thesprucecrafts.com",
+                "www.thesprucecrafts.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/559\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "7101e184fcfb02d168cdc931771d9b96ca072431d01cb4ea4e6ecb1e16af5e80"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thespruceeats.com",
+                "www.thespruceeats.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/560\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "d9755ab825360abc3675d7e4b26ee1d2c291688d80b0036da9fdba26804f10ca"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thesprucepets.com",
+                "www.thesprucepets.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/7811\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "18cda8437eabedcad4a4efd1d6cff8f038a75e98bd324ad9636d92d705b78310"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "travelandleisure.com",
+                "www.travelandleisure.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/3961\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 1,
+                "Document.cookie getter": 1,
+                "Date.prototype.getTime": 1,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "treehugger.com",
+                "www.treehugger.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/562\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "4847e080820628f2e36bd3e02b15cfc5b434569dcacee030f21b8abe6cda1a9b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "tripsavvy.com",
+                "www.tripsavvy.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/564\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "3b19e89f7bea94251c333cac271d63334fea23224a7f5ad0e1d4429bcec717ad"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "verywellfamily.com",
+                "www.verywellfamily.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/565\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "c4b25d7a7493f238d4fd71edd201c9f60382ab92b24a668b0920fb9a6c64c0fb"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "verywellfit.com",
+                "www.verywellfit.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/563\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 1,
+                "Document.cookie getter": 1,
+                "Date.prototype.getTime": 1,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "verywellhealth.com",
+                "www.verywellhealth.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/566\\/v3\\.3\\.10\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "Screen.prototype.height": 1,
+                "Screen.prototype.width": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "baf184f147b3f272aea154d3512e1b03c55b975db4ae81187028b50985a3b12f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "verywellmind.com",
+                "www.verywellmind.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/5168\\/v3\\.3\\.2\\/M",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "Screen.prototype.height": 2,
+                "Screen.prototype.width": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "90b34e2d99b8ac876368cba82cf47d8c2ea51a33eca941c6b5ea25bb56eb7252"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "vonage.com",
+                "www.vonage.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/5853\\/v3\\.3\\.0\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Document.cookie getter": 2,
+                "Date.prototype.getTime": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "da191b6dde84ae69fdd025419ff81ff0f66efaa2ce7251bca9284377dd646745"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "wsbtv.com",
+                "www.wsbtv.com"
+            ]
+        },
+        {
+            "rule": "3gl\\.net\\/jp\\/5711\\/v3\\.3\\.9\\/M",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "g"
+            ],
+            "apis": {
+                "window.localStorage": 2,
+                "Date.prototype.getTime": 2,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [],
+            "responseHashes": [
+                "3ee8ad388789205543d70c0b1f4f2e8d75518800572a2a85795d8825dd238283"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "yankeecandle.com",
+                "www.yankeecandle.com"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000599,
+    "topInitiators": [
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.5469613259668509
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.3701657458563536
+        },
+        {
+            "domain": "bhphoto.com",
+            "prevalence": 0.027624309392265192
+        },
+        {
+            "domain": "bedbathandbeyond.com",
+            "prevalence": 0.022099447513812154
+        },
+        {
+            "domain": "adobedtm.com",
+            "prevalence": 0.016574585635359115
+        },
+        {
+            "domain": "ostkcdn.com",
+            "prevalence": 0.011049723756906077
+        },
+        {
+            "domain": "fidelity.com",
+            "prevalence": 0.0055248618784530384
+        }
+    ],
+    "types": {
+        "Script": 118,
+        "Ping": 62
+    },
+    "nameservers": [
+        "dns1.p04.nsone.net",
+        "dns2.p04.nsone.net",
+        "ns04.catchpointdns.com",
+        "dns3.p04.nsone.net",
+        "ns02.catchpointdns.com",
+        "dns4.p04.nsone.net",
+        "ns01.catchpointdns.com",
+        "ns03.catchpointdns.com"
+    ]
+}

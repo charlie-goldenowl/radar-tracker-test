@@ -1,0 +1,76 @@
+{
+    "domain": "1vag.com",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-US"
+    ],
+    "prevalence": 0.000435,
+    "sites": 64,
+    "subdomains": [
+        "cdn"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "1vag\\.com\\/1x1\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cdn"
+            ],
+            "apis": {},
+            "sites": 48,
+            "prevalence": 0.000327,
+            "cnames": [],
+            "responseHashes": [
+                "968b17baf99ffc8097fdbe0d8552113c2f6e7da2a63e3967f24811e2e2e0a312"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "videmms.com",
+                "www.hindixxxsite.com",
+                "escort13.com",
+                "hentaiz.one",
+                "footstockings.com",
+                "www.torlock.com",
+                "mm.pornodomka.org",
+                "pornwatch.ws",
+                "deadhouse.org",
+                "www.pornhits.com",
+                "pornodomka.com",
+                "naked.chiks.org",
+                "bananamovies.org",
+                "sekaikomik.bio",
+                "www5.javmost.com",
+                "pornogids.net",
+                "telochki.org",
+                "goredb.com",
+                "xxxstrike.com",
+                "dankwank.net"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "cabnnr.com",
+            "prevalence": 0.9574468085106383
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.0425531914893617
+        }
+    ],
+    "types": {
+        "Document": 48
+    },
+    "nameservers": [
+        "dilbert.ns.cloudflare.com",
+        "asa.ns.cloudflare.com"
+    ]
+}

@@ -1,0 +1,1223 @@
+{
+    "domain": "admeen.org",
+    "owner": {
+        "name": "Admeen B.V.",
+        "displayName": "Admeen"
+    },
+    "source": [
+        "DuckDuckGo-CH"
+    ],
+    "prevalence": 0.000302,
+    "sites": 3,
+    "subdomains": [
+        "tcf"
+    ],
+    "cnames": [],
+    "fingerprinting": 2,
+    "resources": [
+        {
+            "rule": "admeen\\.org\\/game\\/500\\/307\\/130x130\\/bubble-shooter\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "662bad5a2ba025c0a61df83e5cee1fae94ccea7865c5aacf5aa03cb97076eeaf"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/16000\\/15636\\/130x130\\/solitaire-classic\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b994ccaa8ffb3f214e71242791818402f8d142050fcb8f4ebff48c810914145f"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/15500\\/15158\\/130x130\\/kris-mahjong\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "37997d32fd71a488a8c43449549f39d9b32ee5354fbc0d4eb7c2ab7c22bb69fe"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/16500\\/16221\\/130x130\\/mahjong-connect\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b9e9d25305c96232f4b746d78f1dd27f3cd2480e5ea604e89e48994df0168ae5"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/17500\\/17210\\/130x130\\/mahjong-dimensions\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c1ce44b0930e92b626605413ee168d369aee731a795b2d32736aeb81ae3b7185"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/15500\\/15014\\/130x130\\/moto-x3m\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f0c6ef30d5ec0813afa2250e426470a43685781b9ee4be7949bf7525bd76d30a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/15000\\/14974\\/130x130\\/butterfly-kyodai\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e88a8f25fdc94746fa2d916e81da3f389c630e585e80fdb62ed3463dcc6cf344"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/17500\\/17133\\/130x130\\/jewels-blitz-4\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "bd1f1d88b49d34096dcc34fe7bc1504060b1203fa6d04ef39253d07718f24fce"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/17000\\/16983\\/130x130\\/mahjong-classic\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "8633b14a236aeed8021ed094865c5da0ae07b831c1c4f9ee64eb13b054e00e98"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/17000\\/16989\\/130x130\\/garden-tales\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "767249fcfab87f994a3d8494aacf035093914bb59838e66a166b330c7fdd7f8a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/15500\\/15040\\/130x130\\/spider-solitaire\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "ef80c65a7260ca41090c0d197dbf0d42d744632f00ca80d158346979b194268b"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/17000\\/16862\\/130x130\\/worms-zone\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e1d037c7fba3d1f1bfbf0f4edf3e4a6063f533417699cf4ac3d73e06f1ad71bc"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/4000\\/3956\\/130x130\\/gorillaz-tiles\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f5430c845d91ac193bb34c295fdb116f79743a292ae166ecc2c2481ff0903724"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/17500\\/17258\\/130x130\\/candy-riddles\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d8e5a5e39735a113c4f7b3916673aa16f344c353afc9f0d03b5097a8eaeaa576"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/16500\\/16242\\/80x80\\/governor-of-poker-3\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "dad2435f750723c28c69553cf014cc1f06769cb2acf2af884e314faf7b36e9d8"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/1000\\/513\\/30x30\\/mahjong\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4f4a9d7c7342df4e8518abcd613060af91afa050bcdb866bee8ea2c424a6835a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/16000\\/15926\\/80x80\\/slither-io\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "05ebe3d8f58f27bcf2ac3d94de3dded3aa325549695c121dfa21d49f5993628a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/3000\\/2954\\/30x30\\/match-3\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "39683f7b3cc27f163f656533360443de546543d8444413e176010775a2150021"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/17000\\/16862\\/80x80\\/worms-zone\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "061f1eefc5769b060c0a0351656048b0f39c6d1bca3d7fb1b2d134c0d2bbbbb5"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/500\\/61\\/30x30\\/bubbles\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e0767aa72beffdf4e7fe1b29a3be913cee32e3bceb1373e7c3d269da443e02d3"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/3500\\/3061\\/30x30\\/minecraft\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4df111e85d62f9e8c4e6ef2ac87d369fd4219aab544089c786108dfd90a3a128"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/500\\/346\\/30x30\\/soccer\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "533e0033efcc0d1b93d686e8adcf390105ca3597e4df7ec08cfee12d27eba300"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/3000\\/2965\\/30x30\\/arcade\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "73793b194d3dca226a2e8dae6c802da1557e1e0cfb1df70e69525a3d28061d68"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18178\\/130x130\\/construction-ramp-jumping\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e9f72fb1f51c2ffb1d217ba6b959d318f89eb5fda5311d3722d6608f2c23cb1c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18163\\/130x130\\/tripeaks-solitaire-holiday\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "3fe43e22995899cce8754e2e9ff9427d123c005e91647e9d976da793facadb8d"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18182\\/130x130\\/snowboard-king-2024\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "c2a5b6b0524360d62f589b104635db571d2ca59b47619e8fb4ce0a4aff5ab7bb"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18179\\/130x130\\/food-match\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "7d398ac2e1764bcb594aedd82d5966aa514400a2152d1e2b5bfcc701e0ed171b"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18181\\/130x130\\/organization-princess\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a85e20c5c12be6b9cc70924fa5c2983d1eeb6049844e322a00639a4839ce6ec4"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18177\\/130x130\\/raft-life\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "5953932efa24b12f4809d5ccb830992150491ffd89e089870674a27327d47a77"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18180\\/130x130\\/drift-challenge-turbo-racer\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "849fb59d07ef7958cc520de6e8a2ea28d7279060acc1ffb1d98fa82f7579996b"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18175\\/130x130\\/gold-strike-icy-cave\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e16a47c39d61728fec74c14443333d8b482aeb4b9009ca123e8fd2fe3fac09f7"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18172\\/130x130\\/candy-rain-8\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "10ff62d61b2e82b5eb531b4099c346917a0c79e1080ab63be84783db031a9e5a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18176\\/130x130\\/fish-stab-getting-big\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f5e8f0a32129844cc58a1683a3b7555968b3e487761bc2c656cd4c7f78e82f7f"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18174\\/130x130\\/cooking-frenzy\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "1c65500e3df8084303b8547f9007a92d8db5f244c3cfe91c04ffa45c3a4d832a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18173\\/130x130\\/mahjong-christmas-holiday\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "cf4f4a10a81723bf431069b0a77085a06db3a4f0f0b97445b5dbf896d96af94a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18151\\/130x130\\/hangman\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "098fb57068240739900b5695a872339235c530c02eb969f5c2af09548621d155"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18169\\/130x130\\/dog-puzzle-story-3\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "adfa114cd15ba540aaf2554e9ceb96439a3cbfb30272c2036bdcab5f5d89a527"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18168\\/130x130\\/brawl-hero\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a06c7025d0f34d56ed4fb6924205557f5fb3c827dc8aba3556171e3fe441b518"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18500\\/18171\\/130x130\\/cut-the-rope-experiments\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "27b65d3be7d5d45409c4016b884ac12df167f05722d30a4f4a9b1c8ba6d0965c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/10500\\/10028\\/320x160\\/goodgame-empire\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2ccd715f2c4b33bfa68c61021274b7a1bb9fd6ec45fe183e3e34d2d099050a0d"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/12000\\/11935\\/320x160\\/goodgame-big-farm\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "1aa319c4b244c57c2e32fbf66e30e3f54c7a0801801524ad25eeb109d819cc51"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/16500\\/16242\\/320x160\\/governor-of-poker-3\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "263b598db808c82185f585d20f6cda91342bf042fcadeeb12e5bdaf766edb17a"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/8000\\/7837\\/320x160\\/farmerama\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "29ed0d1d8ae3f859a51d67f196dc0f9358bbc2049735f84413aead2a31dd7074"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/18000\\/17809\\/320x160\\/game-of-thrones\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "95b1dc43240fb852eb74ad77ec27c2f5c3714356a7b1f8d52d12e7e3b49fb71c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/game\\/16500\\/16058\\/320x160\\/klondike\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "84307bbbf18f32db14f323cf214d293e8e9893a2ac073754b6dbd9e677315d72"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/3000\\/2969\\/200x123\\/car\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "960ee1c31206c0a46162eb4019c89596c2de55d88fb0ae7148c83794281909f0"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/3000\\/2952\\/200x123\\/fireboy-watergirl\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "fbb2744cc38d4910e999d124f03fd98e8b5a626b9b043cd3a4f549d412d5ab4e"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/1000\\/513\\/200x123\\/mahjong\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "97c162f7d87c79e1b2860731890f84bcbfe3b5aa64bbea559267c46274f42284"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/500\\/138\\/200x123\\/dress-up\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "567abc3f62d4b7e00e17bdc853e590622e80234004b78ab887f730a91d30c51e"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/500\\/488\\/200x123\\/shooting\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "e02fd90832d0c9f71b0b2486b9c64c892fe99f7c1f80460bdf0c1bf57c3a2eba"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/500\\/434\\/200x123\\/christmas\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d9c292230f71d99681eb1b8632f14b51da548e5fabfaec33b61cd2e97411bb8d"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/500\\/346\\/200x123\\/soccer\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "172e696f31d084760f107b05a2c57e6d41f481f31adffa06fa4c506c37981a32"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/500\\/61\\/200x123\\/bubbles\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a48d9c426f1303526a5b1e3764f162d1137d87d9bff5f0d1ae5472006a3b967b"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        },
+        {
+            "rule": "admeen\\.org\\/category\\/3500\\/3061\\/200x123\\/minecraft\\.webp",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tcf"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "513242cb22de0d4f71dcd40abb1ff1a849bdec796db96c076a258167f824310f"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1001jeux.fr",
+                "www.1001spiele.de"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.000302,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Image": 108
+    },
+    "nameservers": [
+        "tina.ns.cloudflare.com",
+        "fred.ns.cloudflare.com"
+    ]
+}

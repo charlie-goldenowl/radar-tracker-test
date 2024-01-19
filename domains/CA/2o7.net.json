@@ -1,0 +1,820 @@
+{
+    "domain": "2o7.net",
+    "owner": {
+        "name": "Adobe Inc.",
+        "displayName": "Adobe",
+        "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+        "url": "http://adobe.com"
+    },
+    "source": [
+        "DuckDuckGo-CA"
+    ],
+    "prevalence": 0.00594,
+    "sites": 59,
+    "subdomains": [
+        "cbc.ca.122",
+        "cbc.ca.102.122",
+        "cnn.com.102.122",
+        "radiocanada.122",
+        "intuit.ca.102.122",
+        "adultswim.com.102.122",
+        "ana.112",
+        "carhartt.com.102.112",
+        "rcci.122",
+        "costco.ca.102.122",
+        "dpiprodesntls.112",
+        "harley-davidson.com.102.122",
+        "healthgrades.com.102.112",
+        "lenscrafters.ca.102.122",
+        "mint.ca.102.122",
+        "ncl.com.102.112",
+        "ncaa.com.102.122",
+        "tcm.com.102.122",
+        "wm.com.122",
+        "oracle.112",
+        "sonyhelpguideglobal.112",
+        "amazonservices.122",
+        "logitechlogitechglobal.112",
+        "active.com.102.122",
+        "crtnavcharitynavigatorprod.112",
+        "hallmarkcom.112",
+        "intervalworld.com.102.122",
+        "nadaguidesjdpower.112",
+        "nhlbi.122",
+        "patagonia.122",
+        "tranetranetechnologies.112",
+        "winecom.112"
+    ],
+    "cnames": [
+        {
+            "original": "metrics.cbc.ca",
+            "resolved": "cbc.ca.122.2o7.net"
+        },
+        {
+            "original": "metrics.wm.com",
+            "resolved": "wm.com.122.2o7.net"
+        },
+        {
+            "original": "sanalytics.ncaa.com",
+            "resolved": "ncaa.com.102.122.2o7.net"
+        },
+        {
+            "original": "sanalytics.tcm.com",
+            "resolved": "tcm.com.102.122.2o7.net"
+        },
+        {
+            "original": "sci.intuit.ca",
+            "resolved": "intuit.ca.102.122.2o7.net"
+        },
+        {
+            "original": "smetrics.active.com",
+            "resolved": "active.com.102.122.2o7.net"
+        },
+        {
+            "original": "smetrics.cbc.ca",
+            "resolved": "cbc.ca.102.122.2o7.net"
+        },
+        {
+            "original": "smetrics.cnn.com",
+            "resolved": "cnn.com.102.122.2o7.net"
+        },
+        {
+            "original": "smetrics.costco.ca",
+            "resolved": "costco.ca.102.122.2o7.net"
+        },
+        {
+            "original": "smetrics.harley-davidson.com",
+            "resolved": "harley-davidson.com.102.122.2o7.net"
+        },
+        {
+            "original": "smetrics.intervalworld.com",
+            "resolved": "intervalworld.com.102.122.2o7.net"
+        },
+        {
+            "original": "smetrics.lenscrafters.ca",
+            "resolved": "lenscrafters.ca.102.122.2o7.net"
+        },
+        {
+            "original": "som.healthgrades.com",
+            "resolved": "healthgrades.com.102.112.2o7.net"
+        },
+        {
+            "original": "sowa.carhartt.com",
+            "resolved": "carhartt.com.102.112.2o7.net"
+        },
+        {
+            "original": "sstat.ncl.com",
+            "resolved": "ncl.com.102.112.2o7.net"
+        },
+        {
+            "original": "sstats.adultswim.com",
+            "resolved": "adultswim.com.102.122.2o7.net"
+        },
+        {
+            "original": "stats.mint.ca",
+            "resolved": "mint.ca.102.122.2o7.net"
+        }
+    ],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "2o7\\.net\\/id",
+            "cookies": 0.00181,
+            "fingerprinting": 0,
+            "subdomains": [
+                "cbc.ca.122",
+                "cbc.ca.102.122",
+                "cnn.com.102.122",
+                "radiocanada.122",
+                "intuit.ca.102.122",
+                "adultswim.com.102.122",
+                "ana.112",
+                "carhartt.com.102.112",
+                "rcci.122",
+                "costco.ca.102.122",
+                "dpiprodesntls.112",
+                "harley-davidson.com.102.122",
+                "healthgrades.com.102.112",
+                "lenscrafters.ca.102.122",
+                "mint.ca.102.122",
+                "ncl.com.102.112",
+                "ncaa.com.102.122",
+                "tcm.com.102.122",
+                "wm.com.122"
+            ],
+            "apis": {},
+            "sites": 23,
+            "prevalence": 0.00232,
+            "cnames": [
+                {
+                    "original": "metrics.cbc.ca",
+                    "resolved": "cbc.ca.122.2o7.net"
+                },
+                {
+                    "original": "smetrics.cbc.ca",
+                    "resolved": "cbc.ca.102.122.2o7.net"
+                },
+                {
+                    "original": "smetrics.cnn.com",
+                    "resolved": "cnn.com.102.122.2o7.net"
+                },
+                {
+                    "original": "sci.intuit.ca",
+                    "resolved": "intuit.ca.102.122.2o7.net"
+                },
+                {
+                    "original": "sstats.adultswim.com",
+                    "resolved": "adultswim.com.102.122.2o7.net"
+                },
+                {
+                    "original": "sowa.carhartt.com",
+                    "resolved": "carhartt.com.102.112.2o7.net"
+                },
+                {
+                    "original": "smetrics.costco.ca",
+                    "resolved": "costco.ca.102.122.2o7.net"
+                },
+                {
+                    "original": "smetrics.harley-davidson.com",
+                    "resolved": "harley-davidson.com.102.122.2o7.net"
+                },
+                {
+                    "original": "som.healthgrades.com",
+                    "resolved": "healthgrades.com.102.112.2o7.net"
+                },
+                {
+                    "original": "smetrics.lenscrafters.ca",
+                    "resolved": "lenscrafters.ca.102.122.2o7.net"
+                },
+                {
+                    "original": "stats.mint.ca",
+                    "resolved": "mint.ca.102.122.2o7.net"
+                },
+                {
+                    "original": "sstat.ncl.com",
+                    "resolved": "ncl.com.102.112.2o7.net"
+                },
+                {
+                    "original": "sanalytics.ncaa.com",
+                    "resolved": "ncaa.com.102.122.2o7.net"
+                },
+                {
+                    "original": "sanalytics.tcm.com",
+                    "resolved": "tcm.com.102.122.2o7.net"
+                },
+                {
+                    "original": "metrics.wm.com",
+                    "resolved": "wm.com.122.2o7.net"
+                }
+            ],
+            "responseHashes": [
+                "8f9fd98cc967839d556201f55eac0a12861a6426498f86fad12f0021b7dcd9da",
+                "590bacc2d0550b0c482f89b457ba5154978a83cd0eb8a89dcca3b12502464385",
+                "cd62503d689d6d927bde564ac736bc3213fc9faf757395651404221c61576807",
+                "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+                "e1f3be180d33391efab9c5f68cbc1c23cb0db756dc0483f85baf47f5da781151",
+                "f8958e2ba319e226870a3ba9d3f650f6afadb1ebb668d67286b929f633f0d0a8",
+                "f10fda49579e1d54d8a9cc19ecd8fe2f5c5fbc821b8dcf69a8329b9eff30899b",
+                "e5ad9725e943d27dc7a3d43a6dcb5fcbc7d35966e317522039bef75df9c6e8c0",
+                "3f6efbfd0a7dbe401c388b79e402d45cd19d829d2c4a429a288aad9bd3ec7d86",
+                "06455583a8a0aafc066cfa23e27c694a976a03503d6c8728cec9bb891f1d5bc8",
+                "724e88487db105240d4fe104de5aab1c7c02cfdf1264235cabf306ce58987224",
+                "f6edcd0203cc9acc7ac1326045fca3a085b9ca48c3f305064679bd8c13171e33",
+                "1a36dc5bb65edcb28506f2587c2abeaa525fecee769591910f7ad9e5ce0ab4fc",
+                "7a9c9eb0fc08a3575784c93c0fca5a968e2af2f350456e32438e67d7a8aa584f",
+                "fd58fb17b6d8ff8a788c9b33668a1e67424873343af27fb6075e486109a40fc2",
+                "21b008dc153a9243a6fe4fa036128e153c4c8f0897927da7e403b0bb97386a7b",
+                "457dc1472b066c28b703a85d7c01c084237969c70c2e0d9d424b57f51a06f0d1"
+            ],
+            "type": "XHR",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "MCMID": 0.00010073536818777072
+            },
+            "exampleSites": [
+                "cbc.ca",
+                "www.cbc.ca",
+                "www.cnn.com",
+                "www.healthgrades.com",
+                "www.mint.ca",
+                "www.tcm.com",
+                "www.wm.com",
+                "www.celebritycruises.com",
+                "edition.cnn.com",
+                "www.harley-davidson.com",
+                "cbchelp.cbc.ca",
+                "www.costco.ca",
+                "www.lenscrafters.ca",
+                "www.ana.co.jp",
+                "www.dropboxforum.com",
+                "www.carhartt.com",
+                "www.ncl.com",
+                "www.ncaa.com",
+                "turbotax.intuit.ca",
+                "gem.cbc.ca"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/sunmysql\\/1\\/JS-2\\.6\\.0\\/s76340746531381",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "oracle.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "s_fid": 0.00020147073637554144,
+                "gpw_e24": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "mysql.com",
+                "dev.mysql.com"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/oracleglobal\\/1\\/JS-2\\.6\\.0\\/s77118732398886",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "oracle.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "s_fid": 0.00020147073637554144,
+                "gpw_e24": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "oracle.com",
+                "docs.oracle.com"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/helpguidesonymainprd\\/1\\/H\\.22\\.1\\/s74681935831656",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "sonyhelpguideglobal.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sony.net",
+                "helpguide.sony.net"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/amznsrvsglobalprod,amznsrvsmainprod,amznsrvsprod,amznsrvsglobalprodbotfilter\\/1\\/JS-1\\.5\\.4\\/s7156684188089",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "amazonservices.122"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "ld": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "amazon.ca",
+                "sellercentral.amazon.ca"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/logitechlogitech-global\\/1\\/JS-2\\.21\\.0\\/s77469987577497",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "logitechlogitechglobal.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "s_fid": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "logi.com",
+                "support.logi.com"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/intuitca-turbotaxglobal\\/1\\/JS-2\\.10\\.0\\/s79369592521317",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "intuit.ca.102.122"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "sci.intuit.ca",
+                    "resolved": "intuit.ca.102.122.2o7.net"
+                }
+            ],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "s_fid": 0.00020147073637554144,
+                "sc_ca_sessChannel": 0.00020147073637554144,
+                "sc_ca_cmp_cvp-d": 0.00020147073637554144,
+                "test_c_ca_sessChannel": 0.00020147073637554144,
+                "test_sc_ca_cmp_cvp-d": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "intuit.ca",
+                "turbotax.intuit.ca"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/intuitca-turbotaxglobal\\/1\\/JS-2\\.10\\.0\\/s76419355518470",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "intuit.ca.102.122"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "sci.intuit.ca",
+                    "resolved": "intuit.ca.102.122.2o7.net"
+                }
+            ],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "s_fid": 0.00020147073637554144,
+                "sc_ca_sessChannel": 0.00020147073637554144,
+                "sc_ca_cmp_cvp-d": 0.00020147073637554144,
+                "test_c_ca_sessChannel": 0.00020147073637554144,
+                "test_sc_ca_cmp_cvp-d": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "intuit.ca",
+                "turboimpot.intuit.ca"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/anactivecomprod\\/1\\/JS-2\\.20\\.0\\/s74671748604658",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "active.com.102.122"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "smetrics.active.com",
+                    "resolved": "active.com.102.122.2o7.net"
+                }
+            ],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "s_fid": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "active.com",
+                "www.active.com"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/anacommonprd\\/1\\/JS-2\\.6\\.0\\/s77445861335548",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ana.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ana.co.jp",
+                "www.ana.co.jp"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/crtnavcharitynavigatorprod\\/1\\/JS-2\\.23\\.0-LCXS\\/s78538822766602",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "crtnavcharitynavigatorprod.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "s_fid": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "charitynavigator.org",
+                "www.charitynavigator.org"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/hallmarkchannel\\/1\\/H\\.21\\/s77566016621444",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "hallmarkcom.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hallmarkchannel.com",
+                "www.hallmarkchannel.com"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/intintervalworld\\/1\\/JS-2\\.22\\.0\\/s72253147619489",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "intervalworld.com.102.122"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [
+                {
+                    "original": "smetrics.intervalworld.com",
+                    "resolved": "intervalworld.com.102.122.2o7.net"
+                }
+            ],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "intervalworld.com",
+                "www.intervalworld.com"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/sunjava\\/1\\/H\\.19\\.4\\/s77399270264866",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "oracle.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "java.com",
+                "www.java.com"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/nadaguidesjdpower\\/1\\/JS-2\\.20\\.0-LDQM\\/s79771543698786",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "nadaguidesjdpower.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "s_fid": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "jdpower.com",
+                "www.jdpower.com"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/nhlbiglobal\\/1\\/JS-2\\.25\\.0-LDQM\\/s75592844983505",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "nhlbi.122"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "s_fid": 0.00020147073637554144,
+                "gpv_Page": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "nih.gov",
+                "www.nhlbi.nih.gov"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/oracleglobal\\/1\\/JS-2\\.6\\.0\\/s74209944341341",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "oracle.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "oracle.com",
+                "www.oracle.com"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/patagoniav2production\\/1\\/JS-2\\.23\\.0\\/s7691689936861",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "patagonia.122"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "utag_main_vapi_domain": 0.00020147073637554144,
+                "s_fid": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "patagonia.ca",
+                "www.patagonia.ca"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/patagoniav2production\\/1\\/JS-2\\.23\\.0\\/s78303938357114",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "patagonia.122"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "utag_main_vapi_domain": 0.00020147073637554144,
+                "s_fid": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "patagonia.com",
+                "www.patagonia.com"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/tranetranetechnologies\\/1\\/JS-2\\.23\\.0-LDQM\\/s71200066843612",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "tranetranetechnologies.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "s_fid": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "trane.com",
+                "www.trane.com"
+            ]
+        },
+        {
+            "rule": "2o7\\.net\\/b\\/ss\\/winecom,wineuniversalplatform\\/1\\/JS-2\\.21\\.0\\/s76905574517202",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "winecom.112"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "55c9d2f019f9d7ddfd69b2ad0351c5617338a222362aebb02b3b98a4dbc18486"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {
+                "s_fid": 0.00020147073637554144
+            },
+            "exampleSites": [
+                "wine.com",
+                "www.wine.com"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Analytics",
+        "Audience Measurement",
+        "Third-Party Analytics Marketing",
+        "Action Pixels"
+    ],
+    "performance": {},
+    "cookies": 0.00363,
+    "topInitiators": [
+        {
+            "domain": "adobedtm.com",
+            "prevalence": 0.32558139534883723
+        },
+        {
+            "domain": "tiqcdn.com",
+            "prevalence": 0.32558139534883723
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.20930232558139536
+        },
+        {
+            "domain": "oracle.com",
+            "prevalence": 0.023255813953488372
+        },
+        {
+            "domain": "oracleimg.com",
+            "prevalence": 0.023255813953488372
+        },
+        {
+            "domain": "radio-canada.ca",
+            "prevalence": 0.023255813953488372
+        },
+        {
+            "domain": "media-amazon.com",
+            "prevalence": 0.023255813953488372
+        },
+        {
+            "domain": "appdynamics.com",
+            "prevalence": 0.023255813953488372
+        },
+        {
+            "domain": "cookielaw.org",
+            "prevalence": 0.011627906976744186
+        },
+        {
+            "domain": "sdiapi.com",
+            "prevalence": 0.011627906976744186
+        }
+    ],
+    "types": {
+        "XHR": 23,
+        "Image": 40
+    },
+    "nameservers": [
+        "ns404.adobe.net",
+        "ns204.adobe.net",
+        "ns203.adobe.net",
+        "ns202.adobe.net",
+        "ns206.adobe.net",
+        "ns403.adobe.net",
+        "ns402.adobe.net",
+        "ns205.adobe.net",
+        "ns401.adobe.net",
+        "ns201.adobe.net"
+    ]
+}

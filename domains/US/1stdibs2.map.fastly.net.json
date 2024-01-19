@@ -1,0 +1,759 @@
+{
+    "domain": "1stdibs2.map.fastly.net",
+    "owner": {
+        "name": "Fastly, Inc.",
+        "displayName": "Fastly",
+        "privacyPolicy": "https://www.fastly.com/privacy",
+        "url": "http://fastly.com"
+    },
+    "source": [
+        "DuckDuckGo-US"
+    ],
+    "prevalence": 0.0000136,
+    "sites": 2,
+    "subdomains": [
+        "prod"
+    ],
+    "cnames": [
+        {
+            "original": "a.1stdibscdn.com",
+            "resolved": "prod.1stdibs2.map.fastly.net"
+        }
+    ],
+    "fingerprinting": 2,
+    "resources": [
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/fonts\\/CardinalClassic\\/cardinalclshortw-regular\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "9c223e3bb29bc8be050baf9c93b98bd38531efdd08d651257fd2f2fc1ff413ea"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/fonts\\/CardinalClassic\\/cardinalclshortw-italic\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "871d86e9ee9815198665ae6da245f102e0b4537c97d43923136a3c4c26be95da"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/fonts\\/ProximaNova\\/ProximaNova-Light\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "e44a64b38440c3278864af34af8cdda0e534fd81b3c1bd6a4f06f225cd45901c"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/fonts\\/ProximaNova\\/ProximaNova-Sbold\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "e2a29479d8f0cbacfa4eb7b88bb4500fe65e4856fdbcbcd1ada08ceee76d88b0"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/dibs-buyer-layout-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-e87d967e0e3c65bc8859\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "07cd4933012d472e9748d5ebd3883f8a41b85b4673c3488f13f89f19b595955c"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/responsiveHeader-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-be93b4fc3ab01960c16a\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "a79273270d53442587084d0a05a607a6d87528617f045428c52c3c0b5ce4c75d"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/responsiveFooter-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-180050538a9f2b4df607\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "76d771186860f78b7070d52275016701a7f12f7c06c2b0f44eb28d989783545e"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-vendor\\/dibs-vendor-buyer-ce6815b4-6640-4caf-8762-6dd25c46be04-69719476d73958522948\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "aa878e55f7ffa698c12331e85b7ac785632fd4f12170c80bcb22fef1484c534a"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/responsiveHeader-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-84ce52fba9ecfc413313\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "6ab06797040190d229e818da8f1a7322acad23b43ba5dbc2546a3860bb4fce1f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/responsiveFooter-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-333ffcd6e7df8d3571d0\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "fd2091b2f37f058093ec0dc562e316d620931e44f807ab0b5222121a015fcdf9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/dibs-buyer-layout-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-22c99afacea6fe6bd3e6\\.js",
+            "cookies": 0.0000136,
+            "fingerprinting": 2,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "c71a4bf00b2a01552f19c74440ef095011971f8c581fd5c4d185470e4446f60a"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {
+                "guestId": {
+                    "ttl": 15724807,
+                    "length": 24,
+                    "prevalence": 0.000013605534731528785,
+                    "uniqueness": 1
+                }
+            },
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/NotificationQueue-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-698ace2327371fee505a\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "53fe6bfc2c1136b61f38e4a95c5f1e1e3b42e8c0ae35a73ce8545f068237d51c"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/cookieNotification-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-33cdb86f867e5840bfaa\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "bd2825f3076675e56b7a1866799be1e26b94aed6bacb1de1a7906b53eb257454"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/cookieNotification-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-f05f82204d0d8a2da97f\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "cd57e203e480a4def09ff8ee698f7a3330f0132b45c8e03e8444659fec37453e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/backToTop-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-579d8af44e2c37bee229\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "751ebc731ade7fbe9a9472ec137fd7fce8518bea11885c6353e4dfdcbfd71228"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/backToTop-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-81e6ba23fcd96937017b\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "2440dd0386bd43ffe42b5374f2ecc0b877f4b5b29640df99e105d48af20f0c52"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/googleLoginHandlers-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-0430a8dd43f485448e90\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "d1443922cd2a46597a626204d477d77dbf2ea7b0068e75daddc54e7f70e0f8da"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/googleLoginHandlers-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-ae4e22de09e9dcfec415\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "8002b52fcff954daf7cfbbb6a22e49db6d0db753ca2ee8754828708807fd1818"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/handleSocialLogin-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-a412a87998c5c8afaa33\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "d9a393667ea3bdebff7ab9ddcf7c2244d4172ca1447b978cea3234e2f2ecad13"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/FooterSubscribe-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-1184fb8d76820628d7f7\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "f93ff52e66a1e607bc0f8b3e02c2bbfa4b8c88c83ec43528dabdfeab9e6e945c"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/FooterSubscribe-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-3dabb627f3f5bd9e3991\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "5add0e923a5a584143c77d9fcc8aab95f9dc3d217a9c9f505d23993e90be74f8"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/FbpvnyVpbaf-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-98c2a96406fd62f8ceba\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "ccebe4921b09886d239141172d48ca21017d4f08f2baa6c4ba46c022447e4c0f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/AppStoreLink-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-4643e90c9bd7cb7a796e\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "92618d01ce5148ff11886003791df5eafb9d21cb6d83ff334c63694192540336"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/DisplaySettingsModal-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-f41a377f3693465a3477\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "0dfe83b83a0607b0e03064a2b32792d8b658a7532dd8efe2ce3d3e22e3ecf2e4"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/DisplaySettingsModal-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-2801eeee2f270c19df03\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "e46172110f2188a2d3695bc6a0521de49c9b9e406b81a2cb63b65486242cb4ed"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        },
+        {
+            "rule": "1stdibs2\\.map\\.fastly\\.net\\/dist\\/dibs-buyer-layout\\/MessageBanner-buyer-1bfd3611-9b2e-4126-8f9e-01109bb7c001-04eec40be080cec472d4\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "prod"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.0000136,
+            "cnames": [
+                {
+                    "original": "a.1stdibscdn.com",
+                    "resolved": "prod.1stdibs2.map.fastly.net"
+                }
+            ],
+            "responseHashes": [
+                "2d3ebe2120d25552258711131e689641acf20993799a115115e0293374a192c6"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "1stdibs.com",
+                "www.1stdibs.com"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Analytics",
+        "Third-Party Analytics Marketing",
+        "Action Pixels",
+        "CDN",
+        "Embedded Content",
+        "Session Replay"
+    ],
+    "performance": {},
+    "cookies": 0.0000136,
+    "topInitiators": [
+        {
+            "domain": "first party",
+            "prevalence": 1
+        }
+    ],
+    "types": {
+        "Font": 8,
+        "Stylesheet": 16,
+        "Script": 28
+    },
+    "nameservers": []
+}

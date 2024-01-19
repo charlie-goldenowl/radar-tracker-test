@@ -1,0 +1,267 @@
+{
+    "domain": "ad-srv.net",
+    "owner": {},
+    "source": [
+        "DuckDuckGo-DE"
+    ],
+    "prevalence": 0.00181,
+    "sites": 18,
+    "subdomains": [
+        "ad"
+    ],
+    "cnames": [],
+    "fingerprinting": 0,
+    "resources": [
+        {
+            "rule": "ad-srv\\.net\\/retarget",
+            "cookies": 0.000302,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000302,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cleverbuy.de",
+                "schraub-doc.de",
+                "www.trendtours.de"
+            ]
+        },
+        {
+            "rule": "ad-srv\\.net\\/retarget",
+            "cookies": 0.00171,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 17,
+            "prevalence": 0.00171,
+            "cnames": [],
+            "responseHashes": [
+                "f050201d52bde670100278374e75ddb89f4b2f9076f051456debdf563a0abeb8",
+                "e09bc56bbaf96a173e676c0b937608c8de9ba753c223a84988e2ddf44113f191"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cleverbuy.de",
+                "deinschrank.de",
+                "mcdart.de",
+                "porzellantreff.de",
+                "reolink.com",
+                "schraub-doc.de",
+                "www.alle-noten.de",
+                "www.bader.de",
+                "www.gesundheitszentrale.eu",
+                "www.h-hotels.com",
+                "www.hammer.de",
+                "www.klimaworld.com",
+                "www.mainova.de",
+                "www.parfumdreams.de",
+                "www.rollei.de",
+                "www.trendtours.de",
+                "www.topp-kreativ.de"
+            ]
+        },
+        {
+            "rule": "ad-srv\\.net\\/dsp\\/retargeting\\/xcn706g3sdpa\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "1057b248aae3f6ea8816deafdd6176f481a846cf6abaeb05fc16273fcdf2a279"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "alle-noten.de",
+                "www.alle-noten.de"
+            ]
+        },
+        {
+            "rule": "ad-srv\\.net\\/dsp\\/retargeting\\/nrogmpo0very\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2abeae63291596c089552c93cddc82509188f72d39410f9171af77ed9c04ea29"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gesundheitszentrale.eu",
+                "www.gesundheitszentrale.eu"
+            ]
+        },
+        {
+            "rule": "ad-srv\\.net\\/dsp\\/retargeting\\/ay3p1rt7ir9o\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "0216176e96c434b02ab485756b8e53e3acb82db659ab15a0415e51cd91220965"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "h-hotels.com",
+                "www.h-hotels.com"
+            ]
+        },
+        {
+            "rule": "ad-srv\\.net\\/dsp\\/retargeting\\/ur5v3csqab56\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "74180954e4b09c8d20bd88e4576c87e773debc1ba57207d0ed32a566beec42d7"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hammer.de",
+                "www.hammer.de"
+            ]
+        },
+        {
+            "rule": "ad-srv\\.net\\/dsp\\/retargeting\\/nucb8dy2abuq\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "476f9a55e60da767b967faf91376134eff4d37312d86a02e5cc31e4110a9ecb2"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "mainova.de",
+                "www.mainova.de"
+            ]
+        },
+        {
+            "rule": "ad-srv\\.net\\/dsp\\/retargeting\\/s6rxlnkyp5h6\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2a222dc82fe55168127677d4bea60e9c003ea7e609213dbf937994905cac8046"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "rollei.de",
+                "www.rollei.de"
+            ]
+        },
+        {
+            "rule": "ad-srv\\.net\\/dsp\\/retargeting\\/r67xtjcxl51h\\/",
+            "cookies": 0.000201,
+            "fingerprinting": 0,
+            "subdomains": [
+                "ad"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d38bffc92bc8fe58a5b5a77934d0175b9f820955ee4f2ab0ebb26208b8af27ab"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "verwoehnwochenende.de",
+                "www.verwoehnwochenende.de"
+            ]
+        }
+    ],
+    "categories": [],
+    "performance": {},
+    "cookies": 0.00181,
+    "topInitiators": [
+        {
+            "domain": "adcell.com",
+            "prevalence": 0.3333333333333333
+        },
+        {
+            "domain": "dwin1.com",
+            "prevalence": 0.16666666666666666
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.16666666666666666
+        },
+        {
+            "domain": "googletagmanager.com",
+            "prevalence": 0.1111111111111111
+        },
+        {
+            "domain": "kuponacdn.de",
+            "prevalence": 0.1111111111111111
+        },
+        {
+            "domain": "redintelligence.net",
+            "prevalence": 0.1111111111111111
+        }
+    ],
+    "types": {
+        "Script": 3,
+        "Document": 31
+    },
+    "nameservers": [
+        "ns1.as.neory-dns.net",
+        "ns2.as.neory-dns.net",
+        "ns3.as.neory-dns.net"
+    ]
+}
