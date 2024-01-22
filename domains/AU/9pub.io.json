@@ -7,7 +7,8 @@
     "prevalence": 0.00151,
     "sites": 15,
     "subdomains": [
-        "adkit"
+        "adkit",
+        "tak"
     ],
     "cnames": [],
     "fingerprinting": 1,
